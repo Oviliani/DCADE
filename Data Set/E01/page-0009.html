@@ -1,0 +1,445 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script language="JavaScript">
+
+	function checkCookie(name) {
+		if (parseInt(navigator.appVersion) >= 4) {
+			var nameEQ = name + "="
+			var ca = document.cookie.split(';')
+			for(var i=0;i<ca.length;i++) {
+				var c = ca[i];
+				while (c.charAt(0)==' ') c = c.substring(1,c.length)
+				if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length)
+			}
+			return null;
+		}
+	}
+
+	if (parseInt(navigator.appVersion) < 4) {   // test client for version 4+ first
+		window.location = "/error_bj.jsp";
+	} else {
+		document.cookie = "BrowserTest=on";
+
+		if (!(checkCookie('BrowserTest')))  // test client for cookie capability
+			window.location = "/error_bj.jsp";
+	}
+
+</script>
+
+<noscript> <!-- test client for javascript capability -->
+<html>
+<head>
+<title>Amazon.com New Cars</title>
+<meta content="0;URL=/error_bj.jsp" http-equiv="REFRESH">
+
+</head><body></body></html>
+</noscript>
+
+
+<HTML><BODY BGCOLOR="#FFFFFF" LINK="#003399" ALINK="#FF9933" VLINK="#996633" text="#000000">
+
+<center>	
+<A name=top><!--Top of Page--></A>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+
+		<tr>
+		<td valign="top" align=center>
+		
+					<table width="590" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+					<td rowspan="3" align="left"><img width="225" height="64" src="/images/left-topnav-cars.gif" USEMAP="#left_top_nav_map" border="0"></td>
+					<td align="right" colspan="2"><img width="182" height="22" src="/images/right-topnav-default.gif" USEMAP="#right_top_nav_map" border="0"></td>
+					</tr>
+					<tr valign="bottom">
+					<td align="right"><img width="6" height="10" src="/images/left-corner.gif"></td>
+					<td align="left"><img width="172" height="10" src="/images/featured-stores-header.gif"></td>
+					</tr>
+					<tr>
+					<td align="right" valign="top"><img width="6" height="27" src="/images/left-rule.gif"></td>
+					<td><a href="http://www.amazon.com/exec/obidos/tg/stores/browse/-/books/283155/ref=tab_b"><img width=39 height=24 src="/images/topnavbar-button-books.gif" alt=Books border=0></a>
+					<a href="http://www.amazon.com/exec/obidos/tg/browse/-/5174/ref=tab_m"><img src="/images/topnavbar-button-music.gif" alt=Music height=24 width=40 border="0"></a>
+					<a href="http://www.amazon.com/exec/obidos/tg/browse/-/130/ref=tab_d"><img src="/images/topnavbar-button-dvd.gif" alt=DVD height=24 width=29 border="0"></a>
+					<a href="http://www.amazon.com/exec/obidos/tg/browse/-/404272/ref=tab_v"><img src="/images/topnavbar-button-video.gif" alt=Video height=24 width=37 border="0"></a>
+					<a href="http://www.amazon.com/exec/obidos/subst/electronics/home/home.html/ref=tab_e"><img src="/images/topnavbar-button-electronics.gif" alt=Electronics height=24 width=65 border="0"></a></td>
+					</tr>
+					</table>
+
+
+  <tr align=center bgcolor=#009933 valign=bottom>
+     <td valign="top"><img alt="" border=0 height=27 ismap src="/images/subnav-newcars-browse.gif" useMap=#gl-subnav-map width=590></A></td>
+	</tr>
+
+	<tr align=center bgcolor=#ffffff>
+		<td>
+			
+			<script language="JavaScript1.2" src="includes/js/cookies.js"></script>
+<script language="JavaScript1.2">
+
+var make66 = new Array("Please Select a Model:0","2001 CL:5014","2000 Integra:387","2000 NSX:388","2000 RL:389","2001 TL:5290","__________________________:0");
+
+var make79 = new Array("Please Select a Model:0","2001 A4:5241","2001 A6:5242","2001 A8:5243","2001 S4:5244","2001 TT:5023","__________________________:0");
+
+var make42 = new Array("Please Select a Model:0","2001 Series 3:5147","2001 Series 7:5000","2001 X5:5148","2001 Z3:5149","__________________________:0");
+
+var make57 = new Array("Please Select a Model:0","2000 Century:327","2001 Century:5186","2000 Le Sabre:328","2001 Le Sabre:5187","2000 Park Avenue:329","2001 Park Avenue:5188","2000 Regal:330","2001 Regal:5189","__________________________:0");
+
+var make58 = new Array("Please Select a Model:0","2000 Catera:331","2001 Catera:5190","2000 De Ville:332","2001 De Ville:5191","2000 Eldorado:333","2001 Eldorado:5192","2000 Escalade:334","2001 Seville:5283","2000 Seville:335","__________________________:0");
+
+var make59 = new Array("Please Select a Model:0","2001 Astro:5193","2001 Astro Cargo:5195","2000 Blazer:337","2001 Blazer:5196","2001 Camaro:5197","2000 Cavalier:341","2001 Cavalier:5198","2001 Corvette:5199","2001 Express:5200","2001 Express Cargo:5201","2001 Impala:5202","2001 Lumina:5203","2001 Malibu:5204","2001 Metro:5205","2000 Monte Carlo:351","2001 Monte Carlo:5206","2001 Prizm:5009","2001 S-10:5207","2001 Silverado:5208","2001 Suburban:5209","2001 Tahoe:5210","2001 Tracker:5284","2000 Tracker:357","2000 Venture:358","2001 Venture:5211","__________________________:0");
+
+var make45 = new Array("Please Select a Model:0","2001 300M:5151","2001 Concorde:5152","2000 Grand Voyager:256","2000 LHS:257","2001 LHS:5153","2001 Sebring:5154","2001 Town & Country:5267","2001 Voyager:5268","2000 Voyager:260","__________________________:0");
+
+var make44 = new Array("Please Select a Model:0","2000 Lanos:250","2000 Leganza:251","2000 Nubira:252","__________________________:0");
+
+var make46 = new Array("Please Select a Model:0","2001 Caravan:5269","2001 Dakota:5155","2001 Durango:5270","2001 Grand Caravan:5271","2000 Grand Caravan:265","2001 Intrepid:5156","2001 Neon:5157","2001 Ram Pickup:5002","2001 Stratus:5003","2001 Viper:5272","__________________________:0");
+
+var make52 = new Array("Please Select a Model:0","2000 Contour:291","2001 Crown Victoria:5160","2001 Econoline Van:5161","2001 Econoline Wagon:5162","2001 Escape:475","2001 Escort:5163","2001 Excursion:5164","2001 Expedition:5165","2000 Explorer:298","2001 Explorer:5005","2001 F-150:5006","2001 Focus:5168","2001 Mustang:5169","2001 Ranger:5170","2000 Taurus:305","2001 Taurus:5171","2000 Windstar:306","2001 Windstar:5172","__________________________:0");
+
+var make60 = new Array("Please Select a Model:0","2001 Jimmy:5212","2001 Safari:5213","2001 Safari Cargo:5214","2001 Savana:5215","2001 Savana Cargo:5216","2001 Sierra:5217","2001 Sonoma:5218","2001 Yukon:5219","2001 Yukon XL:5220","__________________________:0");
+
+var make67 = new Array("Please Select a Model:0","2001 Accord:5291","2000 CR-V:393","2001 Civic:5292","2001 Odyssey:5293","2001 Passport:5294","2001 Prelude:5295","__________________________:0");
+
+var make68 = new Array("Please Select a Model:0","2001 Accent:5296","2001 Elantra:5297","2000 Elantra:400","2001 Santa Fe:5231","2001 Sonata:5298","2001 Tiburon:5299","__________________________:0");
+
+var make72 = new Array("Please Select a Model:0","2000 G20:418","2001 I30:5306","2000 Q45:420","2001 QX4:5017","__________________________:0");
+
+var make61 = new Array("Please Select a Model:0","2001 Rodeo:5285","2001 Rodeo Sport:5286","2000 Vehicross:5011","__________________________:0");
+
+var make53 = new Array("Please Select a Model:0","2000 S-Type:308","2000 XJ Series:309","2000 XK Series:310","__________________________:0");
+
+var make47 = new Array("Please Select a Model:0","2001 Cherokee:5158","2001 Grand Cherokee:5273","2001 Wrangler:5274","2000 Wrangler:275","__________________________:0");
+
+var make69 = new Array("Please Select a Model:0","2001 Rio:5232","2000 Sephia:403","2000 Spectra:404","2000 Sportage:405","__________________________:0");
+
+var make43 = new Array("Please Select a Model:0","2000 Discovery:247","2000 Range Rover:248","__________________________:0");
+
+var make77 = new Array("Please Select a Model:0","2001 GS300:5319","2001 GS430:5320","2001 IS300:5240","2000 LS400:440","2001 LS430:5321","2001 LX470:5322","2000 LX470:441","2001 RX300:5323","__________________________:0");
+
+var make54 = new Array("Please Select a Model:0","2000 Continental:311","2001 Continental:5174","2001 LS:5175","2001 Navigator:5176","2001 Town Car:5177","__________________________:0");
+
+var make70 = new Array("Please Select a Model:0","2001 626:5301","2001 B-Series:5302","2001 MPV:5304","2001 MX-5 Miata:5305","2001 Millenia:5303","2000 Protege:411","__________________________:0");
+
+var make48 = new Array("Please Select a Model:0","2001 CL-Class:5275","2001 CLK-Class:5276","2001 E-Class:5277","2000 M-Class:280","2001 S-Class:5278","2001 SL-Class:5279","2001 SLK-Class:5004","__________________________:0");
+
+var make55 = new Array("Please Select a Model:0","2001 Cougar:5178","2001 Grand Marquis:5179","2001 Mountaineer:5180","2000 Mystique:318","2001 Sable:5181","2000 Villager:320","2001 Villager:5182","__________________________:0");
+
+var make71 = new Array("Please Select a Model:0","2001 Diamante:5233","2001 Eclipse:5015","2001 Galant:5234","2001 Mirage:5235","2001 Montero:5016","2001 Montero Sport:5236","__________________________:0");
+
+var make73 = new Array("Please Select a Model:0","2001 Altima:5307","2001 Frontier:5308","2001 Maxima:5309","2001 Pathfinder:5018","2000 Quest:426","2001 Sentra:5310","2001 Xterra:5311","__________________________:0");
+
+var make62 = new Array("Please Select a Model:0","2001 Alero:5221","2001 Aurora:476","2001 Bravada:5222","2001 Intrigue:5223","2001 Silhouette:5224","__________________________:0");
+
+var make63 = new Array("Please Select a Model:0","2001 Aztek:5012","2001 Bonneville:5225","2001 Firebird:5226","2001 Grand AM:5227","2000 Grand Am:379","2000 Grand Prix:380","2001 Grand Prix:5228","2001 Montana:5229","2001 Sunfire:5230","__________________________:0");
+
+var make64 = new Array("Please Select a Model:0","2001 9-3:5287","2000 9-3:383","2001 9-5:5288","__________________________:0");
+
+var make65 = new Array("Please Select a Model:0","2001 L-Series:5289","2001 S-Series:5013","__________________________:0");
+
+var make75 = new Array("Please Select a Model:0","2001 Forester:5020","2001 Impreza:5313","2001 Legacy:5238","2001 Outback:5239","__________________________:0");
+
+var make76 = new Array("Please Select a Model:0","2001 Esteem:5315","2001 Grand Vitara:5316","2001 Swift:5317","2001 Vitara:5318","__________________________:0");
+
+var make78 = new Array("Please Select a Model:0","2001 4Runner:5324","2001 Avalon:5325","2001 Camry:5326","2001 Celica:5327","2001 Corolla:5021","2001 Echo:5328","2001 Landcruiser:5329","2001 Sienna:5331","2000 Tacoma:455","2001 Tundra:5333","__________________________:0");
+
+var make82 = new Array("Please Select a Model:0","2001 Cabrio:5245","2001 GTI:5247","2001 Golf:5246","2001 Jetta:5248","2001 New Beetle:5249","2001 Passat:5250","__________________________:0");
+
+var make56 = new Array("Please Select a Model:0","2001 C70:5183","2001 S40:5184","2000 S70:323","2001 S80:5007","2001 V40:5185","2001 V70:5008","2001 V70 XC:5282","__________________________:0");
+
+
+
+
+function goTo2(dest) {
+	
+	var optRef = document.myForm.strModel;
+
+	for (var oC = 0; oC < optRef.length; oC++) {
+
+		if (optRef.options[oC].selected == true) {
+
+			if ((optRef.options[oC].value < 1) || (optRef.options[oC].text.match("Please Select")))
+				return;
+		}
+	}
+	
+        if (dest == 'style') {
+     		document.myForm.whereView.value = '1';
+			var sMk = new String( );
+
+		
+		
+			if (document.all)
+			{
+				sMk = document.myForm.strModel.value;
+			}
+			else
+			{
+				var modelRef = document.forms.myForm.strModel;
+				sMk = modelRef.options[modelRef.selectedIndex].value;
+			}
+			
+			var sMdl = sMk.substring(sMk.indexOf('|') + 1, sMk.length);
+			
+			document.frmSelectStyle.modelid.value = sMdl;
+			document.frmSelectStyle.submit( );
+		
+	}
+}
+
+function populate(sArray,strTempManufacturer) {
+	var modelRef = document.forms.myForm.strModel;
+	var sNewArray = new Array();sNewArray = eval(sArray);
+	var first = new Array();var rest = new Array();
+
+	if((sArray != "-1") && (sArray != "0") && (sArray != "")) {
+		for(i = 0; i < sNewArray.length; i++) {
+			first[i] = sNewArray[i].substr(0, sNewArray[i].indexOf(":"));
+			rest[i]  = sNewArray[i].substr(sNewArray[i].indexOf(":")+1, sNewArray[i].length);
+		}
+		modelRef.options.length = sNewArray.length;
+		for(var i = 0; i < sNewArray.length; i++) {
+			modelRef.options[i].text = first[i];
+			modelRef.options[i].value = first[i] + '|' + rest[i];
+		}
+		modelRef.disabled = false;
+		document.myForm.strManufacturer.value = strTempManufacturer;
+	} else {
+		modelRef = document.forms.myForm.strModel;
+		modelRef.options.length = 5;
+
+		modelRef.options[0].text = 'Please select a model';
+		modelRef.options[0].value = 0;
+		modelRef.options[1].text = '                                                             ';
+		modelRef.options[1].value = -1;
+		modelRef.options[2].text = '';
+		modelRef.options[2].value = -1;
+		modelRef.options[3].text = '';
+		modelRef.options[3].value = -1;
+		modelRef.options[4].text = '';
+		modelRef.options[4].value = -1;
+		modelRef.disabled = true;
+	}
+	document.myForm.manIndex.value = sArray;modelRef.options.selectedIndex = 0;
+}
+
+</script>
+<!-- End Insert Javascipts -->
+
+
+	
+		
+		
+<table border=0 width=100% cellspacing=0 cellpadding=0>
+  <tr align=center bgcolor="#EEEECC">
+    <td>
+      <table cellpadding=5 cellspacing=0 border=0 width=100%>
+        <tr>
+	<form ACTION="SelectStyle" method="POST" name="frmSelectStyle" id=frmSelectStyle>
+	<input type="hidden" id="modelid" name="modelid">
+        </form>
+        
+	<form ACTION=/BrowsebyModel.jsp method="POST" name="myForm" id=myForm
+		
+	METHOD=post name=myForm id=myForm>
+	<input name=whereView id="whereView" type=hidden value="">
+	<input name=strManufacturer type=hidden value="" id=strManufacturer>
+	<input name=manIndex type=hidden value=make0 id=manIndex>
+            <td valign=top nowrap colspan="2"> <font face="verdana,arial,helvetica" size="-2"><b>Search:</b>
+	      <select id="manufacturerId" name="manufacturerId" onchange="populate(this.options[this.selectedIndex].value,this.options[this.selectedIndex].text);
+						      if (this.options[(this.length - 1)].selected == true) { this.options[0].selected = true;}">
+                <option selected>Select a manufacturer</option>
+                
+                <option value='make66'>Acura</option>
+<option value='make79'>Audi</option>
+<option value='make42'>BMW</option>
+<option value='make57'>Buick</option>
+<option value='make58'>Cadillac</option>
+<option value='make59'>Chevrolet</option>
+<option value='make45'>Chrysler</option>
+<option value='make44'>Daewoo</option>
+<option value='make46'>Dodge</option>
+<option value='make52'>Ford</option>
+<option value='make60'>GMC</option>
+<option value='make67'>Honda</option>
+<option value='make68'>Hyundai</option>
+<option value='make72'>Infiniti</option>
+<option value='make61'>Isuzu</option>
+<option value='make53'>Jaguar</option>
+<option value='make47'>Jeep</option>
+<option value='make69'>Kia</option>
+<option value='make43'>Land Rover</option>
+<option value='make77'>Lexus</option>
+<option value='make54'>Lincoln</option>
+<option value='make70'>Mazda</option>
+<option value='make48'>Mercedes</option>
+<option value='make55'>Mercury</option>
+<option value='make71'>Mitsubishi</option>
+<option value='make73'>Nissan</option>
+<option value='make62'>Oldsmobile</option>
+<option value='make63'>Pontiac</option>
+<option value='make64'>Saab</option>
+<option value='make65'>Saturn</option>
+<option value='make75'>Subaru</option>
+<option value='make76'>Suzuki</option>
+<option value='make78'>Toyota</option>
+<option value='make82'>Volkswagen</option>
+<option value='make56'>Volvo</option>
+
+                
+                <option value="-1">__________________________</option>
+              </select>
+              <input type="hidden" name="field-store-id" value="284507">
+              <input type="hidden" name="size" value="25">
+              <input type="hidden" name="page" value="1">
+              
+	      <select id="strModel" NAME="strModel" DISABLED="true" onChange="if (this.options[(this.length - 1)].selected == true) { this.options[0].selected = true;}">
+		<option VALUE=0>Please select a model</option>
+                <option value="-1">__________________________</option>
+		
+                <option VALUE="-1"></option>
+                <option VALUE="-1"></option>
+                <option VALUE="-1"></option>
+				</font>
+	      </select>
+              <a href="javascript:goTo2('style');"><img src="images/goGreenBtn.gif" width="21" height="21" align="absmiddle" border="0"></a>
+            </td>
+          </form>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+
+		</td>
+	</tr>
+	<tr>
+  <td align="right"><img src="/images/banner-small-03.gif" width="484" height="30"></td>
+  </tr>
+</table>
+</center>
+<map name="gl-subnav-map">
+	<area shape="rect" coords="467,0,588,26" href="https://www.newcars-amazon.com/my_order.jsp" alt="Your Order">
+	<area shape="rect" coords="351,0,465,26" href="http://www.newcars-amazon.com/showroom.jsp">
+	<area shape="rect" coords="239,0,349,26" href="http://www.newcars-amazon.com/FAQs/default_faqs.jsp">
+	<area shape="rect" coords="116,0,238,26" href="http://www.newcars-amazon.com/BrowseCategories.jsp">
+	<area shape="rect" coords="0,0,114,26" href="http://www.newcars-amazon.com/advanced_search.jsp">
+</map>
+
+<map name="right_top_nav_map">
+<area shape="rect" href="http://www.amazon.com/exec/obidos/shopping-basket"
+coords="1,0,32,21">
+<area shape="rect"
+href="http://www.amazon.com/exec/obidos/account-access-login"
+coords="37,0,132,21">
+<area shape="rect"
+href="http://www.amazon.com/exec/obidos/subst/help/desk.html"
+coords="138,0,181,21">
+</map>
+
+<map name="left_top_nav_map">
+<area shape="rect"
+href="http://www.amazon.com/exec/obidos/subst/home/home.html"
+coords="0,0,139,33">
+<area shape="rect"
+href="http://www.amazon.com/exec/obidos/subst/home/home.html"
+coords="1,33,64,64">
+<area shape="rect"
+href="http://www.amazon.com/exec/obidos/subst/home/all-stores.html"
+coords="64,33,132,64">
+<area shape="rect"
+href="http://www.amazon.com/exec/obidos/tg/stores/browse/-/cars/301621/ref=t
+ab_c" coords="132,33,200,64">
+</map>
+
+
+<font face=verdana,arial,helvetica><a href='Browse'>Cars</a> > <a href='Browse?type=1'>Manufacturer</a> > <a href='Browse?type=14&makeid=58'>Cadillac</a> > </font><font face=verdana,arial,helvetica color=#CC6600><b>Coupe</b></font>
+<TABLE border=0 width="100%">
+	<TBODY>
+	<TR>
+	
+
+		<TD align=left vAlign=center width="33%"></TD>
+		<TD align=middle vAlign=center width="34%"><STRONG><FONT face=verdana,arial,helvetica size=-1>1 - 2 of 2</FONT></STRONG> </TD>
+	
+	</TR>
+	</TBODY>
+</TABLE>
+<TABLE bgColor=#ffffff border=0 cellPadding=2 cellSpacing=2 width="100%">
+<TBODY>
+<?xml version="1.0" encoding="UTF-8"?>
+
+   <TR><TD vAlign="top" colSpan="4"><HR SIZE="1"/></TD></TR><TR><td width="0%" vAlign="top"><b><font face="Verdana, Arial, Helvetica, sans-serif">1.</font></b></td><td width="0%" vAlign="top"><a href="SelectStyle?modelid=5192&amp;typeid=20"><img border="0" align="right" height="58" width="90" src="/CarImages/CADILLAC/ELDORADO/2001/2CO.JPG"/></a><font size="-1" face="verdana,arial,helvetica"><b><a href="SelectStyle?modelid=5192"/></b></font></td><td width="100%" vAlign="top"><b><font size="-1" face="verdana,arial,helvetica"><b><a href="SelectStyle?modelid=5192&amp;typeid=20">2001 Eldorado</a></b></font></b><font size="-1" face="verdana,arial,helvetica"> by Cadillac<br><b>MSRP:</b>$40,756 - $44,331</br></font></td><TD width="100" vAlign="top" align="right"><a href="SelectStyle?modelid=5192&amp;typeid=20"><IMG width="88" src="images/learn-more-01.gif" height="20" border="0"/></a></TD></TR>
+   <TR><TD vAlign="top" colSpan="4"><HR SIZE="1"/></TD></TR><TR><td width="0%" vAlign="top"><b><font face="Verdana, Arial, Helvetica, sans-serif">2.</font></b></td><td width="0%" vAlign="top"><a href="SelectStyle?modelid=333&amp;typeid=20"><img border="0" align="right" height="58" width="90" src="/CarImages/CADILLAC/ELDORADO/2000/2CO.JPG"/></a><font size="-1" face="verdana,arial,helvetica"><b><a href="SelectStyle?modelid=333"/></b></font></td><td width="100%" vAlign="top"><b><font size="-1" face="verdana,arial,helvetica"><b><a href="SelectStyle?modelid=333&amp;typeid=20">2000 Eldorado</a></b></font></b><font size="-1" face="verdana,arial,helvetica"> by Cadillac<br><b>MSRP:</b>$40,385 - $43,960</br></font></td><TD width="100" vAlign="top" align="right"><a href="SelectStyle?modelid=333&amp;typeid=20"><IMG width="88" src="images/learn-more-01.gif" height="20" border="0"/></a></TD></TR>
+	<TR>
+		<TD colSpan=4>
+		<HR SIZE=1>
+		</TD>
+	</TR>
+	</TBODY>
+</TABLE>
+<TABLE border=0 width="100%">
+	<TBODY>
+	<TR>
+	
+
+		<TD align=left vAlign=center width="33%"></TD>
+		<TD align=middle vAlign=center width="34%"><STRONG><FONT face=verdana,arial,helvetica size=-1>1 - 2 of 2</FONT></STRONG> </TD>
+	
+	</TR>
+	</TBODY>
+</TABLE>
+<hr size="1">
+<center>
+<font size=-1>
+<a href="http://www.amazon.com/exec/obidos/subst/home/home.html">Amazon.com Home</a>&nbsp;|&nbsp;
+<a href="http://www.amazon.com/exec/obidos/subst/home/books.html">Books</a>&nbsp;|&nbsp;
+<a href="http://www.amazon.com/exec/obidos/subst/home/music.html">Music</a>&nbsp;|&nbsp;
+<a href="http://www.amazon.com/exec/obidos/tg/browse/-/130">DVD</a>&nbsp;|&nbsp;
+<a href="http://www.amazon.com/exec/obidos/tg/browse/-/404272">Video</a>&nbsp;|&nbsp;
+<a href="http://www.amazon.com/exec/obidos/tg/stores/browse/-/toys/285180">Toys & Video Games</a>&nbsp;|&nbsp;
+<a href="http://www.amazon.com/exec/obidos/subst/electronics/home/home.html">Electronics</a>&nbsp;|&nbsp;
+<a href="http://www.amazon.com/exec/obidos/tg/stores/browse/-/photo/502394/104-8082550-4417560">Camera & Photo</a>&nbsp;|&nbsp;
+<a href="http://www.amazon.com/exec/obidos/tg/stores/browse/-/software/289961">Software</a>&nbsp;|&nbsp;
+<a href="http://www.amazon.com/exec/obidos/tg/stores/browse/-/videogames/468642/103-7337258-2723001">Computer & Video Games</a>&nbsp;|&nbsp;
+<a href="http://www.amazon.com/exec/obidos/tg/stores/browse/-/kitchen/286703">Kitchen</a>&nbsp;|&nbsp;
+<a href="http://www.amazon.com/exec/obidos/tg/stores/browse/-/hi/228013">Tools & Hardware</a>&nbsp;|&nbsp;
+<a href="http://www.amazon.com/exec/obidos/tg/stores/browse/-/garden/289962">Lawn & Patio</a>&nbsp;|&nbsp;
+<a href="http://www.amazon.com/exec/obidos/redirect-to-partner/?name=dscm&aid=2&aparam=tb5270&trx=8056">Health & Beauty</a>&nbsp;|&nbsp;
+<a href="http://www.amazon.com/exec/obidos/tg/stores/browse/-/cars/301621">New Cars</a>&nbsp;|&nbsp;
+<a href="http://s1.amazon.com/exec/varzea/subst/home/home.html/ref=tab_a">Auctions</a>&nbsp;|&nbsp;
+<a href="http://s1.amazon.com/exec/varzea/subst/home/sothebys.html/ref=tab_s">sothebys.amazon.com</a>&nbsp;|&nbsp;
+<a href="http://s1.amazon.com/exec/varzea/subst/home/fixed.html/ref=tab_z">zShops</a>&nbsp;|&nbsp;
+<a href="http://www.amazon.com/exec/obidos/flex-sign-in/?opt=a&page=ordering/one-click-address-sign-in-secure.html&response=one-click-main&method=GET&return-url=one-click-main">1-Click Settings</a>&nbsp;|&nbsp;
+<a href="http://www.amazon.com/exec/obidos/shopping-basket">Shopping Cart</a>&nbsp;|&nbsp;
+<a href="http://www.amazon.com/exec/obidos/account-access-login">Your Account</a>&nbsp;|&nbsp;
+<a href="http://www.amazon.com/exec/obidos/subst/help/desk.html">Help</a>&nbsp;|&nbsp;
+<a href="http://www.amazon.com/exec/obidos/subst/misc/sell-items.html">Sell Items</a>
+</font>
+</center>
+
+<!-----------------
+<center><font size=-1><a href="mexec/obidos/redirect-to-external-url/103-7198153-9543867?path=http%3A//www.amazon.co.uk/exec/obidos/redirect-home/all-footer/">Amazon.co.uk</A> &nbsp;|&nbsp; <a href="mexec/obidos/redirect-to-external-url/103-7198153-9543867?path=http%3A//www.amazon.de/exec/obidos/redirect-home/amazon-com-bott/">Amazon.de</A> </font></center><br>
+</font></center><p><center><font size=-1><font size=-1>
+<center><br><font size=-1><a href="mexec/obidos/subst/misc/copyright.html/103-7198153-9543867">Legal Notices</A> © 1996-2000, Amazon.com, Inc.</font></center>
+</font></font>
+------------------->
+
+</body>
+</HTML>

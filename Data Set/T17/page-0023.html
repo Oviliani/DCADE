@@ -1,0 +1,373 @@
+﻿<HTML xml:lang="en-us" xmlns="http://www.w3.org/1999/xhtml" xmlns:str = "http://xsltsl.org/string"><HEAD><TITLE>Doctorfinder</TITLE>
+<META content="text/html; charset=UTF-8" http-equiv=content-type>
+<META content=en-us http-equiv=content-language>
+<META name=author content="">
+<META name=copyright content="© 2011 AMA. All rights reserved."><LINK rel=stylesheet type=text/css href="https://www.ama-assn.org/assets/css/reset-fonts.css" media="screen, projection, print"><LINK rel=stylesheet type=text/css href="https://www.ama-assn.org/assets/css/default.css" media="screen, projection, print"><LINK rel=stylesheet type=text/css href="https://www.ama-assn.org/assets/css/application.css" media="screen, projection, print"><LINK rel=stylesheet type=text/css href="https://www.ama-assn.org/assets/css/jquery.autocomplete.css" media="screen, projection, print">
+<!-- SCRIPT type=text/javascript src="https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></SCRIPT -->
+
+<!-- SCRIPT type=text/javascript src="https://www.ama-assn.org/assets/includes/js/library.js"></SCRIPT -->
+
+<!-- SCRIPT type=text/javascript src="https://www.ama-assn.org/assets/includes/js/jquery.autocomplete.min.js"></SCRIPT -->
+
+<STYLE type=text/css media=screen>@import url("css/doctorfinderNew.css");</STYLE>
+
+<!-- SCRIPT type=text/javascript src="https://www.ama-assn.org/assets/includes/js/jquery.autotab.js"></SCRIPT -->
+</HEAD>
+<BODY><!--  Start Autofill SETUP  -->
+<!-- SCRIPT type=text/javascript>
+$(document).ready( function() {
+ check();
+});
+var check = function () {
+  var search = $("#input-search");
+  if(search.autocomplete != null) {
+   var currentProtocol = document.location.protocol;
+$("#input-search").autocomplete(currentProtocol + "//search0.ama-assn.org/search/p",{
+      max: 12,
+      scroll: false,
+      selectFirst: false,
+      dataType: 'jsonp',
+      parse: function (data) {
+        var parsed = [];
+        var rows = data;
+        for(var i = 0; i < rows.length;i++) {
+          var row = rows[i];
+          parsed[parsed.length] = {
+            data: [row],
+            value: row,
+            result: row
+          };
+        }
+        return parsed;
+      }
+    });
+  } else {
+    setTimeout(check, 10);
+  }
+}
+</SCRIPT -->
+<!--  END Autofill SETUP  -->
+<DIV id=shell-application><!--shell div--><!--sites-->
+<FORM id=search method=get name=search action=http://search0.ama-assn.org/search xmlns:str="http://xsltsl.org/string">
+<DIV id=sites><INPUT value="public amnews" type=hidden name=database> <INPUT id=input-search class=ac_input size=30 name=query autocomplete="off" rel="Search" jQuery1306960370752="2"> <INPUT id=input-go type=submit> </DIV></FORM>
+<DIV id=header><!--logo-->
+<P id=logo><A title=AMA href="http://www.ama-assn.org"><IMG alt=AMA src="https://www.ama-assn.org/assets/images/logo.png" width=140 height=99></A> </P><STRONG>
+<!-- SCRIPT type=text/javascript>
+					webtrends_primary ='AMA Application';
+				webtrends_secondary ='AMA Application 2';
+					
+			function logoutApplicationLink()
+			{
+			var strApos ="'";
+			var strHref = window.location.href;
+			//alert("start");
+			  var ldap = document.cookie.indexOf("AMAHTTPSESSIONID");
+			//alert("step 1");
+			if (ldap != -1) {
+			//alert("step 2");
+				document.write('<A id="signin" HREF="https://ssl3.ama-assn.org/apps/ldap/logout.cgi?t=the+application&r=1">Sign Out</A> ');
+			 } 
+			else {
+			//alert("step 3");  
+			 document.write('<A id="signin" HREF="https://ssl3.ama-assn.org/apps/ldap/login.cgi/id/members-staff?URL=' + strHref + '&M=GET" onMouseDown="dcsMultiTrack(' + strApos + 'WT.z_login' + strApos + ',' + strApos + '1' + strApos+ ',' + strApos +'WT.cg_n' + strApos + "," + strApos + webtrends_primary + strApos + ',' + strApos +'WT.cg_s' + strApos + "," + strApos + webtrends_secondary + strApos + ')">Sign In</A>');
+			 }
+			 //alert("end");
+			 }
+					
+					
+					logoutApplicationLink();
+					
+				</SCRIPT -->
+<A id=signin xonmousedown="dcsMultiTrack('WT.z_login','1','WT.cg_n','AMA Application','WT.cg_s','AMA Application 2')" href="https://ssl3.ama-assn.org/apps/ldap/login.cgi/id/members-staff?URL=https://extapps.ama-assn.org/doctorfinder/member.do?id=1306960345347&index=0&page=1&M=GET">Sign In</A> </STRONG><!--audiences-->
+<UL id=audiencenav>
+<LI id=audiencenav00><A href="http://www.ama-assn.org">Home</A> </LI>
+<LI id=audiencenav01><A href="http://www.ama-assn.org/ama/pub/physicians/physicians.shtml">Physicians</A> </LI>
+<LI id=audiencenav02><A href="http://www.ama-assn.org/ama/pub/residents/residents.shtml">Residents</A> </LI>
+<LI id=audiencenav03><A href="http://www.ama-assn.org/ama/pub/medical-students/medical-students.shtml">Medical Students</A> </LI>
+<LI id=audiencenav04><A href="http://www.ama-assn.org/ama/pub/patients/patients.shtml">Patients</A> </LI></UL><!--.audiences--><!--action div-->
+<DIV id=actions></DIV><!--.actions--><!--navigation-->
+<UL id=navigation><!--section 1-->
+<LI id=navigation00><A href="http://www.ama-assn.org/ama/pub/membership.shtml">Membership</A> <!--menu-->
+<DIV class=menu><!--subnav-->
+<DIV id=subnav00 class=subnav>
+<TABLE border=0 cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=first noWrap>
+<UL>
+<LI><A href="https://membership.ama-assn.org/JoinRenew/" target=_self>Apply for Membership</A> 
+<LI><A href="http://www.ama-assn.org/ama/pub/membership/why-join-ama.page?" target=_self>Why Join the AMA</A> 
+<LI><A href="http://www.ama-assn.org/ama/pub/membership/membership-benefits.page?" target=_self>Membership Benefits</A> 
+<LI><A href="http://www.ama-assn.org/ama/pub/membership/membership-dues.page?" target=_self>Membership Dues</A> 
+<LI><A href="http://www.ama-assn.org/ama/pub/membership/membership-eligibility.page?" target=_self>Membership Eligibility</A> 
+<LI><A href="http://www.ama-assn.org/ama/pub/membership/frequently-asked-questions.page?" target=_self>Frequently Asked Questions</A> </LI></UL></TD>
+<TD>
+<UL>
+<LI><A href="http://www.ama-assn.org/ama/pub/membership/membership.page?" target=_self>Your Membership</A> 
+<LI><A href="http://www.ama-assn.org/ama/pub/membership/register-username-password.page?" target=_self>Register a Username Password</A> 
+<LI><A href="http://www.ama-assn.org/ama/priv/membership/manage-your-membership.page?" target=_self>Manage Your Membership</A> 
+<LI><A href="http://www.ama-assn.org/ama/pub/membership/recruit-member.page?" target=_self>Recruit a Member</A> 
+<LI><A href="http://www.ama-assn.org/ama/pub/membership/contact-us.page?" target=_self>Contact Us</A> </LI></UL></TD></TR></TBODY></TABLE></DIV><!--.subnav-->
+<DIV class=subnav-left>
+<DIV class=subnav-right></DIV></DIV></DIV><!--.menu--><!--.section 1--><!--section 2--></LI>
+<LI id=navigation01><A href="http://www.ama-assn.org/ama/pub/physician-resources.shtml">Physician Resources</A> <!--menu-->
+<DIV class=menu><!--subnav-->
+<DIV id=subnav01 class=subnav>
+<TABLE border=0 cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=first noWrap>
+<UL>
+<LI><A href="http://www.ama-assn.org/ama/pub/physician-resources/solutions-managing-your-practice.page?" target=_self>Solutions for Managing Your Practice</A> 
+<LI><A href="http://www.ama-assn.org/ama/pub/physician-resources/clinical-practice-improvement.page?" target=_self>Clinical Practice Improvement</A> 
+<LI><A href="http://www.ama-assn.org/ama/pub/education-careers/continuing-medical-education.page?" target=_self>Continuing Medical Education</A> 
+<LI><A href="http://www.ama-assn.org/ama/pub/physician-resources/medical-ethics.page?" target=_self>Medical Ethics</A> 
+<LI><A href="http://www.ama-assn.org/ama/pub/physician-resources/medical-science.page?" target=_self>Medical Science</A> </LI></UL></TD>
+<TD>
+<UL>
+<LI><A href="http://www.ama-assn.org/ama/pub/physician-resources/patient-education-materials.page?" target=_self>Patient Education Materials</A> 
+<LI><A href="http://www.ama-assn.org/ama/pub/physician-resources/legal-topics.page?" target=_self>Legal Issues</A> 
+<LI><A href="http://www.ama-assn.org/ama/pub/physician-resources/physician-health.page?" target=_self>Physician Health</A> 
+<LI><A href="http://www.ama-assn.org/ama/pub/physician-resources/public-health.page?" target=_self>Public Health</A> </LI></UL></TD></TR></TBODY></TABLE></DIV><!--.subnav-->
+<DIV class=subnav-left>
+<DIV class=subnav-right></DIV></DIV></DIV><!--.menu--><!--.section 2--><!--section 3--></LI>
+<LI id=navigation02><A href="http://www.ama-assn.org/ama/pub/education-careers.shtml">Education & Careers</A> <!--menu-->
+<DIV class=menu><!--subnav-->
+<DIV id=subnav02 class=subnav>
+<TABLE border=0 cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=first noWrap>
+<UL>
+<LI><A href="http://www.ama-assn.org/ama/pub/education-careers/careers-health-care.page?" target=_self>Careers in Health Care</A> 
+<LI><A href="http://www.ama-assn.org/ama/pub/education-careers/becoming-physician.page?" target=_self>Becoming a Physician</A> 
+<LI><A href="http://www.ama-assn.org/ama/pub/education-careers/graduate-medical-education.page?" target=_self>Graduate Medical Education</A> 
+<LI><A href="http://www.ama-assn.org/ama/pub/education-careers/continuing-medical-education.page?" target=_self>Continuing Medical Education</A> 
+<LI><A href="http://www.ama-assn.org/ama/pub/education-careers/finding-position.page?" target=_self>Finding a Position</A> </LI></UL></TD>
+<TD>
+<UL>
+<LI><A href="http://www.ama-assn.org/ama/pub/about-ama/our-people/ama-councils/council-medical-education.page" target=_self>The Council on Medical Education</A> 
+<LI><A href="http://www.ama-assn.org/ama/pub/education-careers/the-section-medical-schools.page?" target=_self>The Section on Medical Schools</A> 
+<LI><A href="http://www.ama-assn.org/ama/pub/education-careers/webcasts-webinars.page?" target=_self>Webinars</A> 
+<LI><A href="http://www.ama-assn.org/ama/pub/education-careers/career-pack.page?" target=_self>Career Planning Resource Pack</A> </LI></UL></TD></TR></TBODY></TABLE></DIV><!--.subnav-->
+<DIV class=subnav-left>
+<DIV class=subnav-right></DIV></DIV></DIV><!--.menu--><!--.section 3--><!--section 4--></LI>
+<LI id=navigation03><A href="http://www.ama-assn.org/ama/pub/advocacy.shtml">Advocacy</A> <!--menu-->
+<DIV class=menu><!--subnav-->
+<DIV id=subnav03 class=subnav>
+<TABLE border=0 cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=first noWrap>
+<UL>
+<LI><A href="http://www.ama-assn.org/ama/pub/advocacy/current-topics-advocacy.page?" target=_self>Current Topics in Advocacy</A> 
+<LI><A href="http://www.ama-assn.org/ama/pub/advocacy/our-advocacy-work.page?" target=_self>Our Advocacy Work</A> 
+<LI><A href="http://www.ama-assn.org/ama/pub/advocacy/centers-engaged-advocacy.page?" target=_self>Centers Engaged in Advocacy</A> </LI></UL></TD>
+<TD>
+<UL>
+<LI><A href="http://www.ama-assn.org/ama/pub/advocacy/get-involved.page?" target=_self>Get Involved</A> 
+<LI><A href="http://www.ama-assn.org/go/reform" target=_self>Health System Reform</A> </LI></UL></TD></TR></TBODY></TABLE></DIV><!--.subnav-->
+<DIV class=subnav-left>
+<DIV class=subnav-right></DIV></DIV></DIV><!--.menu--><!--.section 4--><!--section 5--></LI>
+<LI id=navigation04><A href="http://www.ama-assn.org/ama/pub/medical-journals.shtml">Medical Journals</A> <!--menu-->
+<DIV class=menu><!--subnav-->
+<DIV id=subnav04 class=subnav>
+<TABLE border=0 cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=first noWrap>
+<UL>
+<LI><A href="http://jama.ama-assn.org/" target=_self>JAMA</A> 
+<LI><A href="http://archderm.ama-assn.org/" target=_self>Archives Dermatology</A> 
+<LI><A href="http://archfaci.ama-assn.org/" target=_self>Archives Facial Plastic Surgery</A> 
+<LI><A href="http://archpsyc.ama-assn.org/" target=_self>Archives General Psychiatry</A> 
+<LI><A href="http://archinte.ama-assn.org/" target=_self>Archives Internal Medicine</A> 
+<LI><A href="http://archneur.ama-assn.org/" target=_self>Archives Neurology</A> 
+<LI><A href="http://archopht.ama-assn.org/" target=_self>Archives Ophthalmology</A> </LI></UL></TD>
+<TD>
+<UL>
+<LI><A href="http://archotol.ama-assn.org/" target=_self>Archives Otolaryngology</A> 
+<LI><A href="http://archpedi.ama-assn.org" target=_self>Archives Pediatrics Adolescent Medicine</A> 
+<LI><A href="http://archsurg.ama-assn.org/" target=_self>Archives Surgery</A> 
+<LI><A href="http://www.dmphp.org/" target=_self>Journal Disaster Medicine Public Health Preparedness</A> 
+<LI><A href="http://virtualmentor.ama-assn.org/" target=_self>Virtual Mentor - A Forum of Medical Ethics</A> 
+<LI><A href="http://www.ama-assn.org/ama/pub/footer/reprints-and-eprints.page?" target=_self>Reprints</A> </LI></UL></TD></TR></TBODY></TABLE></DIV><!--.subnav-->
+<DIV class=subnav-left>
+<DIV class=subnav-right></DIV></DIV></DIV><!--.menu--><!--.section 5--><!--section 6--></LI>
+<LI id=navigation05><A href="http://www.ama-assn.org/ama/pub/news.shtml">News</A> <!--menu-->
+<DIV class=menu><!--subnav-->
+<DIV id=subnav05 class=subnav>
+<TABLE border=0 cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=first noWrap>
+<UL>
+<LI><A href="http://www.ama-assn.org/ama/pub/news/letters-editor.page?" target=_self>Letters to the Editor</A> 
+<LI><A href="http://www.ama-assn.org/ama/pub/news/newsletters-journals.page?" target=_self>Newsletters and Journals</A> 
+<LI><A href="http://www.ama-assn.org/ama/pub/news/subscribe-newsletters.page?" target=_self>Subscribe Newsletters</A> 
+<LI><A href="http://www.ama-assn.org/ama/pub/news/subscribe-rss-feeds.page?" target=_self>Subscribe RSS Feeds</A> 
+<LI><A href="http://www.ama-assn.org/ama/pub/news/speeches.page?" target=_self>Speeches</A> </LI></UL></TD>
+<TD>
+<UL>
+<LI><A href="http://www.ama-assn.org/ama/priv/news/obituaries.page?" target=_self>Obituaries</A> 
+<LI><A href="http://www.ama-assn.org/ama/pub/news/for-media.page?" target=_self>For Media</A> 
+<LI><A href="http://www.ama-assn.org/ama/pub/ama-president-blog.page" target=_self>AMA President Blog</A> 
+<LI><A href="http://www.ama-assn.org/amednews" target=_self>American Medical News</A> </LI></UL></TD></TR></TBODY></TABLE></DIV><!--.subnav-->
+<DIV class=subnav-left>
+<DIV class=subnav-right></DIV></DIV></DIV><!--.menu--><!--.section 6--><!--section 7--></LI>
+<LI id=navigation06><A href="https://catalog.ama-assn.org/Catalog">Bookstore</A> <!--menu-->
+<DIV class=menu><!--subnav-->
+<DIV id=subnav06 class=subnav>
+<TABLE border=0 cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=first noWrap>
+<UL>
+<LI><A href="https://catalog.ama-assn.org/Catalog" target=_self>Browse Bookstore</A> 
+<LI><A href="https://catalog.ama-assn.org/Catalog/profile/subscribe.jsp" target=_blank>Catalog Request</A> 
+<LI><A href="https://catalog.ama-assn.org/Catalog/profile/subscribeBookNews.jsp" target=_blank>Subscribe to eBookNews</A> 
+<LI><A href="https://catalog.ama-assn.org/Catalog/cpt/cpt_home.jsp" target=_blank>CPT Online</A> </LI></UL></TD>
+<TD>
+<UL>
+<LI><A href="https://catalog.ama-assn.org/Catalog/cpt/cpt_search.jsp" target=_blank>CPT Code/Relative Value Search</A> 
+<LI><A href="https://catalog.ama-assn.org/Catalog/fragments/product/childProduct.jsp?childName=CPT&parentCategory=ctlg_xfer_CD&categoryName=CPT/Coding&prodId=cat260007&start=1&parentId=ctlg_xfer_CD" target=_blank>CPT Coding Resources</A> 
+<LI><A href="https://catalog.ama-assn.org/Catalog/fragments/product/childProduct.jsp?childName=All+Guides+Impairment+products+&parentCategory=cat230022&categoryName=Guides+Impairment+Resources&prodId=cat760013&start=1&parentId=cat230022" target=_blank>Guides Impairment Resources</A> 
+<LI><A href="https://catalog.ama-assn.org/Catalog/product/product_detail.jsp?productId=prod1430012" target=_blank>Premier Club</A> </LI></UL></TD></TR></TBODY></TABLE></DIV><!--.subnav-->
+<DIV class=subnav-left>
+<DIV class=subnav-right></DIV></DIV></DIV><!--.menu--><!--.section 7--><!--section 8--></LI>
+<LI id=navigation07><A href="http://www.ama-assn.org/ama/pub/about-ama.shtml">About AMA</A> <!--menu-->
+<DIV class=menu><!--subnav-->
+<DIV id=subnav07 class=subnav>
+<TABLE border=0 cellSpacing=0 cellPadding=0>
+<TBODY>
+<TR>
+<TD class=first noWrap>
+<UL>
+<LI><A href="http://www.ama-assn.org/ama/pub/about-ama/our-mission.page?" target=_self>Our Mission</A> 
+<LI><A href="http://www.ama-assn.org/ama/pub/about-ama/our-history.page?" target=_self>Our History</A> 
+<LI><A href="http://www.ama-assn.org/ama/pub/about-ama/2010-strategic-issues.page?" target=_self>2010 Strategic Issues</A> 
+<LI><A href="http://www.ama-assn.org/ama/pub/about-ama/our-people.page?" target=_self>Our People</A> 
+<LI><A href="http://www.ama-assn.org/ama/pub/about-ama/ama-annual-report.page?" target=_self>2009 Annual Report</A> 
+<LI><A href="http://www.ama-assn.org/ama/pub/about-ama/awards.page?" target=_self>Awards</A> </LI></UL></TD>
+<TD>
+<UL>
+<LI><A href="http://www.ama-assn.org/ama/pub/about-ama/physician-data-resources.page?" target=_self>Physician Data Resources</A> 
+<LI><A href="http://www.amaalliance.org/" target=_self>AMA Alliance</A> 
+<LI><A href="http://www.ama-assn.org/ama/pub/about-ama/ama-foundation.page?" target=_self>AMA Foundation</A> 
+<LI><A href="http://www.ama-assn.org/ama/pub/about-ama/careers-ama.page?" target=_self>Careers AMA</A> 
+<LI><A href="http://www.ama-assn.org/ama/pub/about-ama/apps.page?" target=_self>AMA Apps</A> </LI></UL></TD></TR></TBODY></TABLE></DIV><!--.subnav-->
+<DIV class=subnav-left>
+<DIV class=subnav-right></DIV></DIV></DIV><!--.menu--><!--.section 8--></LI></UL><!--.navigation--></DIV><!--.header-->
+<DIV id=content-application>
+<DIV id=col_left-application><!-- START left-hand column -->
+<DIV id=module-application>
+<DIV id=content1 class=content-application>
+<DIV id=heading-application>
+<H4>DoctorFinder</H4></DIV>
+<P>This online physician Locator helps you find a perfect match for your medical needs DoctorFinder provides you with basic professional information on virtually every licensed physician in the United States. This includes more than 814,000 doctors. </P></DIV>
+<DIV id=content2-application class="moduleBtn-application moduleBtn-active-application"><A id=show-content1 href="/doctorfinder/home.jsp">AMA DoctorFinder</A></DIV>
+<DIV id=content3-application class=moduleBtn-application><A id=show-content2 href="/doctorfinder/html/faq.jsp">Frequently asked questions</A></DIV>
+<DIV id=content4-application class=moduleBtn-application><A id=show-content3 href="/doctorfinder/html/hints.jsp">Search hints</A></DIV>
+<DIV id=content4-application class=moduleBtn-application><A id=show-content4 href="http://www.ama-assn.org/go/member-benefits">Member benefits and services</A></DIV>
+<DIV id=content5-application class=moduleBtn-application><A id=show-content5 href="http://www.ama-assn.org/go/join">AMA Membership: Join/Renew</A></DIV>
+<DIV id=content6-application class=moduleBtn-application><A id=show-content6 href="http://www.ama-assn.org/go/your-doctor">Is your doctor an AMA member?</A></DIV>
+<DIV id=box-application>AMA member physicians are offered an expanded listing that contains additional information such as office hours, accepted insurance providers, educational history and other helpful information. <BR/><BR/>All AMA members must adhere to the AMA's Principles of Medical Ethics. </DIV></DIV><!-- module-application --></DIV><!-- END left-hand column --><!-- ********************* -->
+<DIV id=col_right-application><!-----Box start--------------------->
+<DIV class=contentbox-application>
+<DIV class=contentbox-application-top>
+<DIV class="corner contentbox-application-topleft"></DIV>
+<DIV class=contentbox-application-topmid></DIV>
+<DIV class="corner contentbox-application-topright"></DIV></DIV>
+<DIV class=contentbox-application-midright>
+<DIV class=contentbox-application-midleft>
+<DIV class=contentbox-application-mid>
+<DIV class=contentbox-application-content>
+<DIV class=header-application>DoctorFinder</DIV>
+<DIV class=head-seperator><IMG src="https://www.ama-assn.org/assets/images/application/bgbox-seperator.jpg" width=590 height=11></DIV><BR/>
+<!-- SCRIPT type=text/javascript>
+<!--
+  function spec_desig() {
+    var w = window.open("./html/spec_desg.html", 
+    "Instruction", "width=450, height=300, status=yes");
+  }
+
+</SCRIPT -->
+<!-- MAIN SECTION START -->
+<DIV class=disclaimer>The information contained in the AMA DoctorFinder report does NOT meet the primary source equivalency requirement as set forth in the credentialing standards of accreditation organizations such as the Joint Commission on the Accreditation of Healthcare Organizations (JCAHO) or the National Committee for Quality Assurance (NCQA). </DIV><BR/>
+<H3>Aaron Thomas Donnell , MD <IMG src="https://extapps.ama-assn.org:443//doctorfinder/member.d./images/member-purple.gif"> <BR/>AMA members must adhere to the AMA's <A href="http://www.ama-assn.org/go/ethics-principles">Principles of Medical Ethics</A></H3>
+<P><BR/>
+<TABLE>
+<TBODY>
+<TR>
+<TD vAlign=top width="50%">
+<H3>Physician Web Address:</H3><A xonclick="return linkWarning()" href="http://www.chicagofamilyasthma.com" target=_new>www.chicagofamilyasthma.com </A>
+<P>
+<H3>Primary Specialty (Self Designated)</H3>(<A href="javascript:spec_desig()">note</A>): ALLERGY AND IMMUNOLOGY 
+<P>
+<H3>Secondary Specialties</H3>(<A href="javascript:spec_desig()">note</A>): PEDIATRIC ALLERGY 
+<P>
+<H3>Gender:</H3>Male 
+<P>
+<H3>Location:</H3><A href="./map.jsp?q=2551+N+CLARK+ST,Chicago,IL,60614&hl=en" target=_blank>View Map</A> <BR/>Chicago, IL 60614 
+<P>
+<H3>Office Phone:</H3>773-388-2322 
+<P></P></TD>
+<TD vAlign=top width="50%">
+<H3>Hospital Admitting Privileges:</H3>Childrens Mem Hosp, Chicago, IL <BR/>
+<P>
+<H3>Medical School:</H3>UNIV OF TN, HLTH SCI CTR, COLL MED, MEMPHIS TN 38163 
+<P>
+<H3>Residency Training:</H3>MCGAW MED CTR OF NORTHWESTERN, <I>ALLERGY AND IMMUNOLOGY</I> <BR/>EASTERN VA MED SCH, <I>PEDIATRICS</I> <BR/>
+<P>
+<H3>Major Professional Activity:</H3>OFFICE BASED PRACTICE 
+<P>
+<H3>American Board of Medical Specialties Certification:</H3><FONT size=-2>Copyright 2006 American Board of Medical Specialties. All rights reserved.</FONT> <BR/>Allergy & Immunology <BR/>Pediatrics <BR/>
+<P></P></TD></TR></TBODY></TABLE>
+<HR>
+
+<TABLE>
+<TBODY>
+<TR>
+<TD></TD>
+<TD vAlign=top></TD></TR></TBODY></TABLE><BR/>
+<DIV style="FLOAT: right"><A class="application-button none" href="./memberPager.do?page=1">View AMA Members</A> <A class="application-button right" href="/doctorfinder/search.do">New search</A> </DIV><BR/><!-- MAIN SECTION END -->
+<P><!-- Copyright include --></P></DIV><!-- END contentbox-application-content --></DIV><!-- END contentbox-application-mid --></DIV><!-- END   contentbox-application-midleft --></DIV><!-- END contentbox-application-midright -->
+<DIV class=contentbox-application-bottom>
+<DIV class="corner contentbox-application-bottomleft"></DIV>
+<DIV class=contentbox-application-bottommid></DIV>
+<DIV class="corner contentbox-application-bottomright"></DIV></DIV></DIV><!-- END contentbox-application --><!-----Box END---------------------></DIV><!-- END col_right-application -->
+<DIV style="CLEAR: left"></DIV><!-- footer AD -->
+<DIV id=footer-ad><!-- begin ad tag -->
+<!-- SCRIPT language=JavaScript type=text/javascript>
+		  ord=Math.random()*10000000000000000;
+		  document.write('<script language="JavaScript" src="https://ad.doubleclick.net/adj/ama.doctorfinder/home;site=ama_doctorfinder;sect=home;pos=btf;sub=yes;tile=1;sz=728x90;ord=' + ord + '?" type="text/javascript"></scr' + 'ipt>');
+		</SCRIPT -->
+
+<!-- SCRIPT language=JavaScript type=text/javascript src="https://ad.doubleclick.net/adj/ama.doctorfinder/home;site=ama_doctorfinder;sect=home;pos=btf;sub=yes;tile=1;sz=728x90;ord=9639442357535044?"></SCRIPT -->
+<A href="http://ad.doubleclick.net/click;h=v8/3b19/0/0/%2a/a;234668794;3-0;0;58509605;3454-728/90;40108927/40126714/1;;~sscs=%3fhttp://www.amamanualofstyle.com" target=_blank><IMG border=0 alt="Click here to find out more!" src="https://static.doubleclick.net/viewad/3042191/MOSLeaderboard.jpg"></A> <NOSCRIPT></NOSCRIPT><!-- End ad tag --></DIV><!-- footer AD --></DIV><!-- content-application --><!--footer div-->
+<DIV id=footer>
+<P class=copyright align=left>Copyright 1995-2011 <A href="http://www.ama-assn.org">American Medical Association</A>. All rights reserved.</P>
+<P class=footernav><A href="https://extapps.ama-assn.org/contactus" target=_blank>Contact Us</A> |  <A href="http://www.ama-assn.org/ama/pub/footer/advertise-us.shtml">Advertise with Us</A> |  <A href="http://www.ama-assn.org/ama/pub/footer/terms-use.shtml">Terms of Use</A> |  <A href="http://www.ama-assn.org/ama/pub/footer/privacy-policy.shtml">Privacy Policy</A> |  <A href="http://www.ama-assn.org/ama/pub/news-events/for-media.shtml">Press Room</A> |  <A href="http://www.ama-assn.org/ama/pub/footer/sitemap.shtml">Sitemap</A> </P><!--Added the following for analytics-->
+<!-- SCRIPT type=text/javascript src="https://www.ama-assn.org/ama1/js/webtrends.js"></SCRIPT -->
+
+<!-- SCRIPT type=text/javascript>
+	//
+		var _tag=new WebTrends();
+
+		if(typeof(dcsidOverride) != 'undefined') {
+		  _tag.dcsid = dcsidOverride;
+		}
+
+		_tag.dcsGetId();
+	//>
+</SCRIPT -->
+
+<!-- SCRIPT type=text/javascript>
+	//
+	// Add custom parameters here.
+	//_tag.DCSext.param_name=param_value;
+	_tag.dcsCollect();
+	//>
+</SCRIPT -->
+<NOSCRIPT></NOSCRIPT><!--End analytics addition--></DIV><!--.footer--></DIV><!-- shell-application -->
+<DIV id=shell-bottom></DIV></BODY></HTML>

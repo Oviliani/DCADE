@@ -1,0 +1,821 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" sizcache="2" sizset=
+"8">
+<head>
+  <meta name="generator" content=
+  "HTML Tidy for Linux/x86 (vers 25 March 2009), see www.w3.org" />
+
+  <title>Web Database Applications with PHP, and MySQL - AwesomeBooks</title>
+  <meta content="text/html; charset=us-ascii" http-equiv="content-type" />
+  <link rel="shortcut icon" href="http://www.awesomebooks.com/favicon.ico" />
+  <!-- SCRIPT type=text/javascript src="http://www.google-analytics.com/ga.js" async="true"></SCRIPT --><!-- SCRIPT type=text/javascript>
+        if (typeof jQuery == 'undefined') { document.write(unescape("%3Cscript src='/library/jquery-1.4.1.js' type='text/javascript'%3E%3C/script%3E")); }
+    </SCRIPT -->
+  <!-- SCRIPT type=text/javascript src="/library/jquery-1.4.1.js"></SCRIPT --><!-- SCRIPT type=text/javascript>
+        if (typeof jQuery.ui == 'undefined') { document.write(unescape("%3Cscript src='/library/jquery-ui-1.8.2.js' type='text/javascript'%3E%3C/script%3E")); }
+    </SCRIPT -->
+<!-- SCRIPT type=text/javascript src="/library/jquery-ui-1.8.2.js"></SCRIPT -->
+  <link rel="Stylesheet" type="text/css" href=
+  "http://www.awesomebooks.com:80/library/styles.v00011.css" media="all" />
+  <!-- SCRIPT type=text/javascript src="/library/jquery.tipsy.js"></SCRIPT -->
+  <!-- SCRIPT type=text/javascript src="/library/jquery.qtip-1.0.0-rc3.js"></SCRIPT -->
+  <!-- SCRIPT type=text/javascript src="/library/common.v00009.js"></SCRIPT -->
+  <!-- SCRIPT type=text/javascript src="/library/jquery.raty.min.js"></SCRIPT -->
+  <link rel="canonical" href=
+  "http://www.awesomebooks.com/book/9780596000417/web-database-applications-with-php-and-mysql/" />
+  <!-- SCRIPT src="http://www.goodreads.com/book/isbn?isbn=0596000413&key=rf6iGgo0AN1FoEF8ayVbw&format=json&callback=myCallback&page=1-1"></SCRIPT -->
+</head>
+
+<body sizcache="2" sizset="8">
+  <div id="container" sizcache="2" sizset="8">
+    <div id="label" sizcache="1" sizset="0">
+      <a href="/"><img alt="AwesomeBooks" src=
+      "http://www.awesomebooks.com:80/images/label.png" /></a>
+    </div>
+
+    <div id="header" sizcache="1" sizset="1">
+      <div id="headerLinks" sizcache="1" sizset="1">
+        Hello. <a href="/login/">Log In</a> | <a href="/track/">Track Your Order</a> |
+        <a href="/account/" rel="nofollow">Your Account</a> | <a href=
+        "/account/wishlist/" rel="nofollow">Wishlist</a> | <a href="/help/">Help</a>
+      </div>
+
+      <div id="headerR2" sizcache="1" sizset="6">
+        <table align="right" sizcache="1" sizset="6">
+          <tbody sizcache="1" sizset="6">
+            <tr sizcache="1" sizset="6">
+              <td><img class="delivery" alt="Free UK delivery on all orders" src=
+              "http://www.awesomebooks.com:80/images/delivery.gif" /></td>
+
+              <td sizcache="1" sizset="6">
+                <div id="shoppingbagcontainer" sizcache="1" sizset="6">
+                  <table align="right" sizcache="1" sizset="6">
+                    <tbody sizcache="1" sizset="6">
+                      <tr sizcache="1" sizset="6">
+                        <td style="PADDING-RIGHT: 10px"><img alt="Your Shopping Bag" src=
+                        "http://www.awesomebooks.com:80/images/shoppingBagSmall.png" /></td>
+
+                        <td>Your shopping bag<br />
+                        has 0 items in it.</td>
+
+                        <td class="curly"><img alt="" src=
+                        "http://www.awesomebooks.com:80/images/curly.png" /></td>
+
+                        <td class="headerCartOffers" sizcache="1" sizset="6"><a href=
+                        "/special-offers/">Special Offers</a><br />
+                        <a href="/bestsellers/">Bestselling Books</a></td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+
+        <div id="headerPromo"></div>
+      </div>
+    </div>
+
+    <div id="linksBar" sizcache="2" sizset="8">
+      <ul id="linksList" sizcache="2" sizset="8">
+        <li class="used" sizcache="1" sizset="8"><a href="/used-books/">Used
+        Books</a></li>
+
+        <li class="new" sizcache="1" sizset="9"><a href="/new-books/">New Books</a></li>
+
+        <li class="bin" sizcache="1" sizset="10"><a href="/bargain-books/">Bargain
+        Bin</a></li>
+      </ul>
+    </div>
+
+    <div id="searchBar" sizcache="1" sizset="11">
+      <form id="search" method="get" action="/search/" sizcache="1" sizset="11"
+      jquery1300788069248="6" name="search">
+        <table id="searchForm" sizcache="1" sizset="11">
+          <tbody sizcache="1" sizset="11">
+            <tr sizcache="1" sizset="11">
+              <td>Find Books</td>
+
+              <td><input id="q" class="searchBarQuery default" value=
+              "Keyword/Title/ISBN/Author/Publisher" name="q" jquery1300788069248=
+              "8" /><input class="searchBarQuery" value="no" type="hidden" name=
+              "s" /></td>
+
+              <td>in</td>
+
+              <td><select id="c" class="searchBarSection" name="c">
+                <option selected="selected" value="all">
+                  All Sections
+                </option>
+
+                <option value="used">
+                  Used Books
+                </option>
+
+                <option value="new">
+                  New Books
+                </option>
+
+                <option value="bargain">
+                  Bargain Bin
+                </option>
+              </select></td>
+
+              <td><input id="searchButton" title="" value="" alt="Search books" src=
+              "/images/search.png" type="image" /></td>
+
+              <td class="searchBarAdvanced" sizcache="1" sizset="11"><a href=
+              "/search/advanced/">Advanced Search</a></td>
+            </tr>
+          </tbody>
+        </table>
+      </form>
+    </div>
+
+    <div id="promoBar"></div>
+
+    <div id="content" sizcache="2" sizset="12">
+      <div id="browsePanel" sizcache="2" sizset="12">
+        <div id="categories" sizcache="2" sizset="12">
+          <span class="header">Browse AwesomeBooks</span>
+
+          <ul sizcache="2" sizset="12">
+            <li sizcache="1" sizset="12"><a href=
+            "/category/49/art-architecture-photography/">Art, Architecture &amp;
+            Photography</a></li>
+
+            <li sizcache="1" sizset="13"><a href="/category/538/audio-cds/">Audio
+            CDs</a></li>
+
+            <li sizcache="1" sizset="14"><a href=
+            "/category/63/biography/">Biography</a></li>
+
+            <li sizcache="1" sizset="15"><a href=
+            "/category/4/business-finance-law/">Business, Finance &amp; Law</a></li>
+
+            <li sizcache="1" sizset="16"><a href=
+            "/category/45/calendars-diaries-annuals-more/">Calendars, Diaries, Annuals
+            &amp; More</a></li>
+
+            <li sizcache="1" sizset="17"><a href=
+            "/category/23/childrens-books/">Children's Books</a></li>
+
+            <li sizcache="1" sizset="18"><a href=
+            "/category/711/comics-graphic-novels/">Comics &amp; Graphic Novels</a></li>
+
+            <li sizcache="1" sizset="19"><a href=
+            "/category/225/computing-internet/">Computing &amp; Internet</a></li>
+
+            <li sizcache="1" sizset="20"><a href=
+            "/category/3/crime-thrillers-mystery/">Crime, Thrillers &amp;
+            Mystery</a></li>
+
+            <li sizcache="1" sizset="21"><a href="/category/20/fantasy/">Fantasy</a></li>
+
+            <li sizcache="1" sizset="22"><a href="/category/67/fiction/">Fiction</a></li>
+
+            <li sizcache="1" sizset="23"><a href="/category/289/food-drink/">Food &amp;
+            Drink</a></li>
+
+            <li sizcache="1" sizset="24"><a href="/category/303/gay-lesbian/">Gay &amp;
+            Lesbian</a></li>
+
+            <li sizcache="1" sizset="25"><a href=
+            "/category/9/health-family-lifestyle/">Health, Family &amp;
+            Lifestyle</a></li>
+
+            <li sizcache="1" sizset="26"><a href="/category/25/history/">History</a></li>
+
+            <li sizcache="1" sizset="27"><a href="/category/87/home-garden/">Home &amp;
+            Garden</a></li>
+
+            <li sizcache="1" sizset="28"><a href="/category/529/horror/">Horror</a></li>
+
+            <li sizcache="1" sizset="29"><a href="/category/74/humour/">Humour</a></li>
+
+            <li sizcache="1" sizset="30"><a href=
+            "/category/11/languages/">Languages</a></li>
+
+            <li sizcache="1" sizset="31"><a href="/category/331/mind-body-spirit/">Mind,
+            Body &amp; Spirit</a></li>
+
+            <li sizcache="1" sizset="32"><a href=
+            "/category/146/music-stage-screen/">Music, Stage &amp; Screen</a></li>
+
+            <li sizcache="1" sizset="33"><a href=
+            "/category/37/poetry-drama-criticism/">Poetry, Drama &amp; Criticism</a></li>
+
+            <li sizcache="1" sizset="34"><a href=
+            "/category/30/reference/">Reference</a></li>
+
+            <li sizcache="1" sizset="35"><a href=
+            "/category/247/religion-spirituality/">Religion &amp; Spirituality</a></li>
+
+            <li sizcache="1" sizset="36"><a href=
+            "/category/610/romance/">Romance</a></li>
+
+            <li sizcache="1" sizset="37"><a href="/category/32/science-nature/">Science
+            &amp; Nature</a></li>
+
+            <li sizcache="1" sizset="38"><a href="/category/701/science-fiction/">Science
+            Fiction</a></li>
+
+            <li sizcache="1" sizset="39"><a href=
+            "/category/35/scientific-technical-medical/">Scientific, Technical &amp;
+            Medical</a></li>
+
+            <li sizcache="1" sizset="40"><a href=
+            "/category/14/society-politics-philosophy/">Society, Politics &amp;
+            Philosophy</a></li>
+
+            <li sizcache="1" sizset="41"><a href=
+            "/category/203/sports-hobbies-games/">Sports, Hobbies &amp; Games</a></li>
+
+            <li sizcache="1" sizset="42"><a href="/category/22/study-books/">Study
+            Books</a></li>
+
+            <li sizcache="1" sizset="43"><a href="/category/91/travel-holiday/">Travel
+            &amp; Holiday</a></li>
+
+            <li sizcache="1" sizset="44"><a href="/category/19/young-adult/">Young
+            Adult</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <div id="contentPanel" sizcache="2" sizset="49">
+        <div id="ctl00_MainContent_productdetailcontainer" sizcache="2" sizset="49">
+          <!-- SCRIPT type=text/javascript>
+       
+        $(document).ready(function() {        
+            $('#click').raty();
+        });
+
+        var ProductID =1528762
+        var UserID = 0
+        var OurReviewsLength=0
+        
+            function myCallback(result) {
+                $(document).ready(function() {                                  
+                    var GoodReadReviewsLength =0;
+                    var ReviewsDisplayLimit=10;
+                    if (OurReviewsLength<ReviewsDisplayLimit){
+                        if(result.reviews.length>ReviewsDisplayLimit-OurReviewsLength){
+                          GoodReadReviewsLength=(ReviewsDisplayLimit-OurReviewsLength)
+                        } else{
+                          GoodReadReviewsLength= result.reviews.length
+                        }
+                    }
+                    
+                    for (i = 0; i < GoodReadReviewsLength; i++) {
+                        if(result.reviews[i].body!=null){
+                            var Review = ("<div class=\"review\"><p>" + GetStarRating(result.reviews[i].rating) + "</p>")
+                            Review += ("<p> By <strong>" +  result.reviews[i].user.name + "</strong>, reviewed on " + result.reviews[i].date_added.substring(0,10) + "</p>")
+                            Review += ("<div>" + result.reviews[i].body + "</div>")
+                            Review += ("<div class=\"gr\"><img src=\"/images/goodreads_logo.gif\"/ alt=\"goodreads\" width=\"72\" height=\"15\" /></div>")
+                            Review += ("</div><br />")
+                            $("#divGoodReview").append(Review)
+                        }
+                        
+
+                    }
+               
+                    $("#divGoodReview a").attr("target","_blank")
+                });
+            }
+
+            function GetStarRating(rating) {
+                var strRating="";
+                var array  = ["Bad", "Poor", "Regular", "Good", "Awesome"];
+                for(j = 0;j<=4;j++)
+                {
+                    if(j < rating)
+                        strRating+="<img src='http://www.awesomebooks.com:80/images/star-on.png' alt='" + j + 1+ "' title='" + array[j] + "'> ";
+                    else 
+                        strRating+="<img src='http://www.awesomebooks.com:80/images/star-off.png' alt='"+ j + 1 + "' title='" + array[j]+ "'> " ;              
+                    
+                 }
+               return strRating;     
+            }
+      
+            
+            var scriptTag = document.createElement('script');
+            scriptTag.src = "http://www.goodreads.com/book/isbn?isbn=0596000413&key=rf6iGgo0AN1FoEF8ayVbw&format=json&callback=myCallback&page=1-1";
+            document.getElementsByTagName('head')[0].appendChild(scriptTag);
+        </SCRIPT -->
+
+          <div id="ctl00_MainContent_bookDetailsDescription" sizcache="1" sizset="45">
+            <div id="bookImage"><img alt="Web Database Applications with PHP, and MySQL"
+            src=
+            "http://images.awesomebooks.com/images/books/medium/97805/9780596000417.jpg" /></div>
+
+            <div id="bookDesc" sizcache="1" sizset="45">
+              <h1>Web Database Applications with PHP, and Mysql</h1>
+
+              <div class="author" sizcache="1" sizset="45">
+                by <a href="/author/48785/David%20Lane">David Lane</a> (Author), <a href=
+                "/author/415167/Hugh%20E.%20Williams">Hugh E. Williams</a> (Author)
+              </div><iframe style=
+              "BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; WIDTH: 300px; BORDER-TOP-STYLE: none; HEIGHT: 35px; BORDER-LEFT-STYLE: none; OVERFLOW: hidden"
+              src=
+              "http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.awesomebooks.com%2Fbook%2F9780596000417%2Fweb-database-applications-with-php-and-mysql%2F&amp;layout=standard&amp;show_faces=false&amp;width=300&amp;action=like&amp;colorscheme=light&amp;height=35"
+              frameborder="0" allowtransparency="" scrolling="no"></iframe>
+
+              <div class="bookDetails" sizcache="1" sizset="47">
+                <div class="format">
+                  <em>Format:</em> Paperback (582 pages)<br />
+                  <em>Edition:</em> 1
+                </div>
+
+                <div class="isbn">
+                  <em>ISBN 10:</em> 0596000413<br />
+                  <em>ISBN 13:</em> 9780596000417
+                </div>
+
+                <div class="publisher">
+                  <em>Publisher:</em> O'Reilly Media<br />
+                  <em>Published:</em> 19 Mar 2002
+                </div>
+
+                <div style="DISPLAY: none" class="quantity">
+                  1 in stock
+                </div>
+
+                <div class="condition">
+                  <em>Item Condition:</em> Used - Good
+                </div>
+
+                <div class="price">
+                  <p><em style="LINE-HEIGHT: 20px">Price:</em><span class=
+                  "finalPrice">&pound;4.87</span></p>
+
+                  <p><em>List Price:</em> <span class="listPrice">&pound;31.95</span></p>
+
+                  <p><em>You Save:</em><span class="youSave">&pound;27.08
+                  (85%)</span></p>
+                </div>
+
+                <div class="bdBuy" sizcache="1" sizset="47">
+                  <form id="addtobasket" method="get" name="addtobasket" action=
+                  "/add-to-bag"></form>
+
+                  <p>Quantity: <select id="qty" name="qty">
+                    <option selected="selected" value="1">
+                      1
+                    </option>
+                  </select><br /></p>
+
+                  <p><input alt="Add to shopping bag" src="/images/add2Bag2.png" type=
+                  "image" /></p><input id="s" value="408615" type="hidden" name="s" />
+
+                  <form id="addtowishlist" method="post" name="addtowishlist" action=
+                  "/book/9780596000417/web-database-applications-with-php-and-mysql/"
+                  sizcache="1" sizset="47">
+                    <div class="addToList" sizcache="1" sizset="47">
+                      <a href="javascript:void(0)" xxonclick="AddToWishList(0);">Add to
+                      wishlist</a> <input id="wid" value="0" type="hidden" name=
+                      "wid" /><input id="pid" value="1528762" type="hidden" name=
+                      "pid" /><input id="con" value="3" type="hidden" name=
+                      "con" /><input id="prc" value="4.8700" type="hidden" name="prc" />
+                    </div>
+                  </form>
+
+                  <div id="amz" sizcache="1" sizset="48">
+                    <a href=
+                    "http://www.amazon.co.uk/gp/offer-listing/0596000413/?seller=A1GWJJ8PMVB5WB"
+                    rel="nofollow" target="_blank">Or buy from Amazon.co.uk</a>
+                  </div>
+                </div>
+              </div>
+
+              <div class="bookAdvert"><img alt="Bargain Bin Item" src=
+              "http://www.awesomebooks.com:80/images/bargainBinItem.png" /></div><br class="clr" />
+              </div><br class="clr" />
+
+            <div class="description">
+              <p><strong>Description:</strong></p>
+
+              <p><i>Web Database Applications</i> shows Web developers how to build rich
+              Web database applications using two leading open-source technologies, PHP
+              and MySQL. The authors also assume use of the Apache Web server, which is
+              by far the most common PHP scenario. Both PHP and MySQL are introduced from
+              scratch, although this is a fast-paced book best suited to at least
+              intermediate developers.</p>
+
+              <p>After a brief discussion of Web database applications, the authors offer
+              a rapid tour of PHP essentials, including loops, expressions, functions and
+              common mistakes. Next comes a quick-start guide to MySQL, focusing mainly
+              on the SQL language itself. The following chapters tackle connecting to
+              MySQL and other databases, implementing user-driven queries and enabling
+              writing as well as reading data. There is a useful chapter on data
+              validation, both on the client and the server and excellent coverage of
+              another crucial subject: security and authentication. This looks at the
+              fundamentals of HTTP authentication and examines security features in both
+              Apache and PHP, identifying weaknesses and explaining pros and cons. The
+              closing chapters form a detailed case study, an online wine store, with
+              complete code available for download. It embraces user management, a
+              shopping cart, searching, ordering and delivery, covering many key topics
+              in the process. At the back of the book are appendices on a range of
+              issues, including installation, Web protocols, database modelling and
+              session management.</p>
+
+              <p><i>Web Database Applications</i> is tightly-focused, packing in lots of
+              solid technical information without wasting words. It does not pretend to
+              cover all the potential uses of PHP, and the screen shots will not win
+              prizes for design, but it's a great handbook for building robust, secure
+              database applications with these popular technologies. --<i>Tim
+              Anderson</i></p>
+            </div>
+          </div>
+
+          <div class="related" sizcache="2" sizset="49">
+            <h2>Similar Books</h2>
+
+            <ul id="rb" class="jcarousel-skin-tango" sizcache="2" sizset="49">
+              <li sizcache="1" sizset="49">
+                <p sizcache="1" sizset="49"><a href=
+                "/book/9780596006563/essential-php-security/?c=1"><img alt=
+                "Essential PHP Security" src=
+                "http://images.awesomebooks.com/images/books/small/97805/9780596006563.jpg" />
+                <span class="tag">26% off</span></a></p>
+
+                <p sizcache="1" sizset="50"><a href=
+                "/book/9780596006563/essential-php-security/?c=1">Essential PHP
+                Security</a></p>
+
+                <div class="price">
+                  Price: <span class="finalPrice">&pound;16.97</span>
+
+                  <p class="listPrice">List Price: <em>&pound;22.99</em></p>
+
+                  <p class="youSave">Save: &pound;6.02 (26%)</p>
+                </div>
+              </li>
+
+              <li sizcache="1" sizset="51">
+                <p sizcache="1" sizset="51"><a href=
+                "/book/9780596006815/programming-php/?c=3"><img alt="Programming PHP"
+                src="http://images.awesomebooks.com/images/books/small/97805/9780596006815.jpg" />
+                <span class="tag">51% off</span></a></p>
+
+                <p sizcache="1" sizset="52"><a href=
+                "/book/9780596006815/programming-php/?c=3">Programming PHP</a></p>
+
+                <div class="price">
+                  Price: <span class="finalPrice">&pound;15.15</span>
+
+                  <p class="listPrice">List Price: <em>&pound;30.99</em></p>
+
+                  <p class="youSave">Save: &pound;15.84 (51%)</p>
+                </div>
+              </li>
+
+              <li sizcache="1" sizset="53">
+                <p sizcache="1" sizset="53"><a href=
+                "/book/9780596157135/learning-php-mysql-and-javascript-a-step-by-step-guide/?c=1">
+                <img alt=
+                "Learning PHP, MySQL, and JavaScript: A Step-by-Step Guide to Creating Dynamic Websites"
+                src="http://images.awesomebooks.com/images/books/medium/noimage.png" />
+                <span class="tag">29% off</span></a></p>
+
+                <p sizcache="1" sizset="54"><a href=
+                "/book/9780596157135/learning-php-mysql-and-javascript-a-step-by-step-guide/?c=1">
+                Learning PHP, MySQL, and JavaScript: A Step-by-Step Guide to Creating
+                Dynamic Websites</a></p>
+
+                <div class="price">
+                  Price: <span class="finalPrice">&pound;22.03</span>
+
+                  <p class="listPrice">List Price: <em>&pound;30.99</em></p>
+
+                  <p class="youSave">Save: &pound;8.96 (29%)</p>
+                </div>
+              </li>
+            </ul>
+          </div>
+
+          <div id="reviews" sizcache="1" sizset="55">
+            <h2>Web Database Applications with PHP, and MySQL Reviews</h2>
+
+            <p sizcache="1" sizset="55">Have you read this book? Share your thoughts with
+            others: <a href="#WriteReview"><img style="VERTICAL-ALIGN: middle" alt=
+            "Write your own review" src=
+            "http://www.awesomebooks.com:80/images/writeReview.png" /></a></p>
+
+            <div id="divGoodReview">
+              <br />
+
+              <div class="review">
+                <p><img title="Bad" alt="01" src=
+                "http://www.awesomebooks.com/images/star-off.png" /> <img title="Poor"
+                alt="11" src="http://www.awesomebooks.com/images/star-off.png" />
+                <img title="Regular" alt="21" src=
+                "http://www.awesomebooks.com/images/star-off.png" /> <img title="Good"
+                alt="31" src="http://www.awesomebooks.com/images/star-off.png" />
+                <img title="Awesome" alt="41" src=
+                "http://www.awesomebooks.com/images/star-off.png" /></p>
+
+                <p>By <strong>Jarrodtrainque</strong>, reviewed on 2007-09-11</p>
+
+                <div>
+                  PHP and MySQL go hand in hand; the former has been carefully adapted,
+                  through the efforts of the open-source community, to the latter. For
+                  situations that require dynamic content but don't merit the complexity
+                  and development time of Java or .NET enterprise applications, the PHP
+                  language and the MyS...<a href=
+                  "http://www.goodreads.com/review/show/6070477" target=
+                  "_blank">more...</a>
+                </div>
+
+                <div class="gr"><img alt="goodreads" src=
+                "http://www.awesomebooks.com/images/goodreads_logo.gif" width="72"
+                height="15" /></div>
+              </div><br />
+
+              <div class="review">
+                <p><img title="Bad" alt="01" src=
+                "http://www.awesomebooks.com/images/star-on.png" /> <img title="Poor"
+                alt="11" src="http://www.awesomebooks.com/images/star-on.png" />
+                <img title="Regular" alt="21" src=
+                "http://www.awesomebooks.com/images/star-on.png" /> <img title="Good"
+                alt="31" src="http://www.awesomebooks.com/images/star-off.png" />
+                <img title="Awesome" alt="41" src=
+                "http://www.awesomebooks.com/images/star-off.png" /></p>
+
+                <p>By <strong>Rob</strong>, reviewed on 2007-08-19</p>
+
+                <div>
+                  Alternative title: "How to Teach Yourself Enough WebApp Fundamentals to
+                  Convince Yourself You Can Do the Job."<br />
+                  <br />
+                  The approach is a good enough one. They give you a project (a wine
+                  store) and you slowly build its various components using PHP for the
+                  front-end and MySQL for the bac...<a href=
+                  "http://www.goodreads.com/review/show/4783939" target=
+                  "_blank">more...</a>
+                </div>
+
+                <div class="gr"><img alt="goodreads" src=
+                "http://www.awesomebooks.com/images/goodreads_logo.gif" width="72"
+                height="15" /></div>
+              </div><br />
+
+              <div class="review">
+                <p><img title="Bad" alt="01" src=
+                "http://www.awesomebooks.com/images/star-on.png" /> <img title="Poor"
+                alt="11" src="http://www.awesomebooks.com/images/star-on.png" />
+                <img title="Regular" alt="21" src=
+                "http://www.awesomebooks.com/images/star-off.png" /> <img title="Good"
+                alt="31" src="http://www.awesomebooks.com/images/star-off.png" />
+                <img title="Awesome" alt="41" src=
+                "http://www.awesomebooks.com/images/star-off.png" /></p>
+
+                <p>By <strong>Jamie</strong>, reviewed on 2009-01-27</p>
+
+                <div>
+                  it's a solid introduction to PHP and MSQL. The book delves into what I
+                  consider intermediate PHP (session management, advanced authentication)
+                  without much of a transition however, and unless you have a strong Web
+                  dev/HTML background, the material gets a bit sticky and you are left on
+                  your own to r...<a href="http://www.goodreads.com/review/show/44562192"
+                  target="_blank">more...</a>
+                </div>
+
+                <div class="gr"><img alt="goodreads" src=
+                "http://www.awesomebooks.com/images/goodreads_logo.gif" width="72"
+                height="15" /></div>
+              </div><br />
+
+              <div class="review">
+                <p><img title="Bad" alt="01" src=
+                "http://www.awesomebooks.com/images/star-on.png" /> <img title="Poor"
+                alt="11" src="http://www.awesomebooks.com/images/star-on.png" />
+                <img title="Regular" alt="21" src=
+                "http://www.awesomebooks.com/images/star-off.png" /> <img title="Good"
+                alt="31" src="http://www.awesomebooks.com/images/star-off.png" />
+                <img title="Awesome" alt="41" src=
+                "http://www.awesomebooks.com/images/star-off.png" /></p>
+
+                <p>By <strong>Bart</strong>, reviewed on 2009-12-25</p>
+
+                <div>
+                  There are some great tips in here, certain chapters are even handy
+                  references, and some of the extensions to PHP that are explored here
+                  are worth playing with for an afternoon. However, somewhere near half
+                  of the book is made up of pieces of one long extended example which
+                  only ever seems to duplic...<a href=
+                  "http://www.goodreads.com/review/show/82057645" target=
+                  "_blank">more...</a>
+                </div>
+
+                <div class="gr"><img alt="goodreads" src=
+                "http://www.awesomebooks.com/images/goodreads_logo.gif" width="72"
+                height="15" /></div>
+              </div><br />
+
+              <div class="review">
+                <p><img title="Bad" alt="01" src=
+                "http://www.awesomebooks.com/images/star-on.png" /> <img title="Poor"
+                alt="11" src="http://www.awesomebooks.com/images/star-on.png" />
+                <img title="Regular" alt="21" src=
+                "http://www.awesomebooks.com/images/star-on.png" /> <img title="Good"
+                alt="31" src="http://www.awesomebooks.com/images/star-on.png" />
+                <img title="Awesome" alt="41" src=
+                "http://www.awesomebooks.com/images/star-off.png" /></p>
+
+                <p>By <strong>John</strong>, reviewed on 2010-06-06</p>
+
+                <div>
+                  Quite interesting, learned a couple neat tricks ;)
+                </div>
+
+                <div class="gr"><img alt="goodreads" src=
+                "http://www.awesomebooks.com/images/goodreads_logo.gif" width="72"
+                height="15" /></div>
+              </div><br />
+
+              <div class="review">
+                <p><img title="Bad" alt="01" src=
+                "http://www.awesomebooks.com/images/star-on.png" /> <img title="Poor"
+                alt="11" src="http://www.awesomebooks.com/images/star-on.png" />
+                <img title="Regular" alt="21" src=
+                "http://www.awesomebooks.com/images/star-off.png" /> <img title="Good"
+                alt="31" src="http://www.awesomebooks.com/images/star-off.png" />
+                <img title="Awesome" alt="41" src=
+                "http://www.awesomebooks.com/images/star-off.png" /></p>
+
+                <p>By <strong>Dan</strong>, reviewed on 2008-04-18</p>
+
+                <div>
+                  Well, it's setting in my desk at work, so I figured I better add it.
+                  This is a pretty dated book, and I was hoping it might be useful on my
+                  current project at work, but I haven't actually opened it yet. This may
+                  be on a shelf at my garage sale this weekend, come to think of it . . .
+                </div>
+
+                <div class="gr"><img alt="goodreads" src=
+                "http://www.awesomebooks.com/images/goodreads_logo.gif" width="72"
+                height="15" /></div>
+              </div><br />
+
+              <div class="review">
+                <p><img title="Bad" alt="01" src=
+                "http://www.awesomebooks.com/images/star-on.png" /> <img title="Poor"
+                alt="11" src="http://www.awesomebooks.com/images/star-on.png" />
+                <img title="Regular" alt="21" src=
+                "http://www.awesomebooks.com/images/star-off.png" /> <img title="Good"
+                alt="31" src="http://www.awesomebooks.com/images/star-off.png" />
+                <img title="Awesome" alt="41" src=
+                "http://www.awesomebooks.com/images/star-off.png" /></p>
+
+                <p>By <strong>Marcus</strong>, reviewed on 2008-01-11</p>
+
+                <div>
+                  It bought it in order to improve my programming skills, but the book is
+                  often confusing, and I'd often look up some of the stuff on the
+                  internet anyway.
+                </div>
+
+                <div class="gr"><img alt="goodreads" src=
+                "http://www.awesomebooks.com/images/goodreads_logo.gif" width="72"
+                height="15" /></div>
+              </div><br />
+
+              <div class="review">
+                <p><img title="Bad" alt="01" src=
+                "http://www.awesomebooks.com/images/star-on.png" /> <img title="Poor"
+                alt="11" src="http://www.awesomebooks.com/images/star-on.png" />
+                <img title="Regular" alt="21" src=
+                "http://www.awesomebooks.com/images/star-on.png" /> <img title="Good"
+                alt="31" src="http://www.awesomebooks.com/images/star-on.png" />
+                <img title="Awesome" alt="41" src=
+                "http://www.awesomebooks.com/images/star-off.png" /></p>
+
+                <p>By <strong>Devin</strong>, reviewed on 2008-10-19</p>
+
+                <div>
+                  This book got me started in web programming. I've moved on to Django
+                  now, but I would recommend this for the fundamentals.
+                </div>
+
+                <div class="gr"><img alt="goodreads" src=
+                "http://www.awesomebooks.com/images/goodreads_logo.gif" width="72"
+                height="15" /></div>
+              </div><br />
+            </div>
+
+            <div id="WriteReview" sizcache="1" sizset="56">
+              <p><strong>Write your own review</strong><br /></p>
+
+              <p sizcache="1" sizset="56">Please <a href="/login/">login</a> to write
+              your own review.</p>
+            </div>
+          </div><br />
+        </div>
+        <!-- SCRIPT type=text/javascript>        $(document).ready(function() { var c = document.getElementById('c'); for (var i = 0; i < c.options.length; i++) { if (c.options[i].value == '') { c.options[i].selected = true; break; } }; }); </SCRIPT -->
+      </div><br class="clr" />
+    </div>
+  </div>
+
+  <div id="footer" sizcache="1" sizset="57">
+    <div id="footerLinks" sizcache="1" sizset="57">
+      <table sizcache="1" sizset="57">
+        <tbody sizcache="1" sizset="57">
+          <tr sizcache="1" sizset="57">
+            <td sizcache="1" sizset="57">
+              <dl class="fl" sizcache="1" sizset="57">
+                <dt>AwesomeBooks</dt>
+
+                <dd sizcache="1" sizset="57"><a href="/about-us/">About Us</a></dd>
+
+                <dd sizcache="1" sizset="58"><a href="/about-us/contact/">Contact
+                Us</a></dd>
+
+                <dd sizcache="1" sizset="59"><a href="/about-us/news/">News &amp;
+                Press</a></dd>
+
+                <dd sizcache="1" sizset="60"><a href="/special-offers/">Special
+                Offers</a></dd>
+
+                <dd sizcache="1" sizset="61"><a href="http://blog.awesomebooks.com/"
+                target="_blank">AwesomeBooks Blog</a></dd>
+              </dl>
+            </td>
+
+            <td sizcache="1" sizset="62">
+              <dl class="fl" sizcache="1" sizset="62">
+                <dt>Customer Service</dt>
+
+                <dd sizcache="1" sizset="62"><a href=
+                "/help/problem-with-your-order/">Problem with your order?</a></dd>
+
+                <dd sizcache="1" sizset="63"><a href="/help/faqs/">Frequently Asked
+                Questions</a></dd>
+
+                <dd sizcache="1" sizset="64"><a href="/help/returns/">Returns
+                Policy</a></dd>
+
+                <dd sizcache="1" sizset="65"><a href="/help/shipping/">Shipping
+                Details</a></dd>
+
+                <dd sizcache="1" sizset="66"><a href="/track/">Track Your Order</a></dd>
+
+                <dd sizcache="1" sizset="67"><a href="/login/forgot-password/">Forgot
+                Password</a></dd>
+              </dl>
+            </td>
+
+            <td sizcache="1" sizset="68">
+              <dl class="fl" sizcache="1" sizset="68">
+                <dt>Share the Love</dt>
+
+                <dd sizcache="1" sizset="68"><a href="/help/coupons/">Discount
+                Coupons</a></dd>
+
+                <dd sizcache="1" sizset="69"><a href=
+                "/help/newsletter/">Newsletter</a></dd>
+
+                <dd sizcache="1" sizset="70"><a href="/help/facebook/">Facebook</a></dd>
+
+                <dd sizcache="1" sizset="71"><a href="/help/twitter/">twitter</a></dd>
+              </dl>
+            </td>
+
+            <td sizcache="1" sizset="72">
+              <dl class="fl" sizcache="1" sizset="72">
+                <dt>Opportunities</dt>
+
+                <dd sizcache="1" sizset="72"><a href="/help/wholesale/">Wholesale/Bulk
+                Purchasing</a></dd>
+
+                <dd sizcache="1" sizset="73"><a href="/help/library/">Library
+                Programme</a></dd>
+
+                <dd sizcache="1" sizset="74"><a href=
+                "/help/careers/">Careers@AwesomeBooks</a></dd>
+              </dl>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div id="copyright">
+      &copy; 2011 AwesomeBooks.co.uk.
+
+      <div id="security"></div>
+    </div><br class="clr" />
+
+    <div id="cards">We accept the following payment methods<br />
+    <img alt="" src="http://www.awesomebooks.com:80/images/cards.png" /></div>
+  </div>
+
+  <div id="footerBorder"></div><!-- SCRIPT type=text/javascript>
+        var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-16984174-1']); _gaq.push(['_trackPageview']);
+        (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();
+    </SCRIPT -->
+</body>
+</html>
