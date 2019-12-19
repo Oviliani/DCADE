@@ -1,0 +1,152 @@
+Encoding	2	1
+Type	MD	MD
+7-0-1	California City Foreclosures :: 342 :: 	/search/California/California_City/foreclosures :: 343 :: 
+7-0-2	California City Apartments for Rent :: 344 :: 	/search/California/California_City/apartments-for-rent :: 345 :: 
+7-0-3	California City New Homes :: 346 :: 	/search/California/California_City/new-homes :: 347 :: 
+7-0-4	California City Schools :: 348 :: 	/California/California_City/schools :: 349 :: 
+7-0-5	California City Neighborhood Information :: 350 :: 	/California/California_City/neighborhoods/ :: 351 :: 
+7-1-1	Tampa Foreclosures :: 363 :: 	/search/Florida/Tampa/foreclosures :: 364 :: 
+7-1-2	Tampa Apartments for Rent :: 365 :: 	/search/Florida/Tampa/apartments-for-rent :: 366 :: 
+7-1-3	Tampa New Homes :: 367 :: 	/search/Florida/Tampa/new-homes :: 368 :: 
+7-1-4	Tampa Schools :: 369 :: 	/Florida/Tampa/schools :: 370 :: 
+7-1-5	Tampa Neighborhood Information :: 371 :: 	/Florida/Tampa/neighborhoods/ :: 372 :: 
+7-2-1	New York Foreclosures :: 310 :: 	/search/New_York/New_York/foreclosures :: 311 :: 
+7-2-2	New York Apartments for Rent :: 312 :: 	/search/New_York/New_York/apartments-for-rent :: 313 :: 
+7-2-3	New York New Homes :: 314 :: 	/search/New_York/New_York/new-homes :: 315 :: 
+7-2-4	New York Schools :: 316 :: 	/New_York/New_York/schools :: 317 :: 
+7-2-5	New York Neighborhood Information :: 318 :: 	/New_York/New_York/neighborhoods/ :: 319 :: 
+7-3-1	San Francisco Foreclosures :: 372 :: 	/search/California/San_Francisco/foreclosures :: 373 :: 
+7-3-2	San Francisco Apartments for Rent :: 374 :: 	/search/California/San_Francisco/apartments-for-rent :: 375 :: 
+7-3-3	San Francisco New Homes :: 376 :: 	/search/California/San_Francisco/new-homes :: 377 :: 
+7-3-4	San Francisco Schools :: 378 :: 	/California/San_Francisco/schools :: 379 :: 
+7-3-5	San Francisco Neighborhood Information :: 380 :: 	/California/San_Francisco/neighborhoods/ :: 381 :: 
+7-4-1	Memphis Foreclosures :: 343 :: 	/search/Michigan/Memphis/foreclosures :: 344 :: 
+7-4-2	Memphis Apartments for Rent :: 345 :: 	/search/Michigan/Memphis/apartments-for-rent :: 346 :: 
+7-4-3	Memphis New Homes :: 347 :: 	/search/Michigan/Memphis/new-homes :: 348 :: 
+7-4-4	Memphis Schools :: 349 :: 	/Michigan/Memphis/schools :: 350 :: 
+7-4-5	Memphis Neighborhood Information :: 351 :: 	/Michigan/Memphis/neighborhoods/ :: 352 :: 
+7-5-1	Memphis Foreclosures :: 376 :: 	/search/Michigan/Memphis/foreclosures :: 377 :: 
+7-5-2	Memphis Apartments for Rent :: 378 :: 	/search/Michigan/Memphis/apartments-for-rent :: 379 :: 
+7-5-3	Memphis New Homes :: 380 :: 	/search/Michigan/Memphis/new-homes :: 381 :: 
+7-5-4	Memphis Schools :: 382 :: 	/Michigan/Memphis/schools :: 383 :: 
+7-5-5	Memphis Neighborhood Information :: 384 :: 	/Michigan/Memphis/neighborhoods/ :: 385 :: 
+7-6-1	New York Foreclosures :: 294 :: 	/search/New_York/New_York/foreclosures :: 295 :: 
+7-6-2	New York Apartments for Rent :: 296 :: 	/search/New_York/New_York/apartments-for-rent :: 297 :: 
+7-6-3	New York New Homes :: 298 :: 	/search/New_York/New_York/new-homes :: 299 :: 
+7-6-4	New York Schools :: 300 :: 	/New_York/New_York/schools :: 301 :: 
+7-6-5	New York Neighborhood Information :: 302 :: 	/New_York/New_York/neighborhoods/ :: 303 :: 
+7-7-1	Staten Island Foreclosures :: 282 :: 	/search/New_York/Staten_Island/foreclosures :: 283 :: 
+7-7-2	Staten Island Apartments for Rent :: 284 :: 	/search/New_York/Staten_Island/apartments-for-rent :: 285 :: 
+7-7-3	Staten Island New Homes :: 286 :: 	/search/New_York/Staten_Island/new-homes :: 287 :: 
+7-7-4	Staten Island Schools :: 288 :: 	/New_York/Staten_Island/schools :: 289 :: 
+7-7-5	Staten Island Neighborhood Information :: 290 :: 	/New_York/Staten_Island/neighborhoods/ :: 291 :: 
+7-8-1	Memphis Foreclosures :: 347 :: 	/search/Michigan/Memphis/foreclosures :: 348 :: 
+7-8-2	Memphis Apartments for Rent :: 349 :: 	/search/Michigan/Memphis/apartments-for-rent :: 350 :: 
+7-8-3	Memphis New Homes :: 351 :: 	/search/Michigan/Memphis/new-homes :: 352 :: 
+7-8-4	Memphis Schools :: 353 :: 	/Michigan/Memphis/schools :: 354 :: 
+7-8-5	Memphis Neighborhood Information :: 355 :: 	/Michigan/Memphis/neighborhoods/ :: 356 :: 
+7-9-1	California City Foreclosures :: 356 :: 	/search/California/California_City/foreclosures :: 357 :: 
+7-9-2	California City Apartments for Rent :: 358 :: 	/search/California/California_City/apartments-for-rent :: 359 :: 
+7-9-3	California City New Homes :: 360 :: 	/search/California/California_City/new-homes :: 361 :: 
+7-9-4	California City Schools :: 362 :: 	/California/California_City/schools :: 363 :: 
+7-9-5	California City Neighborhood Information :: 364 :: 	/California/California_City/neighborhoods/ :: 365 :: 
+7-10-1	Las Vegas Foreclosures :: 363 :: 	/search/Nevada/Las_Vegas/foreclosures :: 364 :: 
+7-10-2	Las Vegas Apartments for Rent :: 365 :: 	/search/Nevada/Las_Vegas/apartments-for-rent :: 366 :: 
+7-10-3	Las Vegas New Homes :: 367 :: 	/search/Nevada/Las_Vegas/new-homes :: 368 :: 
+7-10-4	Las Vegas Schools :: 369 :: 	/Nevada/Las_Vegas/schools :: 370 :: 
+7-10-5	Las Vegas Neighborhood Information :: 371 :: 	/Nevada/Las_Vegas/neighborhoods/ :: 372 :: 
+7-11-1	Kansas City Foreclosures :: 375 :: 	/search/Kansas/Kansas_City/foreclosures :: 376 :: 
+7-11-2	Kansas City Apartments for Rent :: 377 :: 	/search/Kansas/Kansas_City/apartments-for-rent :: 378 :: 
+7-11-3	Kansas City New Homes :: 379 :: 	/search/Kansas/Kansas_City/new-homes :: 380 :: 
+7-11-4	Kansas City Schools :: 381 :: 	/Kansas/Kansas_City/schools :: 382 :: 
+7-11-5	Kansas City Neighborhood Information :: 383 :: 	/Kansas/Kansas_City/neighborhoods/ :: 384 :: 
+7-12-1	Memphis Foreclosures :: 342 :: 	/search/Michigan/Memphis/foreclosures :: 343 :: 
+7-12-2	Memphis Apartments for Rent :: 344 :: 	/search/Michigan/Memphis/apartments-for-rent :: 345 :: 
+7-12-3	Memphis New Homes :: 346 :: 	/search/Michigan/Memphis/new-homes :: 347 :: 
+7-12-4	Memphis Schools :: 348 :: 	/Michigan/Memphis/schools :: 349 :: 
+7-12-5	Memphis Neighborhood Information :: 350 :: 	/Michigan/Memphis/neighborhoods/ :: 351 :: 
+7-13-1	California City Foreclosures :: 375 :: 	/search/California/California_City/foreclosures :: 376 :: 
+7-13-2	California City Apartments for Rent :: 377 :: 	/search/California/California_City/apartments-for-rent :: 378 :: 
+7-13-3	California City New Homes :: 379 :: 	/search/California/California_City/new-homes :: 380 :: 
+7-13-4	California City Schools :: 381 :: 	/California/California_City/schools :: 382 :: 
+7-13-5	California City Neighborhood Information :: 383 :: 	/California/California_City/neighborhoods/ :: 384 :: 
+7-14-1	California City Foreclosures :: 332 :: 	/search/California/California_City/foreclosures :: 333 :: 
+7-14-2	California City Apartments for Rent :: 334 :: 	/search/California/California_City/apartments-for-rent :: 335 :: 
+7-14-3	California City New Homes :: 336 :: 	/search/California/California_City/new-homes :: 337 :: 
+7-14-4	California City Schools :: 338 :: 	/California/California_City/schools :: 339 :: 
+7-14-5	California City Neighborhood Information :: 340 :: 	/California/California_City/neighborhoods/ :: 341 :: 
+7-15-1	San Francisco Foreclosures :: 350 :: 	/search/California/San_Francisco/foreclosures :: 351 :: 
+7-15-2	San Francisco Apartments for Rent :: 352 :: 	/search/California/San_Francisco/apartments-for-rent :: 353 :: 
+7-15-3	San Francisco New Homes :: 354 :: 	/search/California/San_Francisco/new-homes :: 355 :: 
+7-15-4	San Francisco Schools :: 356 :: 	/California/San_Francisco/schools :: 357 :: 
+7-15-5	San Francisco Neighborhood Information :: 358 :: 	/California/San_Francisco/neighborhoods/ :: 359 :: 
+7-16-1	San Francisco Foreclosures :: 386 :: 	/search/California/San_Francisco/foreclosures :: 387 :: 
+7-16-2	San Francisco Apartments for Rent :: 388 :: 	/search/California/San_Francisco/apartments-for-rent :: 389 :: 
+7-16-3	San Francisco New Homes :: 390 :: 	/search/California/San_Francisco/new-homes :: 391 :: 
+7-16-4	San Francisco Schools :: 392 :: 	/California/San_Francisco/schools :: 393 :: 
+7-16-5	San Francisco Neighborhood Information :: 394 :: 	/California/San_Francisco/neighborhoods/ :: 395 :: 
+7-17-1	Kansas City Foreclosures :: 392 :: 	/search/Kansas/Kansas_City/foreclosures :: 393 :: 
+7-17-2	Kansas City Apartments for Rent :: 394 :: 	/search/Kansas/Kansas_City/apartments-for-rent :: 395 :: 
+7-17-3	Kansas City New Homes :: 396 :: 	/search/Kansas/Kansas_City/new-homes :: 397 :: 
+7-17-4	Kansas City Schools :: 398 :: 	/Kansas/Kansas_City/schools :: 399 :: 
+7-17-5	Kansas City Neighborhood Information :: 400 :: 	/Kansas/Kansas_City/neighborhoods/ :: 401 :: 
+7-18-1	San Francisco Foreclosures :: 349 :: 	/search/California/San_Francisco/foreclosures :: 350 :: 
+7-18-2	San Francisco Apartments for Rent :: 351 :: 	/search/California/San_Francisco/apartments-for-rent :: 352 :: 
+7-18-3	San Francisco New Homes :: 353 :: 	/search/California/San_Francisco/new-homes :: 354 :: 
+7-18-4	San Francisco Schools :: 355 :: 	/California/San_Francisco/schools :: 356 :: 
+7-18-5	San Francisco Neighborhood Information :: 357 :: 	/California/San_Francisco/neighborhoods/ :: 358 :: 
+7-19-1	California City Foreclosures :: 339 :: 	/search/California/California_City/foreclosures :: 340 :: 
+7-19-2	California City Apartments for Rent :: 341 :: 	/search/California/California_City/apartments-for-rent :: 342 :: 
+7-19-3	California City New Homes :: 343 :: 	/search/California/California_City/new-homes :: 344 :: 
+7-19-4	California City Schools :: 345 :: 	/California/California_City/schools :: 346 :: 
+7-19-5	California City Neighborhood Information :: 347 :: 	/California/California_City/neighborhoods/ :: 348 :: 
+7-20-1	Kansas City Foreclosures :: 404 :: 	/search/Kansas/Kansas_City/foreclosures :: 405 :: 
+7-20-2	Kansas City Apartments for Rent :: 406 :: 	/search/Kansas/Kansas_City/apartments-for-rent :: 407 :: 
+7-20-3	Kansas City New Homes :: 408 :: 	/search/Kansas/Kansas_City/new-homes :: 409 :: 
+7-20-4	Kansas City Schools :: 410 :: 	/Kansas/Kansas_City/schools :: 411 :: 
+7-20-5	Kansas City Neighborhood Information :: 412 :: 	/Kansas/Kansas_City/neighborhoods/ :: 413 :: 
+7-21-1	New York Foreclosures :: 314 :: 	/search/New_York/New_York/foreclosures :: 315 :: 
+7-21-2	New York Apartments for Rent :: 316 :: 	/search/New_York/New_York/apartments-for-rent :: 317 :: 
+7-21-3	New York New Homes :: 318 :: 	/search/New_York/New_York/new-homes :: 319 :: 
+7-21-4	New York Schools :: 320 :: 	/New_York/New_York/schools :: 321 :: 
+7-21-5	New York Neighborhood Information :: 322 :: 	/New_York/New_York/neighborhoods/ :: 323 :: 
+7-22-1	New York Foreclosures :: 330 :: 	/search/New_York/New_York/foreclosures :: 331 :: 
+7-22-2	New York Apartments for Rent :: 332 :: 	/search/New_York/New_York/apartments-for-rent :: 333 :: 
+7-22-3	New York New Homes :: 334 :: 	/search/New_York/New_York/new-homes :: 335 :: 
+7-22-4	New York Schools :: 336 :: 	/New_York/New_York/schools :: 337 :: 
+7-22-5	New York Neighborhood Information :: 338 :: 	/New_York/New_York/neighborhoods/ :: 339 :: 
+7-23-1	New York Foreclosures :: 333 :: 	/search/New_York/New_York/foreclosures :: 334 :: 
+7-23-2	New York Apartments for Rent :: 335 :: 	/search/New_York/New_York/apartments-for-rent :: 336 :: 
+7-23-3	New York New Homes :: 337 :: 	/search/New_York/New_York/new-homes :: 338 :: 
+7-23-4	New York Schools :: 339 :: 	/New_York/New_York/schools :: 340 :: 
+7-23-5	New York Neighborhood Information :: 341 :: 	/New_York/New_York/neighborhoods/ :: 342 :: 
+7-24-1	San Francisco Foreclosures :: 353 :: 	/search/California/San_Francisco/foreclosures :: 354 :: 
+7-24-2	San Francisco Apartments for Rent :: 355 :: 	/search/California/San_Francisco/apartments-for-rent :: 356 :: 
+7-24-3	San Francisco New Homes :: 357 :: 	/search/California/San_Francisco/new-homes :: 358 :: 
+7-24-4	San Francisco Schools :: 359 :: 	/California/San_Francisco/schools :: 360 :: 
+7-24-5	San Francisco Neighborhood Information :: 361 :: 	/California/San_Francisco/neighborhoods/ :: 362 :: 
+7-25-1	Kansas City Foreclosures :: 367 :: 	/search/Kansas/Kansas_City/foreclosures :: 368 :: 
+7-25-2	Kansas City Apartments for Rent :: 369 :: 	/search/Kansas/Kansas_City/apartments-for-rent :: 370 :: 
+7-25-3	Kansas City New Homes :: 371 :: 	/search/Kansas/Kansas_City/new-homes :: 372 :: 
+7-25-4	Kansas City Schools :: 373 :: 	/Kansas/Kansas_City/schools :: 374 :: 
+7-25-5	Kansas City Neighborhood Information :: 375 :: 	/Kansas/Kansas_City/neighborhoods/ :: 376 :: 
+7-26-1	New York Foreclosures :: 297 :: 	/search/New_York/New_York/foreclosures :: 298 :: 
+7-26-2	New York Apartments for Rent :: 299 :: 	/search/New_York/New_York/apartments-for-rent :: 300 :: 
+7-26-3	New York New Homes :: 301 :: 	/search/New_York/New_York/new-homes :: 302 :: 
+7-26-4	New York Schools :: 303 :: 	/New_York/New_York/schools :: 304 :: 
+7-26-5	New York Neighborhood Information :: 305 :: 	/New_York/New_York/neighborhoods/ :: 306 :: 
+7-27-1	Tampa Foreclosures :: 382 :: 	/search/Florida/Tampa/foreclosures :: 383 :: 
+7-27-2	Tampa Apartments for Rent :: 384 :: 	/search/Florida/Tampa/apartments-for-rent :: 385 :: 
+7-27-3	Tampa New Homes :: 386 :: 	/search/Florida/Tampa/new-homes :: 387 :: 
+7-27-4	Tampa Schools :: 388 :: 	/Florida/Tampa/schools :: 389 :: 
+7-27-5	Tampa Neighborhood Information :: 390 :: 	/Florida/Tampa/neighborhoods/ :: 391 :: 
+7-28-1	New York Foreclosures :: 327 :: 	/search/New_York/New_York/foreclosures :: 328 :: 
+7-28-2	New York Apartments for Rent :: 329 :: 	/search/New_York/New_York/apartments-for-rent :: 330 :: 
+7-28-3	New York New Homes :: 331 :: 	/search/New_York/New_York/new-homes :: 332 :: 
+7-28-4	New York Schools :: 333 :: 	/New_York/New_York/schools :: 334 :: 
+7-28-5	New York Neighborhood Information :: 335 :: 	/New_York/New_York/neighborhoods/ :: 336 :: 
+7-29-1	New York Foreclosures :: 307 :: 	/search/New_York/New_York/foreclosures :: 308 :: 
+7-29-2	New York Apartments for Rent :: 309 :: 	/search/New_York/New_York/apartments-for-rent :: 310 :: 
+7-29-3	New York New Homes :: 311 :: 	/search/New_York/New_York/new-homes :: 312 :: 
+7-29-4	New York Schools :: 313 :: 	/New_York/New_York/schools :: 314 :: 
+7-29-5	New York Neighborhood Information :: 315 :: 	/New_York/New_York/neighborhoods/ :: 316 :: 

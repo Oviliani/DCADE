@@ -1,0 +1,74 @@
+Encoding	1	1
+Type	OD	OD
+9-1-1	Drew Park Homes For Sale :: 436 :: 	/search/Florida/Tampa/Drew_Park/homes-for-sale :: 437 :: 
+9-1-2	East Tampa Homes For Sale :: 438 :: 	/search/Florida/Tampa/East_Tampa/homes-for-sale :: 439 :: 
+9-1-3	Gary Homes For Sale :: 440 :: 	/search/Florida/Tampa/Gary/homes-for-sale :: 441 :: 
+9-1-4	North Tampa Homes For Sale :: 442 :: 	/search/Florida/Tampa/North_Tampa/homes-for-sale :: 443 :: 
+9-2-1	Hudson Yards Homes For Sale :: 383 :: 	/search/New_York/New_York/Hudson_Yards/homes-for-sale :: 384 :: 
+9-2-2	Midtown Center Homes For Sale :: 385 :: 	/search/New_York/New_York/Midtown_Center/homes-for-sale :: 386 :: 
+9-2-3	Midtown South Central Homes For Sale :: 387 :: 	/search/New_York/New_York/Midtown_South_Central/homes-for-sale :: 388 :: 
+9-3-1	Amanico Ergina Village Homes For Sale :: 392 :: 	/search/California/San_Francisco/Amanico_Ergina_Village/homes-for-sale :: 393 :: 
+9-3-2	Bayview District Homes For Sale :: 394 :: 	/search/California/San_Francisco/Bayview_District/homes-for-sale :: 395 :: 
+9-3-3	Chinatown Homes For Sale :: 396 :: 	/search/California/San_Francisco/Chinatown/homes-for-sale :: 397 :: 
+9-3-4	Fort Winfield Scott Homes For Sale :: 398 :: 	/search/California/San_Francisco/Fort_Winfield_Scott/homes-for-sale :: 399 :: 
+9-6-1	Hudson Yards Homes For Sale :: 367 :: 	/search/New_York/New_York/Hudson_Yards/homes-for-sale :: 368 :: 
+9-6-2	Midtown Center Homes For Sale :: 369 :: 	/search/New_York/New_York/Midtown_Center/homes-for-sale :: 370 :: 
+9-6-3	Midtown South Central Homes For Sale :: 371 :: 	/search/New_York/New_York/Midtown_South_Central/homes-for-sale :: 372 :: 
+9-10-1	Arden Homes For Sale :: 430 :: 	/search/Nevada/Las_Vegas/Arden/homes-for-sale :: 431 :: 
+9-10-2	Boulder Junction Homes For Sale :: 432 :: 	/search/Nevada/Las_Vegas/Boulder_Junction/homes-for-sale :: 433 :: 
+9-10-3	Bracken Homes For Sale :: 434 :: 	/search/Nevada/Las_Vegas/Bracken/homes-for-sale :: 435 :: 
+9-10-4	East Las Vegas Homes For Sale :: 436 :: 	/search/Nevada/Las_Vegas/East_Las_Vegas/homes-for-sale :: 437 :: 
+9-11-1	Argentine Homes For Sale :: 444 :: 	/search/Kansas/Kansas_City/Argentine/homes-for-sale :: 445 :: 
+9-11-2	Fairfax Homes For Sale :: 446 :: 	/search/Kansas/Kansas_City/Fairfax/homes-for-sale :: 447 :: 
+9-11-3	Loma Vista Homes For Sale :: 448 :: 	/search/Kansas/Kansas_City/Loma_Vista/homes-for-sale :: 449 :: 
+9-11-4	Maywood Homes For Sale :: 450 :: 	/search/Kansas/Kansas_City/Maywood/homes-for-sale :: 451 :: 
+9-15-1	Amanico Ergina Village Homes For Sale :: 370 :: 	/search/California/San_Francisco/Amanico_Ergina_Village/homes-for-sale :: 371 :: 
+9-15-2	Bayview District Homes For Sale :: 372 :: 	/search/California/San_Francisco/Bayview_District/homes-for-sale :: 373 :: 
+9-15-3	Chinatown Homes For Sale :: 374 :: 	/search/California/San_Francisco/Chinatown/homes-for-sale :: 375 :: 
+9-15-4	Fort Winfield Scott Homes For Sale :: 376 :: 	/search/California/San_Francisco/Fort_Winfield_Scott/homes-for-sale :: 377 :: 
+9-16-1	Amanico Ergina Village Homes For Sale :: 406 :: 	/search/California/San_Francisco/Amanico_Ergina_Village/homes-for-sale :: 407 :: 
+9-16-2	Bayview District Homes For Sale :: 408 :: 	/search/California/San_Francisco/Bayview_District/homes-for-sale :: 409 :: 
+9-16-3	Chinatown Homes For Sale :: 410 :: 	/search/California/San_Francisco/Chinatown/homes-for-sale :: 411 :: 
+9-16-4	Fort Winfield Scott Homes For Sale :: 412 :: 	/search/California/San_Francisco/Fort_Winfield_Scott/homes-for-sale :: 413 :: 
+9-17-1	Argentine Homes For Sale :: 461 :: 	/search/Kansas/Kansas_City/Argentine/homes-for-sale :: 462 :: 
+9-17-2	Fairfax Homes For Sale :: 463 :: 	/search/Kansas/Kansas_City/Fairfax/homes-for-sale :: 464 :: 
+9-17-3	Loma Vista Homes For Sale :: 465 :: 	/search/Kansas/Kansas_City/Loma_Vista/homes-for-sale :: 466 :: 
+9-17-4	Maywood Homes For Sale :: 467 :: 	/search/Kansas/Kansas_City/Maywood/homes-for-sale :: 468 :: 
+9-18-1	Amanico Ergina Village Homes For Sale :: 369 :: 	/search/California/San_Francisco/Amanico_Ergina_Village/homes-for-sale :: 370 :: 
+9-18-2	Bayview District Homes For Sale :: 371 :: 	/search/California/San_Francisco/Bayview_District/homes-for-sale :: 372 :: 
+9-18-3	Chinatown Homes For Sale :: 373 :: 	/search/California/San_Francisco/Chinatown/homes-for-sale :: 374 :: 
+9-18-4	Fort Winfield Scott Homes For Sale :: 375 :: 	/search/California/San_Francisco/Fort_Winfield_Scott/homes-for-sale :: 376 :: 
+9-20-1	Argentine Homes For Sale :: 473 :: 	/search/Kansas/Kansas_City/Argentine/homes-for-sale :: 474 :: 
+9-20-2	Fairfax Homes For Sale :: 475 :: 	/search/Kansas/Kansas_City/Fairfax/homes-for-sale :: 476 :: 
+9-20-3	Loma Vista Homes For Sale :: 477 :: 	/search/Kansas/Kansas_City/Loma_Vista/homes-for-sale :: 478 :: 
+9-20-4	Maywood Homes For Sale :: 479 :: 	/search/Kansas/Kansas_City/Maywood/homes-for-sale :: 480 :: 
+9-21-1	Hudson Yards Homes For Sale :: 387 :: 	/search/New_York/New_York/Hudson_Yards/homes-for-sale :: 388 :: 
+9-21-2	Midtown Center Homes For Sale :: 389 :: 	/search/New_York/New_York/Midtown_Center/homes-for-sale :: 390 :: 
+9-21-3	Midtown South Central Homes For Sale :: 391 :: 	/search/New_York/New_York/Midtown_South_Central/homes-for-sale :: 392 :: 
+9-22-1	Hudson Yards Homes For Sale :: 403 :: 	/search/New_York/New_York/Hudson_Yards/homes-for-sale :: 404 :: 
+9-22-2	Midtown Center Homes For Sale :: 405 :: 	/search/New_York/New_York/Midtown_Center/homes-for-sale :: 406 :: 
+9-22-3	Midtown South Central Homes For Sale :: 407 :: 	/search/New_York/New_York/Midtown_South_Central/homes-for-sale :: 408 :: 
+9-23-1	Hudson Yards Homes For Sale :: 406 :: 	/search/New_York/New_York/Hudson_Yards/homes-for-sale :: 407 :: 
+9-23-2	Midtown Center Homes For Sale :: 408 :: 	/search/New_York/New_York/Midtown_Center/homes-for-sale :: 409 :: 
+9-23-3	Midtown South Central Homes For Sale :: 410 :: 	/search/New_York/New_York/Midtown_South_Central/homes-for-sale :: 411 :: 
+9-24-1	Amanico Ergina Village Homes For Sale :: 373 :: 	/search/California/San_Francisco/Amanico_Ergina_Village/homes-for-sale :: 374 :: 
+9-24-2	Bayview District Homes For Sale :: 375 :: 	/search/California/San_Francisco/Bayview_District/homes-for-sale :: 376 :: 
+9-24-3	Chinatown Homes For Sale :: 377 :: 	/search/California/San_Francisco/Chinatown/homes-for-sale :: 378 :: 
+9-24-4	Fort Winfield Scott Homes For Sale :: 379 :: 	/search/California/San_Francisco/Fort_Winfield_Scott/homes-for-sale :: 380 :: 
+9-25-1	Argentine Homes For Sale :: 436 :: 	/search/Kansas/Kansas_City/Argentine/homes-for-sale :: 437 :: 
+9-25-2	Fairfax Homes For Sale :: 438 :: 	/search/Kansas/Kansas_City/Fairfax/homes-for-sale :: 439 :: 
+9-25-3	Loma Vista Homes For Sale :: 440 :: 	/search/Kansas/Kansas_City/Loma_Vista/homes-for-sale :: 441 :: 
+9-25-4	Maywood Homes For Sale :: 442 :: 	/search/Kansas/Kansas_City/Maywood/homes-for-sale :: 443 :: 
+9-26-1	Hudson Yards Homes For Sale :: 370 :: 	/search/New_York/New_York/Hudson_Yards/homes-for-sale :: 371 :: 
+9-26-2	Midtown Center Homes For Sale :: 372 :: 	/search/New_York/New_York/Midtown_Center/homes-for-sale :: 373 :: 
+9-26-3	Midtown South Central Homes For Sale :: 374 :: 	/search/New_York/New_York/Midtown_South_Central/homes-for-sale :: 375 :: 
+9-27-1	Drew Park Homes For Sale :: 455 :: 	/search/Florida/Tampa/Drew_Park/homes-for-sale :: 456 :: 
+9-27-2	East Tampa Homes For Sale :: 457 :: 	/search/Florida/Tampa/East_Tampa/homes-for-sale :: 458 :: 
+9-27-3	Gary Homes For Sale :: 459 :: 	/search/Florida/Tampa/Gary/homes-for-sale :: 460 :: 
+9-27-4	North Tampa Homes For Sale :: 461 :: 	/search/Florida/Tampa/North_Tampa/homes-for-sale :: 462 :: 
+9-28-1	Hudson Yards Homes For Sale :: 400 :: 	/search/New_York/New_York/Hudson_Yards/homes-for-sale :: 401 :: 
+9-28-2	Midtown Center Homes For Sale :: 402 :: 	/search/New_York/New_York/Midtown_Center/homes-for-sale :: 403 :: 
+9-28-3	Midtown South Central Homes For Sale :: 404 :: 	/search/New_York/New_York/Midtown_South_Central/homes-for-sale :: 405 :: 
+9-29-1	Hudson Yards Homes For Sale :: 380 :: 	/search/New_York/New_York/Hudson_Yards/homes-for-sale :: 381 :: 
+9-29-2	Midtown Center Homes For Sale :: 382 :: 	/search/New_York/New_York/Midtown_Center/homes-for-sale :: 383 :: 
+9-29-3	Midtown South Central Homes For Sale :: 384 :: 	/search/New_York/New_York/Midtown_South_Central/homes-for-sale :: 385 :: 

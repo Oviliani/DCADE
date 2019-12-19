@@ -1,0 +1,93 @@
+Encoding	0	2	1
+Type	MT	MD	MD
+1-0-1	/ :: 171 :: 	Computer Books & Technology :: 172 :: 	computer-books-technology-books-H817.aspx :: 173 :: 
+1-0-2	/ :: 174 :: 	Programming Languages :: 175 :: 	programming-languages-books-H998.aspx :: 176 :: 
+1-0-3	/ :: 177 :: 	SQL :: 178 :: 	sql-books-H1022.aspx :: 179 :: 
+1-1-1	/ :: 171 :: 	Computer Books & Technology :: 172 :: 	computer-books-technology-books-H817.aspx :: 173 :: 
+1-1-2	/ :: 174 :: 	Database Management :: 175 :: 	database-management-books-H897.aspx :: 176 :: 
+1-1-3	/ :: 177 :: 	General :: 178 :: 	general-database-management-books-H900.aspx :: 179 :: 
+1-2-1	/ :: 171 :: 	Business & Economics :: 172 :: 	business-books-economics-books-H578.aspx :: 173 :: 
+1-2-2	/ :: 174 :: 	E-Commerce :: 175 :: 	e-commerce-books-H697.aspx :: 176 :: 
+1-2-3	/ :: 177 :: 	Internet Marketing :: 178 :: 	internet-marketing-books-H699.aspx :: 179 :: 
+1-3-1	/ :: 171 :: 	Computer Books & Technology :: 172 :: 	computer-books-technology-books-H817.aspx :: 173 :: 
+1-3-2	/ :: 174 :: 	Internet :: 175 :: 	internet-books-H944.aspx :: 176 :: 
+1-3-3	/ :: 177 :: 	General :: 178 :: 	general-internet-books-H948.aspx :: 179 :: 
+1-4-1	/ :: 169 :: 	Computer Books & Technology :: 170 :: 	computer-books-technology-books-H817.aspx :: 171 :: 
+1-4-2	/ :: 172 :: 	Programming Languages :: 173 :: 	programming-languages-books-H998.aspx :: 174 :: 
+1-4-3	/ :: 175 :: 	Java :: 176 :: 	java-books-H1010.aspx :: 177 :: 
+1-5-1	/ :: 169 :: 	Computer Books & Technology :: 170 :: 	computer-books-technology-books-H817.aspx :: 171 :: 
+1-5-2	/ :: 172 :: 	Programming Languages :: 173 :: 	programming-languages-books-H998.aspx :: 174 :: 
+1-5-3	/ :: 175 :: 	Java :: 176 :: 	java-books-H1010.aspx :: 177 :: 
+1-6-1	/ :: 171 :: 	Computer Books & Technology :: 172 :: 	computer-books-technology-books-H817.aspx :: 173 :: 
+1-6-2	/ :: 174 :: 	Programming Languages :: 175 :: 	programming-languages-books-H998.aspx :: 176 :: 
+1-6-3	/ :: 177 :: 	SQL :: 178 :: 	sql-books-H1022.aspx :: 179 :: 
+1-7-1	/ :: 171 :: 	Religion :: 172 :: 	religion-books-H4390.aspx :: 173 :: 
+1-7-2	/ :: 174 :: 	Biblical Studies :: 175 :: 	biblical-studies-books-H4467.aspx :: 176 :: 
+1-7-3	/ :: 177 :: 	Old Testament :: 178 :: 	old-testament-bible-studies-books-H4476.aspx :: 179 :: 
+1-8-1	/ :: 171 :: 	Computer Books & Technology :: 172 :: 	computer-books-technology-books-H817.aspx :: 173 :: 
+1-8-2	/ :: 174 :: 	Technology & Engineering :: 175 :: 	technology-books-engineering-books-H5066.aspx :: 176 :: 
+1-8-3	/ :: 177 :: 	History :: 178 :: 	engineering-history-books-H5125.aspx :: 179 :: 
+1-9-1	/ :: 171 :: 	Computer Books & Technology :: 172 :: 	computer-books-technology-books-H817.aspx :: 173 :: 
+1-9-2	/ :: 174 :: 	Programming Languages :: 175 :: 	programming-languages-books-H998.aspx :: 176 :: 
+1-9-3	/ :: 177 :: 	Java :: 178 :: 	java-books-H1010.aspx :: 179 :: 
+1-10-1	/ :: 171 :: 	Children's Books :: 172 :: 	childrens-books-H5472.aspx :: 173 :: 
+1-10-2	/ :: 174 :: 	Children's Nonfiction :: 175 :: 	childrens-nonfiction-books-H2383.aspx :: 176 :: 
+1-10-3	/ :: 177 :: 	Computers :: 178 :: 	computers-childrens-books-H2479.aspx :: 179 :: 
+1-10-4	/ :: 180 :: 	Internet :: 181 :: 	internet-childrens-books-H2483.aspx :: 182 :: 
+1-11-1	/ :: 171 :: 	Business & Economics :: 172 :: 	business-books-economics-books-H578.aspx :: 173 :: 
+1-11-2	/ :: 174 :: 	E-Commerce :: 175 :: 	e-commerce-books-H697.aspx :: 176 :: 
+1-11-3	/ :: 177 :: 	Internet Marketing :: 178 :: 	internet-marketing-books-H699.aspx :: 179 :: 
+1-12-1	/ :: 171 :: 	Computer Books & Technology :: 172 :: 	computer-books-technology-books-H817.aspx :: 173 :: 
+1-12-2	/ :: 174 :: 	Programming Languages :: 175 :: 	programming-languages-books-H998.aspx :: 176 :: 
+1-12-3	/ :: 177 :: 	Java :: 178 :: 	java-books-H1010.aspx :: 179 :: 
+1-13-1	/ :: 171 :: 	Computer Books & Technology :: 172 :: 	computer-books-technology-books-H817.aspx :: 173 :: 
+1-13-2	/ :: 174 :: 	Programming Languages :: 175 :: 	programming-languages-books-H998.aspx :: 176 :: 
+1-13-3	/ :: 177 :: 	SQL :: 178 :: 	sql-books-H1022.aspx :: 179 :: 
+1-14-1	/ :: 171 :: 	Computer Books & Technology :: 172 :: 	computer-books-technology-books-H817.aspx :: 173 :: 
+1-14-2	/ :: 174 :: 	Programming Languages :: 175 :: 	programming-languages-books-H998.aspx :: 176 :: 
+1-14-3	/ :: 177 :: 	Java :: 178 :: 	java-books-H1010.aspx :: 179 :: 
+1-15-1	/ :: 171 :: 	Computer Books & Technology :: 172 :: 	computer-books-technology-books-H817.aspx :: 173 :: 
+1-15-2	/ :: 174 :: 	Programming Languages :: 175 :: 	programming-languages-books-H998.aspx :: 176 :: 
+1-15-3	/ :: 177 :: 	Java :: 178 :: 	java-books-H1010.aspx :: 179 :: 
+1-16-1	/ :: 171 :: 	Computer Books & Technology :: 172 :: 	computer-books-technology-books-H817.aspx :: 173 :: 
+1-16-2	/ :: 174 :: 	Programming Languages :: 175 :: 	programming-languages-books-H998.aspx :: 176 :: 
+1-16-3	/ :: 177 :: 	Java :: 178 :: 	java-books-H1010.aspx :: 179 :: 
+1-17-1	/ :: 171 :: 	Computer Books & Technology :: 172 :: 	computer-books-technology-books-H817.aspx :: 173 :: 
+1-17-2	/ :: 174 :: 	Database Management :: 175 :: 	database-management-books-H897.aspx :: 176 :: 
+1-17-3	/ :: 177 :: 	SQL Server :: 178 :: 	sql-server-books-H902.aspx :: 179 :: 
+1-18-1	/ :: 171 :: 	Computer Books & Technology :: 172 :: 	computer-books-technology-books-H817.aspx :: 173 :: 
+1-18-2	/ :: 174 :: 	Database Management :: 175 :: 	database-management-books-H897.aspx :: 176 :: 
+1-18-3	/ :: 177 :: 	General :: 178 :: 	general-database-management-books-H900.aspx :: 179 :: 
+1-19-1	/ :: 171 :: 	Computer Books & Technology :: 172 :: 	computer-books-technology-books-H817.aspx :: 173 :: 
+1-19-2	/ :: 174 :: 	Programming Languages :: 175 :: 	programming-languages-books-H998.aspx :: 176 :: 
+1-19-3	/ :: 177 :: 	Java :: 178 :: 	java-books-H1010.aspx :: 179 :: 
+1-20-1	/ :: 171 :: 	Business & Economics :: 172 :: 	business-books-economics-books-H578.aspx :: 173 :: 
+1-20-2	/ :: 174 :: 	Small Business :: 175 :: 	small-business-books-H779.aspx :: 176 :: 
+1-20-3	/ :: 177 :: 	General :: 178 :: 	general-small-business-books-H782.aspx :: 179 :: 
+1-21-1	/ :: 171 :: 	Computer Books & Technology :: 172 :: 	computer-books-technology-books-H817.aspx :: 173 :: 
+1-21-2	/ :: 174 :: 	Internet :: 175 :: 	internet-books-H944.aspx :: 176 :: 
+1-21-3	/ :: 177 :: 	Security :: 178 :: 	internet-security-books-H950.aspx :: 179 :: 
+1-22-1	/ :: 171 :: 	Business & Economics :: 172 :: 	business-books-economics-books-H578.aspx :: 173 :: 
+1-22-2	/ :: 174 :: 	Marketing :: 175 :: 	marketing-books-H748.aspx :: 176 :: 
+1-22-3	/ :: 177 :: 	Research :: 178 :: 	marketing-research-books-H754.aspx :: 179 :: 
+1-23-1	/ :: 171 :: 	Computer Books & Technology :: 172 :: 	computer-books-technology-books-H817.aspx :: 173 :: 
+1-23-2	/ :: 174 :: 	Programming Languages :: 175 :: 	programming-languages-books-H998.aspx :: 176 :: 
+1-23-3	/ :: 177 :: 	Java :: 178 :: 	java-books-H1010.aspx :: 179 :: 
+1-24-1	/ :: 171 :: 	Computer Books & Technology :: 172 :: 	computer-books-technology-books-H817.aspx :: 173 :: 
+1-24-2	/ :: 174 :: 	Database Management :: 175 :: 	database-management-books-H897.aspx :: 176 :: 
+1-24-3	/ :: 177 :: 	SQL Server :: 178 :: 	sql-server-books-H902.aspx :: 179 :: 
+1-25-1	/ :: 171 :: 	Business & Economics :: 172 :: 	business-books-economics-books-H578.aspx :: 173 :: 
+1-25-2	/ :: 174 :: 	E-Commerce :: 175 :: 	e-commerce-books-H697.aspx :: 176 :: 
+1-25-3	/ :: 177 :: 	Internet Marketing :: 178 :: 	internet-marketing-books-H699.aspx :: 179 :: 
+1-26-1	/ :: 171 :: 	Computer Books & Technology :: 172 :: 	computer-books-technology-books-H817.aspx :: 173 :: 
+1-26-2	/ :: 174 :: 	Programming Languages :: 175 :: 	programming-languages-books-H998.aspx :: 176 :: 
+1-26-3	/ :: 177 :: 	SQL :: 178 :: 	sql-books-H1022.aspx :: 179 :: 
+1-27-1	/ :: 171 :: 	Computer Books & Technology :: 172 :: 	computer-books-technology-books-H817.aspx :: 173 :: 
+1-27-2	/ :: 174 :: 	Certification Guides :: 175 :: 	computer-certification-guides-books-H879.aspx :: 176 :: 
+1-27-3	/ :: 177 :: 	General :: 178 :: 	general-computer-certification-books-H882.aspx :: 179 :: 
+1-28-1	/ :: 171 :: 	Computer Books & Technology :: 172 :: 	computer-books-technology-books-H817.aspx :: 173 :: 
+1-28-2	/ :: 174 :: 	Certification Guides :: 175 :: 	computer-certification-guides-books-H879.aspx :: 176 :: 
+1-28-3	/ :: 177 :: 	General :: 178 :: 	general-computer-certification-books-H882.aspx :: 179 :: 
+1-29-1	/ :: 171 :: 	Computer Books & Technology :: 172 :: 	computer-books-technology-books-H817.aspx :: 173 :: 
+1-29-2	/ :: 174 :: 	Certification Guides :: 175 :: 	computer-certification-guides-books-H879.aspx :: 176 :: 
+1-29-3	/ :: 177 :: 	General :: 178 :: 	general-computer-certification-books-H882.aspx :: 179 :: 

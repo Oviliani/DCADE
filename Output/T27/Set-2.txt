@@ -1,0 +1,77 @@
+Encoding	2	1
+Type	MD	MD
+2-0-1	Satire :: 114 :: 	http://www.allmovie.com/explore/type/satire-527 :: 115 :: 
+2-0-2	Domestic Comedy :: 116 :: 	http://www.allmovie.com/explore/type/domestic-comedy-1123 :: 117 :: 
+2-0-3	Slapstick :: 118 :: 	http://www.allmovie.com/explore/type/slapstick-524 :: 119 :: 
+2-1-1	Fantasy Comedy :: 112 :: 	http://www.allmovie.com/explore/type/fantasy-comedy-554 :: 113 :: 
+2-1-2	Workplace Comedy :: 114 :: 	http://www.allmovie.com/explore/type/workplace-comedy-1001 :: 115 :: 
+2-2-1	Romantic Comedy :: 111 :: 	http://www.allmovie.com/explore/type/romantic-comedy-529 :: 112 :: 
+2-2-2	Domestic Comedy :: 113 :: 	http://www.allmovie.com/explore/type/domestic-comedy-1123 :: 114 :: 
+2-3-1	Showbiz Comedy :: 111 :: 	http://www.allmovie.com/explore/type/showbiz-comedy-1115 :: 112 :: 
+2-3-2	Comedy of Errors :: 113 :: 	http://www.allmovie.com/explore/type/comedy-of-errors-534 :: 114 :: 
+2-3-3	Romantic Comedy :: 115 :: 	http://www.allmovie.com/explore/type/romantic-comedy-529 :: 116 :: 
+2-4-1	Showbiz Comedy :: 109 :: 	http://www.allmovie.com/explore/type/showbiz-comedy-1115 :: 110 :: 
+2-4-2	Farce :: 111 :: 	http://www.allmovie.com/explore/type/farce-530 :: 112 :: 
+2-5-1	Fantasy Comedy :: 110 :: 	http://www.allmovie.com/explore/type/fantasy-comedy-554 :: 111 :: 
+2-5-2	Fairy Tales & Legends :: 112 :: 	http://www.allmovie.com/explore/type/fairy-tales-legends-645 :: 113 :: 
+2-5-3	Children's Fantasy :: 114 :: 	http://www.allmovie.com/explore/type/childrens-fantasy-552 :: 115 :: 
+2-6-1	Absurd Comedy :: 110 :: 	http://www.allmovie.com/explore/type/absurd-comedy-622 :: 111 :: 
+2-6-2	Farce :: 112 :: 	http://www.allmovie.com/explore/type/farce-530 :: 113 :: 
+2-6-3	Showbiz Comedy :: 114 :: 	http://www.allmovie.com/explore/type/showbiz-comedy-1115 :: 115 :: 
+2-6-4	Screwball Comedy :: 116 :: 	http://www.allmovie.com/explore/type/screwball-comedy-538 :: 117 :: 
+2-7-1	Crime Comedy :: 109 :: 	http://www.allmovie.com/explore/type/crime-comedy-575 :: 110 :: 
+2-7-2	Domestic Comedy :: 111 :: 	http://www.allmovie.com/explore/type/domestic-comedy-1123 :: 112 :: 
+2-8-1	Parody/Spoof :: 113 :: 	http://www.allmovie.com/explore/type/parodyspoof-526 :: 114 :: 
+2-8-2	Comedy Western :: 115 :: 	http://www.allmovie.com/explore/type/comedy-western-599 :: 116 :: 
+2-8-3	Odd Couple Film :: 117 :: 	http://www.allmovie.com/explore/type/odd-couple-film-1274 :: 118 :: 
+2-9-1	Crime Comedy :: 108 :: 	http://www.allmovie.com/explore/type/crime-comedy-575 :: 109 :: 
+2-9-2	Sophisticated Comedy :: 110 :: 	http://www.allmovie.com/explore/type/sophisticated-comedy-532 :: 111 :: 
+2-9-3	Romantic Comedy :: 112 :: 	http://www.allmovie.com/explore/type/romantic-comedy-529 :: 113 :: 
+2-10-1	Black Comedy :: 118 :: 	http://www.allmovie.com/explore/type/black-comedy-528 :: 119 :: 
+2-10-2	Political Satire :: 120 :: 	http://www.allmovie.com/explore/type/political-satire-632 :: 121 :: 
+2-10-3	Anti-War Film :: 122 :: 	http://www.allmovie.com/explore/type/anti-war-film-955 :: 123 :: 
+2-10-4	Satire :: 124 :: 	http://www.allmovie.com/explore/type/satire-527 :: 125 :: 
+2-10-5	Military Comedy :: 126 :: 	http://www.allmovie.com/explore/type/military-comedy-537 :: 127 :: 
+2-11-1	Satire :: 110 :: 	http://www.allmovie.com/explore/type/satire-527 :: 111 :: 
+2-11-2	Road Movie :: 112 :: 	http://www.allmovie.com/explore/type/road-movie-514 :: 113 :: 
+2-11-3	Showbiz Comedy :: 114 :: 	http://www.allmovie.com/explore/type/showbiz-comedy-1115 :: 115 :: 
+2-11-4	Sophisticated Comedy :: 116 :: 	http://www.allmovie.com/explore/type/sophisticated-comedy-532 :: 117 :: 
+2-12-1	Gross-Out Comedy :: 110 :: 	http://www.allmovie.com/explore/type/gross-out-comedy-1421 :: 111 :: 
+2-12-2	Absurd Comedy :: 112 :: 	http://www.allmovie.com/explore/type/absurd-comedy-622 :: 113 :: 
+2-12-3	Sex Comedy :: 114 :: 	http://www.allmovie.com/explore/type/sex-comedy-624 :: 115 :: 
+2-13-1	Slapstick :: 104 :: 	http://www.allmovie.com/explore/type/slapstick-524 :: 105 :: 
+2-13-2	Chase Movie :: 106 :: 	http://www.allmovie.com/explore/type/chase-movie-516 :: 107 :: 
+2-14-1	Romantic Comedy :: 109 :: 	http://www.allmovie.com/explore/type/romantic-comedy-529 :: 110 :: 
+2-14-2	Sophisticated Comedy :: 111 :: 	http://www.allmovie.com/explore/type/sophisticated-comedy-532 :: 112 :: 
+2-15-1	Absurd Comedy :: 112 :: 	http://www.allmovie.com/explore/type/absurd-comedy-622 :: 113 :: 
+2-15-2	Parody/Spoof :: 114 :: 	http://www.allmovie.com/explore/type/parodyspoof-526 :: 115 :: 
+2-15-3	Slapstick :: 116 :: 	http://www.allmovie.com/explore/type/slapstick-524 :: 117 :: 
+2-16-1	Slapstick :: 112 :: 	http://www.allmovie.com/explore/type/slapstick-524 :: 113 :: 
+2-16-2	Adventure Comedy :: 114 :: 	http://www.allmovie.com/explore/type/adventure-comedy-517 :: 115 :: 
+2-17-1	Romantic Comedy :: 111 :: 	http://www.allmovie.com/explore/type/romantic-comedy-529 :: 112 :: 
+2-17-2	Screwball Comedy :: 113 :: 	http://www.allmovie.com/explore/type/screwball-comedy-538 :: 114 :: 
+2-17-3	Road Movie :: 115 :: 	http://www.allmovie.com/explore/type/road-movie-514 :: 116 :: 
+2-18-1	Comedy of Errors :: 112 :: 	http://www.allmovie.com/explore/type/comedy-of-errors-534 :: 113 :: 
+2-18-2	Sex Comedy :: 114 :: 	http://www.allmovie.com/explore/type/sex-comedy-624 :: 115 :: 
+2-18-3	Farce :: 116 :: 	http://www.allmovie.com/explore/type/farce-530 :: 117 :: 
+2-19-1	Romantic Comedy :: 113 :: 	http://www.allmovie.com/explore/type/romantic-comedy-529 :: 114 :: 
+2-19-2	Urban Comedy :: 115 :: 	http://www.allmovie.com/explore/type/urban-comedy-1004 :: 116 :: 
+2-20-1	Farce :: 110 :: 	http://www.allmovie.com/explore/type/farce-530 :: 111 :: 
+2-20-2	Satire :: 112 :: 	http://www.allmovie.com/explore/type/satire-527 :: 113 :: 
+2-20-3	Showbiz Comedy :: 114 :: 	http://www.allmovie.com/explore/type/showbiz-comedy-1115 :: 115 :: 
+2-21-1	Ensemble Film :: 114 :: 	http://www.allmovie.com/explore/type/ensemble-film-1003 :: 115 :: 
+2-22-1	Comedy of Manners :: 108 :: 	http://www.allmovie.com/explore/type/comedy-of-manners-535 :: 109 :: 
+2-22-2	Slapstick :: 110 :: 	http://www.allmovie.com/explore/type/slapstick-524 :: 111 :: 
+2-23-1	Black Comedy :: 111 :: 	http://www.allmovie.com/explore/type/black-comedy-528 :: 112 :: 
+2-23-2	Buddy Film :: 113 :: 	http://www.allmovie.com/explore/type/buddy-film-641 :: 114 :: 
+2-24-1	Urban Comedy :: 111 :: 	http://www.allmovie.com/explore/type/urban-comedy-1004 :: 112 :: 
+2-24-2	Satire :: 113 :: 	http://www.allmovie.com/explore/type/satire-527 :: 114 :: 
+2-25-1	Screwball Comedy :: 110 :: 	http://www.allmovie.com/explore/type/screwball-comedy-538 :: 111 :: 
+2-26-1	Slapstick :: 108 :: 	http://www.allmovie.com/explore/type/slapstick-524 :: 109 :: 
+2-26-2	Sea Adventure :: 110 :: 	http://www.allmovie.com/explore/type/sea-adventure-521 :: 111 :: 
+2-27-1	Musical Comedy :: 115 :: 	http://www.allmovie.com/explore/type/musical-comedy-592 :: 116 :: 
+2-27-2	Showbiz Comedy :: 117 :: 	http://www.allmovie.com/explore/type/showbiz-comedy-1115 :: 118 :: 
+2-27-3	Musical Romance :: 119 :: 	http://www.allmovie.com/explore/type/musical-romance-594 :: 120 :: 
+2-28-1	Slapstick :: 112 :: 	http://www.allmovie.com/explore/type/slapstick-524 :: 113 :: 
+2-29-1	Parody/Spoof :: 114 :: 	http://www.allmovie.com/explore/type/parodyspoof-526 :: 115 :: 
+2-29-2	Horror Comedy :: 116 :: 	http://www.allmovie.com/explore/type/horror-comedy-581 :: 117 :: 

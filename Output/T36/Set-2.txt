@@ -1,0 +1,122 @@
+Encoding	2	1
+Type	MD	MD
+2-0-1	Harlem Foreclosure Center :: 120 :: 	/foreclosure/NY/New_York,5131,Harlem/ :: 121 :: 
+2-0-2	New York Real Estate Overview :: 122 :: 	/real_estate/New_York-New_York/ :: 123 :: 
+2-0-3	New York Market Trends :: 124 :: 	/real_estate/New_York-New_York/market-trends/ :: 125 :: 
+2-0-4	New York Home Prices Map :: 126 :: 	/home_prices/New_York/New_York-heat_map/ :: 127 :: 
+2-1-1	Lower East Side Foreclosure Center :: 120 :: 	/foreclosure/NY/New_York,5159,Lower_East_Side/ :: 121 :: 
+2-1-2	New York Real Estate Overview :: 122 :: 	/real_estate/New_York-New_York/ :: 123 :: 
+2-1-3	New York Market Trends :: 124 :: 	/real_estate/New_York-New_York/market-trends/ :: 125 :: 
+2-1-4	New York Home Prices Map :: 126 :: 	/home_prices/New_York/New_York-heat_map/ :: 127 :: 
+2-2-1	Las Vegas Foreclosure Center :: 120 :: 	/foreclosure/NV/Las_Vegas,4906,Las_Vegas/ :: 121 :: 
+2-2-2	Las Vegas Real Estate Overview :: 122 :: 	/real_estate/Las_Vegas-Nevada/ :: 123 :: 
+2-2-3	Las Vegas Market Trends :: 124 :: 	/real_estate/Las_Vegas-Nevada/market-trends/ :: 125 :: 
+2-2-4	Las Vegas Home Prices Map :: 126 :: 	/home_prices/Nevada/Las_Vegas-heat_map/ :: 127 :: 
+2-3-1	Midtown East Foreclosure Center :: 120 :: 	/foreclosure/NY/New_York,5172,Midtown_East/ :: 121 :: 
+2-3-2	New York Real Estate Overview :: 122 :: 	/real_estate/New_York-New_York/ :: 123 :: 
+2-3-3	New York Market Trends :: 124 :: 	/real_estate/New_York-New_York/market-trends/ :: 125 :: 
+2-3-4	New York Home Prices Map :: 126 :: 	/home_prices/New_York/New_York-heat_map/ :: 127 :: 
+2-4-1	Fort George Foreclosure Center :: 120 :: 	/foreclosure/NY/New_York,5112,Fort_George/ :: 121 :: 
+2-4-2	New York Real Estate Overview :: 122 :: 	/real_estate/New_York-New_York/ :: 123 :: 
+2-4-3	New York Market Trends :: 124 :: 	/real_estate/New_York-New_York/market-trends/ :: 125 :: 
+2-4-4	New York Home Prices Map :: 126 :: 	/home_prices/New_York/New_York-heat_map/ :: 127 :: 
+2-5-1	Inwood Foreclosure Center :: 120 :: 	/foreclosure/NY/New_York,5140,Inwood/ :: 121 :: 
+2-5-2	New York Real Estate Overview :: 122 :: 	/real_estate/New_York-New_York/ :: 123 :: 
+2-5-3	New York Market Trends :: 124 :: 	/real_estate/New_York-New_York/market-trends/ :: 125 :: 
+2-5-4	New York Home Prices Map :: 126 :: 	/home_prices/New_York/New_York-heat_map/ :: 127 :: 
+2-6-1	Las Vegas Foreclosure Center :: 120 :: 	/foreclosure/NV/Las_Vegas,4906,Las_Vegas/ :: 121 :: 
+2-6-2	Las Vegas Real Estate Overview :: 122 :: 	/real_estate/Las_Vegas-Nevada/ :: 123 :: 
+2-6-3	Las Vegas Market Trends :: 124 :: 	/real_estate/Las_Vegas-Nevada/market-trends/ :: 125 :: 
+2-6-4	Las Vegas Home Prices Map :: 126 :: 	/home_prices/Nevada/Las_Vegas-heat_map/ :: 127 :: 
+2-7-1	Las Vegas Foreclosure Center :: 120 :: 	/foreclosure/NV/Las_Vegas,4906,Las_Vegas/ :: 121 :: 
+2-7-2	Las Vegas Real Estate Overview :: 122 :: 	/real_estate/Las_Vegas-Nevada/ :: 123 :: 
+2-7-3	Las Vegas Market Trends :: 124 :: 	/real_estate/Las_Vegas-Nevada/market-trends/ :: 125 :: 
+2-7-4	Las Vegas Home Prices Map :: 126 :: 	/home_prices/Nevada/Las_Vegas-heat_map/ :: 127 :: 
+2-8-1	Gramercy Park Foreclosure Center :: 120 :: 	/foreclosure/NY/New_York,5121,Gramercy_Park/ :: 121 :: 
+2-8-2	New York Real Estate Overview :: 122 :: 	/real_estate/New_York-New_York/ :: 123 :: 
+2-8-3	New York Market Trends :: 124 :: 	/real_estate/New_York-New_York/market-trends/ :: 125 :: 
+2-8-4	New York Home Prices Map :: 126 :: 	/home_prices/New_York/New_York-heat_map/ :: 127 :: 
+2-9-1	Washington Heights Foreclosure Center :: 120 :: 	/foreclosure/NY/New_York,5266,Washington_Heights/ :: 121 :: 
+2-9-2	New York Real Estate Overview :: 122 :: 	/real_estate/New_York-New_York/ :: 123 :: 
+2-9-3	New York Market Trends :: 124 :: 	/real_estate/New_York-New_York/market-trends/ :: 125 :: 
+2-9-4	New York Home Prices Map :: 126 :: 	/home_prices/New_York/New_York-heat_map/ :: 127 :: 
+2-10-1	Las Vegas Foreclosure Center :: 120 :: 	/foreclosure/NV/Las_Vegas,4906,Las_Vegas/ :: 121 :: 
+2-10-2	Las Vegas Real Estate Overview :: 122 :: 	/real_estate/Las_Vegas-Nevada/ :: 123 :: 
+2-10-3	Las Vegas Market Trends :: 124 :: 	/real_estate/Las_Vegas-Nevada/market-trends/ :: 125 :: 
+2-10-4	Las Vegas Home Prices Map :: 126 :: 	/home_prices/Nevada/Las_Vegas-heat_map/ :: 127 :: 
+2-11-1	Las Vegas Foreclosure Center :: 120 :: 	/foreclosure/NV/Las_Vegas,4906,Las_Vegas/ :: 121 :: 
+2-11-2	Las Vegas Real Estate Overview :: 122 :: 	/real_estate/Las_Vegas-Nevada/ :: 123 :: 
+2-11-3	Las Vegas Market Trends :: 124 :: 	/real_estate/Las_Vegas-Nevada/market-trends/ :: 125 :: 
+2-11-4	Las Vegas Home Prices Map :: 126 :: 	/home_prices/Nevada/Las_Vegas-heat_map/ :: 127 :: 
+2-12-1	Las Vegas Foreclosure Center :: 120 :: 	/foreclosure/NV/Las_Vegas,4906,Las_Vegas/ :: 121 :: 
+2-12-2	Las Vegas Real Estate Overview :: 122 :: 	/real_estate/Las_Vegas-Nevada/ :: 123 :: 
+2-12-3	Las Vegas Market Trends :: 124 :: 	/real_estate/Las_Vegas-Nevada/market-trends/ :: 125 :: 
+2-12-4	Las Vegas Home Prices Map :: 126 :: 	/home_prices/Nevada/Las_Vegas-heat_map/ :: 127 :: 
+2-13-1	Washington Heights Foreclosure Center :: 120 :: 	/foreclosure/NY/New_York,5266,Washington_Heights/ :: 121 :: 
+2-13-2	New York Real Estate Overview :: 122 :: 	/real_estate/New_York-New_York/ :: 123 :: 
+2-13-3	New York Market Trends :: 124 :: 	/real_estate/New_York-New_York/market-trends/ :: 125 :: 
+2-13-4	New York Home Prices Map :: 126 :: 	/home_prices/New_York/New_York-heat_map/ :: 127 :: 
+2-14-1	Upper West Side Foreclosure Center :: 120 :: 	/foreclosure/NY/New_York,5261,Upper_West_Side/ :: 121 :: 
+2-14-2	New York Real Estate Overview :: 122 :: 	/real_estate/New_York-New_York/ :: 123 :: 
+2-14-3	New York Market Trends :: 124 :: 	/real_estate/New_York-New_York/market-trends/ :: 125 :: 
+2-14-4	New York Home Prices Map :: 126 :: 	/home_prices/New_York/New_York-heat_map/ :: 127 :: 
+2-15-1	Las Vegas Foreclosure Center :: 120 :: 	/foreclosure/NV/Las_Vegas,4906,Las_Vegas/ :: 121 :: 
+2-15-2	Las Vegas Real Estate Overview :: 122 :: 	/real_estate/Las_Vegas-Nevada/ :: 123 :: 
+2-15-3	Las Vegas Market Trends :: 124 :: 	/real_estate/Las_Vegas-Nevada/market-trends/ :: 125 :: 
+2-15-4	Las Vegas Home Prices Map :: 126 :: 	/home_prices/Nevada/Las_Vegas-heat_map/ :: 127 :: 
+2-16-1	Las Vegas Foreclosure Center :: 120 :: 	/foreclosure/NV/Las_Vegas,4906,Las_Vegas/ :: 121 :: 
+2-16-2	Las Vegas Real Estate Overview :: 122 :: 	/real_estate/Las_Vegas-Nevada/ :: 123 :: 
+2-16-3	Las Vegas Market Trends :: 124 :: 	/real_estate/Las_Vegas-Nevada/market-trends/ :: 125 :: 
+2-16-4	Las Vegas Home Prices Map :: 126 :: 	/home_prices/Nevada/Las_Vegas-heat_map/ :: 127 :: 
+2-17-1	Las Vegas Foreclosure Center :: 120 :: 	/foreclosure/NV/Las_Vegas,4906,Las_Vegas/ :: 121 :: 
+2-17-2	Las Vegas Real Estate Overview :: 122 :: 	/real_estate/Las_Vegas-Nevada/ :: 123 :: 
+2-17-3	Las Vegas Market Trends :: 124 :: 	/real_estate/Las_Vegas-Nevada/market-trends/ :: 125 :: 
+2-17-4	Las Vegas Home Prices Map :: 126 :: 	/home_prices/Nevada/Las_Vegas-heat_map/ :: 127 :: 
+2-18-1	Upper East Side Foreclosure Center :: 120 :: 	/foreclosure/NY/New_York,5260,Upper_East_Side/ :: 121 :: 
+2-18-2	New York Real Estate Overview :: 122 :: 	/real_estate/New_York-New_York/ :: 123 :: 
+2-18-3	New York Market Trends :: 124 :: 	/real_estate/New_York-New_York/market-trends/ :: 125 :: 
+2-18-4	New York Home Prices Map :: 126 :: 	/home_prices/New_York/New_York-heat_map/ :: 127 :: 
+2-19-1	SoHo Foreclosure Center :: 120 :: 	/foreclosure/NY/New_York,5233,SoHo/ :: 121 :: 
+2-19-2	New York Real Estate Overview :: 122 :: 	/real_estate/New_York-New_York/ :: 123 :: 
+2-19-3	New York Market Trends :: 124 :: 	/real_estate/New_York-New_York/market-trends/ :: 125 :: 
+2-19-4	New York Home Prices Map :: 126 :: 	/home_prices/New_York/New_York-heat_map/ :: 127 :: 
+2-20-1	Upper West Side Foreclosure Center :: 120 :: 	/foreclosure/NY/New_York,5261,Upper_West_Side/ :: 121 :: 
+2-20-2	New York Real Estate Overview :: 122 :: 	/real_estate/New_York-New_York/ :: 123 :: 
+2-20-3	New York Market Trends :: 124 :: 	/real_estate/New_York-New_York/market-trends/ :: 125 :: 
+2-20-4	New York Home Prices Map :: 126 :: 	/home_prices/New_York/New_York-heat_map/ :: 127 :: 
+2-21-1	Upper East Side Foreclosure Center :: 120 :: 	/foreclosure/NY/New_York,5260,Upper_East_Side/ :: 121 :: 
+2-21-2	New York Real Estate Overview :: 122 :: 	/real_estate/New_York-New_York/ :: 123 :: 
+2-21-3	New York Market Trends :: 124 :: 	/real_estate/New_York-New_York/market-trends/ :: 125 :: 
+2-21-4	New York Home Prices Map :: 126 :: 	/home_prices/New_York/New_York-heat_map/ :: 127 :: 
+2-22-1	Las Vegas Foreclosure Center :: 120 :: 	/foreclosure/NV/Las_Vegas,4906,Las_Vegas/ :: 121 :: 
+2-22-2	Las Vegas Real Estate Overview :: 122 :: 	/real_estate/Las_Vegas-Nevada/ :: 123 :: 
+2-22-3	Las Vegas Market Trends :: 124 :: 	/real_estate/Las_Vegas-Nevada/market-trends/ :: 125 :: 
+2-22-4	Las Vegas Home Prices Map :: 126 :: 	/home_prices/Nevada/Las_Vegas-heat_map/ :: 127 :: 
+2-23-1	Tribeca Foreclosure Center :: 120 :: 	/foreclosure/NY/New_York,5255,Tribeca/ :: 121 :: 
+2-23-2	New York Real Estate Overview :: 122 :: 	/real_estate/New_York-New_York/ :: 123 :: 
+2-23-3	New York Market Trends :: 124 :: 	/real_estate/New_York-New_York/market-trends/ :: 125 :: 
+2-23-4	New York Home Prices Map :: 126 :: 	/home_prices/New_York/New_York-heat_map/ :: 127 :: 
+2-24-1	Las Vegas Foreclosure Center :: 120 :: 	/foreclosure/NV/Las_Vegas,4906,Las_Vegas/ :: 121 :: 
+2-24-2	Las Vegas Real Estate Overview :: 122 :: 	/real_estate/Las_Vegas-Nevada/ :: 123 :: 
+2-24-3	Las Vegas Market Trends :: 124 :: 	/real_estate/Las_Vegas-Nevada/market-trends/ :: 125 :: 
+2-24-4	Las Vegas Home Prices Map :: 126 :: 	/home_prices/Nevada/Las_Vegas-heat_map/ :: 127 :: 
+2-25-1	Las Vegas Foreclosure Center :: 120 :: 	/foreclosure/NV/Las_Vegas,4906,Las_Vegas/ :: 121 :: 
+2-25-2	Las Vegas Real Estate Overview :: 122 :: 	/real_estate/Las_Vegas-Nevada/ :: 123 :: 
+2-25-3	Las Vegas Market Trends :: 124 :: 	/real_estate/Las_Vegas-Nevada/market-trends/ :: 125 :: 
+2-25-4	Las Vegas Home Prices Map :: 126 :: 	/home_prices/Nevada/Las_Vegas-heat_map/ :: 127 :: 
+2-26-1	Upper West Side Foreclosure Center :: 120 :: 	/foreclosure/NY/New_York,5261,Upper_West_Side/ :: 121 :: 
+2-26-2	New York Real Estate Overview :: 122 :: 	/real_estate/New_York-New_York/ :: 123 :: 
+2-26-3	New York Market Trends :: 124 :: 	/real_estate/New_York-New_York/market-trends/ :: 125 :: 
+2-26-4	New York Home Prices Map :: 126 :: 	/home_prices/New_York/New_York-heat_map/ :: 127 :: 
+2-27-1	Upper East Side Foreclosure Center :: 120 :: 	/foreclosure/NY/New_York,5260,Upper_East_Side/ :: 121 :: 
+2-27-2	New York Real Estate Overview :: 122 :: 	/real_estate/New_York-New_York/ :: 123 :: 
+2-27-3	New York Market Trends :: 124 :: 	/real_estate/New_York-New_York/market-trends/ :: 125 :: 
+2-27-4	New York Home Prices Map :: 126 :: 	/home_prices/New_York/New_York-heat_map/ :: 127 :: 
+2-28-1	West Village Foreclosure Center :: 120 :: 	/foreclosure/NY/New_York,5269,West_Village/ :: 121 :: 
+2-28-2	New York Real Estate Overview :: 122 :: 	/real_estate/New_York-New_York/ :: 123 :: 
+2-28-3	New York Market Trends :: 124 :: 	/real_estate/New_York-New_York/market-trends/ :: 125 :: 
+2-28-4	New York Home Prices Map :: 126 :: 	/home_prices/New_York/New_York-heat_map/ :: 127 :: 
+2-29-1	Upper East Side Foreclosure Center :: 120 :: 	/foreclosure/NY/New_York,5260,Upper_East_Side/ :: 121 :: 
+2-29-2	New York Real Estate Overview :: 122 :: 	/real_estate/New_York-New_York/ :: 123 :: 
+2-29-3	New York Market Trends :: 124 :: 	/real_estate/New_York-New_York/market-trends/ :: 125 :: 
+2-29-4	New York Home Prices Map :: 126 :: 	/home_prices/New_York/New_York-heat_map/ :: 127 :: 

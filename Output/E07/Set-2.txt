@@ -1,0 +1,77 @@
+Encoding	1	1	1	2	1
+Type	OD	OD	OD	OD	OD
+2-0-1	Toronto Blue Jays :: 619 :: 	Right Fielder :: 620 :: 	27 :: 621 :: 	Montgomery, Steve L. (DL) :: 622 :: 	/u/baseball/mlb/players/player_21469.htm :: 623 :: 
+2-0-2	San Diego Padres :: 624 :: 	Relief Pitcher :: 625 :: 	47 :: 626 :: 	Moody, Eric :: 627 :: 	/u/baseball/mlb/players/player_21470.htm :: 628 :: 
+2-0-3	San Diego Padres :: 629 :: 	Relief Pitcher :: 630 :: 	6 :: 631 :: 	Mora, Melvin :: 632 :: 	/u/baseball/mlb/players/player_27501.htm :: 633 :: 
+2-0-4	New York Mets :: 634 :: 	Short Stop :: 635 :: 	12 :: 636 :: 	Morandini, Mickey :: 637 :: 	/u/baseball/mlb/players/player_7901.htm :: 638 :: 
+2-0-5	Philadelphia Phillies :: 639 :: 	Second Baseman :: 640 :: 	12 :: 641 :: 	Mordecai, Mike :: 642 :: 	/u/baseball/mlb/players/player_7902.htm :: 643 :: 
+2-0-6	Montreal Expos :: 644 :: 	Third Baseman :: 645 :: 	45 :: 646 :: 	Moreno, Orber (DL) :: 647 :: 	/u/baseball/mlb/players/player_21646.htm :: 648 :: 
+2-0-7	Kansas City Royals :: 649 :: 	Relief Pitcher :: 650 :: 	36 :: 651 :: 	Morgan, Mike :: 652 :: 	/u/baseball/mlb/players/player_7903.htm :: 653 :: 
+2-0-8	Arizona Diamondbacks :: 654 :: 	Relief Pitcher :: 655 :: 	25 :: 656 :: 	Morris, Hal :: 657 :: 	/u/baseball/mlb/players/player_7906.htm :: 658 :: 
+2-0-9	Detroit Tigers :: 659 :: 	First Baseman :: 660 :: 	35 :: 661 :: 	Morris, Matt :: 662 :: 	/u/baseball/mlb/players/player_7905.htm :: 663 :: 
+2-1-1	Oakland Athletics :: 250 :: 	Relief Pitcher :: 251 :: 	 	 	 
+2-2-1	Detroit Tigers :: 430 :: 	Catcher :: 431 :: 	37 :: 432 :: 	Aven, Bruce :: 433 :: 	/u/baseball/mlb/players/player_127042.htm :: 434 :: 
+2-2-2	Pittsburgh Pirates :: 435 :: 	Right Fielder :: 436 :: 	32 :: 437 :: 	Avery, Steve (DL) :: 438 :: 	/u/baseball/mlb/players/player_7396.htm :: 439 :: 
+2-2-3	Atlanta Braves :: 440 :: 	Starting Pitcher :: 441 :: 	36 :: 442 :: 	 	 
+2-3-1	Cleveland Indians :: 597 :: 	Relief Pitcher :: 598 :: 	67 :: 599 :: 	Brito, Tilson :: 600 :: 	/u/baseball/mlb/players/player_127051.htm :: 601 :: 
+2-3-2	Detroit Tigers :: 602 :: 	Second Baseman :: 603 :: 	26 :: 604 :: 	Brocail, Doug :: 605 :: 	/u/baseball/mlb/players/player_7464.htm :: 606 :: 
+2-3-3	Detroit Tigers :: 607 :: 	Relief Pitcher :: 608 :: 	55 :: 609 :: 	Brock, Chris :: 610 :: 	/u/baseball/mlb/players/player_11854.htm :: 611 :: 
+2-3-4	Philadelphia Phillies :: 612 :: 	Relief Pitcher :: 613 :: 	2 :: 614 :: 	Brogna, Rico :: 615 :: 	/u/baseball/mlb/players/player_7465.htm :: 616 :: 
+2-3-5	Philadelphia Phillies :: 617 :: 	First Baseman :: 618 :: 	18 :: 619 :: 	Brosius, Scott :: 620 :: 	/u/baseball/mlb/players/player_7466.htm :: 621 :: 
+2-3-6	New York Yankees :: 622 :: 	Third Baseman :: 623 :: 	13 :: 624 :: 	Brown, Adrian (DL) :: 625 :: 	/u/baseball/mlb/players/player_13197.htm :: 626 :: 
+2-3-7	Pittsburgh Pirates :: 627 :: 	Center Fielder :: 628 :: 	37 :: 629 :: 	Brown, Brant :: 630 :: 	/u/baseball/mlb/players/player_7468.htm :: 631 :: 
+2-3-8	Chicago Cubs :: 632 :: 	Left Fielder :: 633 :: 	14 :: 634 :: 	Brown, Emil :: 635 :: 	/u/baseball/mlb/players/player_18577.htm :: 636 :: 
+2-3-9	Pittsburgh Pirates :: 637 :: 	Right Fielder :: 638 :: 	49 :: 639 :: 	Brown, Jamie :: 640 :: 	/u/baseball/mlb/players/player_123374.htm :: 641 :: 
+2-3-10	Cleveland Indians :: 642 :: 	Pitcher :: 643 :: 	27 :: 644 :: 	Brown, Kevin K. :: 645 :: 	/u/baseball/mlb/players/player_7469.htm :: 646 :: 
+2-3-11	Los Angeles Dodgers :: 647 :: 	Starting Pitcher :: 648 :: 	88 :: 649 :: 	Bruske, Jim (DL) :: 650 :: 	/u/baseball/mlb/players/player_7471.htm :: 651 :: 
+2-3-12	Milwaukee Brewers :: 652 :: 	Relief Pitcher :: 653 :: 	56 :: 654 :: 	 	 
+2-4-1	 	 	67 :: 512 :: 	Cordova, Francisco (DL) :: 513 :: 	/u/baseball/mlb/players/player_7532.htm :: 514 :: 
+2-4-2	Pittsburgh Pirates :: 515 :: 	Starting Pitcher :: 516 :: 	15 :: 517 :: 	Cordova, Marty :: 518 :: 	/u/baseball/mlb/players/player_7533.htm :: 519 :: 
+2-4-3	Toronto Blue Jays :: 520 :: 	Left Fielder :: 521 :: 	37 :: 522 :: 	Cormier, Rheal :: 523 :: 	/u/baseball/mlb/players/player_127060.htm :: 524 :: 
+2-4-4	Boston Red Sox :: 525 :: 	Relief Pitcher :: 526 :: 	38 :: 527 :: 	Cornelius, Reid :: 528 :: 	/u/baseball/mlb/players/player_127061.htm :: 529 :: 
+2-4-5	Florida Marlins :: 530 :: 	Starting Pitcher :: 531 :: 	51 :: 532 :: 	Cortes, Dave (DL) :: 533 :: 	/u/baseball/mlb/players/player_23512.htm :: 534 :: 
+2-4-6	Atlanta Braves :: 535 :: 	Relief Pitcher :: 536 :: 	4 :: 537 :: 	Counsell, Craig :: 538 :: 	/u/baseball/mlb/players/player_7535.htm :: 539 :: 
+2-4-7	Arizona Diamondbacks :: 540 :: 	Third Baseman :: 541 :: 	28 :: 542 :: 	Cox, Steve :: 543 :: 	/u/baseball/mlb/players/player_23536.htm :: 544 :: 
+2-4-8	Tampa Bay Devil Rays :: 545 :: 	First Baseman :: 546 :: 	23 :: 547 :: 	Crabtree, Tim :: 548 :: 	/u/baseball/mlb/players/player_7536.htm :: 549 :: 
+2-4-9	Texas Rangers :: 550 :: 	Relief Pitcher :: 551 :: 	72 :: 552 :: 	Crawford, Joe :: 553 :: 	/u/baseball/mlb/players/player_174776.htm :: 554 :: 
+2-4-10	Milwaukee Brewers :: 555 :: 	Relief Pitcher :: 556 :: 	38 :: 557 :: 	Creek, Doug :: 558 :: 	/u/baseball/mlb/players/player_123315.htm :: 559 :: 
+2-4-11	Tampa Bay Devil Rays :: 560 :: 	Relief Pitcher :: 561 :: 	52 :: 562 :: 	Crespo, Felipe :: 563 :: 	/u/baseball/mlb/players/player_7537.htm :: 564 :: 
+2-4-12	San Francisco Giants :: 565 :: 	Left Fielder :: 566 :: 	59 :: 567 :: 	 	 
+2-5-1	San Diego Padres :: 408 :: 	Relief Pitcher :: 409 :: 	12 :: 410 :: 	Dunston, Shawon :: 411 :: 	/u/baseball/mlb/players/player_7572.htm :: 412 :: 
+2-5-2	 	 	 	St. Louis Cardinals :: 413 :: 	 
+2-5-3	Left Fielder :: 414 :: 	 	7 :: 415 :: 	Dunwoody, Todd :: 416 :: 	/u/baseball/mlb/players/player_10994.htm :: 417 :: 
+2-5-4	Kansas City Royals :: 418 :: 	Left Fielder :: 419 :: 	44 :: 420 :: 	Durazo, Erubiel :: 421 :: 	/u/baseball/mlb/players/player_129269.htm :: 422 :: 
+2-5-5	Arizona Diamondbacks :: 423 :: 	First Baseman :: 424 :: 	33 :: 425 :: 	Durbin, Chad :: 426 :: 	/u/baseball/mlb/players/player_154181.htm :: 427 :: 
+2-5-6	Kansas City Royals :: 428 :: 	Starting Pitcher :: 429 :: 	5 :: 430 :: 	Durham, Ray :: 431 :: 	/u/baseball/mlb/players/player_7574.htm :: 432 :: 
+2-5-7	Chicago White Sox :: 433 :: 	Second Baseman :: 434 :: 	24 :: 435 :: 	Dye, Jermaine :: 436 :: 	/u/baseball/mlb/players/player_10873.htm :: 437 :: 
+2-5-8	Kansas City Royals :: 438 :: 	Right Fielder :: 439 :: 	 	 	 
+2-6-1	Detroit Tigers :: 340 :: 	Relief Pitcher :: 341 :: 	6 :: 342 :: 	Evans, Tom (DL) :: 343 :: 	/u/baseball/mlb/players/player_10696.htm :: 344 :: 
+2-6-2	Texas Rangers :: 345 :: 	Third Baseman :: 346 :: 	2 :: 347 :: 	Everett, Carl :: 348 :: 	/u/baseball/mlb/players/player_7592.htm :: 349 :: 
+2-6-3	Boston Red Sox :: 350 :: 	Center Fielder :: 351 :: 	 	 	 
+2-7-1	Montreal Expos :: 330 :: 	Relief Pitcher :: 331 :: 	67 :: 332 :: 	Foster, Kris (DL) :: 333 :: 	/u/baseball/mlb/players/player_174905.htm :: 334 :: 
+2-7-2	Los Angeles Dodgers :: 335 :: 	Relief Pitcher :: 336 :: 	29 :: 337 :: 	Foulke, Keith :: 338 :: 	/u/baseball/mlb/players/player_7611.htm :: 339 :: 
+2-7-3	Chicago White Sox :: 340 :: 	Relief Pitcher :: 341 :: 	6 :: 342 :: 	Fox, Andy :: 343 :: 	/u/baseball/mlb/players/player_7612.htm :: 344 :: 
+2-7-4	Florida Marlins :: 345 :: 	Third Baseman :: 346 :: 	40 :: 347 :: 	Fox, Chad (DL) :: 348 :: 	/u/baseball/mlb/players/player_7613.htm :: 349 :: 
+2-7-5	Milwaukee Brewers :: 350 :: 	Relief Pitcher :: 351 :: 	45 :: 352 :: 	Franco, John :: 353 :: 	/u/baseball/mlb/players/player_7614.htm :: 354 :: 
+2-7-6	New York Mets :: 355 :: 	Relief Pitcher :: 356 :: 	15 :: 357 :: 	Franco, Matt :: 358 :: 	/u/baseball/mlb/players/player_7615.htm :: 359 :: 
+2-7-7	New York Mets :: 360 :: 	First Baseman :: 361 :: 	53 :: 362 :: 	Franklin, Wayne :: 363 :: 	/u/baseball/mlb/players/player_174906.htm :: 364 :: 
+2-7-8	Houston Astros :: 365 :: 	Relief Pitcher :: 366 :: 	52 :: 367 :: 	Frascatore, John :: 368 :: 	/u/baseball/mlb/players/player_7616.htm :: 369 :: 
+2-7-9	Toronto Blue Jays :: 370 :: 	Relief Pitcher :: 371 :: 	2 :: 372 :: 	Frias, Hanley :: 373 :: 	/u/baseball/mlb/players/player_8228.htm :: 374 :: 
+2-7-10	Arizona Diamondbacks :: 375 :: 	Second Baseman :: 376 :: 	3 :: 377 :: 	Frye, Jeff :: 378 :: 	/u/baseball/mlb/players/player_7619.htm :: 379 :: 
+2-7-11	Boston Red Sox :: 380 :: 	Second Baseman :: 381 :: 	17 :: 382 :: 	Fryman, Travis :: 383 :: 	/u/baseball/mlb/players/player_7620.htm :: 384 :: 
+2-7-12	Cleveland Indians :: 385 :: 	Third Baseman :: 386 :: 	20 :: 387 :: 	 	 
+2-8-1	 	 	 	Greisinger, Seth (DL) :: 443 :: 	/u/baseball/mlb/players/player_11171.htm :: 444 :: 
+2-8-2	Detroit Tigers :: 445 :: 	Starting Pitcher :: 446 :: 	14 :: 447 :: 	Grieve, Ben :: 448 :: 	/u/baseball/mlb/players/player_7663.htm :: 449 :: 
+2-8-3	Oakland Athletics :: 450 :: 	Left Fielder :: 451 :: 	30 :: 452 :: 	Griffey, Ken :: 453 :: 	/u/baseball/mlb/players/player_7664.htm :: 454 :: 
+2-8-4	Cincinnati Reds :: 455 :: 	Center Fielder :: 456 :: 	38 :: 457 :: 	Grimsley, Jason :: 458 :: 	/u/baseball/mlb/players/player_127171.htm :: 459 :: 
+2-8-5	New York Yankees :: 460 :: 	Relief Pitcher :: 461 :: 	9 :: 462 :: 	Grissom, Marquis :: 463 :: 	/u/baseball/mlb/players/player_7665.htm :: 464 :: 
+2-8-6	Milwaukee Brewers :: 465 :: 	Center Fielder :: 466 :: 	27 :: 467 :: 	Groom, Buddy :: 468 :: 	/u/baseball/mlb/players/player_7666.htm :: 469 :: 
+2-8-7	Baltimore Orioles :: 470 :: 	Relief Pitcher :: 471 :: 	8 :: 472 :: 	Grudzielanek, Mark :: 473 :: 	/u/baseball/mlb/players/player_7667.htm :: 474 :: 
+2-8-8	Los Angeles Dodgers :: 475 :: 	Second Baseman :: 476 :: 	18 :: 477 :: 	Guardado, Eddie :: 478 :: 	/u/baseball/mlb/players/player_7668.htm :: 479 :: 
+2-8-9	Minnesota Twins :: 480 :: 	Relief Pitcher :: 481 :: 	27 :: 482 :: 	 	 
+2-9-1	Relief Pitcher :: 496 :: 	 	71 :: 497 :: 	Hubbard, Mike :: 498 :: 	/u/baseball/mlb/players/player_7733.htm :: 499 :: 
+2-9-2	Cincinnati Reds :: 500 :: 	Catcher :: 501 :: 	27 :: 502 :: 	Hubbard, Trenidad :: 503 :: 	/u/baseball/mlb/players/player_7734.htm :: 504 :: 
+2-9-3	Atlanta Braves :: 505 :: 	Left Fielder :: 506 :: 	60 :: 507 :: 	Huckaby, Ken :: 508 :: 	/u/baseball/mlb/players/player_128964.htm :: 509 :: 
+2-9-4	Arizona Diamondbacks :: 510 :: 	Catcher :: 511 :: 	15 :: 512 :: 	Hudson, Tim :: 513 :: 	/u/baseball/mlb/players/player_132684.htm :: 514 :: 
+2-9-5	Oakland Athletics :: 515 :: 	Starting Pitcher :: 516 :: 	47 :: 517 :: 	Huisman, Rick :: 518 :: 	/u/baseball/mlb/players/player_174918.htm :: 519 :: 
+2-9-6	Houston Astros :: 520 :: 	Relief Pitcher :: 521 :: 	15 :: 522 :: 	 	 
