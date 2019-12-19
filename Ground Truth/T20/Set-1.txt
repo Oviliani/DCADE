@@ -1,0 +1,602 @@
+Encoding	2	1	3	2
+Type	MD	MD	MD	MD
+1-0-1	Abu Ghazaleh , Samir :: 217 :: 	/find_doctor/abu_ghazaleh_samir_id238268.html :: 218 :: 	SAME TOWN :: 219 :: 	Obstetrics-Gynecology :: 220 :: 
+1-0-2	Aldrich , Marc N :: 221 :: 	/find_doctor/aldrich_marc_n_id165273.html :: 222 :: 	SAME TOWN :: 223 :: 	Internal Medicine :: 224 :: 
+1-0-3	Alpers , Josie R :: 225 :: 	/find_doctor/alpers_josie_r_id10978.html :: 226 :: 	SAME TOWN :: 227 :: 	Diagnostic Radiology :: 228 :: 
+1-0-4	Alpers , Josie R :: 229 :: 	/find_doctor/alpers_josie_r_id32550.html :: 230 :: 	SAME TOWN :: 231 :: 	Diagnostic Radiology :: 232 :: 
+1-0-5	Amiotte , Lisa C :: 233 :: 	/find_doctor/amiotte_lisa_c_id135134.html :: 234 :: 	SAME TOWN :: 235 :: 	Psychiatry :: 236 :: 
+1-0-6	Andersen , Jason L :: 237 :: 	/find_doctor/andersen_jason_l_id164211.html :: 238 :: 	SAME TOWN :: 239 :: 	Psychiatry :: 240 :: 
+1-0-7	Anderson , Douglas L :: 241 :: 	/find_doctor/anderson_douglas_l_id246857.html :: 242 :: 	SAME TOWN :: 243 :: 	Medical Expert :: 244 :: 
+1-0-8	Andreone , Peter A :: 245 :: 	/find_doctor/andreone_peter_a_id255048.html :: 246 :: 	SAME TOWN :: 247 :: 	General Surgery :: 248 :: 
+1-0-9	Andrus , Milan S :: 249 :: 	/find_doctor/andrus_milan_s_id248531.html :: 250 :: 	SAME TOWN :: 251 :: 	Diagnostic Radiology :: 252 :: 
+1-0-10	Askew , Tracey A :: 253 :: 	/find_doctor/askew_tracey_a_id222895.html :: 254 :: 	SAME TOWN :: 255 :: 	Medical Expert :: 256 :: 
+1-0-11	Aspaas , P Ken Jr :: 257 :: 	/find_doctor/aspaas_p_ken_jr_id10488.html :: 258 :: 	SAME TOWN :: 259 :: 	Internal Medicine :: 260 :: 
+1-0-12	Augspurger , Ken D :: 261 :: 	/find_doctor/augspurger_ken_d_id80761.html :: 262 :: 	SAME TOWN :: 263 :: 	Ophthalmology :: 264 :: 
+1-0-13	Awadallah , Sami M :: 265 :: 	/find_doctor/awadallah_sami_m_id153720.html :: 266 :: 	SAME TOWN :: 267 :: 	Pediatric Medicine :: 268 :: 
+1-0-14	Awadallah , Sami M :: 269 :: 	/find_doctor/awadallah_sami_m_id174409.html :: 270 :: 	SAME TOWN :: 271 :: 	Cardiology :: 272 :: 
+1-0-15	Backes , Richard J :: 273 :: 	/find_doctor/backes_richard_j_id199592.html :: 274 :: 	SAME TOWN :: 275 :: 	Cardiology :: 276 :: 
+1-0-16	Backes , Richard J :: 277 :: 	/find_doctor/backes_richard_j_id212784.html :: 278 :: 	SAME TOWN :: 279 :: 	Cardiology :: 280 :: 
+1-0-17	Baka , Jeffery J :: 281 :: 	/find_doctor/baka_jeffery_j_id220409.html :: 282 :: 	SAME TOWN :: 283 :: 	Diagnostic Radiology :: 284 :: 
+1-0-18	Balaban , Bernard :: 285 :: 	/find_doctor/balaban_bernard_id336.html :: 286 :: 	SAME TOWN :: 287 :: 	Oral Surgery :: 288 :: 
+1-0-19	Bandettini , Francis C :: 289 :: 	/find_doctor/bandettini_francis_c_id91286.html :: 290 :: 	SAME TOWN :: 291 :: 	Psychiatry :: 292 :: 
+1-0-20	Barnett , James M :: 293 :: 	/find_doctor/barnett_james_m_id65378.html :: 294 :: 	SAME TOWN :: 295 :: 	Optometry :: 296 :: 
+1-1-1	Adams , Craig V :: 217 :: 	/find_doctor/adams_craig_v_id119035.html :: 218 :: 	SAME TOWN :: 219 :: 	Cardiac Surgery :: 220 :: 
+1-1-2	Aggarwal , Vishal :: 221 :: 	/find_doctor/aggarwal_vishal_id115637.html :: 222 :: 	SAME TOWN :: 223 :: 	Internal Medicine :: 224 :: 
+1-1-3	Akers , David L :: 225 :: 	/find_doctor/akers_david_l_id82676.html :: 226 :: 	SAME TOWN :: 227 :: 	Anesthesiology :: 228 :: 
+1-1-4	Alfrey , Laurie :: 229 :: 	/find_doctor/alfrey_laurie_id233327.html :: 230 :: 	SAME TOWN :: 231 :: 	Pediatric Medicine :: 232 :: 
+1-1-5	Alyaseen , Samer :: 233 :: 	/find_doctor/alyaseen_samer_id72085.html :: 234 :: 	SAME TOWN :: 235 :: 	Internal Medicine :: 236 :: 
+1-1-6	Alyaseen , Samer :: 237 :: 	/find_doctor/alyaseen_samer_id198585.html :: 238 :: 	SAME TOWN :: 239 :: 	Internal Medicine :: 240 :: 
+1-1-7	Aspenson , Donald E :: 241 :: 	/find_doctor/aspenson_donald_e_id133667.html :: 242 :: 	SAME TOWN :: 243 :: 	Endocrinology :: 244 :: 
+1-1-8	Babb , Tamie Sue :: 245 :: 	/find_doctor/babb_tamie_sue_id179445.html :: 246 :: 	SAME TOWN :: 247 :: 	Obstetrics-Gynecology :: 248 :: 
+1-1-9	Barnes , Lindsey B :: 249 :: 	/find_doctor/barnes_lindsey_b_id10054.html :: 250 :: 	SAME TOWN :: 251 :: 	Family Practice :: 252 :: 
+1-1-10	Battles , Paul E :: 253 :: 	/find_doctor/battles_paul_e_id4050.html :: 254 :: 	SAME TOWN :: 255 :: 	Family Practice :: 256 :: 
+1-1-11	Battoe , Mary K :: 257 :: 	/find_doctor/battoe_mary_k_id30352.html :: 258 :: 	SAME TOWN :: 259 :: 	Physician Assistant :: 260 :: 
+1-1-12	Beeson , James H :: 261 :: 	/find_doctor/beeson_james_h_id112183.html :: 262 :: 	SAME TOWN :: 263 :: 	Obstetrics-Gynecology :: 264 :: 
+1-1-13	Bertus , Matthew S :: 265 :: 	/find_doctor/bertus_matthew_s_id35323.html :: 266 :: 	SAME TOWN :: 267 :: 	Physician Assistant :: 268 :: 
+1-1-14	Bhandari , Rajesh :: 269 :: 	/find_doctor/bhandari_rajesh_id217231.html :: 270 :: 	SAME TOWN :: 271 :: 	Internal Medicine :: 272 :: 
+1-1-15	Biggs , Jason P :: 273 :: 	/find_doctor/biggs_jason_p_id219653.html :: 274 :: 	SAME TOWN :: 275 :: 	Anesthesiology :: 276 :: 
+1-1-16	Blake , Christine F :: 277 :: 	/find_doctor/blake_christine_f_id123904.html :: 278 :: 	SAME TOWN :: 279 :: 	Obstetrics-Gynecology :: 280 :: 
+1-1-17	Block , Robert W :: 281 :: 	/find_doctor/block_robert_w_id198181.html :: 282 :: 	SAME TOWN :: 283 :: 	Pediatric Medicine :: 284 :: 
+1-1-18	Boden , Carlene K :: 285 :: 	/find_doctor/boden_carlene_k_id215331.html :: 286 :: 	SAME TOWN :: 287 :: 	Physician Assistant :: 288 :: 
+1-1-19	Bovasso , Stephen G :: 289 :: 	/find_doctor/bovasso_stephen_g_id38045.html :: 290 :: 	SAME TOWN :: 291 :: 	Anesthesiology :: 292 :: 
+1-1-20	Brister , Shirley J :: 293 :: 	/find_doctor/brister_shirley_j_id158791.html :: 294 :: 	SAME TOWN :: 295 :: 	Medical Expert :: 296 :: 
+1-2-1	Abdelghani , Wael Mohame :: 219 :: 	/find_doctor/abdelghani_wael_mohame_id267578.html :: 220 :: 	SAME TOWN :: 221 :: 	Medical Expert :: 222 :: 
+1-2-2	Abdullah , Raed Saed :: 223 :: 	/find_doctor/abdullah_raed_saed_id255125.html :: 224 :: 	SAME TOWN :: 225 :: 	Anesthesiology :: 226 :: 
+1-2-3	Abla , Adman :: 227 :: 	/find_doctor/abla_adman_id136399.html :: 228 :: 	SAME TOWN :: 229 :: 	Neurosurgery :: 230 :: 
+1-2-4	Ackerman , Kurt D :: 231 :: 	/find_doctor/ackerman_kurt_d_id143666.html :: 232 :: 	SAME TOWN :: 233 :: 	Psychiatry :: 234 :: 
+1-2-5	Adler , Lauri J :: 235 :: 	/find_doctor/adler_lauri_j_id233961.html :: 236 :: 	SAME TOWN :: 237 :: 	Anesthesiology :: 238 :: 
+1-2-6	Agarwala , Sanjiv S :: 239 :: 	/find_doctor/agarwala_sanjiv_s_id95709.html :: 240 :: 	SAME TOWN :: 241 :: 	Medical Oncology :: 242 :: 
+1-2-7	Aggarwal , Shushma :: 243 :: 	/find_doctor/aggarwal_shushma_id10025.html :: 244 :: 	SAME TOWN :: 245 :: 	Anesthesiology :: 246 :: 
+1-2-8	Ahmad , Ferhaan :: 247 :: 	/find_doctor/ahmad_ferhaan_id126907.html :: 248 :: 	SAME TOWN :: 249 :: 	Cardiology :: 250 :: 
+1-2-9	Aizenstein , Howard Jay :: 251 :: 	/find_doctor/aizenstein_howard_jay_id228028.html :: 252 :: 	SAME TOWN :: 253 :: 	Psychiatry :: 254 :: 
+1-2-10	Akhtar , Ubaid Ahmad :: 255 :: 	/find_doctor/akhtar_ubaid_ahmad_id94757.html :: 256 :: 	PITTSBURH (0.00 miles) :: 257 :: 	Diagnostic Radiology :: 258 :: 
+1-2-11	Alam , Zulfaqar :: 259 :: 	/find_doctor/alam_zulfaqar_id73235.html :: 260 :: 	SAME TOWN :: 261 :: 	Anesthesiology :: 262 :: 
+1-2-12	Albo , Vincent C :: 263 :: 	/find_doctor/albo_vincent_c_id261123.html :: 264 :: 	SAME TOWN :: 265 :: 	Hematology-Oncology :: 266 :: 
+1-2-13	Albright , A Leland :: 267 :: 	/find_doctor/albright_a_leland_id173115.html :: 268 :: 	SAME TOWN :: 269 :: 	Neurosurgery :: 270 :: 
+1-2-14	Allour , Shirley D :: 271 :: 	/find_doctor/allour_shirley_d_id231468.html :: 272 :: 	SAME TOWN :: 273 :: 	Medical Expert :: 274 :: 
+1-2-15	Almusa , Emad :: 275 :: 	/find_doctor/almusa_emad_id18805.html :: 276 :: 	SAME TOWN :: 277 :: 	Diagnostic Radiology :: 278 :: 
+1-2-16	Ambrose , Joseph Lee :: 279 :: 	/find_doctor/ambrose_joseph_lee_id208967.html :: 280 :: 	SAME TOWN :: 281 :: 	Diagnostic Radiology :: 282 :: 
+1-2-17	Amesur , Nikhil B :: 283 :: 	/find_doctor/amesur_nikhil_b_id211626.html :: 284 :: 	SAME TOWN :: 285 :: 	Diagnostic Radiology :: 286 :: 
+1-2-18	Amin , Rajnikant M :: 287 :: 	/find_doctor/amin_rajnikant_m_id126724.html :: 288 :: 	SAME TOWN :: 289 :: 	Pathology :: 290 :: 
+1-2-19	Amin , Rajnikant M :: 291 :: 	/find_doctor/amin_rajnikant_m_id203320.html :: 292 :: 	SAME TOWN :: 293 :: 	Pathology :: 294 :: 
+1-2-20	Amundson , Gary Mark :: 295 :: 	/find_doctor/amundson_gary_mark_id91269.html :: 296 :: 	SAME TOWN :: 297 :: 	Diagnostic Radiology :: 298 :: 
+1-3-1	Abitbol , Jean J :: 217 :: 	/find_doctor/abitbol_jean_j_id191364.html :: 218 :: 	SAME TOWN :: 219 :: 	Orthopedic Surgery :: 220 :: 
+1-3-2	Adams , James M :: 221 :: 	/find_doctor/adams_james_m_id268228.html :: 222 :: 	SAME TOWN :: 223 :: 	Internal Medicine :: 224 :: 
+1-3-3	Adams , Susan B :: 225 :: 	/find_doctor/adams_susan_b_id154612.html :: 226 :: 	SAME TOWN :: 227 :: 	Medical Expert :: 228 :: 
+1-3-4	Adrian , Mark C :: 229 :: 	/find_doctor/adrian_mark_c_id133384.html :: 230 :: 	SAME TOWN :: 231 :: 	Internal Medicine :: 232 :: 
+1-3-5	Alksne , John F :: 233 :: 	/find_doctor/alksne_john_f_id57790.html :: 234 :: 	SAME TOWN :: 235 :: 	Neurosurgery :: 236 :: 
+1-3-6	Allen , Edward C :: 237 :: 	/find_doctor/allen_edward_c_id152136.html :: 238 :: 	SAME TOWN :: 239 :: 	Psychiatry :: 240 :: 
+1-3-7	Alpert , Morton E :: 241 :: 	/find_doctor/alpert_morton_e_id56933.html :: 242 :: 	SAME TOWN :: 243 :: 	Gastroenterology :: 244 :: 
+1-3-8	Anapoell , William S :: 245 :: 	/find_doctor/anapoell_william_s_id263802.html :: 246 :: 	SAME TOWN :: 247 :: 	Internal Medicine :: 248 :: 
+1-3-9	Andrews , Robert J :: 249 :: 	/find_doctor/andrews_robert_j_id56342.html :: 250 :: 	SAME TOWN :: 251 :: 	Otolaryngology :: 252 :: 
+1-3-10	Angle , Niren :: 253 :: 	/find_doctor/angle_niren_id206041.html :: 254 :: 	SAME TOWN :: 255 :: 	Vascular Surgery :: 256 :: 
+1-3-11	Anthony , Julian N :: 257 :: 	/find_doctor/anthony_julian_n_id247049.html :: 258 :: 	SAME TOWN :: 259 :: 	Urology :: 260 :: 
+1-3-12	Atkins , Gus G :: 261 :: 	/find_doctor/atkins_gus_g_id103847.html :: 262 :: 	SAME TOWN :: 263 :: 	Anesthesiology :: 264 :: 
+1-3-13	Atkins , Gus G :: 265 :: 	/find_doctor/atkins_gus_g_id238208.html :: 266 :: 	SAME TOWN :: 267 :: 	Anesthesiology :: 268 :: 
+1-3-14	Atwater , Benjamin I :: 269 :: 	/find_doctor/atwater_benjamin_i_id108596.html :: 270 :: 	SAME TOWN :: 271 :: 	Anesthesiology :: 272 :: 
+1-3-15	Atwater , Benjamin I :: 273 :: 	/find_doctor/atwater_benjamin_i_id254978.html :: 274 :: 	SAME TOWN :: 275 :: 	Anesthesiology :: 276 :: 
+1-3-16	Aucreman , Charles J :: 277 :: 	/find_doctor/aucreman_charles_j_id255384.html :: 278 :: 	SAME TOWN :: 279 :: 	Diagnostic Radiology :: 280 :: 
+1-3-17	Bailey , Bradley :: 281 :: 	/find_doctor/bailey_bradley_id183548.html :: 282 :: 	SAME TOWN :: 283 :: 	Emergency Medicine :: 284 :: 
+1-3-18	Ball , Edward D :: 285 :: 	/find_doctor/ball_edward_d_id4396.html :: 286 :: 	SAME TOWN :: 287 :: 	Hematology-Oncology :: 288 :: 
+1-3-19	Ballon-Landa , Gonzalo R :: 289 :: 	/find_doctor/ballon_landa_gonzalo_r_id4664.html :: 290 :: 	SAME TOWN :: 291 :: 	Infectious Disease :: 292 :: 
+1-3-20	Ballon-Landa , Gonzalo R :: 293 :: 	/find_doctor/ballon_landa_gonzalo_r_id181267.html :: 294 :: 	SAME TOWN :: 295 :: 	Infectious Disease :: 296 :: 
+1-4-1	Baker , Jay P :: 217 :: 	/find_doctor/baker_jay_p_id104457.html :: 218 :: 	SAME TOWN :: 219 :: 	Anesthesiology :: 220 :: 
+1-4-2	Billings , Christopher :: 221 :: 	/find_doctor/billings_christopher_id27623.html :: 222 :: 	SAME TOWN :: 223 :: 	Family Practice :: 224 :: 
+1-4-3	Burke , Daniel J :: 225 :: 	/find_doctor/burke_daniel_j_id29547.html :: 226 :: 	SAME TOWN :: 227 :: 	Emergency Medicine :: 228 :: 
+1-4-4	Burkindine , Donald W :: 229 :: 	/find_doctor/burkindine_donald_w_id84282.html :: 230 :: 	SAME TOWN :: 231 :: 	General Practice :: 232 :: 
+1-4-5	Cole , John R :: 233 :: 	/find_doctor/cole_john_r_id155349.html :: 234 :: 	SAME TOWN :: 235 :: 	Physician Assistant :: 236 :: 
+1-4-6	Crow , Samuel A Ii :: 237 :: 	/find_doctor/crow_samuel_a_ii_id125524.html :: 238 :: 	SAME TOWN :: 239 :: 	Family Practice :: 240 :: 
+1-4-7	Dahlberg , Thomas E :: 241 :: 	/find_doctor/dahlberg_thomas_e_id36807.html :: 242 :: 	SAME TOWN :: 243 :: 	Family Practice :: 244 :: 
+1-4-8	Delport , Brendon :: 245 :: 	/find_doctor/delport_brendon_id115047.html :: 246 :: 	SAME TOWN :: 247 :: 	Ophthalmology :: 248 :: 
+1-4-9	Emenecker , Mark D :: 249 :: 	/find_doctor/emenecker_mark_d_id172379.html :: 250 :: 	SAME TOWN :: 251 :: 	Family Practice :: 252 :: 
+1-4-10	Halley , Randall :: 253 :: 	/find_doctor/halley_randall_id19244.html :: 254 :: 	SAME TOWN :: 255 :: 	Family Practice :: 256 :: 
+1-4-11	Howitt , William J :: 257 :: 	/find_doctor/howitt_william_j_id185911.html :: 258 :: 	SAME TOWN :: 259 :: 	Family Practice :: 260 :: 
+1-4-12	Macmillan , Patrick E :: 261 :: 	/find_doctor/macmillan_patrick_e_id174054.html :: 262 :: 	SAME TOWN :: 263 :: 	General Practice :: 264 :: 
+1-4-13	Macmillan , Patrick E :: 265 :: 	/find_doctor/macmillan_patrick_e_id262744.html :: 266 :: 	SAME TOWN :: 267 :: 	General Practice :: 268 :: 
+1-4-14	Mangler , Victor R :: 269 :: 	/find_doctor/mangler_victor_r_id126748.html :: 270 :: 	SAME TOWN :: 271 :: 	Family Practice :: 272 :: 
+1-4-15	Mckay , William L :: 273 :: 	/find_doctor/mckay_william_l_id37808.html :: 274 :: 	SAME TOWN :: 275 :: 	General Practice :: 276 :: 
+1-4-16	Neely , Brian R :: 277 :: 	/find_doctor/neely_brian_r_id221693.html :: 278 :: 	SAME TOWN :: 279 :: 	Family Practice :: 280 :: 
+1-4-17	Nguyen , Zachary :: 281 :: 	/find_doctor/nguyen_zachary_id260528.html :: 282 :: 	SAME TOWN :: 283 :: 	Anesthesiology :: 284 :: 
+1-4-18	Noble , Patricia C :: 285 :: 	/find_doctor/noble_patricia_c_id255966.html :: 286 :: 	SAME TOWN :: 287 :: 	Medical Expert :: 288 :: 
+1-4-19	Paff , David G :: 289 :: 	/find_doctor/paff_david_g_id206924.html :: 290 :: 	SAME TOWN :: 291 :: 	Physical Medicine-Rehabilitation :: 292 :: 
+1-4-20	Parsons , William C :: 293 :: 	/find_doctor/parsons_william_c_id105093.html :: 294 :: 	SAME TOWN :: 295 :: 	Preventive Medicine :: 296 :: 
+1-5-1	Abdul Rahim , Aziz S :: 217 :: 	/find_doctor/abdul_rahim_aziz_s_id189070.html :: 218 :: 	SAME TOWN :: 219 :: 	Ophthalmology :: 220 :: 
+1-5-2	Adler , Max F :: 221 :: 	/find_doctor/adler_max_f_id142867.html :: 222 :: 	SAME TOWN :: 223 :: 	Dermatology :: 224 :: 
+1-5-3	Allen , Annette S :: 225 :: 	/find_doctor/allen_annette_s_id133649.html :: 226 :: 	SAME TOWN :: 227 :: 	Chiropractor :: 228 :: 
+1-5-4	Allen , Bohn D :: 229 :: 	/find_doctor/allen_bohn_d_id32617.html :: 230 :: 	SAME TOWN :: 231 :: 	General Surgery :: 232 :: 
+1-5-5	Baker , James N :: 233 :: 	/find_doctor/baker_james_n_id217289.html :: 234 :: 	SAME TOWN :: 235 :: 	Optometry :: 236 :: 
+1-5-6	Barke , Ronald M :: 237 :: 	/find_doctor/barke_ronald_m_id76840.html :: 238 :: 	SAME TOWN :: 239 :: 	Ophthalmology :: 240 :: 
+1-5-7	Beezley , Jon T :: 241 :: 	/find_doctor/beezley_jon_t_id23201.html :: 242 :: 	SAME TOWN :: 243 :: 	Emergency Medicine :: 244 :: 
+1-5-8	Benedict , Thomas B :: 245 :: 	/find_doctor/benedict_thomas_b_id84319.html :: 246 :: 	SAME TOWN :: 247 :: 	Orthopedic Surgery :: 248 :: 
+1-5-9	Boudreaux , John K :: 249 :: 	/find_doctor/boudreaux_john_k_id201615.html :: 250 :: 	SAME TOWN :: 251 :: 	Anesthesiology :: 252 :: 
+1-5-10	Bracy , Waldo P Jr :: 253 :: 	/find_doctor/bracy_waldo_p_jr_id247853.html :: 254 :: 	SAME TOWN :: 255 :: 	Emergency Medicine :: 256 :: 
+1-5-11	Bradley , William T :: 257 :: 	/find_doctor/bradley_william_t_id53956.html :: 258 :: 	SAME TOWN :: 259 :: 	Emergency Medicine :: 260 :: 
+1-5-12	Bradley , William T :: 261 :: 	/find_doctor/bradley_william_t_id190171.html :: 262 :: 	SAME TOWN :: 263 :: 	Neurology :: 264 :: 
+1-5-13	Brown , Farley W :: 265 :: 	/find_doctor/brown_farley_w_id158748.html :: 266 :: 	SAME TOWN :: 267 :: 	Chiropractor :: 268 :: 
+1-5-14	Burton , Cary L :: 269 :: 	/find_doctor/burton_cary_l_id126225.html :: 270 :: 	SAME TOWN :: 271 :: 	Ophthalmology :: 272 :: 
+1-5-15	Canales , Miguel A :: 273 :: 	/find_doctor/canales_miguel_a_id70585.html :: 274 :: 	SAME TOWN :: 275 :: 	Cardiology :: 276 :: 
+1-5-16	Cane , Michael T :: 277 :: 	/find_doctor/cane_michael_t_id67047.html :: 278 :: 	SAME TOWN :: 279 :: 	Obstetrics-Gynecology :: 280 :: 
+1-5-17	Carver , Carroll R :: 281 :: 	/find_doctor/carver_carroll_r_id11235.html :: 282 :: 	SAME TOWN :: 283 :: 	Maxillofacial Surgery :: 284 :: 
+1-5-18	Chai , Jinping :: 285 :: 	/find_doctor/chai_jinping_id238562.html :: 286 :: 	SAME TOWN :: 287 :: 	Internal Medicine :: 288 :: 
+1-5-19	Chilcoat , Jill :: 289 :: 	/find_doctor/chilcoat_jill_id191540.html :: 290 :: 	SAME TOWN :: 291 :: 	Diagnostic Radiology :: 292 :: 
+1-5-20	Clark , David R :: 293 :: 	/find_doctor/clark_david_r_id124336.html :: 294 :: 	SAME TOWN :: 295 :: 	Ophthalmology :: 296 :: 
+1-6-1	Amin , Rupal V :: 215 :: 	/find_doctor/amin_rupal_v_id186992.html :: 216 :: 	SAME TOWN :: 217 :: 	General Practice :: 218 :: 
+1-6-2	Anderson , Brenda A :: 219 :: 	/find_doctor/anderson_brenda_a_id149053.html :: 220 :: 	SAME TOWN :: 221 :: 	Medical Expert :: 222 :: 
+1-6-3	Baldus , Roberta J :: 223 :: 	/find_doctor/baldus_roberta_j_id204780.html :: 224 :: 	SAME TOWN :: 225 :: 	Physician Assistant :: 226 :: 
+1-6-4	Barclay , Gregory P :: 227 :: 	/find_doctor/barclay_gregory_p_id44665.html :: 228 :: 	SAME TOWN :: 229 :: 	Psychiatry :: 230 :: 
+1-6-5	Barry , William A :: 231 :: 	/find_doctor/barry_william_a_id200620.html :: 232 :: 	SAME TOWN :: 233 :: 	Internal Medicine :: 234 :: 
+1-6-6	Berger , Kay J :: 235 :: 	/find_doctor/berger_kay_j_id187582.html :: 236 :: 	SAME TOWN :: 237 :: 	Medical Expert :: 238 :: 
+1-6-7	Bigner , Dori :: 239 :: 	/find_doctor/bigner_dori_id55602.html :: 240 :: 	SAME TOWN :: 241 :: 	Internal Medicine :: 242 :: 
+1-6-8	Carano , Richard P :: 243 :: 	/find_doctor/carano_richard_p_id61429.html :: 244 :: 	SAME TOWN :: 245 :: 	Endocrinology :: 246 :: 
+1-6-9	Carlson , Karen E :: 247 :: 	/find_doctor/carlson_karen_e_id222094.html :: 248 :: 	SAME TOWN :: 249 :: 	General Practice :: 250 :: 
+1-6-10	Clemons , Robert W :: 251 :: 	/find_doctor/clemons_robert_w_id132542.html :: 252 :: 	SAME TOWN :: 253 :: 	General Practice :: 254 :: 
+1-6-11	Clemons , Robert W :: 255 :: 	/find_doctor/clemons_robert_w_id117859.html :: 256 :: 	SAME TOWN :: 257 :: 	Emergency Medicine :: 258 :: 
+1-6-12	Clemons , Robert W :: 259 :: 	/find_doctor/clemons_robert_w_id253576.html :: 260 :: 	SAME TOWN :: 261 :: 	Family Practice :: 262 :: 
+1-6-13	Cook , Kathy L :: 263 :: 	/find_doctor/cook_kathy_l_id238505.html :: 264 :: 	SAME TOWN :: 265 :: 	Dermatology :: 266 :: 
+1-6-14	Cross , Susan L :: 267 :: 	/find_doctor/cross_susan_l_id19607.html :: 268 :: 	SAME TOWN :: 269 :: 	Nurse Practitioner :: 270 :: 
+1-6-15	Curnes , Jeffrey J :: 271 :: 	/find_doctor/curnes_jeffrey_j_id153288.html :: 272 :: 	SAME TOWN :: 273 :: 	Emergency Medicine :: 274 :: 
+1-6-16	Dale , Allen R :: 275 :: 	/find_doctor/dale_allen_r_id112377.html :: 276 :: 	SAME TOWN :: 277 :: 	Physician Assistant :: 278 :: 
+1-6-17	Dale , Jan A :: 279 :: 	/find_doctor/dale_jan_a_id75475.html :: 280 :: 	SAME TOWN :: 281 :: 	Medical Expert :: 282 :: 
+1-6-18	Demmel , James D :: 283 :: 	/find_doctor/demmel_james_d_id248135.html :: 284 :: 	SAME TOWN :: 285 :: 	Family Practice :: 286 :: 
+1-6-19	Diehl , Darren R :: 287 :: 	/find_doctor/diehl_darren_r_id249204.html :: 288 :: 	SAME TOWN :: 289 :: 	Medical Expert :: 290 :: 
+1-6-20	Fagre , Jon L :: 291 :: 	/find_doctor/fagre_jon_l_id245386.html :: 292 :: 	SAME TOWN :: 293 :: 	Pathology :: 294 :: 
+1-7-1	Baer , Karl G :: 217 :: 	/find_doctor/baer_karl_g_id230709.html :: 218 :: 	SAME TOWN :: 219 :: 	Psychiatry :: 220 :: 
+1-7-2	Bauer , William M :: 221 :: 	/find_doctor/bauer_william_m_id122148.html :: 222 :: 	SAME TOWN :: 223 :: 	Internal Medicine :: 224 :: 
+1-7-3	Beltz , Clifford E :: 225 :: 	/find_doctor/beltz_clifford_e_id24382.html :: 226 :: 	SAME TOWN :: 227 :: 	Medical Expert :: 228 :: 
+1-7-4	Bildsten , Scott A :: 229 :: 	/find_doctor/bildsten_scott_a_id37317.html :: 230 :: 	SAME TOWN :: 231 :: 	Urology :: 232 :: 
+1-7-5	Bray , David M :: 233 :: 	/find_doctor/bray_david_m_id230339.html :: 234 :: 	SAME TOWN :: 235 :: 	Pathology :: 236 :: 
+1-7-6	Bright , Donald A :: 237 :: 	/find_doctor/bright_donald_a_id72902.html :: 238 :: 	SAME TOWN :: 239 :: 	Neurology :: 240 :: 
+1-7-7	Brown , Bradley D :: 241 :: 	/find_doctor/brown_bradley_d_id190143.html :: 242 :: 	SAME TOWN :: 243 :: 	Diagnostic Radiology :: 244 :: 
+1-7-8	Chua , Lai Wan Y :: 245 :: 	/find_doctor/chua_lai_wan_y_id11028.html :: 246 :: 	SAME TOWN :: 247 :: 	Internal Medicine :: 248 :: 
+1-7-9	Clemen , James T :: 249 :: 	/find_doctor/clemen_james_t_id156512.html :: 250 :: 	SAME TOWN :: 251 :: 	General Surgery :: 252 :: 
+1-7-10	Cogen , Kenneth A :: 253 :: 	/find_doctor/cogen_kenneth_a_id120970.html :: 254 :: 	SAME TOWN :: 255 :: 	Nephrology :: 256 :: 
+1-7-11	Cogen , Kenneth A :: 257 :: 	/find_doctor/cogen_kenneth_a_id138090.html :: 258 :: 	SAME TOWN :: 259 :: 	Internal Medicine :: 260 :: 
+1-7-12	Copeland , William N :: 261 :: 	/find_doctor/copeland_william_n_id246732.html :: 262 :: 	SAME TOWN :: 263 :: 	Medical Expert :: 264 :: 
+1-7-13	Corrall , Carmen J Ii :: 265 :: 	/find_doctor/corrall_carmen_j_ii_id252981.html :: 266 :: 	SAME TOWN :: 267 :: 	Emergency Medicine :: 268 :: 
+1-7-14	Dacus , Roberta A :: 269 :: 	/find_doctor/dacus_roberta_a_id78344.html :: 270 :: 	SAME TOWN :: 271 :: 	Nurse Practitioner :: 272 :: 
+1-7-15	Dara Smith , Rupa :: 273 :: 	/find_doctor/dara_smith_rupa_id265610.html :: 274 :: 	SAME TOWN :: 275 :: 	Chiropractor :: 276 :: 
+1-7-16	Demeulenaere , Jeanne L :: 277 :: 	/find_doctor/demeulenaere_jeanne_l_id84662.html :: 278 :: 	SAME TOWN :: 279 :: 	Medical Expert :: 280 :: 
+1-7-17	Dibble , Rolland E :: 281 :: 	/find_doctor/dibble_rolland_e_id144893.html :: 282 :: 	SAME TOWN :: 283 :: 	Anesthesiology :: 284 :: 
+1-7-18	Dore , Frederick H Jr :: 285 :: 	/find_doctor/dore_frederick_h_jr_id40401.html :: 286 :: 	SAME TOWN :: 287 :: 	Internal Medicine :: 288 :: 
+1-7-19	Duff , Gregory P :: 289 :: 	/find_doctor/duff_gregory_p_id238416.html :: 290 :: 	SAME TOWN :: 291 :: 	Orthopedic Surgery :: 292 :: 
+1-7-20	Eady , Karen A :: 293 :: 	/find_doctor/eady_karen_a_id52991.html :: 294 :: 	SAME TOWN :: 295 :: 	Nephrology :: 296 :: 
+1-8-1	Angeletti , Albert G :: 217 :: 	/find_doctor/angeletti_albert_g_id41234.html :: 218 :: 	SAME TOWN :: 219 :: 	Endocrinology :: 220 :: 
+1-8-2	Calluori , Enio J :: 221 :: 	/find_doctor/calluori_enio_j_id259491.html :: 222 :: 	N CALDWELL (0.00 miles) :: 223 :: 	Internal Medicine :: 224 :: 
+1-8-3	Dannunzio , Judith A :: 225 :: 	/find_doctor/dannunzio_judith_a_id126646.html :: 226 :: 	SAME TOWN :: 227 :: 	Medical Expert :: 228 :: 
+1-8-4	Erichsen , Scott :: 229 :: 	/find_doctor/erichsen_scott_id224305.html :: 230 :: 	Caldwell (0.00 miles) :: 231 :: 	Chiropractor :: 232 :: 
+1-8-5	Evangelista , Andrew D :: 233 :: 	/find_doctor/evangelista_andrew_d_id267892.html :: 234 :: 	Caldwell (0.00 miles) :: 235 :: 	Addiction Medicine :: 236 :: 
+1-8-6	Fein , Lesley A :: 237 :: 	/find_doctor/fein_lesley_a_id25790.html :: 238 :: 	SAME TOWN :: 239 :: 	Internal Medicine :: 240 :: 
+1-8-7	Ferdinand , Rosemary :: 241 :: 	/find_doctor/ferdinand_rosemary_id184764.html :: 242 :: 	Caldwell (0.00 miles) :: 243 :: 	Certified Clinical Nurse Specialist :: 244 :: 
+1-8-8	Gialanella , Toni E :: 245 :: 	/find_doctor/gialanella_toni_e_id252284.html :: 246 :: 	Caldwell (0.00 miles) :: 247 :: 	Chiropractor :: 248 :: 
+1-8-9	Horowitz , Michael S :: 249 :: 	/find_doctor/horowitz_michael_s_id21669.html :: 250 :: 	Caldwell (0.00 miles) :: 251 :: 	Cardiology :: 252 :: 
+1-8-10	Ibranyi , Gustav L Jr :: 253 :: 	/find_doctor/ibranyi_gustav_l_jr_id175796.html :: 254 :: 	SAME TOWN :: 255 :: 	Podiatry :: 256 :: 
+1-8-11	Kennedy , Paul :: 257 :: 	/find_doctor/kennedy_paul_id64516.html :: 258 :: 	Boonton (0.00 miles) :: 259 :: 	Psychiatry :: 260 :: 
+1-8-12	Kim , John K :: 261 :: 	/find_doctor/kim_john_k_id27765.html :: 262 :: 	Caldwell (0.00 miles) :: 263 :: 	Anesthesiology :: 264 :: 
+1-8-13	Lupinacci , Alan :: 265 :: 	/find_doctor/lupinacci_alan_id147256.html :: 266 :: 	Caldwell (0.00 miles) :: 267 :: 	Family Practice :: 268 :: 
+1-8-14	Paris , Nina J :: 269 :: 	/find_doctor/paris_nina_j_id206411.html :: 270 :: 	SAME TOWN :: 271 :: 	Medical Expert :: 272 :: 
+1-8-15	Raymond , Louis F :: 273 :: 	/find_doctor/raymond_louis_f_id183172.html :: 274 :: 	Caldwell (0.00 miles) :: 275 :: 	Ophthalmology :: 276 :: 
+1-8-16	Reilly , Keara B :: 277 :: 	/find_doctor/reilly_keara_b_id263646.html :: 278 :: 	Caldwell (0.00 miles) :: 279 :: 	Medical Expert :: 280 :: 
+1-8-17	Schkolnick , Joseph A :: 281 :: 	/find_doctor/schkolnick_joseph_a_id203008.html :: 282 :: 	Caldwell (0.00 miles) :: 283 :: 	Optometry :: 284 :: 
+1-8-18	Shah , Ajit M :: 285 :: 	/find_doctor/shah_ajit_m_id155880.html :: 286 :: 	Caldwell (0.00 miles) :: 287 :: 	Nephrology :: 288 :: 
+1-8-19	Shah , Ajit M :: 289 :: 	/find_doctor/shah_ajit_m_id171196.html :: 290 :: 	Caldwell (0.00 miles) :: 291 :: 	Internal Medicine :: 292 :: 
+1-8-20	Shah , Pradip S :: 293 :: 	/find_doctor/shah_pradip_s_id26329.html :: 294 :: 	Caldwell (0.00 miles) :: 295 :: 	Internal Medicine :: 296 :: 
+1-9-1	Ahmad , Faqir :: 217 :: 	/find_doctor/ahmad_faqir_id87505.html :: 218 :: 	SAME TOWN :: 219 :: 	Internal Medicine :: 220 :: 
+1-9-2	Armandi , Barry R :: 221 :: 	/find_doctor/armandi_barry_r_id63943.html :: 222 :: 	SAME TOWN :: 223 :: 	Diagnostic Radiology :: 224 :: 
+1-9-3	Bergeron , Carol :: 225 :: 	/find_doctor/bergeron_carol_id188678.html :: 226 :: 	SAME TOWN :: 227 :: 	Nurse Practitioner :: 228 :: 
+1-9-4	Boccio , James J :: 229 :: 	/find_doctor/boccio_james_j_id136533.html :: 230 :: 	SAME TOWN :: 231 :: 	Anesthesiology :: 232 :: 
+1-9-5	Braithwaite , Craig :: 233 :: 	/find_doctor/braithwaite_craig_id193792.html :: 234 :: 	SAME TOWN :: 235 :: 	Physician Assistant :: 236 :: 
+1-9-6	Burbano , Galo :: 237 :: 	/find_doctor/burbano_galo_id210571.html :: 238 :: 	SAME TOWN :: 239 :: 	Medical Expert :: 240 :: 
+1-9-7	Caruso , Vincent G :: 241 :: 	/find_doctor/caruso_vincent_g_id43564.html :: 242 :: 	SAME TOWN :: 243 :: 	Otolaryngology :: 244 :: 
+1-9-8	Clark , Peter L :: 245 :: 	/find_doctor/clark_peter_l_id133156.html :: 246 :: 	SAME TOWN :: 247 :: 	Osteopathic Manipulative Therapy :: 248 :: 
+1-9-9	Condreras , Susan :: 249 :: 	/find_doctor/condreras_susan_id8302.html :: 250 :: 	SAME TOWN :: 251 :: 	Physician Assistant :: 252 :: 
+1-9-10	Cowley , Joseph G :: 253 :: 	/find_doctor/cowley_joseph_g_id124404.html :: 254 :: 	SAME TOWN :: 255 :: 	Medical Expert :: 256 :: 
+1-9-11	Cowley , Joseph G :: 257 :: 	/find_doctor/cowley_joseph_g_id129738.html :: 258 :: 	SAME TOWN :: 259 :: 	Medical Expert :: 260 :: 
+1-9-12	Crean , John M :: 261 :: 	/find_doctor/crean_john_m_id20626.html :: 262 :: 	SAME TOWN :: 263 :: 	Cardiology :: 264 :: 
+1-9-13	Dabhi , R :: 265 :: 	/find_doctor/dabhi_r_id160221.html :: 266 :: 	SAME TOWN :: 267 :: 	Cardiology :: 268 :: 
+1-9-14	Decarlo , Alan N :: 269 :: 	/find_doctor/decarlo_alan_n_id81260.html :: 270 :: 	SAME TOWN :: 271 :: 	Cardiology :: 272 :: 
+1-9-15	Dennis , Charles :: 273 :: 	/find_doctor/dennis_charles_id106887.html :: 274 :: 	SAME TOWN :: 275 :: 	General Surgery :: 276 :: 
+1-9-16	Dougherty , Robert P :: 277 :: 	/find_doctor/dougherty_robert_p_id251368.html :: 278 :: 	SAME TOWN :: 279 :: 	Cardiology :: 280 :: 
+1-9-17	Edwards-Braithwaite , Rhonda R :: 281 :: 	/find_doctor/edwards_braithwaite_rhonda_r_id112966.html :: 282 :: 	SAME TOWN :: 283 :: 	Physician Assistant :: 284 :: 
+1-9-18	Emmons , George D :: 285 :: 	/find_doctor/emmons_george_d_id94922.html :: 286 :: 	SAME TOWN :: 287 :: 	Podiatry :: 288 :: 
+1-9-19	Fallon , John F :: 289 :: 	/find_doctor/fallon_john_f_id39631.html :: 290 :: 	SAME TOWN :: 291 :: 	Medical Expert :: 292 :: 
+1-9-20	Fingergut , Judy E :: 293 :: 	/find_doctor/fingergut_judy_e_id356.html :: 294 :: 	SAME TOWN :: 295 :: 	Family Practice :: 296 :: 
+1-10-1	Adair , Nancy B :: 216 :: 	/find_doctor/adair_nancy_b_id164663.html :: 217 :: 	SAME TOWN :: 218 :: 	Medical Expert :: 219 :: 
+1-10-2	Adams , William W :: 220 :: 	/find_doctor/adams_william_w_id199571.html :: 221 :: 	SAME TOWN :: 222 :: 	Psychiatry :: 223 :: 
+1-10-3	Allen , Ira S :: 224 :: 	/find_doctor/allen_ira_s_id143516.html :: 225 :: 	SAME TOWN :: 226 :: 	Pathology :: 227 :: 
+1-10-4	Appleton , Warren R :: 228 :: 	/find_doctor/appleton_warren_r_id199627.html :: 229 :: 	SAME TOWN :: 230 :: 	Emergency Medicine :: 231 :: 
+1-10-5	Aprill , Stephen N :: 232 :: 	/find_doctor/aprill_stephen_n_id240658.html :: 233 :: 	SAME TOWN :: 234 :: 	Internal Medicine :: 235 :: 
+1-10-6	Arendt , Kathryn L :: 236 :: 	/find_doctor/arendt_kathryn_l_id90989.html :: 237 :: 	SAME TOWN :: 238 :: 	Obstetrics-Gynecology :: 239 :: 
+1-10-7	Arshad , Tajera :: 240 :: 	/find_doctor/arshad_tajera_id54805.html :: 241 :: 	SAME TOWN :: 242 :: 	Internal Medicine :: 243 :: 
+1-10-8	Ayars , Garrison H :: 244 :: 	/find_doctor/ayars_garrison_h_id118072.html :: 245 :: 	SAME TOWN :: 246 :: 	Allergy-Immunology :: 247 :: 
+1-10-9	Badiozamani , Kasra R :: 248 :: 	/find_doctor/badiozamani_kasra_r_id125100.html :: 249 :: 	SAME TOWN :: 250 :: 	Radiation Oncology :: 251 :: 
+1-10-10	Ballou , Constance P :: 252 :: 	/find_doctor/ballou_constance_p_id226319.html :: 253 :: 	SAME TOWN :: 254 :: 	Medical Expert :: 255 :: 
+1-10-11	Barry , Jane W :: 256 :: 	/find_doctor/barry_jane_w_id240216.html :: 257 :: 	SAME TOWN :: 258 :: 	Diagnostic Radiology :: 259 :: 
+1-10-12	Barss , Andrea S :: 260 :: 	/find_doctor/barss_andrea_s_id176207.html :: 261 :: 	SAME TOWN :: 262 :: 	Medical Expert :: 263 :: 
+1-10-13	Batts , Katherine L :: 264 :: 	/find_doctor/batts_katherine_l_id69380.html :: 265 :: 	SAME TOWN :: 266 :: 	Physician Assistant :: 267 :: 
+1-10-14	Bhaskar , James R :: 268 :: 	/find_doctor/bhaskar_james_r_id210712.html :: 269 :: 	SAME TOWN :: 270 :: 	Family Practice :: 271 :: 
+1-10-15	Bingham , Wendolowy S :: 272 :: 	/find_doctor/bingham_wendolowy_s_id56301.html :: 273 :: 	SAME TOWN :: 274 :: 	Physician Assistant :: 275 :: 
+1-10-16	Boehne , David A :: 276 :: 	/find_doctor/boehne_david_a_id154900.html :: 277 :: 	SAME TOWN :: 278 :: 	Medical Expert :: 279 :: 
+1-10-17	Bowman , Paul Thomas :: 280 :: 	/find_doctor/bowman_paul_thomas_id242729.html :: 281 :: 	SAME TOWN :: 282 :: 	Physician Assistant :: 283 :: 
+1-10-18	Brown , Michael A :: 284 :: 	/find_doctor/brown_michael_a_id19455.html :: 285 :: 	SAME TOWN :: 286 :: 	Orthopedic Surgery :: 287 :: 
+1-10-19	Burks , Robert S :: 288 :: 	/find_doctor/burks_robert_s_id185048.html :: 289 :: 	SAME TOWN :: 290 :: 	Anesthesiology :: 291 :: 
+1-10-20	Burroughs , Gloria :: 292 :: 	/find_doctor/burroughs_gloria_id15741.html :: 293 :: 	SAME TOWN :: 294 :: 	Diagnostic Radiology :: 295 :: 
+1-11-1	Ahuja , Suman :: 217 :: 	/find_doctor/ahuja_suman_id251153.html :: 218 :: 	SAME TOWN :: 219 :: 	Psychiatry :: 220 :: 
+1-11-2	Albert , Jennifer A :: 221 :: 	/find_doctor/albert_jennifer_a_id58096.html :: 222 :: 	SAME TOWN :: 223 :: 	Medical Expert :: 224 :: 
+1-11-3	Ayers , Cynthia G :: 225 :: 	/find_doctor/ayers_cynthia_g_id115764.html :: 226 :: 	SAME TOWN :: 227 :: 	Internal Medicine :: 228 :: 
+1-11-4	Brodkorb , Timothy A :: 229 :: 	/find_doctor/brodkorb_timothy_a_id53662.html :: 230 :: 	SAME TOWN :: 231 :: 	Medical Expert :: 232 :: 
+1-11-5	Bryce , Marguerite M :: 233 :: 	/find_doctor/bryce_marguerite_m_id124142.html :: 234 :: 	SAME TOWN :: 235 :: 	Medical Expert :: 236 :: 
+1-11-6	Carlin , Brian W :: 237 :: 	/find_doctor/carlin_brian_w_id198480.html :: 238 :: 	SAME TOWN :: 239 :: 	Pulmonary Disease :: 240 :: 
+1-11-7	Doody , Maureen :: 241 :: 	/find_doctor/doody_maureen_id182652.html :: 242 :: 	SAME TOWN :: 243 :: 	Medical Expert :: 244 :: 
+1-11-8	Elkus , Peggy H :: 245 :: 	/find_doctor/elkus_peggy_h_id139803.html :: 246 :: 	SAME TOWN :: 247 :: 	Medical Expert :: 248 :: 
+1-11-9	Freeman , David Ross :: 249 :: 	/find_doctor/freeman_david_ross_id205943.html :: 250 :: 	SAME TOWN :: 251 :: 	Family Practice :: 252 :: 
+1-11-10	Goldberg , A E :: 253 :: 	/find_doctor/goldberg_a_e_id157736.html :: 254 :: 	SAME TOWN :: 255 :: 	Podiatry :: 256 :: 
+1-11-11	Himot , Linda J :: 257 :: 	/find_doctor/himot_linda_j_id85446.html :: 258 :: 	SAME TOWN :: 259 :: 	Psychiatry :: 260 :: 
+1-11-12	Jain , Ashok :: 261 :: 	/find_doctor/jain_ashok_id174997.html :: 262 :: 	SAME TOWN :: 263 :: 	Psychiatry :: 264 :: 
+1-11-13	Kasey , Gloria R :: 265 :: 	/find_doctor/kasey_gloria_r_id22978.html :: 266 :: 	SAME TOWN :: 267 :: 	Family Practice :: 268 :: 
+1-11-14	Kondaveeti , Radhika :: 269 :: 	/find_doctor/kondaveeti_radhika_id66995.html :: 270 :: 	SAME TOWN :: 271 :: 	Internal Medicine :: 272 :: 
+1-11-15	Lesh , Mark Lee :: 273 :: 	/find_doctor/lesh_mark_lee_id185877.html :: 274 :: 	SAME TOWN :: 275 :: 	Orthopedic Surgery :: 276 :: 
+1-11-16	Mccomb , Rudolph Valent :: 277 :: 	/find_doctor/mccomb_rudolph_valent_id10293.html :: 278 :: 	SAME TOWN :: 279 :: 	Podiatry :: 280 :: 
+1-11-17	Mester , Sara J :: 281 :: 	/find_doctor/mester_sara_j_id201817.html :: 282 :: 	SAME TOWN :: 283 :: 	Physician Assistant :: 284 :: 
+1-11-18	Naseem , Mohammad :: 285 :: 	/find_doctor/naseem_mohammad_id164972.html :: 286 :: 	SAME TOWN :: 287 :: 	Interventional Radiology :: 288 :: 
+1-11-19	Painter , Erin Kate :: 289 :: 	/find_doctor/painter_erin_kate_id140606.html :: 290 :: 	SAME TOWN :: 291 :: 	Physician Assistant :: 292 :: 
+1-11-20	Pasqualino , Dominic A :: 293 :: 	/find_doctor/pasqualino_dominic_a_id183604.html :: 294 :: 	SAME TOWN :: 295 :: 	Medical Expert :: 296 :: 
+1-12-1	Adami , Carol :: 217 :: 	/find_doctor/adami_carol_id80468.html :: 218 :: 	Boynton Beach (0.00 miles) :: 219 :: 	Diagnostic Radiology :: 220 :: 
+1-12-2	Alalu , Vitaly J :: 221 :: 	/find_doctor/alalu_vitaly_j_id106821.html :: 222 :: 	Boynton Beach (0.00 miles) :: 223 :: 	Gastroenterology :: 224 :: 
+1-12-3	Ard , Anthony J :: 225 :: 	/find_doctor/ard_anthony_j_id59565.html :: 226 :: 	Boynton Beach (0.00 miles) :: 227 :: 	Emergency Medicine :: 228 :: 
+1-12-4	Barnes , Jeffrey R :: 229 :: 	/find_doctor/barnes_jeffrey_r_id245705.html :: 230 :: 	SAME TOWN :: 231 :: 	Emergency Medicine :: 232 :: 
+1-12-5	Benaroch , Lee M :: 233 :: 	/find_doctor/benaroch_lee_m_id165888.html :: 234 :: 	SAME TOWN :: 235 :: 	Emergency Medicine :: 236 :: 
+1-12-6	Berman , William S :: 237 :: 	/find_doctor/berman_william_s_id209014.html :: 238 :: 	SAME TOWN :: 239 :: 	Physical Medicine-Rehabilitation :: 240 :: 
+1-12-7	Brown , Mark Steven :: 241 :: 	/find_doctor/brown_mark_steven_id127635.html :: 242 :: 	SAME TOWN :: 243 :: 	Gastroenterology :: 244 :: 
+1-12-8	Budoff , Amy L :: 245 :: 	/find_doctor/budoff_amy_l_id56968.html :: 246 :: 	SAME TOWN :: 247 :: 	Otolaryngology :: 248 :: 
+1-12-9	Caceres , Carlos Albert :: 249 :: 	/find_doctor/caceres_carlos_albert_id181028.html :: 250 :: 	SAME TOWN :: 251 :: 	Diagnostic Radiology :: 252 :: 
+1-12-10	Cappiello , Richard A :: 253 :: 	/find_doctor/cappiello_richard_a_id161490.html :: 254 :: 	Boynton Beach (0.00 miles) :: 255 :: 	Rheumatology :: 256 :: 
+1-12-11	Carballeira , Daniel V :: 257 :: 	/find_doctor/carballeira_daniel_v_id162438.html :: 258 :: 	SAME TOWN :: 259 :: 	Medical Expert :: 260 :: 
+1-12-12	Cavanagh , Richard C :: 261 :: 	/find_doctor/cavanagh_richard_c_id161613.html :: 262 :: 	SAME TOWN :: 263 :: 	Diagnostic Radiology :: 264 :: 
+1-12-13	Cohen , Kenneth Alan :: 265 :: 	/find_doctor/cohen_kenneth_alan_id38142.html :: 266 :: 	Boynton Beach (0.00 miles) :: 267 :: 	Medical Expert :: 268 :: 
+1-12-14	Creveling , James G Jr :: 269 :: 	/find_doctor/creveling_james_g_jr_id59107.html :: 270 :: 	SAME TOWN :: 271 :: 	Neurology :: 272 :: 
+1-12-15	Cuesta , Angel Eduard :: 273 :: 	/find_doctor/cuesta_angel_eduard_id15024.html :: 274 :: 	Boynton Beach (0.00 miles) :: 275 :: 	Pediatric Medicine :: 276 :: 
+1-12-16	Dagher , Sami I :: 277 :: 	/find_doctor/dagher_sami_i_id200745.html :: 278 :: 	Boynton Beach (0.00 miles) :: 279 :: 	Anesthesiology :: 280 :: 
+1-12-17	Davis , Sanford Ian :: 281 :: 	/find_doctor/davis_sanford_ian_id195730.html :: 282 :: 	SAME TOWN :: 283 :: 	Diagnostic Radiology :: 284 :: 
+1-12-18	Denobriga , Jacquelin :: 285 :: 	/find_doctor/denobriga_jacquelin_id45583.html :: 286 :: 	SAME TOWN :: 287 :: 	Internal Medicine :: 288 :: 
+1-12-19	Deyoe , Lane A :: 289 :: 	/find_doctor/deyoe_lane_a_id104050.html :: 290 :: 	Boynton Beach (0.00 miles) :: 291 :: 	Diagnostic Radiology :: 292 :: 
+1-12-20	Dinnerstein , Allan J :: 293 :: 	/find_doctor/dinnerstein_allan_j_id231413.html :: 294 :: 	SAME TOWN :: 295 :: 	Obstetrics-Gynecology :: 296 :: 
+1-13-1	Adams , Elvin E :: 217 :: 	/find_doctor/adams_elvin_e_id63380.html :: 218 :: 	SAME TOWN :: 219 :: 	Internal Medicine :: 220 :: 
+1-13-2	Adesanya , Adebola O :: 221 :: 	/find_doctor/adesanya_adebola_o_id152348.html :: 222 :: 	SAME TOWN :: 223 :: 	General Practice :: 224 :: 
+1-13-3	Aggarwal , Ved V :: 225 :: 	/find_doctor/aggarwal_ved_v_id87356.html :: 226 :: 	SAME TOWN :: 227 :: 	Anesthesiology :: 228 :: 
+1-13-4	Agoro , Adewubomi B :: 229 :: 	/find_doctor/agoro_adewubomi_b_id149070.html :: 230 :: 	SAME TOWN :: 231 :: 	Internal Medicine :: 232 :: 
+1-13-5	Agoro , Adewubomi B :: 233 :: 	/find_doctor/agoro_adewubomi_b_id258120.html :: 234 :: 	SAME TOWN :: 235 :: 	Pulmonary Disease :: 236 :: 
+1-13-6	Alford , Brent T :: 237 :: 	/find_doctor/alford_brent_t_id56255.html :: 238 :: 	SAME TOWN :: 239 :: 	Neurosurgery :: 240 :: 
+1-13-7	Ali , Mohamed E :: 241 :: 	/find_doctor/ali_mohamed_e_id212562.html :: 242 :: 	SAME TOWN :: 243 :: 	Pulmonary Disease :: 244 :: 
+1-13-8	Allen , Loretta :: 245 :: 	/find_doctor/allen_loretta_id230898.html :: 246 :: 	SAME TOWN :: 247 :: 	Medical Expert :: 248 :: 
+1-13-9	Allen , Loretta :: 249 :: 	/find_doctor/allen_loretta_id86961.html :: 250 :: 	SAME TOWN :: 251 :: 	Medical Expert :: 252 :: 
+1-13-10	Alles , Ajit J :: 253 :: 	/find_doctor/alles_ajit_j_id181825.html :: 254 :: 	SAME TOWN :: 255 :: 	Pathology :: 256 :: 
+1-13-11	Alloju , Lisa D :: 257 :: 	/find_doctor/alloju_lisa_d_id61414.html :: 258 :: 	SAME TOWN :: 259 :: 	Psychiatry :: 260 :: 
+1-13-12	Amare , Mammo :: 261 :: 	/find_doctor/amare_mammo_id84243.html :: 262 :: 	FT WORTH (0.00 miles) :: 263 :: 	Hematology-Oncology :: 264 :: 
+1-13-13	Anderson , Robert D :: 265 :: 	/find_doctor/anderson_robert_d_id58175.html :: 266 :: 	SAME TOWN :: 267 :: 	Cardiology :: 268 :: 
+1-13-14	Andrews , Thomas C :: 269 :: 	/find_doctor/andrews_thomas_c_id57584.html :: 270 :: 	SAME TOWN :: 271 :: 	Internal Medicine :: 272 :: 
+1-13-15	Andrews , Thomas C :: 273 :: 	/find_doctor/andrews_thomas_c_id22315.html :: 274 :: 	SAME TOWN :: 275 :: 	Cardiology :: 276 :: 
+1-13-16	Anthony , Philip F :: 277 :: 	/find_doctor/anthony_philip_f_id110507.html :: 278 :: 	SAME TOWN :: 279 :: 	Otolaryngology :: 280 :: 
+1-13-17	Applewhite , Jeffrey C :: 281 :: 	/find_doctor/applewhite_jeffrey_c_id200524.html :: 282 :: 	SAME TOWN :: 283 :: 	Urology :: 284 :: 
+1-13-18	Armstrong , George N Jr :: 285 :: 	/find_doctor/armstrong_george_n_jr_id123513.html :: 286 :: 	SAME TOWN :: 287 :: 	Orthopedic Surgery :: 288 :: 
+1-13-19	Armstrong , John R Jr :: 289 :: 	/find_doctor/armstrong_john_r_jr_id31968.html :: 290 :: 	FT WORTH (0.00 miles) :: 291 :: 	Ophthalmology :: 292 :: 
+1-13-20	Armstrong , Vanessa C :: 293 :: 	/find_doctor/armstrong_vanessa_c_id237371.html :: 294 :: 	FT WORTH (0.00 miles) :: 295 :: 	Obstetrics-Gynecology :: 296 :: 
+1-14-1	Abel , David :: 217 :: 	/find_doctor/abel_david_id245506.html :: 218 :: 	SAME TOWN :: 219 :: 	Psychiatry :: 220 :: 
+1-14-2	Allison , Stephani R :: 221 :: 	/find_doctor/allison_stephani_r_id12150.html :: 222 :: 	SAME TOWN :: 223 :: 	Anesthesiology :: 224 :: 
+1-14-3	Alsdorf , Michelle J :: 225 :: 	/find_doctor/alsdorf_michelle_j_id260918.html :: 226 :: 	SAME TOWN :: 227 :: 	Medical Expert :: 228 :: 
+1-14-4	Andrews , Willard G Iii :: 229 :: 	/find_doctor/andrews_willard_g_iii_id99178.html :: 230 :: 	SAME TOWN :: 231 :: 	Medical Oncology :: 232 :: 
+1-14-5	Angotti , Donna M :: 233 :: 	/find_doctor/angotti_donna_m_id193501.html :: 234 :: 	SAME TOWN :: 235 :: 	General Surgery :: 236 :: 
+1-14-6	Atkins , Robert F :: 237 :: 	/find_doctor/atkins_robert_f_id32162.html :: 238 :: 	SAME TOWN :: 239 :: 	Anesthesiology :: 240 :: 
+1-14-7	Bair , John E :: 241 :: 	/find_doctor/bair_john_e_id252482.html :: 242 :: 	SAME TOWN :: 243 :: 	Emergency Medicine :: 244 :: 
+1-14-8	Bankes , Patricia Faire :: 245 :: 	/find_doctor/bankes_patricia_faire_id44173.html :: 246 :: 	SAME TOWN :: 247 :: 	Nurse Practitioner :: 248 :: 
+1-14-9	Bennett , Diane :: 249 :: 	/find_doctor/bennett_diane_id16470.html :: 250 :: 	SAME TOWN :: 251 :: 	Medical Expert :: 252 :: 
+1-14-10	Berdichevskaya , Violetta :: 253 :: 	/find_doctor/berdichevskaya_violetta_id169380.html :: 254 :: 	SAME TOWN :: 255 :: 	Internal Medicine :: 256 :: 
+1-14-11	Berger , Bruce C :: 257 :: 	/find_doctor/berger_bruce_c_id146826.html :: 258 :: 	SAME TOWN :: 259 :: 	Cardiology :: 260 :: 
+1-14-12	Berger , Bruce C :: 261 :: 	/find_doctor/berger_bruce_c_id176015.html :: 262 :: 	SAME TOWN :: 263 :: 	Cardiology :: 264 :: 
+1-14-13	Bitterman , Todd C :: 265 :: 	/find_doctor/bitterman_todd_c_id30592.html :: 266 :: 	SAME TOWN :: 267 :: 	Internal Medicine :: 268 :: 
+1-14-14	Bitterman , Todd C :: 269 :: 	/find_doctor/bitterman_todd_c_id78836.html :: 270 :: 	SAME TOWN :: 271 :: 	Internal Medicine :: 272 :: 
+1-14-15	Blackstone , Sherri Elise :: 273 :: 	/find_doctor/blackstone_sherri_elise_id41621.html :: 274 :: 	SAME TOWN :: 275 :: 	Internal Medicine :: 276 :: 
+1-14-16	Blazes , Christopher K :: 277 :: 	/find_doctor/blazes_christopher_k_id170393.html :: 278 :: 	SAME TOWN :: 279 :: 	Emergency Medicine :: 280 :: 
+1-14-17	Bloch , Martin Adam :: 281 :: 	/find_doctor/bloch_martin_adam_id90213.html :: 282 :: 	SAME TOWN :: 283 :: 	Internal Medicine :: 284 :: 
+1-14-18	Booth , Kevin R :: 285 :: 	/find_doctor/booth_kevin_r_id8874.html :: 286 :: 	SAME TOWN :: 287 :: 	Neurology :: 288 :: 
+1-14-19	Booth , Kevin R :: 289 :: 	/find_doctor/booth_kevin_r_id65902.html :: 290 :: 	SAME TOWN :: 291 :: 	Neurology :: 292 :: 
+1-14-20	Booth , Kevin R :: 293 :: 	/find_doctor/booth_kevin_r_id256497.html :: 294 :: 	SAME TOWN :: 295 :: 	Neurology :: 296 :: 
+1-15-1	Carpenter , Jimmy L :: 216 :: 	/find_doctor/carpenter_jimmy_l_id137085.html :: 217 :: 	SAME TOWN :: 218 :: 	Chiropractor :: 219 :: 
+1-15-2	Carroll , Timothy Blake :: 220 :: 	/find_doctor/carroll_timothy_blake_id188371.html :: 221 :: 	CISCO (15.27 miles) :: 222 :: 	Chiropractor :: 223 :: 
+1-15-3	Brudnak , Daniel M :: 224 :: 	/find_doctor/brudnak_daniel_m_id50340.html :: 225 :: 	GORMAN (15.57 miles) :: 226 :: 	Family Practice :: 227 :: 
+1-15-4	Alexander , Patsy M :: 228 :: 	/find_doctor/alexander_patsy_m_id66278.html :: 229 :: 	Eastland (20.10 miles) :: 230 :: 	Medical Expert :: 231 :: 
+1-15-5	Armstrong , Michael L :: 232 :: 	/find_doctor/armstrong_michael_l_id106833.html :: 233 :: 	Eastland (20.10 miles) :: 234 :: 	General Surgery :: 235 :: 
+1-15-6	Armstrong , Michael L :: 236 :: 	/find_doctor/armstrong_michael_l_id197075.html :: 237 :: 	Eastland (20.10 miles) :: 238 :: 	Emergency Medicine :: 239 :: 
+1-15-7	Bekker , Alex :: 240 :: 	/find_doctor/bekker_alex_id248610.html :: 241 :: 	Eastland (20.10 miles) :: 242 :: 	General Practice :: 243 :: 
+1-15-8	Brudnak , Daniel M :: 244 :: 	/find_doctor/brudnak_daniel_m_id133716.html :: 245 :: 	Eastland (20.10 miles) :: 246 :: 	Emergency Medicine :: 247 :: 
+1-15-9	Brudnak , Daniel M :: 248 :: 	/find_doctor/brudnak_daniel_m_id207291.html :: 249 :: 	Eastland (20.10 miles) :: 250 :: 	Family Practice :: 251 :: 
+1-15-10	Chamales , Michael H :: 252 :: 	/find_doctor/chamales_michael_h_id259616.html :: 253 :: 	Eastland (20.10 miles) :: 254 :: 	Family Practice :: 255 :: 
+1-15-11	Chang , Craig G :: 256 :: 	/find_doctor/chang_craig_g_id30905.html :: 257 :: 	Eastland (20.10 miles) :: 258 :: 	Emergency Medicine :: 259 :: 
+1-15-12	Chang , Craig G :: 260 :: 	/find_doctor/chang_craig_g_id136855.html :: 261 :: 	Eastland (20.10 miles) :: 262 :: 	General Surgery :: 263 :: 
+1-15-13	Curvin , Thomas J :: 264 :: 	/find_doctor/curvin_thomas_j_id185280.html :: 265 :: 	Eastland (20.10 miles) :: 266 :: 	Family Practice :: 267 :: 
+1-15-14	Edwards , Dralves G :: 268 :: 	/find_doctor/edwards_dralves_g_id36416.html :: 269 :: 	Eastland (20.10 miles) :: 270 :: 	Family Practice :: 271 :: 
+1-15-15	Furman , Erik J :: 272 :: 	/find_doctor/furman_erik_j_id54070.html :: 273 :: 	Eastland (20.10 miles) :: 274 :: 	Emergency Medicine :: 275 :: 
+1-15-16	Furman , Erik J :: 276 :: 	/find_doctor/furman_erik_j_id238996.html :: 277 :: 	Eastland (20.10 miles) :: 278 :: 	Family Practice :: 279 :: 
+1-15-17	Graves , Judith G :: 280 :: 	/find_doctor/graves_judith_g_id240848.html :: 281 :: 	Eastland (20.10 miles) :: 282 :: 	Family Practice :: 283 :: 
+1-15-18	Gray , William T :: 284 :: 	/find_doctor/gray_william_t_id81352.html :: 285 :: 	Eastland (20.10 miles) :: 286 :: 	Emergency Medicine :: 287 :: 
+1-15-19	Greene , Uril C :: 288 :: 	/find_doctor/greene_uril_c_id241570.html :: 289 :: 	Eastland (20.10 miles) :: 290 :: 	Emergency Medicine :: 291 :: 
+1-15-20	Guerra , Rico A :: 292 :: 	/find_doctor/guerra_rico_a_id22271.html :: 293 :: 	Eastland (20.10 miles) :: 294 :: 	Anesthesiology :: 295 :: 
+1-16-1	Evans , James H :: 217 :: 	/find_doctor/evans_james_h_id31371.html :: 218 :: 	Advance (5.55 miles) :: 219 :: 	Family Practice :: 220 :: 
+1-16-2	Hess , Suzanne P :: 221 :: 	/find_doctor/hess_suzanne_p_id158741.html :: 222 :: 	Advance (5.55 miles) :: 223 :: 	Dermatology :: 224 :: 
+1-16-3	Moyen , Farhana R :: 225 :: 	/find_doctor/moyen_farhana_r_id82011.html :: 226 :: 	Advance (5.55 miles) :: 227 :: 	Internal Medicine :: 228 :: 
+1-16-4	Carroll , Mark B :: 229 :: 	/find_doctor/carroll_mark_b_id257750.html :: 230 :: 	Winston Salem (7.25 miles) :: 231 :: 	Psychiatry :: 232 :: 
+1-16-5	Foley , Timothy P :: 233 :: 	/find_doctor/foley_timothy_p_id4115.html :: 234 :: 	Winston Salem (7.25 miles) :: 235 :: 	Medical Expert :: 236 :: 
+1-16-6	Foley , Timothy P :: 237 :: 	/find_doctor/foley_timothy_p_id124835.html :: 238 :: 	Winston Salem (7.25 miles) :: 239 :: 	Medical Expert :: 240 :: 
+1-16-7	Lafavore , Paul R :: 241 :: 	/find_doctor/lafavore_paul_r_id196861.html :: 242 :: 	Winston Salem (7.25 miles) :: 243 :: 	Anesthesiology :: 244 :: 
+1-16-8	Morgan , Melvin K Ii :: 245 :: 	/find_doctor/morgan_melvin_k_ii_id46937.html :: 246 :: 	Winston Salem (7.25 miles) :: 247 :: 	Family Practice :: 248 :: 
+1-16-9	Kirley , Stephen W :: 249 :: 	/find_doctor/kirley_stephen_w_id139621.html :: 250 :: 	Clemmons (7.49 miles) :: 251 :: 	Psychiatry :: 252 :: 
+1-16-10	Marlette , Marnie S :: 253 :: 	/find_doctor/marlette_marnie_s_id130847.html :: 254 :: 	Clemmons (7.49 miles) :: 255 :: 	Family Practice :: 256 :: 
+1-16-11	Weston , Steve L :: 257 :: 	/find_doctor/weston_steve_l_id120210.html :: 258 :: 	Clemmons (7.49 miles) :: 259 :: 	Medical Expert :: 260 :: 
+1-16-12	Aaron , Peggy L :: 261 :: 	/find_doctor/aaron_peggy_l_id127562.html :: 262 :: 	Winston Salem (7.69 miles) :: 263 :: 	Medical Expert :: 264 :: 
+1-16-13	Agrawal , Karen K :: 265 :: 	/find_doctor/agrawal_karen_k_id11084.html :: 266 :: 	Winston Salem (7.69 miles) :: 267 :: 	Internal Medicine :: 268 :: 
+1-16-14	Albertson , Elizabeth A :: 269 :: 	/find_doctor/albertson_elizabeth_a_id129468.html :: 270 :: 	Winston Salem (7.69 miles) :: 271 :: 	General Practice :: 272 :: 
+1-16-15	Alexander , Keith A :: 273 :: 	/find_doctor/alexander_keith_a_id199372.html :: 274 :: 	Winston Salem (7.69 miles) :: 275 :: 	Medical Expert :: 276 :: 
+1-16-16	Alsup , Robert M :: 277 :: 	/find_doctor/alsup_robert_m_id131039.html :: 278 :: 	Winston Salem (7.69 miles) :: 279 :: 	Otolaryngology :: 280 :: 
+1-16-17	Amerson , Barry D :: 281 :: 	/find_doctor/amerson_barry_d_id36547.html :: 282 :: 	Winston Salem (7.69 miles) :: 283 :: 	Medical Expert :: 284 :: 
+1-16-18	Angell , Duane D :: 285 :: 	/find_doctor/angell_duane_d_id171848.html :: 286 :: 	Winston Salem (7.69 miles) :: 287 :: 	Emergency Medicine :: 288 :: 
+1-16-19	Armentrout , Mary E :: 289 :: 	/find_doctor/armentrout_mary_e_id6889.html :: 290 :: 	Winston Salem (7.69 miles) :: 291 :: 	Pediatric Medicine :: 292 :: 
+1-16-20	Arnold , Amy R :: 293 :: 	/find_doctor/arnold_amy_r_id232137.html :: 294 :: 	Winston Salem (7.69 miles) :: 295 :: 	Medical Expert :: 296 :: 
+1-17-1	Payne , Maurice W :: 216 :: 	/find_doctor/payne_maurice_w_id77144.html :: 217 :: 	SAME TOWN :: 218 :: 	Family Practice :: 219 :: 
+1-17-2	Wynn , Leo :: 220 :: 	/find_doctor/wynn_leo_id84178.html :: 221 :: 	SAME TOWN :: 222 :: 	Chiropractor :: 223 :: 
+1-17-3	Durossette , Kimberly D :: 224 :: 	/find_doctor/durossette_kimberly_d_id148351.html :: 225 :: 	WARNER (11.25 miles) :: 226 :: 	Optometry :: 227 :: 
+1-17-4	Arya , Satyendra :: 228 :: 	/find_doctor/arya_satyendra_id226062.html :: 229 :: 	Muskogee (17.59 miles) :: 230 :: 	Diagnostic Radiology :: 231 :: 
+1-17-5	Battad , Hermogenes D :: 232 :: 	/find_doctor/battad_hermogenes_d_id135533.html :: 233 :: 	Muskogee (17.59 miles) :: 234 :: 	Pulmonary Disease :: 235 :: 
+1-17-6	Beck , Charles F :: 236 :: 	/find_doctor/beck_charles_f_id205069.html :: 237 :: 	Muskogee (17.59 miles) :: 238 :: 	Anesthesiology :: 239 :: 
+1-17-7	Bennett , Joseph S :: 240 :: 	/find_doctor/bennett_joseph_s_id154008.html :: 241 :: 	Muskogee (17.59 miles) :: 242 :: 	Physician Assistant :: 243 :: 
+1-17-8	Bowler , Ulysses S Jr :: 244 :: 	/find_doctor/bowler_ulysses_s_jr_id149469.html :: 245 :: 	Muskogee (17.59 miles) :: 246 :: 	Internal Medicine :: 247 :: 
+1-17-9	Carpenter , James L :: 248 :: 	/find_doctor/carpenter_james_l_id71018.html :: 249 :: 	Muskogee (17.59 miles) :: 250 :: 	Physician Assistant :: 251 :: 
+1-17-10	Coburn , Thomas A :: 252 :: 	/find_doctor/coburn_thomas_a_id102601.html :: 253 :: 	Muskogee (17.59 miles) :: 254 :: 	Family Practice :: 255 :: 
+1-17-11	Daftary , Sudhir Ramnik :: 256 :: 	/find_doctor/daftary_sudhir_ramnik_id262094.html :: 257 :: 	Muskogee (17.59 miles) :: 258 :: 	Anesthesiology :: 259 :: 
+1-17-12	Deguzman , Edson :: 260 :: 	/find_doctor/deguzman_edson_id71105.html :: 261 :: 	Muskogee (17.59 miles) :: 262 :: 	Internal Medicine :: 263 :: 
+1-17-13	Echevarria , Jose H :: 264 :: 	/find_doctor/echevarria_jose_h_id117036.html :: 265 :: 	Muskogee (17.59 miles) :: 266 :: 	Internal Medicine :: 267 :: 
+1-17-14	Elerick , Kelly J :: 268 :: 	/find_doctor/elerick_kelly_j_id222047.html :: 269 :: 	Muskogee (17.59 miles) :: 270 :: 	Physician Assistant :: 271 :: 
+1-17-15	Fullenwider , Charles B :: 272 :: 	/find_doctor/fullenwider_charles_b_id83635.html :: 273 :: 	Muskogee (17.59 miles) :: 274 :: 	Neurosurgery :: 275 :: 
+1-17-16	Gage , Kimberly :: 276 :: 	/find_doctor/gage_kimberly_id131822.html :: 277 :: 	Muskogee (17.59 miles) :: 278 :: 	Emergency Medicine :: 279 :: 
+1-17-17	Hale , Micah Damon :: 280 :: 	/find_doctor/hale_micah_damon_id113112.html :: 281 :: 	Muskogee (17.59 miles) :: 282 :: 	Family Practice :: 283 :: 
+1-17-18	Hanes , Richard Dean :: 284 :: 	/find_doctor/hanes_richard_dean_id101918.html :: 285 :: 	Muskogee (17.59 miles) :: 286 :: 	Physician Assistant :: 287 :: 
+1-17-19	Henderson , James L :: 288 :: 	/find_doctor/henderson_james_l_id7256.html :: 289 :: 	Muskogee (17.59 miles) :: 290 :: 	Urology :: 291 :: 
+1-17-20	Honea , Robert A :: 292 :: 	/find_doctor/honea_robert_a_id95013.html :: 293 :: 	Muskogee (17.59 miles) :: 294 :: 	Anesthesiology :: 295 :: 
+1-18-1	Adams , Tommy E :: 217 :: 	/find_doctor/adams_tommy_e_id104263.html :: 218 :: 	SAME TOWN :: 219 :: 	Pathology :: 220 :: 
+1-18-2	Arai , David Andrew :: 221 :: 	/find_doctor/arai_david_andrew_id69465.html :: 222 :: 	SAME TOWN :: 223 :: 	Emergency Medicine :: 224 :: 
+1-18-3	Bailey , Donna L :: 225 :: 	/find_doctor/bailey_donna_l_id91306.html :: 226 :: 	SAME TOWN :: 227 :: 	Physician Assistant :: 228 :: 
+1-18-4	Baxter , Kara :: 229 :: 	/find_doctor/baxter_kara_id83716.html :: 230 :: 	SAME TOWN :: 231 :: 	Nurse Practitioner :: 232 :: 
+1-18-5	Beach , Lynne N :: 233 :: 	/find_doctor/beach_lynne_n_id70966.html :: 234 :: 	SAME TOWN :: 235 :: 	Pediatric Medicine :: 236 :: 
+1-18-6	Bigham , Gene :: 237 :: 	/find_doctor/bigham_gene_id57995.html :: 238 :: 	SAME TOWN :: 239 :: 	General Practice :: 240 :: 
+1-18-7	Birdwell , Russ D :: 241 :: 	/find_doctor/birdwell_russ_d_id85478.html :: 242 :: 	SAME TOWN :: 243 :: 	General Surgery :: 244 :: 
+1-18-8	Bragg , David W :: 245 :: 	/find_doctor/bragg_david_w_id204763.html :: 246 :: 	SAME TOWN :: 247 :: 	Family Practice :: 248 :: 
+1-18-9	Bret , John R :: 249 :: 	/find_doctor/bret_john_r_id230588.html :: 250 :: 	SAME TOWN :: 251 :: 	Cardiology :: 252 :: 
+1-18-10	Bruce , Mark :: 253 :: 	/find_doctor/bruce_mark_id260702.html :: 254 :: 	SAME TOWN :: 255 :: 	Emergency Medicine :: 256 :: 
+1-18-11	Byrne , Gregory J :: 257 :: 	/find_doctor/byrne_gregory_j_id77355.html :: 258 :: 	SAME TOWN :: 259 :: 	Emergency Medicine :: 260 :: 
+1-18-12	Cassidy , Sharon S :: 261 :: 	/find_doctor/cassidy_sharon_s_id173467.html :: 262 :: 	SAME TOWN :: 263 :: 	Medical Expert :: 264 :: 
+1-18-13	Cole , Janet M :: 265 :: 	/find_doctor/cole_janet_m_id11064.html :: 266 :: 	SAME TOWN :: 267 :: 	Medical Expert :: 268 :: 
+1-18-14	Conner , Blair :: 269 :: 	/find_doctor/conner_blair_id159712.html :: 270 :: 	SAME TOWN :: 271 :: 	Gastroenterology :: 272 :: 
+1-18-15	Dayian , Vahe R :: 273 :: 	/find_doctor/dayian_vahe_r_id15427.html :: 274 :: 	SAME TOWN :: 275 :: 	Family Practice :: 276 :: 
+1-18-16	Doiron , Kelley L :: 277 :: 	/find_doctor/doiron_kelley_l_id10573.html :: 278 :: 	SAME TOWN :: 279 :: 	Nurse Practitioner :: 280 :: 
+1-18-17	Duren , Michael :: 281 :: 	/find_doctor/duren_michael_id28736.html :: 282 :: 	SAME TOWN :: 283 :: 	Cardiology :: 284 :: 
+1-18-18	Edwards , Devechio Arnez :: 285 :: 	/find_doctor/edwards_devechio_arnez_id93830.html :: 286 :: 	SAME TOWN :: 287 :: 	Physician Assistant :: 288 :: 
+1-18-19	Flynn , Robert E :: 289 :: 	/find_doctor/flynn_robert_e_id138521.html :: 290 :: 	SAME TOWN :: 291 :: 	Diagnostic Radiology :: 292 :: 
+1-18-20	Fondry , Darlene E :: 293 :: 	/find_doctor/fondry_darlene_e_id209006.html :: 294 :: 	SAME TOWN :: 295 :: 	Nurse Practitioner :: 296 :: 
+1-19-1	Asch , Alexander Harris :: 217 :: 	/find_doctor/asch_alexander_harris_id259200.html :: 218 :: 	SAME TOWN :: 219 :: 	Dermatology :: 220 :: 
+1-19-2	Calle , Juan :: 221 :: 	/find_doctor/calle_juan_id200292.html :: 222 :: 	SAME TOWN :: 223 :: 	Medical Expert :: 224 :: 
+1-19-3	Dave , Ashesh Shivpr :: 225 :: 	/find_doctor/dave_ashesh_shivpr_id70624.html :: 226 :: 	SAME TOWN :: 227 :: 	Internal Medicine :: 228 :: 
+1-19-4	Dicesare , Kimberly Ann :: 229 :: 	/find_doctor/dicesare_kimberly_ann_id157295.html :: 230 :: 	SAME TOWN :: 231 :: 	Chiropractor :: 232 :: 
+1-19-5	Garofalo , John :: 233 :: 	/find_doctor/garofalo_john_id10733.html :: 234 :: 	SAME TOWN :: 235 :: 	Chiropractor :: 236 :: 
+1-19-6	Graziano , Thomas W :: 237 :: 	/find_doctor/graziano_thomas_w_id139969.html :: 238 :: 	SAME TOWN :: 239 :: 	Chiropractor :: 240 :: 
+1-19-7	Kantner , Emily Suzann :: 241 :: 	/find_doctor/kantner_emily_suzann_id146410.html :: 242 :: 	SAME TOWN :: 243 :: 	Chiropractor :: 244 :: 
+1-19-8	Lamont , Jeffrey :: 245 :: 	/find_doctor/lamont_jeffrey_id40403.html :: 246 :: 	SAME TOWN :: 247 :: 	Chiropractor :: 248 :: 
+1-19-9	Madnick , Jonathan A :: 249 :: 	/find_doctor/madnick_jonathan_a_id13125.html :: 250 :: 	SAME TOWN :: 251 :: 	Chiropractor :: 252 :: 
+1-19-10	Malik , Abdul :: 253 :: 	/find_doctor/malik_abdul_id89420.html :: 254 :: 	SAME TOWN :: 255 :: 	Internal Medicine :: 256 :: 
+1-19-11	Malik , Shahid Nasir :: 257 :: 	/find_doctor/malik_shahid_nasir_id899.html :: 258 :: 	SAME TOWN :: 259 :: 	Internal Medicine :: 260 :: 
+1-19-12	Malik , Shahid Nasir :: 261 :: 	/find_doctor/malik_shahid_nasir_id83530.html :: 262 :: 	SAME TOWN :: 263 :: 	Internal Medicine :: 264 :: 
+1-19-13	Miller , Paul H :: 265 :: 	/find_doctor/miller_paul_h_id256133.html :: 266 :: 	SAME TOWN :: 267 :: 	Family Practice :: 268 :: 
+1-19-14	Nair , Shalina :: 269 :: 	/find_doctor/nair_shalina_id148227.html :: 270 :: 	SAME TOWN :: 271 :: 	Family Practice :: 272 :: 
+1-19-15	Newman , Michael B :: 273 :: 	/find_doctor/newman_michael_b_id138872.html :: 274 :: 	SAME TOWN :: 275 :: 	Podiatry :: 276 :: 
+1-19-16	Oommen , George :: 277 :: 	/find_doctor/oommen_george_id134167.html :: 278 :: 	SAME TOWN :: 279 :: 	Internal Medicine :: 280 :: 
+1-19-17	Piazza , John J :: 281 :: 	/find_doctor/piazza_john_j_id176502.html :: 282 :: 	SAME TOWN :: 283 :: 	Chiropractor :: 284 :: 
+1-19-18	Radbill , Mark K :: 285 :: 	/find_doctor/radbill_mark_k_id157437.html :: 286 :: 	SAME TOWN :: 287 :: 	Family Practice :: 288 :: 
+1-19-19	Ruppersberger , Andrew :: 289 :: 	/find_doctor/ruppersberger_andrew_id39389.html :: 290 :: 	SAME TOWN :: 291 :: 	Family Practice :: 292 :: 
+1-19-20	Rushmore , James :: 293 :: 	/find_doctor/rushmore_james_id84620.html :: 294 :: 	SAME TOWN :: 295 :: 	Medical Expert :: 296 :: 
+1-20-1	Arulanantham , Gowri :: 217 :: 	/find_doctor/arulanantham_gowri_id247340.html :: 218 :: 	SAME TOWN :: 219 :: 	Psychiatry :: 220 :: 
+1-20-2	Assefa , Aster :: 221 :: 	/find_doctor/assefa_aster_id148069.html :: 222 :: 	SAME TOWN :: 223 :: 	Family Practice :: 224 :: 
+1-20-3	Bankaci , Murat :: 225 :: 	/find_doctor/bankaci_murat_id263772.html :: 226 :: 	SAME TOWN :: 227 :: 	Otolaryngology :: 228 :: 
+1-20-4	Clark , Robert J Jr :: 229 :: 	/find_doctor/clark_robert_j_jr_id266731.html :: 230 :: 	SAME TOWN :: 231 :: 	Chiropractor :: 232 :: 
+1-20-5	Davis , Helen A :: 233 :: 	/find_doctor/davis_helen_a_id57672.html :: 234 :: 	SAME TOWN :: 235 :: 	Ophthalmology :: 236 :: 
+1-20-6	Davis , Helen A :: 237 :: 	/find_doctor/davis_helen_a_id15883.html :: 238 :: 	SAME TOWN :: 239 :: 	Ophthalmology :: 240 :: 
+1-20-7	Domit , John :: 241 :: 	/find_doctor/domit_john_id14495.html :: 242 :: 	SAME TOWN :: 243 :: 	General Surgery :: 244 :: 
+1-20-8	Gemmell , Tracy J :: 245 :: 	/find_doctor/gemmell_tracy_j_id59706.html :: 246 :: 	SAME TOWN :: 247 :: 	Obstetrics-Gynecology :: 248 :: 
+1-20-9	Harmatz , Lee J :: 249 :: 	/find_doctor/harmatz_lee_j_id172506.html :: 250 :: 	SAME TOWN :: 251 :: 	Family Practice :: 252 :: 
+1-20-10	Hrycko , Michael A :: 253 :: 	/find_doctor/hrycko_michael_a_id125228.html :: 254 :: 	SAME TOWN :: 255 :: 	Chiropractor :: 256 :: 
+1-20-11	Hughes , Lisa Marie :: 257 :: 	/find_doctor/hughes_lisa_marie_id165159.html :: 258 :: 	SAME TOWN :: 259 :: 	Obstetrics-Gynecology :: 260 :: 
+1-20-12	Kolonich , John G Jr :: 261 :: 	/find_doctor/kolonich_john_g_jr_id164377.html :: 262 :: 	SAME TOWN :: 263 :: 	Emergency Medicine :: 264 :: 
+1-20-13	Kraus , John F :: 265 :: 	/find_doctor/kraus_john_f_id71826.html :: 266 :: 	SAME TOWN :: 267 :: 	Anesthesiology :: 268 :: 
+1-20-14	Kumar , Rani K :: 269 :: 	/find_doctor/kumar_rani_k_id267662.html :: 270 :: 	SAME TOWN :: 271 :: 	Pediatric Medicine :: 272 :: 
+1-20-15	Lampert , Dana Mirela :: 273 :: 	/find_doctor/lampert_dana_mirela_id182827.html :: 274 :: 	SAME TOWN :: 275 :: 	Internal Medicine :: 276 :: 
+1-20-16	Malik , Pavan :: 277 :: 	/find_doctor/malik_pavan_id96627.html :: 278 :: 	SAME TOWN :: 279 :: 	Anesthesiology :: 280 :: 
+1-20-17	Marks , Geraldine :: 281 :: 	/find_doctor/marks_geraldine_id39358.html :: 282 :: 	SAME TOWN :: 283 :: 	Medical Expert :: 284 :: 
+1-20-18	Martinez , Jess M :: 285 :: 	/find_doctor/martinez_jess_m_id75210.html :: 286 :: 	SAME TOWN :: 287 :: 	Emergency Medicine :: 288 :: 
+1-20-19	Martinez , Juan :: 289 :: 	/find_doctor/martinez_juan_id3785.html :: 290 :: 	SAME TOWN :: 291 :: 	Anesthesiology :: 292 :: 
+1-20-20	Meyerhuber , Stephen Michae :: 293 :: 	/find_doctor/meyerhuber_stephen_michae_id37785.html :: 294 :: 	SAME TOWN :: 295 :: 	Anesthesiology :: 296 :: 
+1-21-1	Absalon , Jeffrey V :: 216 :: 	/find_doctor/absalon_jeffrey_v_id173867.html :: 217 :: 	SAME TOWN :: 218 :: 	Internal Medicine :: 219 :: 
+1-21-2	Askew , Aaron E :: 220 :: 	/find_doctor/askew_aaron_e_id258518.html :: 221 :: 	SAME TOWN :: 222 :: 	Orthopedic Surgery :: 223 :: 
+1-21-3	Backus , Mark A :: 224 :: 	/find_doctor/backus_mark_a_id135985.html :: 225 :: 	SAME TOWN :: 226 :: 	Internal Medicine :: 227 :: 
+1-21-4	Bailie , Valerie J :: 228 :: 	/find_doctor/bailie_valerie_j_id30192.html :: 229 :: 	SAME TOWN :: 230 :: 	Pediatric Medicine :: 231 :: 
+1-21-5	Beamer , Leland P :: 232 :: 	/find_doctor/beamer_leland_p_id122163.html :: 233 :: 	SAME TOWN :: 234 :: 	General Practice :: 235 :: 
+1-21-6	Beamer , Leland P :: 236 :: 	/find_doctor/beamer_leland_p_id259049.html :: 237 :: 	SAME TOWN :: 238 :: 	Family Practice :: 239 :: 
+1-21-7	Beard , Timothy Lee :: 240 :: 	/find_doctor/beard_timothy_lee_id24332.html :: 241 :: 	SAME TOWN :: 242 :: 	General Surgery :: 243 :: 
+1-21-8	Belza , Mark G :: 244 :: 	/find_doctor/belza_mark_g_id127388.html :: 245 :: 	SAME TOWN :: 246 :: 	Neurosurgery :: 247 :: 
+1-21-9	Berridge , Julie A :: 248 :: 	/find_doctor/berridge_julie_a_id96332.html :: 249 :: 	SAME TOWN :: 250 :: 	Medical Expert :: 251 :: 
+1-21-10	Blechman , Jennifer A :: 252 :: 	/find_doctor/blechman_jennifer_a_id51054.html :: 253 :: 	SAME TOWN :: 254 :: 	Family Practice :: 255 :: 
+1-21-11	Boggess , Jefrey P :: 256 :: 	/find_doctor/boggess_jefrey_p_id88339.html :: 257 :: 	SAME TOWN :: 258 :: 	General Practice :: 259 :: 
+1-21-12	Bollom , Timothy S :: 260 :: 	/find_doctor/bollom_timothy_s_id153560.html :: 261 :: 	SAME TOWN :: 262 :: 	Orthopedic Surgery :: 263 :: 
+1-21-13	Bowman , Ronald R :: 264 :: 	/find_doctor/bowman_ronald_r_id30065.html :: 265 :: 	SAME TOWN :: 266 :: 	Orthopedic Surgery :: 267 :: 
+1-21-14	Bowman , Ronald R :: 268 :: 	/find_doctor/bowman_ronald_r_id233246.html :: 269 :: 	SAME TOWN :: 270 :: 	Orthopedic Surgery :: 271 :: 
+1-21-15	Braich , Theodore A :: 272 :: 	/find_doctor/braich_theodore_a_id238588.html :: 273 :: 	SAME TOWN :: 274 :: 	Hematology-Oncology :: 275 :: 
+1-21-16	Brennan , Nancy L :: 276 :: 	/find_doctor/brennan_nancy_l_id37108.html :: 277 :: 	SAME TOWN :: 278 :: 	Family Practice :: 279 :: 
+1-21-17	Brooks , Stewart T :: 280 :: 	/find_doctor/brooks_stewart_t_id164903.html :: 281 :: 	SAME TOWN :: 282 :: 	Physician Assistant :: 283 :: 
+1-21-18	Burgel , Linda L :: 284 :: 	/find_doctor/burgel_linda_l_id254164.html :: 285 :: 	SAME TOWN :: 286 :: 	Nurse Practitioner :: 287 :: 
+1-21-19	Burke , Alan D :: 288 :: 	/find_doctor/burke_alan_d_id194728.html :: 289 :: 	SAME TOWN :: 290 :: 	Medical Expert :: 291 :: 
+1-21-20	Burket , Bradley J :: 292 :: 	/find_doctor/burket_bradley_j_id36717.html :: 293 :: 	SAME TOWN :: 294 :: 	Family Practice :: 295 :: 
+1-22-1	Ahmed , Pamela :: 217 :: 	/find_doctor/ahmed_pamela_id213253.html :: 218 :: 	SAME TOWN :: 219 :: 	Physician Assistant :: 220 :: 
+1-22-2	Ampil , James R :: 221 :: 	/find_doctor/ampil_james_r_id155098.html :: 222 :: 	SAME TOWN :: 223 :: 	Internal Medicine :: 224 :: 
+1-22-3	Anderson , Paul :: 225 :: 	/find_doctor/anderson_paul_id218731.html :: 226 :: 	SAME TOWN :: 227 :: 	Gastroenterology :: 228 :: 
+1-22-4	Andreone , David :: 229 :: 	/find_doctor/andreone_david_id3529.html :: 230 :: 	SAME TOWN :: 231 :: 	Podiatry :: 232 :: 
+1-22-5	Armstrong , Brent A :: 233 :: 	/find_doctor/armstrong_brent_a_id120124.html :: 234 :: 	SAME TOWN :: 235 :: 	Radiation Oncology :: 236 :: 
+1-22-6	Bassel , Katrina :: 237 :: 	/find_doctor/bassel_katrina_id214628.html :: 238 :: 	SAME TOWN :: 239 :: 	Gastroenterology :: 240 :: 
+1-22-7	Becker , Phillip M :: 241 :: 	/find_doctor/becker_phillip_m_id155594.html :: 242 :: 	SAME TOWN :: 243 :: 	Psychiatry :: 244 :: 
+1-22-8	Bednar , Amy A :: 245 :: 	/find_doctor/bednar_amy_a_id144754.html :: 246 :: 	SAME TOWN :: 247 :: 	Medical Expert :: 248 :: 
+1-22-9	Berk , Alan M :: 249 :: 	/find_doctor/berk_alan_m_id229908.html :: 250 :: 	SAME TOWN :: 251 :: 	Anesthesiology :: 252 :: 
+1-22-10	Bernstein , Sideny H :: 253 :: 	/find_doctor/bernstein_sideny_h_id110618.html :: 254 :: 	SAME TOWN :: 255 :: 	Family Practice :: 256 :: 
+1-22-11	Berry , Priscilla M :: 257 :: 	/find_doctor/berry_priscilla_m_id261126.html :: 258 :: 	SAME TOWN :: 259 :: 	Ophthalmology :: 260 :: 
+1-22-12	Bogus , Houston :: 261 :: 	/find_doctor/bogus_houston_id199419.html :: 262 :: 	SAME TOWN :: 263 :: 	Gastroenterology :: 264 :: 
+1-22-13	Boren , Edwin L Jr :: 265 :: 	/find_doctor/boren_edwin_l_jr_id260054.html :: 266 :: 	SAME TOWN :: 267 :: 	Diagnostic Radiology :: 268 :: 
+1-22-14	Borgognoni , Anthony P :: 269 :: 	/find_doctor/borgognoni_anthony_p_id100165.html :: 270 :: 	SAME TOWN :: 271 :: 	Optometry :: 272 :: 
+1-22-15	Broderick Thomas , Jenifer A :: 273 :: 	/find_doctor/broderick_thomas_jenifer_a_id148957.html :: 274 :: 	SAME TOWN :: 275 :: 	Obstetrics-Gynecology :: 276 :: 
+1-22-16	Bryant , Michael A :: 277 :: 	/find_doctor/bryant_michael_a_id65167.html :: 278 :: 	SAME TOWN :: 279 :: 	Physician Assistant :: 280 :: 
+1-22-17	Cable , James D :: 281 :: 	/find_doctor/cable_james_d_id27277.html :: 282 :: 	SAME TOWN :: 283 :: 	Orthopedic Surgery :: 284 :: 
+1-22-18	Carmody , Cameron N :: 285 :: 	/find_doctor/carmody_cameron_n_id111147.html :: 286 :: 	SAME TOWN :: 287 :: 	Orthopedic Surgery :: 288 :: 
+1-22-19	Cichon , Jolanta U :: 289 :: 	/find_doctor/cichon_jolanta_u_id208507.html :: 290 :: 	SAME TOWN :: 291 :: 	Medical Oncology :: 292 :: 
+1-22-20	Click , James N :: 293 :: 	/find_doctor/click_james_n_id107306.html :: 294 :: 	SAME TOWN :: 295 :: 	Physician Assistant :: 296 :: 
+1-23-1	Abu-Salha , Mohammad Y :: 216 :: 	/find_doctor/abu_salha_mohammad_y_id258615.html :: 217 :: 	SAME TOWN :: 218 :: 	Psychiatry :: 219 :: 
+1-23-2	Baldwin , Robert C :: 220 :: 	/find_doctor/baldwin_robert_c_id113344.html :: 221 :: 	SAME TOWN :: 222 :: 	Ophthalmology :: 223 :: 
+1-23-3	Berry , John Jr :: 224 :: 	/find_doctor/berry_john_jr_id33830.html :: 225 :: 	SAME TOWN :: 226 :: 	General Surgery :: 227 :: 
+1-23-4	Campbell , Debra A :: 228 :: 	/find_doctor/campbell_debra_a_id220164.html :: 229 :: 	SAME TOWN :: 230 :: 	Emergency Medicine :: 231 :: 
+1-23-5	Campo , Alfred G :: 232 :: 	/find_doctor/campo_alfred_g_id91133.html :: 233 :: 	SAME TOWN :: 234 :: 	Emergency Medicine :: 235 :: 
+1-23-6	Carter , Shawn L :: 236 :: 	/find_doctor/carter_shawn_l_id49685.html :: 237 :: 	SAME TOWN :: 238 :: 	Emergency Medicine :: 239 :: 
+1-23-7	Classen , Charles H Jr :: 240 :: 	/find_doctor/classen_charles_h_jr_id126988.html :: 241 :: 	SAME TOWN :: 242 :: 	Orthopedic Surgery :: 243 :: 
+1-23-8	Cooper , Edwin B Jr :: 244 :: 	/find_doctor/cooper_edwin_b_jr_id79947.html :: 245 :: 	SAME TOWN :: 246 :: 	Orthopedic Surgery :: 247 :: 
+1-23-9	Cotten , Aaron R :: 248 :: 	/find_doctor/cotten_aaron_r_id238038.html :: 249 :: 	SAME TOWN :: 250 :: 	Emergency Medicine :: 251 :: 
+1-23-10	Dean , Emily G :: 252 :: 	/find_doctor/dean_emily_g_id128423.html :: 253 :: 	SAME TOWN :: 254 :: 	Emergency Medicine :: 255 :: 
+1-23-11	Declerck , Paul A :: 256 :: 	/find_doctor/declerck_paul_a_id123532.html :: 257 :: 	SAME TOWN :: 258 :: 	Family Practice :: 259 :: 
+1-23-12	Dennis , Patrick M :: 260 :: 	/find_doctor/dennis_patrick_m_id208235.html :: 261 :: 	SAME TOWN :: 262 :: 	Ophthalmology :: 263 :: 
+1-23-13	Devaul , Chanson A :: 264 :: 	/find_doctor/devaul_chanson_a_id178836.html :: 265 :: 	SAME TOWN :: 266 :: 	Family Practice :: 267 :: 
+1-23-14	Edson , Brian M :: 268 :: 	/find_doctor/edson_brian_m_id182348.html :: 269 :: 	SAME TOWN :: 270 :: 	Emergency Medicine :: 271 :: 
+1-23-15	Ellis , Rickie W :: 272 :: 	/find_doctor/ellis_rickie_w_id90545.html :: 273 :: 	SAME TOWN :: 274 :: 	Psychiatry :: 275 :: 
+1-23-16	Elmore , William G :: 276 :: 	/find_doctor/elmore_william_g_id198278.html :: 277 :: 	SAME TOWN :: 278 :: 	Diagnostic Radiology :: 279 :: 
+1-23-17	Feasel , Michael J :: 280 :: 	/find_doctor/feasel_michael_j_id232560.html :: 281 :: 	SAME TOWN :: 282 :: 	Emergency Medicine :: 283 :: 
+1-23-18	Ferriss , Jo Leigh :: 284 :: 	/find_doctor/ferriss_jo_leigh_id186783.html :: 285 :: 	SAME TOWN :: 286 :: 	Medical Expert :: 287 :: 
+1-23-19	Frank , Anthony J Jr :: 288 :: 	/find_doctor/frank_anthony_j_jr_id59498.html :: 289 :: 	SAME TOWN :: 290 :: 	Emergency Medicine :: 291 :: 
+1-23-20	Goheen , Barbara L :: 292 :: 	/find_doctor/goheen_barbara_l_id130443.html :: 293 :: 	SAME TOWN :: 294 :: 	Otolaryngology :: 295 :: 
+1-24-1	Bulmer , David R :: 217 :: 	/find_doctor/bulmer_david_r_id78626.html :: 218 :: 	SAME TOWN :: 219 :: 	Psychiatry :: 220 :: 
+1-24-2	Day , Xuan Tran :: 221 :: 	/find_doctor/day_xuan_tran_id142458.html :: 222 :: 	SAME TOWN :: 223 :: 	Internal Medicine :: 224 :: 
+1-24-3	Dimond , Robert L :: 225 :: 	/find_doctor/dimond_robert_l_id159270.html :: 226 :: 	SAME TOWN :: 227 :: 	Dermatology :: 228 :: 
+1-24-4	Kachavos , Peter G :: 229 :: 	/find_doctor/kachavos_peter_g_id74019.html :: 230 :: 	SAME TOWN :: 231 :: 	Internal Medicine :: 232 :: 
+1-24-5	Kaufmann , David :: 233 :: 	/find_doctor/kaufmann_david_id47038.html :: 234 :: 	SAME TOWN :: 235 :: 	Podiatry :: 236 :: 
+1-24-6	Kimball , Brian S :: 237 :: 	/find_doctor/kimball_brian_s_id100207.html :: 238 :: 	SAME TOWN :: 239 :: 	Physician Assistant :: 240 :: 
+1-24-7	Kubina , Anne H :: 241 :: 	/find_doctor/kubina_anne_h_id130556.html :: 242 :: 	SAME TOWN :: 243 :: 	Family Practice :: 244 :: 
+1-24-8	Lockwood , Sharon J :: 245 :: 	/find_doctor/lockwood_sharon_j_id187831.html :: 246 :: 	SAME TOWN :: 247 :: 	Physician Assistant :: 248 :: 
+1-24-9	Nackman , Louis :: 249 :: 	/find_doctor/nackman_louis_id203300.html :: 250 :: 	SAME TOWN :: 251 :: 	Pediatric Medicine :: 252 :: 
+1-24-10	Plantier , Alexis :: 253 :: 	/find_doctor/plantier_alexis_id180118.html :: 254 :: 	SAME TOWN :: 255 :: 	Pediatric Medicine :: 256 :: 
+1-24-11	Schwartz , Steven B :: 257 :: 	/find_doctor/schwartz_steven_b_id158915.html :: 258 :: 	SAME TOWN :: 259 :: 	Internal Medicine :: 260 :: 
+1-24-12	Starr , Jane :: 261 :: 	/find_doctor/starr_jane_id259308.html :: 262 :: 	SAME TOWN :: 263 :: 	Obstetrics-Gynecology :: 264 :: 
+1-24-13	Heffernan , Thomas M :: 265 :: 	/find_doctor/heffernan_thomas_m_id255127.html :: 266 :: 	SAME TOWN :: 267 :: 	Emergency Medicine :: 268 :: 
+1-24-14	High , James J :: 269 :: 	/find_doctor/high_james_j_id148907.html :: 270 :: 	SAME TOWN :: 271 :: 	General Practice :: 272 :: 
+1-24-15	Horning , John A :: 273 :: 	/find_doctor/horning_john_a_id71402.html :: 274 :: 	SAME TOWN :: 275 :: 	Emergency Medicine :: 276 :: 
+1-24-16	Hubley , Jeffrey E :: 277 :: 	/find_doctor/hubley_jeffrey_e_id76873.html :: 278 :: 	SAME TOWN :: 279 :: 	Obstetrics-Gynecology :: 280 :: 
+1-24-17	Indorf , Gerald S :: 281 :: 	/find_doctor/indorf_gerald_s_id184205.html :: 282 :: 	SAME TOWN :: 283 :: 	Neurology :: 284 :: 
+1-24-18	Langlois , Alfred :: 285 :: 	/find_doctor/langlois_alfred_id142621.html :: 286 :: 	SAME TOWN :: 287 :: 	General Surgery :: 288 :: 
+1-24-19	Mitsopoulos , Spiros :: 289 :: 	/find_doctor/mitsopoulos_spiros_id266854.html :: 290 :: 	SAME TOWN :: 291 :: 	Internal Medicine :: 292 :: 
+1-24-20	Negri , Damon J :: 293 :: 	/find_doctor/negri_damon_j_id223191.html :: 294 :: 	SAME TOWN :: 295 :: 	Emergency Medicine :: 296 :: 
+1-25-1	Baber , Gregory L :: 216 :: 	/find_doctor/baber_gregory_l_id120278.html :: 217 :: 	SAME TOWN :: 218 :: 	Oral Surgery :: 219 :: 
+1-25-2	Blount , Donna :: 220 :: 	/find_doctor/blount_donna_id227928.html :: 221 :: 	SAME TOWN :: 222 :: 	Nurse Practitioner :: 223 :: 
+1-25-3	Boyd , Ellen M :: 224 :: 	/find_doctor/boyd_ellen_m_id166723.html :: 225 :: 	SAME TOWN :: 226 :: 	Nurse Practitioner :: 227 :: 
+1-25-4	Burr , Roger K :: 228 :: 	/find_doctor/burr_roger_k_id135889.html :: 229 :: 	SAME TOWN :: 230 :: 	Emergency Medicine :: 231 :: 
+1-25-5	Busby , Richard :: 232 :: 	/find_doctor/busby_richard_id115418.html :: 233 :: 	SAME TOWN :: 234 :: 	Medical Expert :: 235 :: 
+1-25-6	Campagna , John A :: 236 :: 	/find_doctor/campagna_john_a_id36000.html :: 237 :: 	SAME TOWN :: 238 :: 	Ophthalmology :: 239 :: 
+1-25-7	Carter , Stephen A :: 240 :: 	/find_doctor/carter_stephen_a_id13734.html :: 241 :: 	SAME TOWN :: 242 :: 	Emergency Medicine :: 243 :: 
+1-25-8	Carter , Stephen A :: 244 :: 	/find_doctor/carter_stephen_a_id241237.html :: 245 :: 	SAME TOWN :: 246 :: 	Family Practice :: 247 :: 
+1-25-9	Christian , Lewis S :: 248 :: 	/find_doctor/christian_lewis_s_id62901.html :: 249 :: 	SAME TOWN :: 250 :: 	Emergency Medicine :: 251 :: 
+1-25-10	Christian , Lewis S :: 252 :: 	/find_doctor/christian_lewis_s_id105918.html :: 253 :: 	SAME TOWN :: 254 :: 	Family Practice :: 255 :: 
+1-25-11	Clark , Dennis :: 256 :: 	/find_doctor/clark_dennis_id254515.html :: 257 :: 	SAME TOWN :: 258 :: 	Medical Expert :: 259 :: 
+1-25-12	Conner , Troy F :: 260 :: 	/find_doctor/conner_troy_f_id125373.html :: 261 :: 	SAME TOWN :: 262 :: 	Medical Expert :: 263 :: 
+1-25-13	Cook , Marlon :: 264 :: 	/find_doctor/cook_marlon_id111965.html :: 265 :: 	SAME TOWN :: 266 :: 	Medical Expert :: 267 :: 
+1-25-14	Flanders , Barry N :: 268 :: 	/find_doctor/flanders_barry_n_id18179.html :: 269 :: 	SAME TOWN :: 270 :: 	Diagnostic Radiology :: 271 :: 
+1-25-15	Flores , Heriberto J :: 272 :: 	/find_doctor/flores_heriberto_j_id79644.html :: 273 :: 	SAME TOWN :: 274 :: 	Family Practice :: 275 :: 
+1-25-16	Gaitonde , Gajanan V :: 276 :: 	/find_doctor/gaitonde_gajanan_v_id77059.html :: 277 :: 	SAME TOWN :: 278 :: 	Family Practice :: 279 :: 
+1-25-17	Gonzalez , Salvador :: 280 :: 	/find_doctor/gonzalez_salvador_id98067.html :: 281 :: 	SAME TOWN :: 282 :: 	Family Practice :: 283 :: 
+1-25-18	Hannigan , John :: 284 :: 	/find_doctor/hannigan_john_id236654.html :: 285 :: 	SAME TOWN :: 286 :: 	Medical Expert :: 287 :: 
+1-25-19	Hanson , Burnett :: 288 :: 	/find_doctor/hanson_burnett_id256351.html :: 289 :: 	SAME TOWN :: 290 :: 	Internal Medicine :: 291 :: 
+1-25-20	Hoang , Robert Q :: 292 :: 	/find_doctor/hoang_robert_q_id13649.html :: 293 :: 	SAME TOWN :: 294 :: 	Emergency Medicine :: 295 :: 
+1-26-1	Abelles , Micha :: 217 :: 	/find_doctor/abelles_micha_id95043.html :: 218 :: 	SAME TOWN :: 219 :: 	Rheumatology :: 220 :: 
+1-26-2	Adams , Nancy :: 221 :: 	/find_doctor/adams_nancy_id198849.html :: 222 :: 	SAME TOWN :: 223 :: 	Nephrology :: 224 :: 
+1-26-3	Adkisson , Wayne :: 225 :: 	/find_doctor/adkisson_wayne_id21236.html :: 226 :: 	SAME TOWN :: 227 :: 	Internal Medicine :: 228 :: 
+1-26-4	Aldairi , Mohammed :: 229 :: 	/find_doctor/aldairi_mohammed_id98834.html :: 230 :: 	SAME TOWN :: 231 :: 	Internal Medicine :: 232 :: 
+1-26-5	Altman , Arnold :: 233 :: 	/find_doctor/altman_arnold_id23419.html :: 234 :: 	SAME TOWN :: 235 :: 	Pediatric Medicine :: 236 :: 
+1-26-6	Anderson , Jeffrey M :: 237 :: 	/find_doctor/anderson_jeffrey_m_id137082.html :: 238 :: 	SAME TOWN :: 239 :: 	Physical Medicine-Rehabilitation :: 240 :: 
+1-26-7	Anyatonwu , Samuel :: 241 :: 	/find_doctor/anyatonwu_samuel_id53833.html :: 242 :: 	SAME TOWN :: 243 :: 	Internal Medicine :: 244 :: 
+1-26-8	Ardolino , Anthony :: 245 :: 	/find_doctor/ardolino_anthony_id219606.html :: 246 :: 	SAME TOWN :: 247 :: 	Internal Medicine :: 248 :: 
+1-26-9	Bailey , Lea M :: 249 :: 	/find_doctor/bailey_lea_m_id74781.html :: 250 :: 	SAME TOWN :: 251 :: 	Family Practice :: 252 :: 
+1-26-10	Bailey , Yvette D :: 253 :: 	/find_doctor/bailey_yvette_d_id33289.html :: 254 :: 	SAME TOWN :: 255 :: 	Diagnostic Radiology :: 256 :: 
+1-26-11	Bastiannse , Kayleen :: 257 :: 	/find_doctor/bastiannse_kayleen_id199097.html :: 258 :: 	SAME TOWN :: 259 :: 	Nurse Practitioner :: 260 :: 
+1-26-12	Bilker , Larry :: 261 :: 	/find_doctor/bilker_larry_id236749.html :: 262 :: 	Glastonbury (0.00 miles) :: 263 :: 	Medical Expert :: 264 :: 
+1-26-13	Bolnik , Alan D :: 265 :: 	/find_doctor/bolnik_alan_d_id43948.html :: 266 :: 	SAME TOWN :: 267 :: 	Obstetrics-Gynecology :: 268 :: 
+1-26-14	Bonkovsky , Herbert :: 269 :: 	/find_doctor/bonkovsky_herbert_id176664.html :: 270 :: 	SAME TOWN :: 271 :: 	Gastroenterology :: 272 :: 
+1-26-15	Borgida , Adam F :: 273 :: 	/find_doctor/borgida_adam_f_id224469.html :: 274 :: 	SAME TOWN :: 275 :: 	Obstetrics-Gynecology :: 276 :: 
+1-26-16	Brown , David L :: 277 :: 	/find_doctor/brown_david_l_id18951.html :: 278 :: 	SAME TOWN :: 279 :: 	Pediatric Medicine :: 280 :: 
+1-26-17	Bullock , Ward :: 281 :: 	/find_doctor/bullock_ward_id219305.html :: 282 :: 	SAME TOWN :: 283 :: 	Infectious Disease :: 284 :: 
+1-26-18	Cannon , John L :: 285 :: 	/find_doctor/cannon_john_l_id185490.html :: 286 :: 	SAME TOWN :: 287 :: 	Family Practice :: 288 :: 
+1-26-19	Carolan , Beverly J :: 289 :: 	/find_doctor/carolan_beverly_j_id106654.html :: 290 :: 	SAME TOWN :: 291 :: 	Family Practice :: 292 :: 
+1-26-20	Cautilli , Richard :: 293 :: 	/find_doctor/cautilli_richard_id258975.html :: 294 :: 	SAME TOWN :: 295 :: 	Orthopedic Surgery :: 296 :: 
+1-27-1	Ahmad , Khalid M :: 217 :: 	/find_doctor/ahmad_khalid_m_id262921.html :: 218 :: 	SAME TOWN :: 219 :: 	Infectious Disease :: 220 :: 
+1-27-2	Altaffer , Thomas D :: 221 :: 	/find_doctor/altaffer_thomas_d_id220726.html :: 222 :: 	SAME TOWN :: 223 :: 	Medical Expert :: 224 :: 
+1-27-3	Amin , Anila :: 225 :: 	/find_doctor/amin_anila_id116649.html :: 226 :: 	SAME TOWN :: 227 :: 	Family Practice :: 228 :: 
+1-27-4	Amin , Pinakin B :: 229 :: 	/find_doctor/amin_pinakin_b_id155260.html :: 230 :: 	SAME TOWN :: 231 :: 	Internal Medicine :: 232 :: 
+1-27-5	Arnold , Patrick J :: 233 :: 	/find_doctor/arnold_patrick_j_id37653.html :: 234 :: 	SAME TOWN :: 235 :: 	Chiropractor :: 236 :: 
+1-27-6	Barnett , Robin :: 237 :: 	/find_doctor/barnett_robin_id54430.html :: 238 :: 	SAME TOWN :: 239 :: 	Medical Expert :: 240 :: 
+1-27-7	Beideman , Gregg R :: 241 :: 	/find_doctor/beideman_gregg_r_id9659.html :: 242 :: 	SAME TOWN :: 243 :: 	Medical Expert :: 244 :: 
+1-27-8	Blumenthal , David :: 245 :: 	/find_doctor/blumenthal_david_id239312.html :: 246 :: 	SAME TOWN :: 247 :: 	Chiropractor :: 248 :: 
+1-27-9	Briglia , Philip T :: 249 :: 	/find_doctor/briglia_philip_t_id48019.html :: 250 :: 	SAME TOWN :: 251 :: 	Chiropractor :: 252 :: 
+1-27-10	Calabro , David John :: 253 :: 	/find_doctor/calabro_david_john_id149075.html :: 254 :: 	SAME TOWN :: 255 :: 	Chiropractor :: 256 :: 
+1-27-11	Carroccia , Sharon L :: 257 :: 	/find_doctor/carroccia_sharon_l_id17728.html :: 258 :: 	SAME TOWN :: 259 :: 	Medical Expert :: 260 :: 
+1-27-12	Chorney , Robert :: 261 :: 	/find_doctor/chorney_robert_id51408.html :: 262 :: 	SAME TOWN :: 263 :: 	Medical Expert :: 264 :: 
+1-27-13	Connolly , Coyle S :: 265 :: 	/find_doctor/connolly_coyle_s_id149641.html :: 266 :: 	SAME TOWN :: 267 :: 	Dermatology :: 268 :: 
+1-27-14	Dorn , Jonathan J :: 269 :: 	/find_doctor/dorn_jonathan_j_id80273.html :: 270 :: 	SAME TOWN :: 271 :: 	Optometry :: 272 :: 
+1-27-15	Fitzpatrick , Doreen K :: 273 :: 	/find_doctor/fitzpatrick_doreen_k_id15788.html :: 274 :: 	SAME TOWN :: 275 :: 	Nurse Practitioner :: 276 :: 
+1-27-16	Galvan , Steven A :: 277 :: 	/find_doctor/galvan_steven_a_id83508.html :: 278 :: 	SAME TOWN :: 279 :: 	Medical Expert :: 280 :: 
+1-27-17	Garrett , Paul R :: 281 :: 	/find_doctor/garrett_paul_r_id187400.html :: 282 :: 	SAME TOWN :: 283 :: 	Diagnostic Radiology :: 284 :: 
+1-27-18	Gove , Ronald C :: 285 :: 	/find_doctor/gove_ronald_c_id81969.html :: 286 :: 	SAME TOWN :: 287 :: 	Internal Medicine :: 288 :: 
+1-27-19	Iyer , Ramamurthi :: 289 :: 	/find_doctor/iyer_ramamurthi_id120542.html :: 290 :: 	SAME TOWN :: 291 :: 	Endocrinology :: 292 :: 
+1-27-20	Jain , Nisha :: 293 :: 	/find_doctor/jain_nisha_id203021.html :: 294 :: 	SAME TOWN :: 295 :: 	Physical Medicine-Rehabilitation :: 296 :: 
+1-28-1	Abujaber Ammari , Linda K :: 216 :: 	/find_doctor/abujaber_ammari_linda_k_id157476.html :: 217 :: 	SAME TOWN :: 218 :: 	Pediatric Medicine :: 219 :: 
+1-28-2	Beck , David A :: 220 :: 	/find_doctor/beck_david_a_id138788.html :: 221 :: 	SAME TOWN :: 222 :: 	Obstetrics-Gynecology :: 223 :: 
+1-28-3	Covington , Frank L :: 224 :: 	/find_doctor/covington_frank_l_id103809.html :: 225 :: 	SAME TOWN :: 226 :: 	Psychiatry :: 227 :: 
+1-28-4	Dueis , Julie J :: 228 :: 	/find_doctor/dueis_julie_j_id180492.html :: 229 :: 	SAME TOWN :: 230 :: 	Medical Expert :: 231 :: 
+1-28-5	Hartsaw , Sara L :: 232 :: 	/find_doctor/hartsaw_sara_l_id264674.html :: 233 :: 	SAME TOWN :: 234 :: 	General Surgery :: 235 :: 
+1-28-6	Hildebrand , Todd A :: 236 :: 	/find_doctor/hildebrand_todd_a_id65170.html :: 237 :: 	SAME TOWN :: 238 :: 	Chiropractor :: 239 :: 
+1-28-7	Johnson , Leon A :: 240 :: 	/find_doctor/johnson_leon_a_id162985.html :: 241 :: 	SAME TOWN :: 242 :: 	Optometry :: 243 :: 
+1-28-8	Johnsrud , Erik P :: 244 :: 	/find_doctor/johnsrud_erik_p_id257989.html :: 245 :: 	SAME TOWN :: 246 :: 	Anesthesiology :: 247 :: 
+1-28-9	Jordan , Roger L :: 248 :: 	/find_doctor/jordan_roger_l_id55105.html :: 249 :: 	SAME TOWN :: 250 :: 	Optometry :: 251 :: 
+1-28-10	Lawrence , Joseph J :: 252 :: 	/find_doctor/lawrence_joseph_j_id214530.html :: 253 :: 	SAME TOWN :: 254 :: 	Diagnostic Radiology :: 255 :: 
+1-28-11	Long , Lawrence E :: 256 :: 	/find_doctor/long_lawrence_e_id212313.html :: 257 :: 	SAME TOWN :: 258 :: 	Internal Medicine :: 259 :: 
+1-28-12	Marshall , Toby R :: 260 :: 	/find_doctor/marshall_toby_r_id212684.html :: 261 :: 	SAME TOWN :: 262 :: 	Obstetrics-Gynecology :: 263 :: 
+1-28-13	Matthew , Susan A :: 264 :: 	/find_doctor/matthew_susan_a_id58530.html :: 265 :: 	SAME TOWN :: 266 :: 	Nurse Practitioner :: 267 :: 
+1-28-14	Maxwell , Marius :: 268 :: 	/find_doctor/maxwell_marius_id196129.html :: 269 :: 	SAME TOWN :: 270 :: 	Neurosurgery :: 271 :: 
+1-28-15	Morman , Monica L :: 272 :: 	/find_doctor/morman_monica_l_id38024.html :: 273 :: 	SAME TOWN :: 274 :: 	Orthopedic Surgery :: 275 :: 
+1-28-16	Parker , Donald W :: 276 :: 	/find_doctor/parker_donald_w_id68420.html :: 277 :: 	SAME TOWN :: 278 :: 	Obstetrics-Gynecology :: 279 :: 
+1-28-17	Patel , Kirtikumar L :: 280 :: 	/find_doctor/patel_kirtikumar_l_id164018.html :: 281 :: 	SAME TOWN :: 282 :: 	Internal Medicine :: 283 :: 
+1-28-18	Paulsen , Al W :: 284 :: 	/find_doctor/paulsen_al_w_id108083.html :: 285 :: 	SAME TOWN :: 286 :: 	Optometry :: 287 :: 
+1-28-19	Seljeskog , Edward L :: 288 :: 	/find_doctor/seljeskog_edward_l_id95539.html :: 289 :: 	SAME TOWN :: 290 :: 	Neurosurgery :: 291 :: 
+1-28-20	Shepard , Shelly M :: 292 :: 	/find_doctor/shepard_shelly_m_id1073.html :: 293 :: 	SAME TOWN :: 294 :: 	Obstetrics-Gynecology :: 295 :: 
+1-29-1	Abdelwahab , Waiel :: 217 :: 	/find_doctor/abdelwahab_waiel_id198760.html :: 218 :: 	SAME TOWN :: 219 :: 	Internal Medicine :: 220 :: 
+1-29-2	Abubakar , Tunku A R B :: 221 :: 	/find_doctor/abubakar_tunku_a_r_b_id232638.html :: 222 :: 	SAME TOWN :: 223 :: 	Psychiatry :: 224 :: 
+1-29-3	Acquaviva , Joseph F :: 225 :: 	/find_doctor/acquaviva_joseph_f_id146939.html :: 226 :: 	SAME TOWN :: 227 :: 	Psychiatry :: 228 :: 
+1-29-4	Adelsohn , Lawrence G :: 229 :: 	/find_doctor/adelsohn_lawrence_g_id80167.html :: 230 :: 	SAME TOWN :: 231 :: 	Obstetrics-Gynecology :: 232 :: 
+1-29-5	Adessa , Melissa P :: 233 :: 	/find_doctor/adessa_melissa_p_id217510.html :: 234 :: 	SAME TOWN :: 235 :: 	Medical Expert :: 236 :: 
+1-29-6	Ahmad , Yasir J :: 237 :: 	/find_doctor/ahmad_yasir_j_id196755.html :: 238 :: 	SAME TOWN :: 239 :: 	Psychiatry :: 240 :: 
+1-29-7	Ahmed , Mutahar :: 241 :: 	/find_doctor/ahmed_mutahar_id57353.html :: 242 :: 	SAME TOWN :: 243 :: 	Urology :: 244 :: 
+1-29-8	Aisenberg , Javier E :: 245 :: 	/find_doctor/aisenberg_javier_e_id203681.html :: 246 :: 	SAME TOWN :: 247 :: 	Pediatric Medicine :: 248 :: 
+1-29-9	Alexander , John Charle :: 249 :: 	/find_doctor/alexander_john_charle_id210592.html :: 250 :: 	SAME TOWN :: 251 :: 	Thoracic Surgery :: 252 :: 
+1-29-10	Ambalu , Miriam Cohen :: 253 :: 	/find_doctor/ambalu_miriam_cohen_id41912.html :: 254 :: 	SAME TOWN :: 255 :: 	Emergency Medicine :: 256 :: 
+1-29-11	Archila , Plinio-Arturo :: 257 :: 	/find_doctor/archila_plinio_arturo_id236306.html :: 258 :: 	SAME TOWN :: 259 :: 	Psychiatry :: 260 :: 
+1-29-12	Azhar , Sarwat :: 261 :: 	/find_doctor/azhar_sarwat_id223464.html :: 262 :: 	SAME TOWN :: 263 :: 	Pediatric Medicine :: 264 :: 
+1-29-13	Balaguer , Rosemary :: 265 :: 	/find_doctor/balaguer_rosemary_id68360.html :: 266 :: 	SAME TOWN :: 267 :: 	Physician Assistant :: 268 :: 
+1-29-14	Balani , Bindu A :: 269 :: 	/find_doctor/balani_bindu_a_id197657.html :: 270 :: 	SAME TOWN :: 271 :: 	Infectious Disease :: 272 :: 
+1-29-15	Barasch , Jeffrey P :: 273 :: 	/find_doctor/barasch_jeffrey_p_id10581.html :: 274 :: 	SAME TOWN :: 275 :: 	Pulmonary Disease :: 276 :: 
+1-29-16	Barr , Stuart A :: 277 :: 	/find_doctor/barr_stuart_a_id210725.html :: 278 :: 	SAME TOWN :: 279 :: 	Cardiology :: 280 :: 
+1-29-17	Basralian , Kevin :: 281 :: 	/find_doctor/basralian_kevin_id208360.html :: 282 :: 	SAME TOWN :: 283 :: 	Urology :: 284 :: 
+1-29-18	Bikoff , David J :: 285 :: 	/find_doctor/bikoff_david_j_id180617.html :: 286 :: 	SAME TOWN :: 287 :: 	Plastic-Reconstructive Surgery :: 288 :: 
+1-29-19	Blau , Steven A :: 289 :: 	/find_doctor/blau_steven_a_id20508.html :: 290 :: 	SAME TOWN :: 291 :: 	Critical Care-Intensivists :: 292 :: 
+1-29-20	Blechman , Martin G :: 293 :: 	/find_doctor/blechman_martin_g_id36293.html :: 294 :: 	SAME TOWN :: 295 :: 	Internal Medicine :: 296 :: 

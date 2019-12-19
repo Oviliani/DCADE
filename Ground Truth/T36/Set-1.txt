@@ -1,0 +1,152 @@
+Encoding	1	1
+Type	MD	MD
+1-0-1	10031 Real Estate Overview :: 102 :: 	/real_estate/10031-New_York/ :: 103 :: 
+1-0-2	10031 Market Trends :: 104 :: 	/real_estate/10031-New_York/market-trends/ :: 105 :: 
+1-0-3	10031 Schools :: 106 :: 	/real_estate/New_York-New_York/schools/ :: 107 :: 
+1-0-4	10031 Community Info :: 108 :: 	/real_estate/New_York-New_York/community-info/ :: 109 :: 
+1-0-5	10031 Foreclosure Center :: 110 :: 	/foreclosure/NY/New_York/10031/ :: 111 :: 
+1-1-1	10002 Real Estate Overview :: 102 :: 	/real_estate/10002-New_York/ :: 103 :: 
+1-1-2	10002 Market Trends :: 104 :: 	/real_estate/10002-New_York/market-trends/ :: 105 :: 
+1-1-3	10002 Schools :: 106 :: 	/real_estate/New_York-New_York/schools/ :: 107 :: 
+1-1-4	10002 Community Info :: 108 :: 	/real_estate/New_York-New_York/community-info/ :: 109 :: 
+1-1-5	10002 Foreclosure Center :: 110 :: 	/foreclosure/NY/New_York/10002/ :: 111 :: 
+1-2-1	89143 Real Estate Overview :: 102 :: 	/real_estate/89143-Las_Vegas/ :: 103 :: 
+1-2-2	89143 Market Trends :: 104 :: 	/real_estate/89143-Las_Vegas/market-trends/ :: 105 :: 
+1-2-3	89143 Schools :: 106 :: 	/real_estate/Las_Vegas-Nevada/schools/ :: 107 :: 
+1-2-4	89143 Community Info :: 108 :: 	/real_estate/Las_Vegas-Nevada/community-info/ :: 109 :: 
+1-2-5	89143 Foreclosure Center :: 110 :: 	/foreclosure/NV/Las_Vegas/89143/ :: 111 :: 
+1-3-1	10017 Real Estate Overview :: 102 :: 	/real_estate/10017-New_York/ :: 103 :: 
+1-3-2	10017 Market Trends :: 104 :: 	/real_estate/10017-New_York/market-trends/ :: 105 :: 
+1-3-3	10017 Schools :: 106 :: 	/real_estate/New_York-New_York/schools/ :: 107 :: 
+1-3-4	10017 Community Info :: 108 :: 	/real_estate/New_York-New_York/community-info/ :: 109 :: 
+1-3-5	10017 Foreclosure Center :: 110 :: 	/foreclosure/NY/New_York/10017/ :: 111 :: 
+1-4-1	10040 Real Estate Overview :: 102 :: 	/real_estate/10040-New_York/ :: 103 :: 
+1-4-2	10040 Market Trends :: 104 :: 	/real_estate/10040-New_York/market-trends/ :: 105 :: 
+1-4-3	10040 Schools :: 106 :: 	/real_estate/New_York-New_York/schools/ :: 107 :: 
+1-4-4	10040 Community Info :: 108 :: 	/real_estate/New_York-New_York/community-info/ :: 109 :: 
+1-4-5	10040 Foreclosure Center :: 110 :: 	/foreclosure/NY/New_York/10040/ :: 111 :: 
+1-5-1	10034 Real Estate Overview :: 102 :: 	/real_estate/10034-New_York/ :: 103 :: 
+1-5-2	10034 Market Trends :: 104 :: 	/real_estate/10034-New_York/market-trends/ :: 105 :: 
+1-5-3	10034 Schools :: 106 :: 	/real_estate/New_York-New_York/schools/ :: 107 :: 
+1-5-4	10034 Community Info :: 108 :: 	/real_estate/New_York-New_York/community-info/ :: 109 :: 
+1-5-5	10034 Foreclosure Center :: 110 :: 	/foreclosure/NY/New_York/10034/ :: 111 :: 
+1-6-1	89130 Real Estate Overview :: 102 :: 	/real_estate/89130-Las_Vegas/ :: 103 :: 
+1-6-2	89130 Market Trends :: 104 :: 	/real_estate/89130-Las_Vegas/market-trends/ :: 105 :: 
+1-6-3	89130 Schools :: 106 :: 	/real_estate/Las_Vegas-Nevada/schools/ :: 107 :: 
+1-6-4	89130 Community Info :: 108 :: 	/real_estate/Las_Vegas-Nevada/community-info/ :: 109 :: 
+1-6-5	89130 Foreclosure Center :: 110 :: 	/foreclosure/NV/Las_Vegas/89130/ :: 111 :: 
+1-7-1	89129 Real Estate Overview :: 102 :: 	/real_estate/89129-Las_Vegas/ :: 103 :: 
+1-7-2	89129 Market Trends :: 104 :: 	/real_estate/89129-Las_Vegas/market-trends/ :: 105 :: 
+1-7-3	89129 Schools :: 106 :: 	/real_estate/Las_Vegas-Nevada/schools/ :: 107 :: 
+1-7-4	89129 Community Info :: 108 :: 	/real_estate/Las_Vegas-Nevada/community-info/ :: 109 :: 
+1-7-5	89129 Foreclosure Center :: 110 :: 	/foreclosure/NV/Las_Vegas/89129/ :: 111 :: 
+1-8-1	10003 Real Estate Overview :: 102 :: 	/real_estate/10003-New_York/ :: 103 :: 
+1-8-2	10003 Market Trends :: 104 :: 	/real_estate/10003-New_York/market-trends/ :: 105 :: 
+1-8-3	10003 Schools :: 106 :: 	/real_estate/New_York-New_York/schools/ :: 107 :: 
+1-8-4	10003 Community Info :: 108 :: 	/real_estate/New_York-New_York/community-info/ :: 109 :: 
+1-8-5	10003 Foreclosure Center :: 110 :: 	/foreclosure/NY/New_York/10003/ :: 111 :: 
+1-9-1	10033 Real Estate Overview :: 102 :: 	/real_estate/10033-New_York/ :: 103 :: 
+1-9-2	10033 Market Trends :: 104 :: 	/real_estate/10033-New_York/market-trends/ :: 105 :: 
+1-9-3	10033 Schools :: 106 :: 	/real_estate/New_York-New_York/schools/ :: 107 :: 
+1-9-4	10033 Community Info :: 108 :: 	/real_estate/New_York-New_York/community-info/ :: 109 :: 
+1-9-5	10033 Foreclosure Center :: 110 :: 	/foreclosure/NY/New_York/10033/ :: 111 :: 
+1-10-1	89143 Real Estate Overview :: 102 :: 	/real_estate/89143-Las_Vegas/ :: 103 :: 
+1-10-2	89143 Market Trends :: 104 :: 	/real_estate/89143-Las_Vegas/market-trends/ :: 105 :: 
+1-10-3	89143 Schools :: 106 :: 	/real_estate/Las_Vegas-Nevada/schools/ :: 107 :: 
+1-10-4	89143 Community Info :: 108 :: 	/real_estate/Las_Vegas-Nevada/community-info/ :: 109 :: 
+1-10-5	89143 Foreclosure Center :: 110 :: 	/foreclosure/NV/Las_Vegas/89143/ :: 111 :: 
+1-11-1	89149 Real Estate Overview :: 102 :: 	/real_estate/89149-Las_Vegas/ :: 103 :: 
+1-11-2	89149 Market Trends :: 104 :: 	/real_estate/89149-Las_Vegas/market-trends/ :: 105 :: 
+1-11-3	89149 Schools :: 106 :: 	/real_estate/Las_Vegas-Nevada/schools/ :: 107 :: 
+1-11-4	89149 Community Info :: 108 :: 	/real_estate/Las_Vegas-Nevada/community-info/ :: 109 :: 
+1-11-5	89149 Foreclosure Center :: 110 :: 	/foreclosure/NV/Las_Vegas/89149/ :: 111 :: 
+1-12-1	89107 Real Estate Overview :: 102 :: 	/real_estate/89107-Las_Vegas/ :: 103 :: 
+1-12-2	89107 Market Trends :: 104 :: 	/real_estate/89107-Las_Vegas/market-trends/ :: 105 :: 
+1-12-3	89107 Schools :: 106 :: 	/real_estate/Las_Vegas-Nevada/schools/ :: 107 :: 
+1-12-4	89107 Community Info :: 108 :: 	/real_estate/Las_Vegas-Nevada/community-info/ :: 109 :: 
+1-12-5	89107 Foreclosure Center :: 110 :: 	/foreclosure/NV/Las_Vegas/89107/ :: 111 :: 
+1-13-1	10032 Real Estate Overview :: 102 :: 	/real_estate/10032-New_York/ :: 103 :: 
+1-13-2	10032 Market Trends :: 104 :: 	/real_estate/10032-New_York/market-trends/ :: 105 :: 
+1-13-3	10032 Schools :: 106 :: 	/real_estate/New_York-New_York/schools/ :: 107 :: 
+1-13-4	10032 Community Info :: 108 :: 	/real_estate/New_York-New_York/community-info/ :: 109 :: 
+1-13-5	10032 Foreclosure Center :: 110 :: 	/foreclosure/NY/New_York/10032/ :: 111 :: 
+1-14-1	10069 Real Estate Overview :: 102 :: 	/real_estate/10069-New_York/ :: 103 :: 
+1-14-2	10069 Market Trends :: 104 :: 	/real_estate/10069-New_York/market-trends/ :: 105 :: 
+1-14-3	10069 Schools :: 106 :: 	/real_estate/New_York-New_York/schools/ :: 107 :: 
+1-14-4	10069 Community Info :: 108 :: 	/real_estate/New_York-New_York/community-info/ :: 109 :: 
+1-14-5	10069 Foreclosure Center :: 110 :: 	/foreclosure/NY/New_York/10069/ :: 111 :: 
+1-15-1	89145 Real Estate Overview :: 102 :: 	/real_estate/89145-Las_Vegas/ :: 103 :: 
+1-15-2	89145 Market Trends :: 104 :: 	/real_estate/89145-Las_Vegas/market-trends/ :: 105 :: 
+1-15-3	89145 Schools :: 106 :: 	/real_estate/Las_Vegas-Nevada/schools/ :: 107 :: 
+1-15-4	89145 Community Info :: 108 :: 	/real_estate/Las_Vegas-Nevada/community-info/ :: 109 :: 
+1-15-5	89145 Foreclosure Center :: 110 :: 	/foreclosure/NV/Las_Vegas/89145/ :: 111 :: 
+1-16-1	89107 Real Estate Overview :: 102 :: 	/real_estate/89107-Las_Vegas/ :: 103 :: 
+1-16-2	89107 Market Trends :: 104 :: 	/real_estate/89107-Las_Vegas/market-trends/ :: 105 :: 
+1-16-3	89107 Schools :: 106 :: 	/real_estate/Las_Vegas-Nevada/schools/ :: 107 :: 
+1-16-4	89107 Community Info :: 108 :: 	/real_estate/Las_Vegas-Nevada/community-info/ :: 109 :: 
+1-16-5	89107 Foreclosure Center :: 110 :: 	/foreclosure/NV/Las_Vegas/89107/ :: 111 :: 
+1-17-1	89130 Real Estate Overview :: 102 :: 	/real_estate/89130-Las_Vegas/ :: 103 :: 
+1-17-2	89130 Market Trends :: 104 :: 	/real_estate/89130-Las_Vegas/market-trends/ :: 105 :: 
+1-17-3	89130 Schools :: 106 :: 	/real_estate/Las_Vegas-Nevada/schools/ :: 107 :: 
+1-17-4	89130 Community Info :: 108 :: 	/real_estate/Las_Vegas-Nevada/community-info/ :: 109 :: 
+1-17-5	89130 Foreclosure Center :: 110 :: 	/foreclosure/NV/Las_Vegas/89130/ :: 111 :: 
+1-18-1	10021 Real Estate Overview :: 102 :: 	/real_estate/10021-New_York/ :: 103 :: 
+1-18-2	10021 Market Trends :: 104 :: 	/real_estate/10021-New_York/market-trends/ :: 105 :: 
+1-18-3	10021 Schools :: 106 :: 	/real_estate/New_York-New_York/schools/ :: 107 :: 
+1-18-4	10021 Community Info :: 108 :: 	/real_estate/New_York-New_York/community-info/ :: 109 :: 
+1-18-5	10021 Foreclosure Center :: 110 :: 	/foreclosure/NY/New_York/10021/ :: 111 :: 
+1-19-1	10012 Real Estate Overview :: 102 :: 	/real_estate/10012-New_York/ :: 103 :: 
+1-19-2	10012 Market Trends :: 104 :: 	/real_estate/10012-New_York/market-trends/ :: 105 :: 
+1-19-3	10012 Schools :: 106 :: 	/real_estate/New_York-New_York/schools/ :: 107 :: 
+1-19-4	10012 Community Info :: 108 :: 	/real_estate/New_York-New_York/community-info/ :: 109 :: 
+1-19-5	10012 Foreclosure Center :: 110 :: 	/foreclosure/NY/New_York/10012/ :: 111 :: 
+1-20-1	10024 Real Estate Overview :: 102 :: 	/real_estate/10024-New_York/ :: 103 :: 
+1-20-2	10024 Market Trends :: 104 :: 	/real_estate/10024-New_York/market-trends/ :: 105 :: 
+1-20-3	10024 Schools :: 106 :: 	/real_estate/New_York-New_York/schools/ :: 107 :: 
+1-20-4	10024 Community Info :: 108 :: 	/real_estate/New_York-New_York/community-info/ :: 109 :: 
+1-20-5	10024 Foreclosure Center :: 110 :: 	/foreclosure/NY/New_York/10024/ :: 111 :: 
+1-21-1	10021 Real Estate Overview :: 102 :: 	/real_estate/10021-New_York/ :: 103 :: 
+1-21-2	10021 Market Trends :: 104 :: 	/real_estate/10021-New_York/market-trends/ :: 105 :: 
+1-21-3	10021 Schools :: 106 :: 	/real_estate/New_York-New_York/schools/ :: 107 :: 
+1-21-4	10021 Community Info :: 108 :: 	/real_estate/New_York-New_York/community-info/ :: 109 :: 
+1-21-5	10021 Foreclosure Center :: 110 :: 	/foreclosure/NY/New_York/10021/ :: 111 :: 
+1-22-1	89129 Real Estate Overview :: 102 :: 	/real_estate/89129-Las_Vegas/ :: 103 :: 
+1-22-2	89129 Market Trends :: 104 :: 	/real_estate/89129-Las_Vegas/market-trends/ :: 105 :: 
+1-22-3	89129 Schools :: 106 :: 	/real_estate/Las_Vegas-Nevada/schools/ :: 107 :: 
+1-22-4	89129 Community Info :: 108 :: 	/real_estate/Las_Vegas-Nevada/community-info/ :: 109 :: 
+1-22-5	89129 Foreclosure Center :: 110 :: 	/foreclosure/NV/Las_Vegas/89129/ :: 111 :: 
+1-23-1	10013 Real Estate Overview :: 102 :: 	/real_estate/10013-New_York/ :: 103 :: 
+1-23-2	10013 Market Trends :: 104 :: 	/real_estate/10013-New_York/market-trends/ :: 105 :: 
+1-23-3	10013 Schools :: 106 :: 	/real_estate/New_York-New_York/schools/ :: 107 :: 
+1-23-4	10013 Community Info :: 108 :: 	/real_estate/New_York-New_York/community-info/ :: 109 :: 
+1-23-5	10013 Foreclosure Center :: 110 :: 	/foreclosure/NY/New_York/10013/ :: 111 :: 
+1-24-1	89129 Real Estate Overview :: 102 :: 	/real_estate/89129-Las_Vegas/ :: 103 :: 
+1-24-2	89129 Market Trends :: 104 :: 	/real_estate/89129-Las_Vegas/market-trends/ :: 105 :: 
+1-24-3	89129 Schools :: 106 :: 	/real_estate/Las_Vegas-Nevada/schools/ :: 107 :: 
+1-24-4	89129 Community Info :: 108 :: 	/real_estate/Las_Vegas-Nevada/community-info/ :: 109 :: 
+1-24-5	89129 Foreclosure Center :: 110 :: 	/foreclosure/NV/Las_Vegas/89129/ :: 111 :: 
+1-25-1	89149 Real Estate Overview :: 102 :: 	/real_estate/89149-Las_Vegas/ :: 103 :: 
+1-25-2	89149 Market Trends :: 104 :: 	/real_estate/89149-Las_Vegas/market-trends/ :: 105 :: 
+1-25-3	89149 Schools :: 106 :: 	/real_estate/Las_Vegas-Nevada/schools/ :: 107 :: 
+1-25-4	89149 Community Info :: 108 :: 	/real_estate/Las_Vegas-Nevada/community-info/ :: 109 :: 
+1-25-5	89149 Foreclosure Center :: 110 :: 	/foreclosure/NV/Las_Vegas/89149/ :: 111 :: 
+1-26-1	10025 Real Estate Overview :: 102 :: 	/real_estate/10025-New_York/ :: 103 :: 
+1-26-2	10025 Market Trends :: 104 :: 	/real_estate/10025-New_York/market-trends/ :: 105 :: 
+1-26-3	10025 Schools :: 106 :: 	/real_estate/New_York-New_York/schools/ :: 107 :: 
+1-26-4	10025 Community Info :: 108 :: 	/real_estate/New_York-New_York/community-info/ :: 109 :: 
+1-26-5	10025 Foreclosure Center :: 110 :: 	/foreclosure/NY/New_York/10025/ :: 111 :: 
+1-27-1	10128 Real Estate Overview :: 102 :: 	/real_estate/10128-New_York/ :: 103 :: 
+1-27-2	10128 Market Trends :: 104 :: 	/real_estate/10128-New_York/market-trends/ :: 105 :: 
+1-27-3	10128 Schools :: 106 :: 	/real_estate/New_York-New_York/schools/ :: 107 :: 
+1-27-4	10128 Community Info :: 108 :: 	/real_estate/New_York-New_York/community-info/ :: 109 :: 
+1-27-5	10128 Foreclosure Center :: 110 :: 	/foreclosure/NY/New_York/10128/ :: 111 :: 
+1-28-1	10011 Real Estate Overview :: 102 :: 	/real_estate/10011-New_York/ :: 103 :: 
+1-28-2	10011 Market Trends :: 104 :: 	/real_estate/10011-New_York/market-trends/ :: 105 :: 
+1-28-3	10011 Schools :: 106 :: 	/real_estate/New_York-New_York/schools/ :: 107 :: 
+1-28-4	10011 Community Info :: 108 :: 	/real_estate/New_York-New_York/community-info/ :: 109 :: 
+1-28-5	10011 Foreclosure Center :: 110 :: 	/foreclosure/NY/New_York/10011/ :: 111 :: 
+1-29-1	10065 Real Estate Overview :: 102 :: 	/real_estate/10065-New_York/ :: 103 :: 
+1-29-2	10065 Market Trends :: 104 :: 	/real_estate/10065-New_York/market-trends/ :: 105 :: 
+1-29-3	10065 Schools :: 106 :: 	/real_estate/New_York-New_York/schools/ :: 107 :: 
+1-29-4	10065 Community Info :: 108 :: 	/real_estate/New_York-New_York/community-info/ :: 109 :: 
+1-29-5	10065 Foreclosure Center :: 110 :: 	/foreclosure/NY/New_York/10065/ :: 111 :: 

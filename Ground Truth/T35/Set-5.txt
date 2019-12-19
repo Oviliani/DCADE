@@ -1,0 +1,91 @@
+Encoding	0	2
+Type	MT	MD
+5-0-1	• :: 275 :: 	Includes: Call L/A :: 276 :: 
+5-1-1	• :: 228 :: 	Includes: Range :: 229 :: 
+5-1-2	• :: 230 :: 	Refrigerator :: 231 :: 
+5-2-1	• :: 284 :: 	Includes: Call L/A :: 285 :: 
+5-3-1	• :: 285 :: 	Includes: Call L/A :: 286 :: 
+5-4-1	• :: 276 :: 	Includes: Call L/A :: 277 :: 
+5-5-1	• :: 256 :: 	Includes: Call L/A :: 257 :: 
+5-6-1	• :: 276 :: 	Includes: Call L/A :: 277 :: 
+5-6-2	• :: 278 :: 	Dishwasher :: 279 :: 
+5-6-3	• :: 280 :: 	Microwave :: 281 :: 
+5-6-4	• :: 282 :: 	Range :: 283 :: 
+5-6-5	• :: 284 :: 	Refrigerator :: 285 :: 
+5-7-1	• :: 275 :: 	Includes: Call L/A :: 276 :: 
+5-8-1	• :: 275 :: 	Includes: A/C Unit(s) :: 276 :: 
+5-8-2	• :: 277 :: 	Call L/A :: 278 :: 
+5-8-3	• :: 279 :: 	Ceiling Fan :: 280 :: 
+5-8-4	• :: 281 :: 	Dishwasher :: 282 :: 
+5-8-5	• :: 283 :: 	Range :: 284 :: 
+5-8-6	• :: 285 :: 	Refrigerator :: 286 :: 
+5-8-7	• :: 287 :: 	Screens :: 288 :: 
+5-8-8	• :: 289 :: 	Shades/Blinds :: 290 :: 
+5-9-1	• :: 249 :: 	Includes: Call L/A :: 250 :: 
+5-10-1	• :: 220 :: 	Includes: Intercom :: 221 :: 
+5-10-2	• :: 222 :: 	Microwave :: 223 :: 
+5-10-3	• :: 224 :: 	Refrigerator :: 225 :: 
+5-10-4	• :: 226 :: 	Video Cameras :: 227 :: 
+5-11-1	• :: 271 :: 	Includes: Call L/A :: 272 :: 
+5-12-1	• :: 287 :: 	Includes: Call L/A :: 288 :: 
+5-13-1	• :: 293 :: 	Includes: Dishwasher :: 294 :: 
+5-13-2	• :: 295 :: 	Door Hardware :: 296 :: 
+5-13-3	• :: 297 :: 	Grill :: 298 :: 
+5-13-4	• :: 299 :: 	Microwave :: 300 :: 
+5-13-5	• :: 301 :: 	Range :: 302 :: 
+5-13-6	• :: 303 :: 	Refrigerator :: 304 :: 
+5-13-7	• :: 305 :: 	Video Cameras :: 306 :: 
+5-14-1	• :: 268 :: 	Garbage: Public :: 269 :: 
+5-14-2	• :: 270 :: 	Includes: A/C Unit(s) :: 271 :: 
+5-14-3	• :: 272 :: 	Dishwasher :: 273 :: 
+5-14-4	• :: 274 :: 	Dryer :: 275 :: 
+5-14-5	• :: 276 :: 	Range :: 277 :: 
+5-14-6	• :: 278 :: 	Refrigerator :: 279 :: 
+5-14-7	• :: 280 :: 	Washer :: 281 :: 
+5-15-1	• :: 268 :: 	Garbage: Public :: 269 :: 
+5-15-2	• :: 270 :: 	Includes: A/C Unit(s) :: 271 :: 
+5-15-3	• :: 272 :: 	Dishwasher :: 273 :: 
+5-15-4	• :: 274 :: 	Dryer :: 275 :: 
+5-15-5	• :: 276 :: 	Range :: 277 :: 
+5-15-6	• :: 278 :: 	Refrigerator :: 279 :: 
+5-15-7	• :: 280 :: 	Washer :: 281 :: 
+5-16-1	• :: 315 :: 	Garbage: Public :: 316 :: 
+5-16-2	• :: 317 :: 	Includes: Light Fixture :: 318 :: 
+5-16-3	• :: 319 :: 	Range :: 320 :: 
+5-16-4	• :: 321 :: 	Refrigerator :: 322 :: 
+5-17-1	• :: 264 :: 	Includes: Ceiling Fan :: 265 :: 
+5-17-2	• :: 266 :: 	Dishwasher :: 267 :: 
+5-17-3	• :: 268 :: 	Microwave :: 269 :: 
+5-17-4	• :: 270 :: 	Range :: 271 :: 
+5-17-5	• :: 272 :: 	Refrigerator :: 273 :: 
+5-18-1	• :: 264 :: 	Includes: Call L/A :: 265 :: 
+5-19-1	• :: 308 :: 	Garbage: Public :: 309 :: 
+5-19-2	• :: 310 :: 	Includes: Call L/A :: 311 :: 
+5-20-1	• :: 283 :: 	Includes: A/C Unit(s) :: 284 :: 
+5-20-2	• :: 285 :: 	Call L/A :: 286 :: 
+5-20-3	• :: 287 :: 	Curtains/Drapes :: 288 :: 
+5-20-4	• :: 289 :: 	Range :: 290 :: 
+5-20-5	• :: 291 :: 	Refrigerator :: 292 :: 
+5-20-6	• :: 293 :: 	Screens :: 294 :: 
+5-20-7	• :: 295 :: 	Shades/Blinds :: 296 :: 
+5-20-8	• :: 297 :: 	Wall to Wall Carpet :: 298 :: 
+5-21-1	• :: 273 :: 	Includes: Dishwasher :: 274 :: 
+5-21-2	• :: 275 :: 	Dryer :: 276 :: 
+5-21-3	• :: 277 :: 	Light Fixture :: 278 :: 
+5-21-4	• :: 279 :: 	Range :: 280 :: 
+5-21-5	• :: 281 :: 	Refrigerator :: 282 :: 
+5-21-6	• :: 283 :: 	Washer :: 284 :: 
+5-22-1	• :: 299 :: 	Garbage: Public :: 300 :: 
+5-22-2	• :: 301 :: 	Includes: Dishwasher :: 302 :: 
+5-22-3	• :: 303 :: 	Light Fixture :: 304 :: 
+5-22-4	• :: 305 :: 	Range :: 306 :: 
+5-22-5	• :: 307 :: 	Refrigerator :: 308 :: 
+5-23-1	• :: 271 :: 	Includes: Call L/A :: 272 :: 
+5-24-1	• :: 262 :: 	Includes: Call L/A :: 263 :: 
+5-25-1	• :: 285 :: 	Includes: Call L/A :: 286 :: 
+5-26-1	• :: 310 :: 	Garbage: Public :: 311 :: 
+5-26-2	• :: 312 :: 	Includes: Call L/A :: 313 :: 
+5-27-1	• :: 284 :: 	Garbage: Public :: 285 :: 
+5-28-1	• :: 265 :: 	Includes: Call L/A :: 266 :: 
+5-29-1	• :: 260 :: 	Includes: Dishwasher :: 261 :: 
+5-29-2	• :: 262 :: 	Refrigerator :: 263 :: 

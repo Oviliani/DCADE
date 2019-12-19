@@ -1,0 +1,117 @@
+Encoding	2	1	1
+Type	OD	OD	OD
+1-0-1	Peter Arquin, MD :: 308 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=19a18a84-9da6-42a1-ae20-598a887011f9 :: 309 :: 	, Cardiovascular Disease :: 310 :: 
+1-0-2	Vivian Clark, MD :: 311 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=47a01d49-47bb-452e-b3eb-5e748134cd9a :: 312 :: 	, Interventional Cardiology, Cardiovascular Disease :: 313 :: 
+1-0-3	Patrick McNulty, MD :: 314 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=dc5ef5e0-e990-48f9-935b-ff8d6617d660 :: 315 :: 	, Cardiovascular Disease, Interventional Cardiology :: 316 :: 
+1-0-4	Bruce Pinkernell, MD :: 317 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=de690659-6f03-44aa-82b9-cbb17c13bbe1 :: 318 :: 	, Cardiovascular Disease :: 319 :: 
+1-0-5	Mahmood Quereshy, MD :: 320 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=5bfced8d-1d08-4699-b8a3-ff37b03714ee :: 321 :: 	, Cardiovascular Disease, Internal Medicine :: 322 :: 
+1-0-6	Xiao Ren, MD :: 323 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=c51fac46-e077-4903-80e6-14d8d47b9a76 :: 324 :: 	, Cardiovascular Disease :: 325 :: 
+1-0-7	Veronica Schmer, MD :: 326 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=b0e32772-a82c-4a8f-9836-badc9193c3a8 :: 327 :: 	, Pediatric Cardiology :: 328 :: 
+1-0-8	Rosemary Thomas, MD :: 329 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=8d702282-cc6a-4589-a7c9-5e6bd58176e1 :: 330 :: 	, Cardiovascular Disease :: 331 :: 
+1-2-1	Michael Chaskes, MD :: 314 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=9730c0c7-29d3-df11-a4b4-001f29e3eb44 :: 315 :: 	, Interventional Cardiology :: 316 :: 
+1-2-2	Steven Horn, MD :: 317 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=9830c0c7-29d3-df11-a4b4-001f29e3eb44 :: 318 :: 	, Interventional Cardiology :: 319 :: 
+1-4-1	Lester Blair, MD :: 319 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=5a73b6ae-5cc8-4d63-ad14-9dbe464b73b5 :: 320 :: 	, Pulmonary Disease , Internal Medicine :: 321 :: 
+1-4-2	Chenzhong Fu, MD :: 322 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=d93608c2-0411-43cb-8c64-c2e212cddd7e :: 323 :: 	, Physical Medicine & Rehabilitation :: 324 :: 
+1-4-3	Fabio Giron, MD :: 325 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=18f53862-e405-4681-b5bc-9a9095957ac4 :: 326 :: 	, Pulmonary Disease , Internal Medicine :: 327 :: 
+1-4-4	Robert Glennon, MD :: 328 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=f334b67a-2b39-4ad5-8881-9bad327409e5 :: 329 :: 	, Pulmonary Disease :: 330 :: 
+1-4-5	Warren Licht, MD :: 331 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=9d5bcfa8-8348-4b59-9022-be69331ea2e4 :: 332 :: 	, Internal Medicine :: 333 :: 
+1-4-6	Forrest Manheimer, MD :: 334 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=9f74daea-899f-4bc5-b682-ef42819e8239 :: 335 :: 	, Gastroenterology , Internal Medicine :: 336 :: 
+1-4-7	Xiuli Meng, MD :: 337 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=729e7e11-b5c7-474d-bf5d-7c4f4515d420 :: 338 :: 	, Physical Medicine & Rehabilitation :: 339 :: 
+1-4-8	Vincent Ng, MD :: 340 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=d65d5bd8-dfe7-4097-bdb9-1cd0d06a4444 :: 341 :: 	, Internal Medicine :: 342 :: 
+1-4-9	Deborah Sonenblick, MD :: 343 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=e48b5562-5982-4429-ad46-dd4d57bf4615 :: 344 :: 	, Internal Medicine :: 345 :: 
+1-5-1	Danny Chu, MD :: 327 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=ab8fe340-0751-44ec-8082-146b4bcb335c :: 328 :: 	, Gastroenterology , Internal Medicine :: 329 :: 
+1-6-1	Mark Chu, DO :: 327 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=2fa79878-f86d-4dea-b9e2-9563390ec848 :: 328 :: 	, Gastroenterology , Internal Medicine :: 329 :: 
+1-7-1	Chenzhong Fu, MD :: 319 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=d93608c2-0411-43cb-8c64-c2e212cddd7e :: 320 :: 	, Physical Medicine & Rehabilitation :: 321 :: 
+1-7-2	Fabio Giron, MD :: 322 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=18f53862-e405-4681-b5bc-9a9095957ac4 :: 323 :: 	, Pulmonary Disease , Internal Medicine :: 324 :: 
+1-7-3	Robert Glennon, MD :: 325 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=f334b67a-2b39-4ad5-8881-9bad327409e5 :: 326 :: 	, Pulmonary Disease :: 327 :: 
+1-7-4	Chester Lerner, MD :: 328 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=33d94ac1-b8ee-4e88-b582-1c6d8ecd11b2 :: 329 :: 	, Infectious Disease , Internal Medicine :: 330 :: 
+1-7-5	Warren Licht, MD :: 331 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=9d5bcfa8-8348-4b59-9022-be69331ea2e4 :: 332 :: 	, Internal Medicine :: 333 :: 
+1-7-6	Forrest Manheimer, MD :: 334 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=9f74daea-899f-4bc5-b682-ef42819e8239 :: 335 :: 	, Gastroenterology , Internal Medicine :: 336 :: 
+1-7-7	Xiuli Meng, MD :: 337 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=729e7e11-b5c7-474d-bf5d-7c4f4515d420 :: 338 :: 	, Physical Medicine & Rehabilitation :: 339 :: 
+1-7-8	Vincent Ng, MD :: 340 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=d65d5bd8-dfe7-4097-bdb9-1cd0d06a4444 :: 341 :: 	, Internal Medicine :: 342 :: 
+1-7-9	Deborah Sonenblick, MD :: 343 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=e48b5562-5982-4429-ad46-dd4d57bf4615 :: 344 :: 	, Internal Medicine :: 345 :: 
+1-8-1	Abid Quraishi, MD :: 336 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=098bb8fd-7e2e-4d01-a720-9afc0b96094f :: 337 :: 	, Internal Medicine :: 338 :: 
+1-9-1	Peter Berg, MD :: 334 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=ff1c34ed-de26-490e-aa4f-64214fdd6d49 :: 335 :: 	, Ophthalmology :: 336 :: 
+1-9-2	Rory Dolan, MD :: 337 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=80569795-a335-de11-b4a5-001f29e3eb44 :: 338 :: 	, Ophthalmology :: 339 :: 
+1-11-1	Jerome Cooper, MD :: 325 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=45f7665c-ddb2-4eb1-bfe7-b3d02b2e996e :: 326 :: 	, Cardiovascular Disease, Interventional Cardiology :: 327 :: 
+1-11-2	Bernard Gitler, MD :: 328 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=6974528d-ecff-42ba-83fc-143ae9229fb7 :: 329 :: 	, Cardiovascular Disease :: 330 :: 
+1-11-3	Theodore Keltz, MD :: 331 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=de860307-d660-43bd-b61e-814a5c56b699 :: 332 :: 	, Cardiovascular Disease :: 333 :: 
+1-11-4	Donald Miller, MD :: 334 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=6a426b8a-e28a-41a8-8ac0-1bfea0e4ea81 :: 335 :: 	, Cardiovascular Disease :: 336 :: 
+1-12-1	Esther Chang, MD :: 315 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=57103c10-1e4a-de11-b4a5-001f29e3eb44 :: 316 :: 	, Obstetrics & Gynecology :: 317 :: 
+1-14-1	Lauri Fairbanks-Doane, DO :: 320 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=feedaa62-1fa9-417d-9346-641e57e99b7f :: 321 :: 	, Family Medicine :: 322 :: 
+1-14-2	Shawn Fazio, MD :: 323 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=926a7d12-d437-42bd-8e28-f2629440f0c4 :: 324 :: 	, Family Medicine :: 325 :: 
+1-14-3	John Michaels, MD :: 326 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=6ad604e0-6d93-47ea-a542-92fe2ee19aa4 :: 327 :: 	, Family Medicine :: 328 :: 
+1-14-4	John Michaels, MD :: 329 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=e32db73f-0c1a-4bc1-b658-e131c33f4d19 :: 330 :: 	, Family Medicine :: 331 :: 
+1-14-5	Michael Nolan, MD :: 332 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=3b9ff9e1-324e-4b24-80d2-c29b1620b551 :: 333 :: 	, Family Medicine :: 334 :: 
+1-14-6	John O'Brien, MD :: 335 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=4ba8f1bd-19f4-4309-9888-1378dfd42fe9 :: 336 :: 	, Family Medicine :: 337 :: 
+1-14-7	Nisha Singh, MD :: 338 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=c5761590-86d7-4b93-a9d1-7d349b66b32a :: 339 :: 	, Family Medicine :: 340 :: 
+1-14-8	Mark VanHusen, MD :: 341 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=a2fedbcb-879b-4b98-acf4-7386977ca891 :: 342 :: 	, Family Medicine :: 343 :: 
+1-16-1	Barbara Cheung, MD :: 306 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=7cf17c76-b417-47f9-8c69-d4e66df96fcf :: 307 :: 	, Family Medicine :: 308 :: 
+1-16-2	Edwin Tan, MD :: 309 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=52169906-4fcd-481e-952c-c14f4daec5ba :: 310 :: 	, Urology :: 311 :: 
+1-16-3	Wei Yan Tan, MD :: 312 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=dbd2ef30-fb06-4602-8825-67ee061430a2 :: 313 :: 	, Internal Medicine :: 314 :: 
+1-17-1	Lester Blair, MD :: 318 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=5a73b6ae-5cc8-4d63-ad14-9dbe464b73b5 :: 319 :: 	, Pulmonary Disease , Internal Medicine :: 320 :: 
+1-17-2	Chenzhong Fu, MD :: 321 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=d93608c2-0411-43cb-8c64-c2e212cddd7e :: 322 :: 	, Physical Medicine & Rehabilitation :: 323 :: 
+1-17-3	Fabio Giron, MD :: 324 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=18f53862-e405-4681-b5bc-9a9095957ac4 :: 325 :: 	, Pulmonary Disease , Internal Medicine :: 326 :: 
+1-17-4	Robert Glennon, MD :: 327 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=f334b67a-2b39-4ad5-8881-9bad327409e5 :: 328 :: 	, Pulmonary Disease :: 329 :: 
+1-17-5	Chester Lerner, MD :: 330 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=33d94ac1-b8ee-4e88-b582-1c6d8ecd11b2 :: 331 :: 	, Infectious Disease , Internal Medicine :: 332 :: 
+1-17-6	Forrest Manheimer, MD :: 333 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=9f74daea-899f-4bc5-b682-ef42819e8239 :: 334 :: 	, Gastroenterology , Internal Medicine :: 335 :: 
+1-17-7	Xiuli Meng, MD :: 336 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=729e7e11-b5c7-474d-bf5d-7c4f4515d420 :: 337 :: 	, Physical Medicine & Rehabilitation :: 338 :: 
+1-17-8	Vincent Ng, MD :: 339 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=d65d5bd8-dfe7-4097-bdb9-1cd0d06a4444 :: 340 :: 	, Internal Medicine :: 341 :: 
+1-17-9	Deborah Sonenblick, MD :: 342 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=e48b5562-5982-4429-ad46-dd4d57bf4615 :: 343 :: 	, Internal Medicine :: 344 :: 
+1-18-1	Marek Balutowski, MD :: 306 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=71ad493b-8a09-4c91-a7b5-fc595aa56d94 :: 307 :: 	, Family Medicine :: 308 :: 
+1-18-2	Bridget Foy, DO :: 309 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=3a77a5c2-d330-de11-b4a5-001f29e3eb44 :: 310 :: 	, Family Medicine :: 311 :: 
+1-18-3	Jodi Friedman, MD :: 312 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=dcc2e81c-1be2-4c5d-b6d8-c39f95991853 :: 313 :: 	, Family Medicine :: 314 :: 
+1-18-4	Curtis Sprague, MD :: 315 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=0b73e9a4-cfdc-4bec-b359-dfccca57a6c4 :: 316 :: 	, Internal Medicine :: 317 :: 
+1-18-5	Zubair Syed, MD :: 318 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=c5937c6a-5fdf-4b2b-b53c-eb33c19a0103 :: 319 :: 	, Family Medicine :: 320 :: 
+1-19-1	Mark Haltrecht, DO :: 330 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=e1bdc551-a3e5-44f7-896e-4869645e3a7f :: 331 :: 	, Family Medicine :: 332 :: 
+1-19-2	Roman Koldayev, MD :: 333 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=11defdc5-d161-4e45-b4fe-049bfecee493 :: 334 :: 	, Internal Medicine :: 335 :: 
+1-19-3	Igor Oks, DO :: 336 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=e0efb691-3c1e-4a41-af9b-5c388dd82641 :: 337 :: 	, Internal Medicine :: 338 :: 
+1-19-4	Dominic Spera, MD :: 339 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=392ea37b-d039-4649-9c74-084e5e0c0bf9 :: 340 :: 	, Internal Medicine :: 341 :: 
+1-19-5	Eric Steinberg, DO :: 342 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=036c53c6-c52c-4dc9-a902-fdbf2c9cf5d6 :: 343 :: 	, Cardiovascular Disease :: 344 :: 
+1-19-6	Sam Yee, MD :: 345 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=2f998002-fe2d-4bec-b798-52f731edbcf2 :: 346 :: 	, Physical Medicine & Rehabilitation :: 347 :: 
+1-20-1	Leonard Farber, MD :: 306 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=6ba120cb-1b9f-473b-b41c-30aab2088a68 :: 307 :: 	, Radiation Oncology :: 308 :: 
+1-20-2	Lauren Shaiova, MD :: 309 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=501858f4-951e-e011-b000-001f29e3eb44 :: 310 :: 	, Pain Medicine :: 311 :: 
+1-20-3	Marnee Spierer, MD :: 312 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=4f1858f4-951e-e011-b000-001f29e3eb44 :: 313 :: 	, Radiation Oncology :: 314 :: 
+1-21-1	Lester Blair, MD :: 318 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=5a73b6ae-5cc8-4d63-ad14-9dbe464b73b5 :: 319 :: 	, Pulmonary Disease , Internal Medicine :: 320 :: 
+1-21-2	Chenzhong Fu, MD :: 321 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=d93608c2-0411-43cb-8c64-c2e212cddd7e :: 322 :: 	, Physical Medicine & Rehabilitation :: 323 :: 
+1-21-3	Fabio Giron, MD :: 324 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=18f53862-e405-4681-b5bc-9a9095957ac4 :: 325 :: 	, Pulmonary Disease , Internal Medicine :: 326 :: 
+1-21-4	Robert Glennon, MD :: 327 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=f334b67a-2b39-4ad5-8881-9bad327409e5 :: 328 :: 	, Pulmonary Disease :: 329 :: 
+1-21-5	Chester Lerner, MD :: 330 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=33d94ac1-b8ee-4e88-b582-1c6d8ecd11b2 :: 331 :: 	, Infectious Disease , Internal Medicine :: 332 :: 
+1-21-6	Warren Licht, MD :: 333 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=9d5bcfa8-8348-4b59-9022-be69331ea2e4 :: 334 :: 	, Internal Medicine :: 335 :: 
+1-21-7	Forrest Manheimer, MD :: 336 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=9f74daea-899f-4bc5-b682-ef42819e8239 :: 337 :: 	, Gastroenterology , Internal Medicine :: 338 :: 
+1-21-8	Xiuli Meng, MD :: 339 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=729e7e11-b5c7-474d-bf5d-7c4f4515d420 :: 340 :: 	, Physical Medicine & Rehabilitation :: 341 :: 
+1-21-9	Deborah Sonenblick, MD :: 342 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=e48b5562-5982-4429-ad46-dd4d57bf4615 :: 343 :: 	, Internal Medicine :: 344 :: 
+1-22-1	Lester Blair, MD :: 318 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=5a73b6ae-5cc8-4d63-ad14-9dbe464b73b5 :: 319 :: 	, Pulmonary Disease , Internal Medicine :: 320 :: 
+1-22-2	Chenzhong Fu, MD :: 321 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=d93608c2-0411-43cb-8c64-c2e212cddd7e :: 322 :: 	, Physical Medicine & Rehabilitation :: 323 :: 
+1-22-3	Fabio Giron, MD :: 324 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=18f53862-e405-4681-b5bc-9a9095957ac4 :: 325 :: 	, Pulmonary Disease , Internal Medicine :: 326 :: 
+1-22-4	Robert Glennon, MD :: 327 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=f334b67a-2b39-4ad5-8881-9bad327409e5 :: 328 :: 	, Pulmonary Disease :: 329 :: 
+1-22-5	Chester Lerner, MD :: 330 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=33d94ac1-b8ee-4e88-b582-1c6d8ecd11b2 :: 331 :: 	, Infectious Disease , Internal Medicine :: 332 :: 
+1-22-6	Warren Licht, MD :: 333 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=9d5bcfa8-8348-4b59-9022-be69331ea2e4 :: 334 :: 	, Internal Medicine :: 335 :: 
+1-22-7	Forrest Manheimer, MD :: 336 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=9f74daea-899f-4bc5-b682-ef42819e8239 :: 337 :: 	, Gastroenterology , Internal Medicine :: 338 :: 
+1-22-8	Xiuli Meng, MD :: 339 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=729e7e11-b5c7-474d-bf5d-7c4f4515d420 :: 340 :: 	, Physical Medicine & Rehabilitation :: 341 :: 
+1-22-9	Vincent Ng, MD :: 342 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=d65d5bd8-dfe7-4097-bdb9-1cd0d06a4444 :: 343 :: 	, Internal Medicine :: 344 :: 
+1-23-1	Hasan Atalay, MD :: 330 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=4cc8eb1c-511b-4303-ad11-9fbcada67a36 :: 331 :: 	, Cardiovascular Disease :: 332 :: 
+1-23-2	Michael Bernstein, MD :: 333 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=0dff78e8-489b-45e8-8b6f-70b6c70c0331 :: 334 :: 	, Cardiovascular Disease :: 335 :: 
+1-23-3	Stephen Brady, MD :: 336 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=b76c7375-a19f-4b48-ae10-f4fd75f2796b :: 337 :: 	, Interventional Cardiology, Cardiovascular Disease :: 338 :: 
+1-23-4	Daniel Esper, MD :: 339 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=ee5a31a2-c26c-45bf-8e55-30818f5a9456 :: 340 :: 	, Interventional Cardiology, Cardiovascular Disease :: 341 :: 
+1-23-5	Royal Gay, MD :: 342 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=564a2be2-4a79-4b8d-b8f9-e7f09a75f88c :: 343 :: 	, Cardiovascular Disease :: 344 :: 
+1-23-6	Andrew Macina, MD :: 345 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=2a00e885-6a9a-4e31-8146-383bf983053f :: 346 :: 	, Interventional Cardiology, Cardiovascular Disease :: 347 :: 
+1-23-7	Mark Nelson, MD :: 348 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=4f41381a-2d16-4d1d-9173-3924f28c3fd0 :: 349 :: 	, Cardiovascular Disease :: 350 :: 
+1-23-8	James O'Brien, MD :: 351 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=31f6ad35-5b58-458e-ba2e-f6be322bd779 :: 352 :: 	, Clinical Cardiac Electrophysiology, Cardiovascular Disease :: 353 :: 
+1-23-9	Louis Papandrea, MD :: 354 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=4a208197-7b30-4611-ba9f-01fef5440cc7 :: 355 :: 	, Interventional Cardiology, Cardiovascular Disease :: 356 :: 
+1-23-10	Ian Santoro, MD :: 357 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=2501dfd4-649d-4e81-bb90-335c2ccefcc9 :: 358 :: 	, Clinical Cardiac Electrophysiology, Cardiovascular Disease :: 359 :: 
+1-23-11	Parag Shah, MD :: 360 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=6662491e-06ea-4757-9e3f-996b4acb0375 :: 361 :: 	, Cardiovascular Disease :: 362 :: 
+1-23-12	Lance Sullenberger, MD :: 363 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=230c74d9-6f64-4011-8db2-a702c41cfe56 :: 364 :: 	, Cardiovascular Disease :: 365 :: 
+1-23-13	Mark Tallman, MD :: 366 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=3305dfd3-3231-4c2e-92e4-8e7068fd7542 :: 367 :: 	, Cardiovascular Disease :: 368 :: 
+1-25-1	John Hoepner, MD :: 326 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=6a786e7e-19d4-4331-8ab2-f3e996c85aee :: 327 :: 	, Ophthalmology :: 328 :: 
+1-25-2	R Morason, MD :: 329 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=2bbcff12-3175-4a85-9de3-94c67431ab92 :: 330 :: 	, Ophthalmology :: 331 :: 
+1-25-3	Evis Petrela, MD :: 332 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=7ce9733c-1f78-4b7f-92fe-8e559c934b13 :: 333 :: 	, Ophthalmology :: 334 :: 
+1-26-1	Nisar Quraishi, MD :: 328 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=eb5e7b18-4e2e-47c4-96af-cd5b57a72220 :: 329 :: 	, Internal Medicine :: 330 :: 
+1-27-1	Shiu So, MD :: 308 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=57ee7860-fb8c-de11-a5f3-001f29e3eb44 :: 309 :: 	, Obstetrics & Gynecology :: 310 :: 
+1-29-1	Thomas Kovachevich, DO :: 314 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=9d60c542-477a-4867-a2ff-703a09f1e36c :: 315 :: 	, Family Medicine :: 316 :: 
+1-30-1	Sharon Bedford, DO :: 318 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=0f7d09ee-44c1-4456-914c-fc42f020cb89 :: 319 :: 	, Family Medicine :: 320 :: 
+1-30-2	Wendy Davella, :: 321 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=8782e811-4d70-df11-ae8e-001f29e3eb42 :: 322 :: 	, Family Medicine :: 323 :: 
+1-30-3	Robert Marshall, MD :: 324 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=4e3e7180-ae8a-4c29-a378-e560b47d2d36 :: 325 :: 	, Family Medicine :: 326 :: 
+1-30-4	Paul Menge, MD :: 327 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=37c966d5-da7b-44af-8e6d-750c432e4bd8 :: 328 :: 	, Family Medicine :: 329 :: 
+1-30-5	Richard Orsi, MD :: 330 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=68eda20f-e05c-4b9e-be13-912fc023bd0d :: 331 :: 	, Family Medicine :: 332 :: 
+1-30-6	John Quarrier, MD :: 333 :: 	http://doctor.webmd.com/physician_finder/profile.aspx?sponsor=core&pid=6b797ae2-73fd-47b2-b03d-e0aa372aa8c8 :: 334 :: 	, Family Medicine :: 335 :: 

@@ -1,0 +1,119 @@
+Encoding	2	1	0
+Type	OD	OD	OT
+1-1-1	17166 49th St Se, HORACE ND :: 212 :: 	/Home-Prices/ID-600024150345/17166-49th-St-Se/ :: 213 :: 	» :: 214 :: 
+1-1-2	4825 172nd Ave Se, HORACE ND :: 215 :: 	/Home-Prices/ID-600024150454/4825-172nd-Ave-Se/ :: 216 :: 	» :: 217 :: 
+1-1-3	4203 124th Ave S, HORACE ND :: 218 :: 	/Home-Prices/ID-600024150754/4203-124th-Ave-S/ :: 219 :: 	» :: 220 :: 
+1-1-4	4115 124th Ave S, HORACE ND :: 221 :: 	/Home-Prices/ID-600024150752/4115-124th-Ave-S/ :: 222 :: 	» :: 223 :: 
+1-1-5	4311 124th Ave S, HORACE ND :: 224 :: 	/Home-Prices/ID-600024150749/4311-124th-Ave-S/ :: 225 :: 	» :: 226 :: 
+1-1-6	4111 124th Ave S, HORACE ND :: 227 :: 	/Home-Prices/ID-600024150751/4111-124th-Ave-S/ :: 228 :: 	» :: 229 :: 
+1-1-7	4107 124th Ave S, HORACE ND :: 230 :: 	/Home-Prices/ID-600024150750/4107-124th-Ave-S/ :: 231 :: 	» :: 232 :: 
+1-1-8	4103 124th Ave S, HORACE ND :: 233 :: 	/Home-Prices/ID-600024150753/4103-124th-Ave-S/ :: 234 :: 	» :: 235 :: 
+1-1-9	4701 124th Ave S, HORACE ND :: 236 :: 	/Home-Prices/ID-600024150746/4701-124th-Ave-S/ :: 237 :: 	 
+1-5-1	2172 Georgia Rd, WILLIAMSBURG KS :: 241 :: 	/Home-Prices/ID-600017774579/2172-Georgia-Rd/ :: 242 :: 	» :: 243 :: 
+1-5-2	2216 Georgia Rd, WILLIAMSBURG KS :: 244 :: 	/Home-Prices/ID-600017774568/2216-Georgia-Rd/ :: 245 :: 	» :: 246 :: 
+1-5-3	2148 Georgia Rd, WILLIAMSBURG KS :: 247 :: 	/Home-Prices/ID-600017774573/2148-Georgia-Rd/ :: 248 :: 	» :: 249 :: 
+1-5-4	1329 Jackson Rd, WILLIAMSBURG KS :: 250 :: 	/Home-Prices/ID-600017774536/1329-Jackson-Rd/ :: 251 :: 	» :: 252 :: 
+1-5-5	1338 Rock Creek Rd, WILLIAMSBURG KS :: 253 :: 	/Home-Prices/ID-600017774535/1338-Rock-Creek-Rd/ :: 254 :: 	» :: 255 :: 
+1-5-6	2132 Georgia Rd, WILLIAMSBURG KS :: 256 :: 	/Home-Prices/ID-600017774577/2132-Georgia-Rd/ :: 257 :: 	» :: 258 :: 
+1-5-7	1346 Rock Creek Rd, WILLIAMSBURG KS :: 259 :: 	/Home-Prices/ID-600017774534/1346-Rock-Creek-Rd/ :: 260 :: 	» :: 261 :: 
+1-5-8	1293 Rock Creek Rd, WILLIAMSBURG KS :: 262 :: 	/Home-Prices/ID-600017774480/1293-Rock-Creek-Rd/ :: 263 :: 	» :: 264 :: 
+1-5-9	1392 Rock Creek Rd, WILLIAMSBURG KS :: 265 :: 	/Home-Prices/ID-600017774533/1392-Rock-Creek-Rd/ :: 266 :: 	 
+1-6-1	105 Pinetree Ln, YORKTOWN VA :: 279 :: 	/Home-Prices/ID-400028287187/105-Pinetree-Ln/ :: 280 :: 	» :: 281 :: 
+1-6-2	203 Meadowfield Rd, YORKTOWN VA :: 282 :: 	/Home-Prices/ID-400028287184/203-Meadowfield-Rd/ :: 283 :: 	» :: 284 :: 
+1-6-3	106 Pinetree Ln, YORKTOWN VA :: 285 :: 	/Home-Prices/ID-400028287196/106-Pinetree-Ln/ :: 286 :: 	» :: 287 :: 
+1-6-4	205 Meadowfield Rd, YORKTOWN VA :: 288 :: 	/Home-Prices/ID-400028287180/205-Meadowfield-Rd/ :: 289 :: 	» :: 290 :: 
+1-6-5	300 Brokenbridge Rd, YORKTOWN VA :: 291 :: 	/Home-Prices/ID-400028287192/300-Brokenbridge-Rd/ :: 292 :: 	» :: 293 :: 
+1-6-6	103 Meadowfield Rd, YORKTOWN VA :: 294 :: 	/Home-Prices/ID-400028287852/103-Meadowfield-Rd/ :: 295 :: 	» :: 296 :: 
+1-6-7	200 Meadowfield Rd, YORKTOWN VA :: 297 :: 	/Home-Prices/ID-400028287829/200-Meadowfield-Rd/ :: 298 :: 	» :: 299 :: 
+1-6-8	202 Meadowfield Rd, YORKTOWN VA :: 300 :: 	/Home-Prices/ID-400028287822/202-Meadowfield-Rd/ :: 301 :: 	» :: 302 :: 
+1-6-9	306 Brokenbridge Rd, YORKTOWN VA :: 303 :: 	/Home-Prices/ID-400028287186/306-Brokenbridge-Rd/ :: 304 :: 	 
+1-9-1	545 Ship Ave, BEACHWOOD NJ :: 226 :: 	/Home-Prices/ID-400018219565/545-Ship-Ave/ :: 227 :: 	» :: 228 :: 
+1-9-2	553 Ship Ave, BEACHWOOD NJ :: 229 :: 	/Home-Prices/ID-400018178512/553-Ship-Ave/ :: 230 :: 	» :: 231 :: 
+1-9-3	541 Ship Ave, BEACHWOOD NJ :: 232 :: 	/Home-Prices/ID-400018246237/541-Ship-Ave/ :: 233 :: 	» :: 234 :: 
+1-9-4	544 Beachwood Blvd, BEACHWOOD NJ :: 235 :: 	/Home-Prices/ID-400018192509/544-Beachwood-Blvd/ :: 236 :: 	» :: 237 :: 
+1-9-5	544 Ship Ave, BEACHWOOD NJ :: 238 :: 	/Home-Prices/ID-400018077706/544-Ship-Ave/ :: 239 :: 	» :: 240 :: 
+1-9-6	552 Beachwood Blvd, BEACHWOOD NJ :: 241 :: 	/Home-Prices/ID-400018155618/552-Beachwood-Blvd/ :: 242 :: 	» :: 243 :: 
+1-9-7	532 Beachwood Blvd, BEACHWOOD NJ :: 244 :: 	/Home-Prices/ID-400018209240/532-Beachwood-Blvd/ :: 245 :: 	» :: 246 :: 
+1-9-8	536 Ship Ave, BEACHWOOD NJ :: 247 :: 	/Home-Prices/ID-400018305254/536-Ship-Ave/ :: 248 :: 	» :: 249 :: 
+1-9-9	552 Ship Ave, BEACHWOOD NJ :: 250 :: 	/Home-Prices/ID-400018077707/552-Ship-Ave/ :: 251 :: 	 
+1-11-1	24040 Minton Rd, HOMELAND CA :: 221 :: 	/Home-Prices/ID-100003289035/24040-Minton-Rd/ :: 222 :: 	» :: 223 :: 
+1-11-2	24130 Macfie Rd, HOMELAND CA :: 224 :: 	/Home-Prices/ID-100006161895/24130-Macfie-Rd/ :: 225 :: 	» :: 226 :: 
+1-11-3	24230 Juniper Flats Rd, HOMELAND CA :: 227 :: 	/Home-Prices/ID-100009372231/24230-Juniper-Flats-Rd/ :: 228 :: 	» :: 229 :: 
+1-11-4	24090 Juniper Flats Rd, HOMELAND CA :: 230 :: 	/Home-Prices/ID-100006161911/24090-Juniper-Flats-Rd/ :: 231 :: 	» :: 232 :: 
+1-11-5	24027 Juniper Flats Rd, HOMELAND CA :: 233 :: 	/Home-Prices/ID-100003351665/24027-Juniper-Flats-Rd/ :: 234 :: 	» :: 235 :: 
+1-11-6	24180 Juniper Flats Rd, HOMELAND CA :: 236 :: 	/Home-Prices/ID-100006161899/24180-Juniper-Flats-Rd/ :: 237 :: 	» :: 238 :: 
+1-11-7	23831 Juniper Flats Rd, HOMELAND CA :: 239 :: 	/Home-Prices/ID-100003289024/23831-Juniper-Flats-Rd/ :: 240 :: 	» :: 241 :: 
+1-11-8	24021 Keen Rd, HOMELAND CA :: 242 :: 	/Home-Prices/ID-100012405453/24021-Keen-Rd/ :: 243 :: 	» :: 244 :: 
+1-11-9	23741 Juniper Flats Rd, HOMELAND CA :: 245 :: 	/Home-Prices/ID-100003351660/23741-Juniper-Flats-Rd/ :: 246 :: 	 
+1-14-1	24085 Juniper Springs Rd, HOMELAND CA :: 215 :: 	/Home-Prices/ID-100003351669/24085-Juniper-Springs-Rd/ :: 216 :: 	» :: 217 :: 
+1-14-2	23840 Juniper Flats Rd, HOMELAND CA :: 218 :: 	/Home-Prices/ID-100006135282/23840-Juniper-Flats-Rd/ :: 219 :: 	» :: 220 :: 
+1-14-3	23876 Juniper Flats Rd, HOMELAND CA :: 221 :: 	/Home-Prices/ID-100003294751/23876-Juniper-Flats-Rd/ :: 222 :: 	» :: 223 :: 
+1-14-4	24010 Juniper Springs Rd, HOMELAND CA :: 224 :: 	/Home-Prices/ID-100012405507/24010-Juniper-Springs-Rd/ :: 225 :: 	» :: 226 :: 
+1-14-5	23741 Juniper Flats Rd, HOMELAND CA :: 227 :: 	/Home-Prices/ID-100003351660/23741-Juniper-Flats-Rd/ :: 228 :: 	» :: 229 :: 
+1-14-6	24021 Keen Rd, HOMELAND CA :: 230 :: 	/Home-Prices/ID-100012405453/24021-Keen-Rd/ :: 231 :: 	» :: 232 :: 
+1-14-7	23831 Juniper Flats Rd, HOMELAND CA :: 233 :: 	/Home-Prices/ID-100003289024/23831-Juniper-Flats-Rd/ :: 234 :: 	» :: 235 :: 
+1-14-8	24130 Juniper Springs Rd, HOMELAND CA :: 236 :: 	/Home-Prices/ID-100003351908/24130-Juniper-Springs-Rd/ :: 237 :: 	» :: 238 :: 
+1-14-9	24240 Juniper Springs Rd, HOMELAND CA :: 239 :: 	/Home-Prices/ID-100003294994/24240-Juniper-Springs-Rd/ :: 240 :: 	 
+1-15-1	9605 6th View St, NORFOLK VA :: 280 :: 	/Home-Prices/ID-400028607071/9605-6th-View-St/ :: 281 :: 	» :: 282 :: 
+1-15-2	9611 6th View St, NORFOLK VA :: 283 :: 	/Home-Prices/ID-400028626091/9611-6th-View-St/ :: 284 :: 	» :: 285 :: 
+1-15-3	603 W Ocean View Ave, NORFOLK VA :: 286 :: 	/Home-Prices/ID-400028647514/603-W-Ocean-View-Ave/ :: 287 :: 	» :: 288 :: 
+1-15-4	615 W Ocean View Ave, NORFOLK VA :: 289 :: 	/Home-Prices/ID-400028612339/615-W-Ocean-View-Ave/ :: 290 :: 	» :: 291 :: 
+1-15-5	595 W Ocean View Ave, NORFOLK VA :: 292 :: 	/Home-Prices/ID-400028636971/595-W-Ocean-View-Ave/ :: 293 :: 	» :: 294 :: 
+1-15-6	613 W Ocean View Ave, NORFOLK VA :: 295 :: 	/Home-Prices/ID-400028612340/613-W-Ocean-View-Ave/ :: 296 :: 	» :: 297 :: 
+1-15-7	600 W Ocean View Ave Apt A, NORFOLK VA :: 298 :: 	/Home-Prices/ID-400028619011/600-W-Ocean-View-Ave-Apt-A/ :: 299 :: 	» :: 300 :: 
+1-15-8	600 W Ocean View Ave Apt C, NORFOLK VA :: 301 :: 	/Home-Prices/ID-400028641862/600-W-Ocean-View-Ave-Apt-C/ :: 302 :: 	» :: 303 :: 
+1-15-9	600 W Ocean View Ave Apt B, NORFOLK VA :: 304 :: 	/Home-Prices/ID-400028649551/600-W-Ocean-View-Ave-Apt-B/ :: 305 :: 	 
+1-18-1	6614 Stoney Point South, NORFOLK VA :: 229 :: 	/Home-Prices/ID-400028612244/6614-Stoney-Point-South/ :: 230 :: 	» :: 231 :: 
+1-18-2	6616 Stoney Point South, NORFOLK VA :: 232 :: 	/Home-Prices/ID-400028616963/6616-Stoney-Point-South/ :: 233 :: 	» :: 234 :: 
+1-18-3	6612 Stoney Point South, NORFOLK VA :: 235 :: 	/Home-Prices/ID-400028627187/6612-Stoney-Point-South/ :: 236 :: 	» :: 237 :: 
+1-18-4	6618 Stoney Point South, NORFOLK VA :: 238 :: 	/Home-Prices/ID-400028658169/6618-Stoney-Point-South/ :: 239 :: 	» :: 240 :: 
+1-18-5	6618 Stoney Point South, NORFOLK VA :: 241 :: 	/Home-Prices/ID-400030892639/6618-Stoney-Point-South/ :: 242 :: 	» :: 243 :: 
+1-18-6	6610 Stoney Point South, NORFOLK VA :: 244 :: 	/Home-Prices/ID-400028624762/6610-Stoney-Point-South/ :: 245 :: 	» :: 246 :: 
+1-18-7	6620 Stoney Point South, NORFOLK VA :: 247 :: 	/Home-Prices/ID-400028629119/6620-Stoney-Point-South/ :: 248 :: 	» :: 249 :: 
+1-18-8	6608 Stoney Point South, NORFOLK VA :: 250 :: 	/Home-Prices/ID-400028623411/6608-Stoney-Point-South/ :: 251 :: 	» :: 252 :: 
+1-18-9	6622 Stoney Point South, NORFOLK VA :: 253 :: 	/Home-Prices/ID-400028657908/6622-Stoney-Point-South/ :: 254 :: 	 
+1-22-1	808 W 36th St, NORFOLK VA :: 259 :: 	/Home-Prices/ID-400028638560/808-W-36th-St/ :: 260 :: 	» :: 261 :: 
+1-22-2	810 W 36th St, NORFOLK VA :: 262 :: 	/Home-Prices/ID-400028636516/810-W-36th-St/ :: 263 :: 	» :: 264 :: 
+1-22-3	812 W 36th St, NORFOLK VA :: 265 :: 	/Home-Prices/ID-400028622456/812-W-36th-St/ :: 266 :: 	» :: 267 :: 
+1-22-4	815 W 37th St, NORFOLK VA :: 268 :: 	/Home-Prices/ID-400028650059/815-W-37th-St/ :: 269 :: 	» :: 270 :: 
+1-22-5	816 W 36th St, NORFOLK VA :: 271 :: 	/Home-Prices/ID-400028628736/816-W-36th-St/ :: 272 :: 	» :: 273 :: 
+1-22-6	807 W 36th St, NORFOLK VA :: 274 :: 	/Home-Prices/ID-400028647179/807-W-36th-St/ :: 275 :: 	» :: 276 :: 
+1-22-7	815 W 36th St, NORFOLK VA :: 277 :: 	/Home-Prices/ID-400028623844/815-W-36th-St/ :: 278 :: 	» :: 279 :: 
+1-22-8	817 W 36th St, NORFOLK VA :: 280 :: 	/Home-Prices/ID-400028648515/817-W-36th-St/ :: 281 :: 	» :: 282 :: 
+1-22-9	824 W 36th St, NORFOLK VA :: 283 :: 	/Home-Prices/ID-400028624828/824-W-36th-St/ :: 284 :: 	 
+1-23-1	229 Broadway St, SAN ANDREAS CA :: 242 :: 	/Home-Prices/ID-100012342136/229-Broadway-St/ :: 243 :: 	» :: 244 :: 
+1-23-2	243 Broadway St, SAN ANDREAS CA :: 245 :: 	/Home-Prices/ID-100012342135/243-Broadway-St/ :: 246 :: 	» :: 247 :: 
+1-23-3	213 Broadway St, SAN ANDREAS CA :: 248 :: 	/Home-Prices/ID-100009007687/213-Broadway-St/ :: 249 :: 	» :: 250 :: 
+1-23-4	257 Broadway St, SAN ANDREAS CA :: 251 :: 	/Home-Prices/ID-100009007684/257-Broadway-St/ :: 252 :: 	» :: 253 :: 
+1-23-5	193 Broadway St, SAN ANDREAS CA :: 254 :: 	/Home-Prices/ID-100009007430/193-Broadway-St/ :: 255 :: 	» :: 256 :: 
+1-23-6	262 Oak St, SAN ANDREAS CA :: 257 :: 	/Home-Prices/ID-100012342127/262-Oak-St/ :: 258 :: 	» :: 259 :: 
+1-23-7	216 Broadway St, SAN ANDREAS CA :: 260 :: 	/Home-Prices/ID-100012342126/216-Broadway-St/ :: 261 :: 	» :: 262 :: 
+1-23-8	273 Broadway St, SAN ANDREAS CA :: 263 :: 	/Home-Prices/ID-100009007683/273-Broadway-St/ :: 264 :: 	» :: 265 :: 
+1-23-9	255 Oak St, SAN ANDREAS CA :: 266 :: 	/Home-Prices/ID-100012342128/255-Oak-St/ :: 267 :: 	» :: 268 :: 
+1-26-1	132 Colebrook Rd, NORFOLK CT :: 299 :: 	/Home-Prices/ID-500023181367/132-Colebrook-Rd/ :: 300 :: 	» :: 301 :: 
+1-26-2	133 Colebrook Rd, NORFOLK CT :: 302 :: 	/Home-Prices/ID-500023181366/133-Colebrook-Rd/ :: 303 :: 	» :: 304 :: 
+1-26-3	136 Colebrook Rd, NORFOLK CT :: 305 :: 	/Home-Prices/ID-500013938850/136-Colebrook-Rd/ :: 306 :: 	» :: 307 :: 
+1-26-4	114 Colebrook Rd, NORFOLK CT :: 308 :: 	/Home-Prices/ID-500013917334/114-Colebrook-Rd/ :: 309 :: 	» :: 310 :: 
+1-26-5	106 Colebrook Rd, NORFOLK CT :: 311 :: 	/Home-Prices/ID-500013949925/106-Colebrook-Rd/ :: 312 :: 	» :: 313 :: 
+1-26-6	104 Colebrook Rd, NORFOLK CT :: 314 :: 	/Home-Prices/ID-500013948398/104-Colebrook-Rd/ :: 315 :: 	» :: 316 :: 
+1-26-7	95 Colebrook Rd, NORFOLK CT :: 317 :: 	/Home-Prices/ID-500023181365/95-Colebrook-Rd/ :: 318 :: 	» :: 319 :: 
+1-26-8	70 Colebrook Rd, NORFOLK CT :: 320 :: 	/Home-Prices/ID-500013917332/70-Colebrook-Rd/ :: 321 :: 	» :: 322 :: 
+1-26-9	60 Colebrook Rd, NORFOLK CT :: 323 :: 	/Home-Prices/ID-500013917333/60-Colebrook-Rd/ :: 324 :: 	 
+1-27-1	359 Neilsen Rd, SAN ANDREAS CA :: 229 :: 	/Home-Prices/ID-100012342075/359-Neilsen-Rd/ :: 230 :: 	» :: 231 :: 
+1-27-2	1800 Old Stage Rd, SAN ANDREAS CA :: 232 :: 	/Home-Prices/ID-100008997514/1800-Old-Stage-Rd/ :: 233 :: 	» :: 234 :: 
+1-27-3	352 Gold Strike Rd, SAN ANDREAS CA :: 235 :: 	/Home-Prices/ID-100002261715/352-Gold-Strike-Rd/ :: 236 :: 	» :: 237 :: 
+1-27-4	345 Neilsen Rd, SAN ANDREAS CA :: 238 :: 	/Home-Prices/ID-100012342072/345-Neilsen-Rd/ :: 239 :: 	» :: 240 :: 
+1-27-5	333 Neilsen Rd, SAN ANDREAS CA :: 241 :: 	/Home-Prices/ID-100009003667/333-Neilsen-Rd/ :: 242 :: 	» :: 243 :: 
+1-27-6	372 Main St, SAN ANDREAS CA :: 244 :: 	/Home-Prices/ID-100002261714/372-Main-St/ :: 245 :: 	» :: 246 :: 
+1-27-7	349 Neilsen Rd, SAN ANDREAS CA :: 247 :: 	/Home-Prices/ID-100012342073/349-Neilsen-Rd/ :: 248 :: 	» :: 249 :: 
+1-27-8	339 Neilsen Rd, SAN ANDREAS CA :: 250 :: 	/Home-Prices/ID-100002261723/339-Neilsen-Rd/ :: 251 :: 	» :: 252 :: 
+1-27-9	481 Foothill Ct, SAN ANDREAS CA :: 253 :: 	/Home-Prices/ID-100012342151/481-Foothill-Ct/ :: 254 :: 	 
+1-29-1	105 Quest Ct, YORKTOWN VA :: 273 :: 	/Home-Prices/ID-400028291498/105-Quest-Ct/ :: 274 :: 	» :: 275 :: 
+1-29-2	103 Quest Ct, YORKTOWN VA :: 276 :: 	/Home-Prices/ID-400028291479/103-Quest-Ct/ :: 277 :: 	» :: 278 :: 
+1-29-3	107 Quest Ct, YORKTOWN VA :: 279 :: 	/Home-Prices/ID-400028291513/107-Quest-Ct/ :: 280 :: 	» :: 281 :: 
+1-29-4	119 Shrewsbury Sq, YORKTOWN VA :: 282 :: 	/Home-Prices/ID-400028291485/119-Shrewsbury-Sq/ :: 283 :: 	» :: 284 :: 
+1-29-5	117 Shrewsbury Sq, YORKTOWN VA :: 285 :: 	/Home-Prices/ID-400028291483/117-Shrewsbury-Sq/ :: 286 :: 	» :: 287 :: 
+1-29-6	118 Barfleur Pl, YORKTOWN VA :: 288 :: 	/Home-Prices/ID-400028291510/118-Barfleur-Pl/ :: 289 :: 	» :: 290 :: 
+1-29-7	115 Shrewsbury Sq, YORKTOWN VA :: 291 :: 	/Home-Prices/ID-400028291480/115-Shrewsbury-Sq/ :: 292 :: 	» :: 293 :: 
+1-29-8	116 Barfleur Pl, YORKTOWN VA :: 294 :: 	/Home-Prices/ID-400028291506/116-Barfleur-Pl/ :: 295 :: 	» :: 296 :: 
+1-29-9	109 Quest Ct, YORKTOWN VA :: 297 :: 	/Home-Prices/ID-400028291527/109-Quest-Ct/ :: 298 :: 	 

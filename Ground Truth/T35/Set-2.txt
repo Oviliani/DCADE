@@ -1,0 +1,78 @@
+Encoding	0	3
+Type	OT	OD
+2-1-1	• :: 182 :: 	Charming one bedroom apartment in the desirable area of Riverside Dr :: 183 :: 
+2-1-2	• :: 184 :: 	only a block away from #1 trai :: 185 :: 
+2-6-1	• :: 226 :: 	Large living/ dining room :: 227 :: 
+2-6-2	• :: 228 :: 	Eat ion kitchen :: 229 :: 
+2-6-3	• :: 230 :: 	Master bedroom with bath :: 231 :: 
+2-6-4	• :: 232 :: 	bedroom and hall bath :: 233 :: 
+2-9-1	• :: 211 :: 	Beautiful 1 bedroom apartment with spacious living room :: 212 :: 
+2-9-2	• :: 213 :: 	modern kitchen and huge private bedroom. Lo :: 214 :: 
+2-10-1	• :: 181 :: 	3/4 Bed :: 182 :: 
+2-10-2	• :: 183 :: 	1 Bath :: 184 :: 
+2-10-3	• :: 185 :: 	Living :: 186 :: 
+2-10-4	• :: 187 :: 	Kitchen :: 188 :: 
+2-13-1	• :: 221 :: 	Entrance :: 222 :: 
+2-13-2	• :: 223 :: 	Living Rm :: 224 :: 
+2-13-3	• :: 225 :: 	Dining Area :: 226 :: 
+2-13-4	• :: 227 :: 	Kitchen :: 228 :: 
+2-13-5	• :: 229 :: 	Bedroom :: 230 :: 
+2-13-6	• :: 231 :: 	Hall Bathrm :: 232 :: 
+2-13-7	• :: 233 :: 	Master Bedroom/walkin Closet :: 234 :: 
+2-13-8	• :: 235 :: 	Bthrm :: 236 :: 
+2-14-1	• :: 212 :: 	Foyer Living room :: 213 :: 
+2-14-2	• :: 214 :: 	formal dinning :: 215 :: 
+2-14-3	• :: 216 :: 	den :: 217 :: 
+2-14-4	• :: 218 :: 	kitchen :: 219 :: 
+2-14-5	• :: 220 :: 	door to fenced-in-yard :: 221 :: 
+2-15-1	• :: 212 :: 	Foyer Living room :: 213 :: 
+2-15-2	• :: 214 :: 	formal dinning :: 215 :: 
+2-15-3	• :: 216 :: 	den :: 217 :: 
+2-15-4	• :: 218 :: 	kitchen :: 219 :: 
+2-15-5	• :: 220 :: 	door to fenced-in-yard :: 221 :: 
+2-16-1	• :: 255 :: 	Entry Hall :: 256 :: 
+2-16-2	• :: 257 :: 	Living Room :: 258 :: 
+2-16-3	• :: 259 :: 	Dinning Room :: 260 :: 
+2-16-4	• :: 261 :: 	Eat In Kitchen w. SGD to Yard :: 262 :: 
+2-16-5	• :: 263 :: 	Bed :: 264 :: 
+2-16-6	• :: 265 :: 	Bed :: 266 :: 
+2-16-7	• :: 267 :: 	Hall Bath :: 268 :: 
+2-16-8	• :: 269 :: 	Master Be :: 270 :: 
+2-17-1	• :: 214 :: 	Bedroom :: 215 :: 
+2-17-2	• :: 216 :: 	Bathroom :: 217 :: 
+2-17-3	• :: 218 :: 	Kitchenette :: 219 :: 
+2-17-4	• :: 220 :: 	Livingroom :: 221 :: 
+2-19-1	• :: 236 :: 	Lr W Fplce :: 237 :: 
+2-19-2	• :: 238 :: 	Dr :: 239 :: 
+2-19-3	• :: 240 :: 	Eik :: 241 :: 
+2-19-4	• :: 242 :: 	1/2 Bath(Not On C Of O). :: 243 :: 
+2-21-1	• :: 227 :: 	Living Room with Sliding Glass Doors to Balcony :: 228 :: 
+2-21-2	• :: 229 :: 	Kitchen :: 230 :: 
+2-21-3	• :: 231 :: 	Dinning Area :: 232 :: 
+2-21-4	• :: 233 :: 	Bedroom :: 234 :: 
+2-21-5	• :: 235 :: 	Full Bath :: 236 :: 
+2-21-6	• :: 237 :: 	Laundry :: 238 :: 
+2-22-1	• :: 241 :: 	Living Room :: 242 :: 
+2-22-2	• :: 243 :: 	Dinning Room w/ SGD to Balcony :: 244 :: 
+2-22-3	• :: 245 :: 	Eat in Kitchen :: 246 :: 
+2-22-4	• :: 247 :: 	Bedroom :: 248 :: 
+2-22-5	• :: 249 :: 	Bedroom :: 250 :: 
+2-22-6	• :: 251 :: 	Hall Bath :: 252 :: 
+2-22-7	• :: 253 :: 	Master Bed :: 254 :: 
+2-26-1	• :: 248 :: 	Front porch :: 249 :: 
+2-26-2	• :: 250 :: 	entry way :: 251 :: 
+2-26-3	• :: 252 :: 	dining room :: 253 :: 
+2-26-4	• :: 254 :: 	living room :: 255 :: 
+2-26-5	• :: 256 :: 	bathroom :: 257 :: 
+2-26-6	• :: 258 :: 	bedroom :: 259 :: 
+2-26-7	• :: 260 :: 	bedroom :: 261 :: 
+2-26-8	• :: 262 :: 	kitchen :: 263 :: 
+2-26-9	• :: 264 :: 	back door to d :: 265 :: 
+2-27-1	• :: 230 :: 	Living Room :: 231 :: 
+2-27-2	• :: 232 :: 	2 bedrooms :: 233 :: 
+2-27-3	• :: 234 :: 	kitchen :: 235 :: 
+2-27-4	• :: 236 :: 	bath :: 237 :: 
+2-29-1	• :: 211 :: 	1Br :: 212 :: 
+2-29-2	• :: 213 :: 	Lr :: 214 :: 
+2-29-3	• :: 215 :: 	Kit :: 216 :: 
+2-29-4	• :: 217 :: 	Ba :: 218 :: 

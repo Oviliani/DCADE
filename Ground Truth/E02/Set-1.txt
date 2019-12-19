@@ -1,0 +1,503 @@
+Encoding	2	1
+Type	MD	MD
+1-0-1	Arjan BEGAY :: 13 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=47288&Layout=&TCode=2&TName=Albania :: 14 :: 
+1-0-2	Albert DURO :: 15 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=46264&Layout=&TCode=2&TName=Albania :: 16 :: 
+1-0-3	Luan PINARI :: 17 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=24326&Layout=&TCode=2&TName=Albania :: 18 :: 
+1-0-4	Arjan BELLAI :: 19 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=8499&Layout=&TCode=2&TName=Albania :: 20 :: 
+1-0-5	Ilir SHULKU :: 21 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=7461&Layout=&TCode=2&TName=Albania :: 22 :: 
+1-0-6	Arjan XHUMBA :: 23 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=4572&Layout=&TCode=2&TName=Albania :: 24 :: 
+1-0-7	Rudi VATA :: 25 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=4585&Layout=&TCode=2&TName=Albania :: 26 :: 
+1-0-8	Ervin Pellumb FAKAJ :: 27 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=16006&Layout=&TCode=2&TName=Albania :: 28 :: 
+1-0-9	Altin HAXHI :: 29 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=34448&Layout=&TCode=2&TName=Albania :: 30 :: 
+1-0-10	Altin LALA :: 31 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=16000&Layout=&TCode=2&TName=Albania :: 32 :: 
+1-0-11	Alban BUSHI :: 33 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=15624&Layout=&TCode=2&TName=Albania :: 34 :: 
+1-0-12	Bledar KOLA :: 35 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=3507&Layout=&TCode=2&TName=Albania :: 36 :: 
+1-0-13	Altin RRAKLLI :: 37 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=13268&Layout=&TCode=2&TName=Albania :: 38 :: 
+1-0-14	Igli TARE :: 39 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=7783&Layout=&TCode=2&TName=Albania :: 40 :: 
+1-0-15	Fotis STRAKOSHA :: 41 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=5271&Layout=&TCode=2&TName=Albania :: 42 :: 
+1-0-16	Edmond DALIPI :: 43 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=20840&Layout=&TCode=2&TName=Albania :: 44 :: 
+1-0-17	Devi MUKA :: 45 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=33420&Layout=&TCode=2&TName=Albania :: 46 :: 
+1-0-18	Edvin MURATI :: 47 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=40280&Layout=&TCode=2&TName=Albania :: 48 :: 
+1-0-19	Mahir HALILI :: 49 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=38697&Layout=&TCode=2&TName=Albania :: 50 :: 
+1-0-20	Suad LICI :: 51 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=44980&Layout=&TCode=2&TName=Albania :: 52 :: 
+1-0-21	Erion BOGDANI :: 53 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=29077&Layout=&TCode=2&TName=Albania :: 54 :: 
+1-0-22	Bashkim Redi JUPI :: 55 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=21213&Layout=&TCode=2&TName=Albania :: 56 :: 
+1-1-1	Christian ABBIATI :: 13 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=46179&Layout=&TCode=66&TName=Italy :: 14 :: 
+1-1-2	Gianluigi BUFFON :: 15 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=21307&Layout=&TCode=66&TName=Italy :: 16 :: 
+1-1-3	Ciro FERRARA :: 17 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=847&Layout=&TCode=66&TName=Italy :: 18 :: 
+1-1-4	Christian PANUCCI :: 19 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=20437&Layout=&TCode=66&TName=Italy :: 20 :: 
+1-1-5	Paolo MALDINI :: 21 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=428&Layout=&TCode=66&TName=Italy :: 22 :: 
+1-1-6	Giuseppe PANCARO :: 23 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=22743&Layout=&TCode=66&TName=Italy :: 24 :: 
+1-1-7	Demetrio ALBERTINI :: 25 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=5521&Layout=&TCode=66&TName=Italy :: 26 :: 
+1-1-8	Fabio CANNAVARO :: 27 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=18958&Layout=&TCode=66&TName=Italy :: 28 :: 
+1-1-9	Paolo NEGRO :: 29 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=12126&Layout=&TCode=66&TName=Italy :: 30 :: 
+1-1-10	Angelo DI LIVIO :: 31 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=22771&Layout=&TCode=66&TName=Italy :: 32 :: 
+1-1-11	Diego FUSER :: 33 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=5524&Layout=&TCode=66&TName=Italy :: 34 :: 
+1-1-12	Francesco MORIERO :: 35 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=22742&Layout=&TCode=66&TName=Italy :: 36 :: 
+1-1-13	Dino BAGGIO :: 37 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=12902&Layout=&TCode=66&TName=Italy :: 38 :: 
+1-1-14	Antonio CONTE :: 39 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=19222&Layout=&TCode=66&TName=Italy :: 40 :: 
+1-1-15	Filippo INZAGHI :: 41 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=24353&Layout=&TCode=66&TName=Italy :: 42 :: 
+1-1-16	Alessandro DEL PIERO :: 43 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=13768&Layout=&TCode=66&TName=Italy :: 44 :: 
+1-1-17	Christian VIERI :: 45 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=14136&Layout=&TCode=66&TName=Italy :: 46 :: 
+1-1-18	Gianluca PESSOTTO :: 47 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=29420&Layout=&TCode=66&TName=Italy :: 48 :: 
+1-1-19	Francesco TOLDO :: 49 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=23540&Layout=&TCode=66&TName=Italy :: 50 :: 
+1-1-20	Alessandro NESTA :: 51 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=22763&Layout=&TCode=66&TName=Italy :: 52 :: 
+1-1-21	Luigi DI BIAGIO :: 53 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=29326&Layout=&TCode=66&TName=Italy :: 54 :: 
+1-1-22	Paolo VANOLI :: 55 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=46399&Layout=&TCode=66&TName=Italy :: 56 :: 
+1-1-23	Giuliano GIANNICHEDDA :: 57 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=40915&Layout=&TCode=66&TName=Italy :: 58 :: 
+1-1-24	Mark IULIANO :: 59 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=20441&Layout=&TCode=66&TName=Italy :: 60 :: 
+1-1-25	Massimo AMBROSINI :: 61 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=27139&Layout=&TCode=66&TName=Italy :: 62 :: 
+1-1-26	Eusebio DI FRANCESCO :: 63 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=46046&Layout=&TCode=66&TName=Italy :: 64 :: 
+1-1-27	Enrico CHIESA :: 65 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=5097&Layout=&TCode=66&TName=Italy :: 66 :: 
+1-1-28	Gianluca ZAMBROTTA :: 67 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=46178&Layout=&TCode=66&TName=Italy :: 68 :: 
+1-1-29	Stefano FIORE :: 69 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=25980&Layout=&TCode=66&TName=Italy :: 70 :: 
+1-1-30	Vincenzo MONTELLA :: 71 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=40979&Layout=&TCode=66&TName=Italy :: 72 :: 
+1-1-31	Francesco TOTTI :: 73 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=15895&Layout=&TCode=66&TName=Italy :: 74 :: 
+1-1-32	Marco DELVECCHIO :: 75 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=20444&Layout=&TCode=66&TName=Italy :: 76 :: 
+1-1-33	Francesco ANTONIOLI :: 77 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=414&Layout=&TCode=66&TName=Italy :: 78 :: 
+1-2-1	V�tor Manuel MARTINS BA�A :: 13 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=4390&Layout=&TCode=110&TName=Portugal :: 14 :: 
+1-2-2	Rui Fernando S.C.P. BENTO :: 15 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=7727&Layout=&TCode=110&TName=Portugal :: 16 :: 
+1-2-3	Jorge Paulo COSTA ALMEIDA :: 17 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=7728&Layout=&TCode=110&TName=Portugal :: 18 :: 
+1-2-4	Rui Jorge de Sousa Dias M OLIVEIRA :: 19 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=19636&Layout=&TCode=110&TName=Portugal :: 20 :: 
+1-2-5	Jos� Luis DA CRUZ VIDIGAL :: 21 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=27918&Layout=&TCode=110&TName=Portugal :: 22 :: 
+1-2-6	Paulo Sergio Braga MADEIRA :: 23 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=4403&Layout=&TCode=110&TName=Portugal :: 24 :: 
+1-2-7	Fernando Silva COUTO :: 25 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=4393&Layout=&TCode=110&TName=Portugal :: 26 :: 
+1-2-8	Paulo Manuel CARVALHO SOUSA :: 27 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=25962&Layout=&TCode=110&TName=Portugal :: 28 :: 
+1-2-9	Luis Filipe MADEIRA CAEIRO FIGO :: 29 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=4065&Layout=&TCode=110&TName=Portugal :: 30 :: 
+1-2-10	Jo�o Manuel Pinto PINTO :: 31 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=5982&Layout=&TCode=110&TName=Portugal :: 32 :: 
+1-2-11	Ricardo Manuel da Silva S PINTO :: 33 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=14393&Layout=&TCode=110&TName=Portugal :: 34 :: 
+1-2-12	Rui Manuel CESAR COSTA :: 35 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=11043&Layout=&TCode=110&TName=Portugal :: 36 :: 
+1-2-13	Sergio Paulo MARCENEIRO DA CONCEI��O :: 37 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=13168&Layout=&TCode=110&TName=Portugal :: 38 :: 
+1-2-14	Pedro Manuel ESPINHA FERREIRA :: 39 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=6009&Layout=&TCode=110&TName=Portugal :: 40 :: 
+1-2-15	Dimas Manuel Marques TEIXEIRA :: 41 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=8463&Layout=&TCode=110&TName=Portugal :: 42 :: 
+1-2-16	Daniel CARVALHO DA CRUZ :: 43 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=17621&Layout=&TCode=110&TName=Portugal :: 44 :: 
+1-2-17	Abel Luis DA SILVA COSTA XAVIER :: 45 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=4059&Layout=&TCode=110&TName=Portugal :: 46 :: 
+1-2-18	Jos� DA COSTA :: 47 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=40746&Layout=&TCode=110&TName=Portugal :: 48 :: 
+1-2-19	Roberto Luis Gaspar Deus SEVERO :: 49 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=23680&Layout=&TCode=110&TName=Portugal :: 50 :: 
+1-2-20	Paulo Jorge GOMES BENTO :: 51 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=12440&Layout=&TCode=110&TName=Portugal :: 52 :: 
+1-2-21	Pedro Miguel CARREIRO RESENDES :: 53 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=48839&Layout=&TCode=110&TName=Portugal :: 54 :: 
+1-2-22	Sim�o Pedro SABROSA FONSECA :: 55 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=31345&Layout=&TCode=110&TName=Portugal :: 56 :: 
+1-2-23	Nuno Fernando GON�ALVES ROCHA :: 57 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=15612&Layout=&TCode=110&TName=Portugal :: 58 :: 
+1-2-24	Carlos Alberto OLIVEIRA SECRET�RIO :: 59 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=4415&Layout=&TCode=110&TName=Portugal :: 60 :: 
+1-2-25	Nuno Miguel SOARES PEREIRA RIBEIRO :: 61 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=15936&Layout=&TCode=110&TName=Portugal :: 62 :: 
+1-2-26	Joaquim Manuel SAMPAIO SILVA :: 63 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=15922&Layout=&TCode=110&TName=Portugal :: 64 :: 
+1-3-1	Federico GASPERONI :: 13 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=19811&Layout=&TCode=50168&TName=San%20Marino :: 14 :: 
+1-3-2	Marco TOMASSONI :: 15 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=38771&Layout=&TCode=50168&TName=San%20Marino :: 16 :: 
+1-3-3	Mirco GENNARI :: 17 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=19739&Layout=&TCode=50168&TName=San%20Marino :: 18 :: 
+1-3-4	Simone BACCIOCCHI :: 19 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=32430&Layout=&TCode=50168&TName=San%20Marino :: 20 :: 
+1-3-5	Fabrizio PELLICCIONI :: 21 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=19814&Layout=&TCode=50168&TName=San%20Marino :: 22 :: 
+1-3-6	Simone DELLA BALDA :: 23 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=13395&Layout=&TCode=50168&TName=San%20Marino :: 24 :: 
+1-3-7	Nicola BACCIOCCHI :: 25 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=7438&Layout=&TCode=50168&TName=San%20Marino :: 26 :: 
+1-3-8	Bryan GASPERONI :: 27 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=10344&Layout=&TCode=50168&TName=San%20Marino :: 28 :: 
+1-3-9	Paolo MONTAGNA :: 29 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=24250&Layout=&TCode=50168&TName=San%20Marino :: 30 :: 
+1-3-10	Andy SELVA :: 31 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=41252&Layout=&TCode=50168&TName=San%20Marino :: 32 :: 
+1-3-11	Ermanno ZONZINI :: 33 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=10345&Layout=&TCode=50168&TName=San%20Marino :: 34 :: 
+1-3-12	Stefano MUCCIOLI :: 35 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=14063&Layout=&TCode=50168&TName=San%20Marino :: 36 :: 
+1-3-13	Federico FRANCINI :: 37 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=19663&Layout=&TCode=50168&TName=San%20Marino :: 38 :: 
+1-3-14	Pier-Domenico DELLA VALLE :: 39 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=12876&Layout=&TCode=50168&TName=San%20Marino :: 40 :: 
+1-3-15	Roberto SELVA :: 41 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=34823&Layout=&TCode=50168&TName=San%20Marino :: 42 :: 
+1-3-16	Gianluca BOLLINI :: 43 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=46693&Layout=&TCode=50168&TName=San%20Marino :: 44 :: 
+1-3-17	Cristian SELVA :: 45 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=19817&Layout=&TCode=50168&TName=San%20Marino :: 46 :: 
+1-3-18	Marco DELUIGI :: 47 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=19820&Layout=&TCode=50168&TName=San%20Marino :: 48 :: 
+1-4-1	Jos� Santiago CA�IZARES RU�Z :: 13 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=4707&Layout=&TCode=122&TName=Spain :: 14 :: 
+1-4-2	Antonio JIM�NEZ SISTACHS :: 15 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=19244&Layout=&TCode=122&TName=Spain :: 16 :: 
+1-4-3	Miguel Angel SALGADO FERN�NDEZ :: 17 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=24736&Layout=&TCode=122&TName=Spain :: 18 :: 
+1-4-4	Agustin ARANZ�BAL ALKORTA :: 19 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=26217&Layout=&TCode=122&TName=Spain :: 20 :: 
+1-4-5	Josep GUARDIOLA SALA :: 21 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=15008&Layout=&TCode=122&TName=Spain :: 22 :: 
+1-4-6	Abelardo FERN�NDEZ ANTU�A :: 23 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=10214&Layout=&TCode=122&TName=Spain :: 24 :: 
+1-4-7	Fernando RU�Z HIERRO :: 25 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=5678&Layout=&TCode=122&TName=Spain :: 26 :: 
+1-4-8	Iv�n HELGUERA BUJ�A :: 27 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=48847&Layout=&TCode=122&TName=Spain :: 28 :: 
+1-4-9	Francisco Javier GONZ�LEZ P�REZ :: 29 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=23009&Layout=&TCode=122&TName=Spain :: 30 :: 
+1-4-10	Luis Enrique MARTINEZ GARCIA :: 31 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=12928&Layout=&TCode=122&TName=Spain :: 32 :: 
+1-4-11	Fernando MORIENTES S�NCHEZ :: 33 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=24737&Layout=&TCode=122&TName=Spain :: 34 :: 
+1-4-12	Pedro MUNITIS ALVAREZ :: 35 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=48825&Layout=&TCode=122&TName=Spain :: 36 :: 
+1-4-13	Ra�l GONZALEZ BLANCO :: 37 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=26583&Layout=&TCode=122&TName=Spain :: 38 :: 
+1-4-14	Julen GUERRERO LOPEZ :: 39 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=8685&Layout=&TCode=122&TName=Spain :: 40 :: 
+1-4-15	Alfonso P�REZ MU�OZ :: 41 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=3954&Layout=&TCode=122&TName=Spain :: 42 :: 
+1-4-16	Sergio BARJU�N ESCLUSA :: 43 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=23017&Layout=&TCode=122&TName=Spain :: 44 :: 
+1-4-17	C�sar MART�N VILLAR :: 45 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=24730&Layout=&TCode=122&TName=Spain :: 46 :: 
+1-4-18	Iker CASILLAS FERN�NDEZ :: 47 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=34694&Layout=&TCode=122&TName=Spain :: 48 :: 
+1-4-19	Luis Cesar SANCHEZ DOMINGUEZ :: 49 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=40829&Layout=&TCode=122&TName=Spain :: 50 :: 
+1-4-20	Gerard L�PEZ SEG� :: 51 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=34774&Layout=&TCode=122&TName=Spain :: 52 :: 
+1-4-21	Vicente ENGONGA MATE :: 53 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=33637&Layout=&TCode=122&TName=Spain :: 54 :: 
+1-4-22	Gaizka MENDIETA ZABALA :: 55 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=15729&Layout=&TCode=122&TName=Spain :: 56 :: 
+1-4-23	Joseba ETXEBERR�A LIZARDI :: 57 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=23995&Layout=&TCode=122&TName=Spain :: 58 :: 
+1-4-24	Francisco J�MEZ MARTIN :: 59 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=23011&Layout=&TCode=122&TName=Spain :: 60 :: 
+1-4-25	Juan VELASCO DAMAS :: 61 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=48817&Layout=&TCode=122&TName=Spain :: 62 :: 
+1-4-26	Ismael URZAIZ ARANDA :: 63 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=3819&Layout=&TCode=122&TName=Spain :: 64 :: 
+1-4-27	Juan Carlos VALER�N SANTANA :: 65 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=44116&Layout=&TCode=122&TName=Spain :: 66 :: 
+1-4-28	Jos� Francisco MOLINA JIM�NEZ :: 67 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=5813&Layout=&TCode=122&TName=Spain :: 68 :: 
+1-5-1	Olexander SHOVKOVSKYI :: 13 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=23137&Layout=&TCode=57166&TName=Ukraine :: 14 :: 
+1-5-2	Oleg LUZHNY :: 15 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=6581&Layout=&TCode=57166&TName=Ukraine :: 16 :: 
+1-5-3	Dmitry PARFENOV :: 17 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=13854&Layout=&TCode=57166&TName=Ukraine :: 18 :: 
+1-5-4	Sergiy FEDOROV :: 19 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=23136&Layout=&TCode=57166&TName=Ukraine :: 20 :: 
+1-5-5	Andrii HUSIN :: 21 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=21977&Layout=&TCode=57166&TName=Ukraine :: 22 :: 
+1-5-6	Olexander HOLOVKO :: 23 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=18589&Layout=&TCode=57166&TName=Ukraine :: 24 :: 
+1-5-7	Vladyslav VASCHUK :: 25 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=23135&Layout=&TCode=57166&TName=Ukraine :: 26 :: 
+1-5-8	Yuriy DMYTRULIN :: 27 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=27119&Layout=&TCode=57166&TName=Ukraine :: 28 :: 
+1-5-9	Sergiy KANDAUROV :: 29 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=11035&Layout=&TCode=57166&TName=Ukraine :: 30 :: 
+1-5-10	Jurij MAXIMOV :: 31 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=22240&Layout=&TCode=57166&TName=Ukraine :: 32 :: 
+1-5-11	Serguei SKACHENKO :: 33 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=27104&Layout=&TCode=57166&TName=Ukraine :: 34 :: 
+1-5-12	Vitalii KOSSOVSKYI :: 35 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=10478&Layout=&TCode=57166&TName=Ukraine :: 36 :: 
+1-5-13	Andriy SHEVCHENKO :: 37 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=24271&Layout=&TCode=57166&TName=Ukraine :: 38 :: 
+1-5-14	Sergiy REBROV :: 39 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=19099&Layout=&TCode=57166&TName=Ukraine :: 40 :: 
+1-5-15	Vyacheslav KERNOZENKO :: 41 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=24244&Layout=&TCode=57166&TName=Ukraine :: 42 :: 
+1-5-16	Oleksandr LAVRENTSOV :: 43 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=49888&Layout=&TCode=57166&TName=Ukraine :: 44 :: 
+1-5-17	Sergiy KONOVALOV :: 45 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=22241&Layout=&TCode=57166&TName=Ukraine :: 46 :: 
+1-5-18	Vasyl KARDASH :: 47 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=21969&Layout=&TCode=57166&TName=Ukraine :: 48 :: 
+1-5-19	Serhii KOVALOV :: 49 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=25387&Layout=&TCode=57166&TName=Ukraine :: 50 :: 
+1-5-20	Oleksandr KOVAL :: 51 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=25417&Layout=&TCode=57166&TName=Ukraine :: 52 :: 
+1-5-21	Gennadiy MOROZ :: 53 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=22246&Layout=&TCode=57166&TName=Ukraine :: 54 :: 
+1-5-22	Oleksandr PALYANITSYA :: 55 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=33505&Layout=&TCode=57166&TName=Ukraine :: 56 :: 
+1-5-23	Serhii POPOV :: 57 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=25432&Layout=&TCode=57166&TName=Ukraine :: 58 :: 
+1-5-24	Sergey KORMILTSEV :: 59 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=48374&Layout=&TCode=57166&TName=Ukraine :: 60 :: 
+1-5-25	Roman MAKSYMYUK :: 61 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=49889&Layout=&TCode=57166&TName=Ukraine :: 62 :: 
+1-5-26	Sergiy MIZIN :: 63 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=15200&Layout=&TCode=57166&TName=Ukraine :: 64 :: 
+1-5-27	Volodymyr MYKYTIN :: 65 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=47108&Layout=&TCode=57166&TName=Ukraine :: 66 :: 
+1-5-28	Eduard TSYKHMEISTRUK :: 67 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=45566&Layout=&TCode=57166&TName=Ukraine :: 68 :: 
+1-6-1	Jesus Luis ALVAREZ :: 13 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=46087&Layout=&TCode=60618&TName=Andorra :: 14 :: 
+1-6-2	Francesc Xavier RAMIREZ :: 15 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=46088&Layout=&TCode=60618&TName=Andorra :: 16 :: 
+1-6-3	Jordi ESCURA :: 17 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=42860&Layout=&TCode=60618&TName=Andorra :: 18 :: 
+1-6-4	Oscar SONEJEE MASAN. :: 19 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=46093&Layout=&TCode=60618&TName=Andorra :: 20 :: 
+1-6-5	Luena Josep GARCIA :: 21 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=46089&Layout=&TCode=60618&TName=Andorra :: 22 :: 
+1-6-6	Ildefons LIMA SOLA :: 23 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=47106&Layout=&TCode=60618&TName=Andorra :: 24 :: 
+1-6-7	Alex GODOY :: 25 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=51804&Layout=&TCode=60618&TName=Andorra :: 26 :: 
+1-6-8	Emiliano GONZALEZ ARQUES :: 27 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=39812&Layout=&TCode=60618&TName=Andorra :: 28 :: 
+1-6-9	Manuel JIMENEZ SORIA :: 29 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=47104&Layout=&TCode=60618&TName=Andorra :: 30 :: 
+1-6-10	Soto Julia SANCHEZ :: 31 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=46094&Layout=&TCode=60618&TName=Andorra :: 32 :: 
+1-6-11	Justo RUIZ GONZALEZ :: 33 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=46095&Layout=&TCode=60618&TName=Andorra :: 34 :: 
+1-6-12	Armand GODOY :: 35 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=51805&Layout=&TCode=60618&TName=Andorra :: 36 :: 
+1-6-13	Rui Manel DE CASTRO :: 37 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=39815&Layout=&TCode=60618&TName=Andorra :: 38 :: 
+1-6-14	Alfonso SANCHEZ :: 39 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=46096&Layout=&TCode=60618&TName=Andorra :: 40 :: 
+1-6-15	Agusti POL PEREZ :: 41 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=47105&Layout=&TCode=60618&TName=Andorra :: 42 :: 
+1-6-16	Roberto Jonas ALONSO MARTINEZ :: 43 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=48849&Layout=&TCode=60618&TName=Andorra :: 44 :: 
+1-6-17	Angel MARTIN GARCIA :: 45 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=46090&Layout=&TCode=60618&TName=Andorra :: 46 :: 
+1-6-18	David BUXO :: 47 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=42899&Layout=&TCode=60618&TName=Andorra :: 48 :: 
+1-6-19	F. Xavier SORIA :: 49 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=51806&Layout=&TCode=60618&TName=Andorra :: 50 :: 
+1-6-20	Jordi BENET :: 51 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=42857&Layout=&TCode=60618&TName=Andorra :: 52 :: 
+1-6-21	Genis GARCIA ISCZA :: 53 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=46092&Layout=&TCode=60618&TName=Andorra :: 54 :: 
+1-6-22	Jordi BARRA CABELLO :: 55 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=46097&Layout=&TCode=60618&TName=Andorra :: 56 :: 
+1-7-1	Filip DE WILDE :: 13 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=2561&Layout=&TCode=13&TName=Belgium :: 14 :: 
+1-7-2	Eric DEFLANDRE :: 15 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=15438&Layout=&TCode=13&TName=Belgium :: 16 :: 
+1-7-3	Joos VALGAEREN :: 17 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=24152&Layout=&TCode=13&TName=Belgium :: 18 :: 
+1-7-4	Lorenzo STAELENS :: 19 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=5418&Layout=&TCode=13&TName=Belgium :: 20 :: 
+1-7-5	Philippe CLEMENT :: 21 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=38644&Layout=&TCode=13&TName=Belgium :: 22 :: 
+1-7-6	Yves VANDERHAEGHE :: 23 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=29696&Layout=&TCode=13&TName=Belgium :: 24 :: 
+1-7-7	Marc WILMOTS :: 25 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=2659&Layout=&TCode=13&TName=Belgium :: 26 :: 
+1-7-8	Bart GOOR :: 27 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=40173&Layout=&TCode=13&TName=Belgium :: 28 :: 
+1-7-9	Lokonda MPENZA :: 29 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=30761&Layout=&TCode=13&TName=Belgium :: 30 :: 
+1-7-10	Branko STRUPAR :: 31 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=38638&Layout=&TCode=13&TName=Belgium :: 32 :: 
+1-7-11	Gert VERHEYEN :: 33 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=2568&Layout=&TCode=13&TName=Belgium :: 34 :: 
+1-7-12	Geert DE VLIEGER :: 35 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=3379&Layout=&TCode=13&TName=Belgium :: 36 :: 
+1-7-13	Fr�d�ric HERPOEL :: 37 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=19069&Layout=&TCode=13&TName=Belgium :: 38 :: 
+1-7-14	Johan WALEM :: 39 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=3388&Layout=&TCode=13&TName=Belgium :: 40 :: 
+1-7-15	Jacky PEETERS :: 41 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=38647&Layout=&TCode=13&TName=Belgium :: 42 :: 
+1-7-16	Luc NILIS :: 43 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=2566&Layout=&TCode=13&TName=Belgium :: 44 :: 
+1-7-17	Philippe LEONARD :: 45 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=15645&Layout=&TCode=13&TName=Belgium :: 46 :: 
+1-7-18	Nico VAN KERCKHOVEN :: 47 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=29521&Layout=&TCode=13&TName=Belgium :: 48 :: 
+1-7-19	Eric VAN MEIR :: 49 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=25906&Layout=&TCode=13&TName=Belgium :: 50 :: 
+1-7-20	Gilles DE BILDE :: 51 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=27084&Layout=&TCode=13&TName=Belgium :: 52 :: 
+1-7-21	Mbo MPENZA :: 53 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=19866&Layout=&TCode=13&TName=Belgium :: 54 :: 
+1-7-22	Marc HENDRIKX :: 55 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=30938&Layout=&TCode=13&TName=Belgium :: 56 :: 
+1-8-1	Bogdan LOBONT :: 13 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=30754&Layout=&TCode=113&TName=Romania :: 14 :: 
+1-8-2	Dan PETRESCU :: 15 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=206&Layout=&TCode=113&TName=Romania :: 16 :: 
+1-8-3	Liviu CIOBOTARIU :: 17 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=33134&Layout=&TCode=113&TName=Romania :: 18 :: 
+1-8-4	Stefan NANU :: 19 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=19060&Layout=&TCode=113&TName=Romania :: 20 :: 
+1-8-5	Iulian FILIPESCU :: 21 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=8261&Layout=&TCode=113&TName=Romania :: 22 :: 
+1-8-6	Constantin GALCA :: 23 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=13806&Layout=&TCode=113&TName=Romania :: 24 :: 
+1-8-7	Gheorghe POPESCU :: 25 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=8768&Layout=&TCode=113&TName=Romania :: 26 :: 
+1-8-8	Adrian MUTU :: 27 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=27456&Layout=&TCode=113&TName=Romania :: 28 :: 
+1-8-9	Ioan SABAU :: 29 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=2083&Layout=&TCode=113&TName=Romania :: 30 :: 
+1-8-10	Dorinel MUNTEANU :: 31 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=4317&Layout=&TCode=113&TName=Romania :: 32 :: 
+1-8-11	Viorel MOLDOVAN :: 33 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=7346&Layout=&TCode=113&TName=Romania :: 34 :: 
+1-8-12	Gheorghe HAGI :: 35 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=215&Layout=&TCode=113&TName=Romania :: 36 :: 
+1-8-13	Adrian ILIE BUCUREL :: 37 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=19021&Layout=&TCode=113&TName=Romania :: 38 :: 
+1-8-14	Bogdan STELEA :: 39 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=2062&Layout=&TCode=113&TName=Romania :: 40 :: 
+1-8-15	Cristian CHIVU :: 41 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=40958&Layout=&TCode=113&TName=Romania :: 42 :: 
+1-8-16	Valentin NASTASE :: 43 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=45341&Layout=&TCode=113&TName=Romania :: 44 :: 
+1-8-17	Florentin PETRE :: 45 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=28992&Layout=&TCode=113&TName=Romania :: 46 :: 
+1-8-18	Ioan LUPESCU :: 47 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=2071&Layout=&TCode=113&TName=Romania :: 48 :: 
+1-8-19	Ovidiu STINGA :: 49 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=7345&Layout=&TCode=113&TName=Romania :: 50 :: 
+1-8-20	Laurentiu ROSU :: 51 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=15849&Layout=&TCode=113&TName=Romania :: 52 :: 
+1-8-21	Miodrag BELODEDICI :: 53 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=208&Layout=&TCode=113&TName=Romania :: 54 :: 
+1-8-22	Gheorghe CRAIOVEANU :: 55 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=15276&Layout=&TCode=113&TName=Romania :: 56 :: 
+1-8-23	Ioan Viorel GANEA :: 57 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=31790&Layout=&TCode=113&TName=Romania :: 58 :: 
+1-8-24	Erik LINCAR :: 59 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=27459&Layout=&TCode=113&TName=Romania :: 60 :: 
+1-8-25	Catalin HILDAN :: 61 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=31782&Layout=&TCode=113&TName=Romania :: 62 :: 
+1-8-26	Florian PRUNEA :: 63 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=7858&Layout=&TCode=113&TName=Romania :: 64 :: 
+1-8-27	Cosmin CONTRA :: 65 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=15841&Layout=&TCode=113&TName=Romania :: 66 :: 
+1-9-1	Stefan HUBER :: 13 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=9222&Layout=&TCode=128&TName=Switzerland :: 14 :: 
+1-9-2	Pascal ZUBERB�HLER :: 15 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=18769&Layout=&TCode=128&TName=Switzerland :: 16 :: 
+1-9-3	Bernt HAAS :: 17 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=27215&Layout=&TCode=128&TName=Switzerland :: 18 :: 
+1-9-4	Franco DI JORIO :: 19 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=23483&Layout=&TCode=128&TName=Switzerland :: 20 :: 
+1-9-5	St�phane HENCHOZ :: 21 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=8649&Layout=&TCode=128&TName=Switzerland :: 22 :: 
+1-9-6	Patrick M�LLER :: 23 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=20604&Layout=&TCode=128&TName=Switzerland :: 24 :: 
+1-9-7	Marc HODEL :: 25 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=33260&Layout=&TCode=128&TName=Switzerland :: 26 :: 
+1-9-8	Johann VOGEL :: 27 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=15554&Layout=&TCode=128&TName=Switzerland :: 28 :: 
+1-9-9	David SESA :: 29 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=21766&Layout=&TCode=128&TName=Switzerland :: 30 :: 
+1-9-10	Christophe JAQUET :: 31 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=51776&Layout=&TCode=128&TName=Switzerland :: 32 :: 
+1-9-11	Raphael WICKY :: 33 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=20601&Layout=&TCode=128&TName=Switzerland :: 34 :: 
+1-9-12	St�phane CHAPUISAT :: 35 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=8473&Layout=&TCode=128&TName=Switzerland :: 36 :: 
+1-9-13	Alexandre REY :: 37 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=3562&Layout=&TCode=128&TName=Switzerland :: 38 :: 
+1-9-14	S�bastien JEANNERET :: 39 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=14027&Layout=&TCode=128&TName=Switzerland :: 40 :: 
+1-9-15	Ciriaco SFORZA :: 41 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=1844&Layout=&TCode=128&TName=Switzerland :: 42 :: 
+1-9-16	Patrick B�HLMANN :: 43 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=3494&Layout=&TCode=128&TName=Switzerland :: 44 :: 
+1-9-17	Kubilay T�RKYILMAZ :: 45 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=9130&Layout=&TCode=128&TName=Switzerland :: 46 :: 
+1-9-18	Marco PASCOLO :: 47 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=11891&Layout=&TCode=128&TName=Switzerland :: 48 :: 
+1-9-19	Stefan WOLF :: 49 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=12923&Layout=&TCode=128&TName=Switzerland :: 50 :: 
+1-9-20	R�gis ROTHENB�HLER :: 51 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=11874&Layout=&TCode=128&TName=Switzerland :: 52 :: 
+1-9-21	Thomas WYSS :: 53 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=1978&Layout=&TCode=128&TName=Switzerland :: 54 :: 
+1-9-22	Alexandre COMISETTI :: 55 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=11902&Layout=&TCode=128&TName=Switzerland :: 56 :: 
+1-9-23	Sascha M�LLER :: 57 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=28440&Layout=&TCode=128&TName=Switzerland :: 58 :: 
+1-10-1	Alexander FILIMONOV :: 13 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=25584&Layout=&TCode=57451&TName=Russia :: 14 :: 
+1-10-2	Dmitri KHLESTOV :: 15 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=6797&Layout=&TCode=57451&TName=Russia :: 16 :: 
+1-10-3	Dmitri KHOKHLOV :: 17 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=16021&Layout=&TCode=57451&TName=Russia :: 18 :: 
+1-10-4	Alexei SMERTIN :: 19 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=47154&Layout=&TCode=57451&TName=Russia :: 20 :: 
+1-10-5	Dmitri ALENITCHEV :: 21 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=21785&Layout=&TCode=57451&TName=Russia :: 22 :: 
+1-10-6	Yuri DROZDOV :: 23 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=8572&Layout=&TCode=57451&TName=Russia :: 24 :: 
+1-10-7	Victor ONOPKO :: 25 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=46053&Layout=&TCode=57451&TName=Russia :: 26 :: 
+1-10-8	Valeri KARPIN :: 27 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=11377&Layout=&TCode=57451&TName=Russia :: 28 :: 
+1-10-9	Egor TITOV :: 29 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=22075&Layout=&TCode=57451&TName=Russia :: 30 :: 
+1-10-10	Aleksandre PANOV :: 31 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=48828&Layout=&TCode=57451&TName=Russia :: 32 :: 
+1-10-11	Andrey TIKHONOV :: 33 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=21113&Layout=&TCode=57451&TName=Russia :: 34 :: 
+1-10-12	Rouslan NIGMATOULLINE :: 35 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=29515&Layout=&TCode=57451&TName=Russia :: 36 :: 
+1-10-13	Stanislav TCHERTCHESSOV :: 37 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=29516&Layout=&TCode=57451&TName=Russia :: 38 :: 
+1-10-14	Artem BEZRODNY :: 39 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=29922&Layout=&TCode=57451&TName=Russia :: 40 :: 
+1-10-15	Victor BULATOV :: 41 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=49946&Layout=&TCode=57451&TName=Russia :: 42 :: 
+1-10-16	Maxim DEMENKO :: 43 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=24867&Layout=&TCode=57451&TName=Russia :: 44 :: 
+1-10-17	Alexander SHIRKO :: 45 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=31118&Layout=&TCode=57451&TName=Russia :: 46 :: 
+1-10-18	Igor YANOVSKI :: 47 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=22193&Layout=&TCode=57451&TName=Russia :: 48 :: 
+1-10-19	Igor CHUGAINOV :: 49 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=46052&Layout=&TCode=57451&TName=Russia :: 50 :: 
+1-10-20	Vladimir BESCHASTNIKH :: 51 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=15728&Layout=&TCode=57451&TName=Russia :: 52 :: 
+1-10-21	Serguei SEMAK :: 53 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=23253&Layout=&TCode=57451&TName=Russia :: 54 :: 
+1-11-1	Dmitry KRAMARENKO :: 13 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=12665&Layout=&TCode=57154&TName=Azerbaijan :: 14 :: 
+1-11-2	Emin AGAEV :: 15 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=26092&Layout=&TCode=57154&TName=Azerbaijan :: 16 :: 
+1-11-3	Vladimir POSHEKHONTSEV :: 17 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=48813&Layout=&TCode=57154&TName=Azerbaijan :: 18 :: 
+1-11-4	Tarlan AKHMEDOV :: 19 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=30339&Layout=&TCode=57154&TName=Azerbaijan :: 20 :: 
+1-11-5	Mirbagir ISAEV :: 21 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=25616&Layout=&TCode=57154&TName=Azerbaijan :: 22 :: 
+1-11-6	Igor GETMAN :: 23 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=27747&Layout=&TCode=57154&TName=Azerbaijan :: 24 :: 
+1-11-7	Kamal GULIVEV :: 25 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=26814&Layout=&TCode=57154&TName=Azerbaijan :: 26 :: 
+1-11-8	Ulham JADULLAYEV :: 27 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=26099&Layout=&TCode=57154&TName=Azerbaijan :: 28 :: 
+1-11-9	Elshan GAMBAROV :: 29 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=47115&Layout=&TCode=57154&TName=Azerbaijan :: 30 :: 
+1-11-10	Zaur TAGI-ZADE :: 31 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=27508&Layout=&TCode=57154&TName=Azerbaijan :: 32 :: 
+1-11-11	Bakhtiyar MUSAYEV :: 33 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=25622&Layout=&TCode=57154&TName=Azerbaijan :: 34 :: 
+1-11-12	Vadim VASILYEV :: 35 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=32751&Layout=&TCode=57154&TName=Azerbaijan :: 36 :: 
+1-11-13	Adaim NEFTALIYEV :: 37 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=26812&Layout=&TCode=57154&TName=Azerbaijan :: 38 :: 
+1-11-14	Arif ASADOV :: 39 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=4678&Layout=&TCode=57154&TName=Azerbaijan :: 40 :: 
+1-11-15	Aleksey STUKAS :: 41 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=48812&Layout=&TCode=57154&TName=Azerbaijan :: 42 :: 
+1-11-16	Makhmud GURBANOV :: 43 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=26102&Layout=&TCode=57154&TName=Azerbaijan :: 44 :: 
+1-11-17	Aslan KERIMOV :: 45 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=26100&Layout=&TCode=57154&TName=Azerbaijan :: 46 :: 
+1-11-18	Samir ALIYEV :: 47 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=34289&Layout=&TCode=57154&TName=Azerbaijan :: 48 :: 
+1-11-19	Seymur RAGIMOV :: 49 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=45353&Layout=&TCode=57154&TName=Azerbaijan :: 50 :: 
+1-11-20	Jahangir HASANZADEH :: 51 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=34287&Layout=&TCode=57154&TName=Azerbaijan :: 52 :: 
+1-11-21	Rauf MEKHDIEV :: 53 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=26809&Layout=&TCode=57154&TName=Azerbaijan :: 54 :: 
+1-11-22	Farruh ISMAYLOV :: 55 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=45352&Layout=&TCode=57154&TName=Azerbaijan :: 56 :: 
+1-11-23	Vyacheslav LYCHKIN :: 57 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=26101&Layout=&TCode=57154&TName=Azerbaijan :: 58 :: 
+1-12-1	R�stu RE�BER :: 13 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=20233&Layout=&TCode=135&TName=Turkey :: 14 :: 
+1-12-2	Al� Eren BESERLER :: 15 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=27951&Layout=&TCode=135&TName=Turkey :: 16 :: 
+1-12-3	Tayfur HAVUT�U :: 17 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=24926&Layout=&TCode=135&TName=Turkey :: 18 :: 
+1-12-4	Og�n TEMIZKANOGLU :: 19 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=11023&Layout=&TCode=135&TName=Turkey :: 20 :: 
+1-12-5	Fatih AKYEL :: 21 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=28907&Layout=&TCode=135&TName=Turkey :: 22 :: 
+1-12-6	Fehmi Alpay �ZALAN :: 23 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=20238&Layout=&TCode=135&TName=Turkey :: 24 :: 
+1-12-7	Arif ERDEM :: 25 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=14416&Layout=&TCode=135&TName=Turkey :: 26 :: 
+1-12-8	Okan BURUK :: 27 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=8392&Layout=&TCode=135&TName=Turkey :: 28 :: 
+1-12-9	Tugay KERIMOGLU :: 29 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=3329&Layout=&TCode=135&TName=Turkey :: 30 :: 
+1-12-10	Hakan S�K�R :: 31 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=2619&Layout=&TCode=135&TName=Turkey :: 32 :: 
+1-12-11	Ali Riza Sergen YAL�IN :: 33 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=15345&Layout=&TCode=135&TName=Turkey :: 34 :: 
+1-12-12	Tayfun KORKUT :: 35 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=28901&Layout=&TCode=135&TName=Turkey :: 36 :: 
+1-12-13	�mer CATKI� :: 37 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=42680&Layout=&TCode=135&TName=Turkey :: 38 :: 
+1-12-14	Engin IPEKOGLU :: 39 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=2603&Layout=&TCode=135&TName=Turkey :: 40 :: 
+1-12-15	Mert KORKMAZ :: 41 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=14420&Layout=&TCode=135&TName=Turkey :: 42 :: 
+1-12-16	Osman �ZK�YL� :: 43 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=20231&Layout=&TCode=135&TName=Turkey :: 44 :: 
+1-12-17	Saffet AKBAS :: 45 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=28899&Layout=&TCode=135&TName=Turkey :: 46 :: 
+1-12-18	Suat KAYA :: 47 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=18895&Layout=&TCode=135&TName=Turkey :: 48 :: 
+1-12-19	Mustafa Kemmel IZZET :: 49 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=26011&Layout=&TCode=135&TName=Turkey :: 50 :: 
+1-12-20	Erg�n PENBE :: 51 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=20899&Layout=&TCode=135&TName=Turkey :: 52 :: 
+1-12-21	Saffet AKY�Z :: 53 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=38814&Layout=&TCode=135&TName=Turkey :: 54 :: 
+1-12-22	Oktay DERELIOGLU :: 55 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=15436&Layout=&TCode=135&TName=Turkey :: 56 :: 
+1-12-23	Ayhan AKMAN :: 57 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=21670&Layout=&TCode=135&TName=Turkey :: 58 :: 
+1-12-24	�mit KARAN :: 59 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=49938&Layout=&TCode=135&TName=Turkey :: 60 :: 
+1-12-25	Abdullah ERCAN :: 61 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=6953&Layout=&TCode=135&TName=Turkey :: 62 :: 
+1-12-26	Hakan �NSAL :: 63 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=24823&Layout=&TCode=135&TName=Turkey :: 64 :: 
+1-12-27	Fevzi TUNCAY :: 65 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=21661&Layout=&TCode=135&TName=Turkey :: 66 :: 
+1-12-28	�mit DAVALA :: 67 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=26579&Layout=&TCode=135&TName=Turkey :: 68 :: 
+1-13-1	Zdravko ZDRAVKOV :: 13 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=5843&Layout=&TCode=20&TName=Bulgaria :: 14 :: 
+1-13-2	Zlatomir ZAGORTCHICH :: 15 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=45058&Layout=&TCode=20&TName=Bulgaria :: 16 :: 
+1-13-3	Stanimir STOILOV :: 17 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=14971&Layout=&TCode=20&TName=Bulgaria :: 18 :: 
+1-13-4	Ivailo PETKOV :: 19 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=33850&Layout=&TCode=20&TName=Bulgaria :: 20 :: 
+1-13-5	Ivailo Stoimeno IORDANOV :: 21 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=14370&Layout=&TCode=20&TName=Bulgaria :: 22 :: 
+1-13-6	Gueorgui MARKOV :: 23 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=23061&Layout=&TCode=20&TName=Bulgaria :: 24 :: 
+1-13-7	Daniel BORIMIROV :: 25 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=12644&Layout=&TCode=20&TName=Bulgaria :: 26 :: 
+1-13-8	Stiliyan PETROV :: 27 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=34435&Layout=&TCode=20&TName=Bulgaria :: 28 :: 
+1-13-9	Marian HRISTOV :: 29 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=26465&Layout=&TCode=20&TName=Bulgaria :: 30 :: 
+1-13-10	Alexandar ALEXANDROV :: 31 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=13858&Layout=&TCode=20&TName=Bulgaria :: 32 :: 
+1-13-11	Milen PETKOV :: 33 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=26463&Layout=&TCode=20&TName=Bulgaria :: 34 :: 
+1-13-12	Gueorgui BATCHEV :: 35 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=21488&Layout=&TCode=20&TName=Bulgaria :: 36 :: 
+1-13-13	Iordan GOSPODINOV :: 37 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=47071&Layout=&TCode=20&TName=Bulgaria :: 38 :: 
+1-13-14	Dimitar IVANKOV :: 39 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=23257&Layout=&TCode=20&TName=Bulgaria :: 40 :: 
+1-13-15	Todor IANTCHEV :: 41 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=39473&Layout=&TCode=20&TName=Bulgaria :: 42 :: 
+1-13-16	Malin ORATCHEV :: 43 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=20279&Layout=&TCode=20&TName=Bulgaria :: 44 :: 
+1-13-17	Rossen KIRILOV :: 45 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=18091&Layout=&TCode=20&TName=Bulgaria :: 46 :: 
+1-13-18	Gueorgui PEEV :: 47 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=34440&Layout=&TCode=20&TName=Bulgaria :: 48 :: 
+1-13-19	Ilia GROUEV :: 49 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=5846&Layout=&TCode=20&TName=Bulgaria :: 50 :: 
+1-13-20	Zlatko IANKOV :: 51 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=5252&Layout=&TCode=20&TName=Bulgaria :: 52 :: 
+1-13-21	Bisser IVANOV :: 53 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=51072&Layout=&TCode=20&TName=Bulgaria :: 54 :: 
+1-13-22	Hristo IOVOV :: 55 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=29440&Layout=&TCode=20&TName=Bulgaria :: 56 :: 
+1-13-23	Svetoslav TODOROV :: 57 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=27383&Layout=&TCode=20&TName=Bulgaria :: 58 :: 
+1-13-24	Roumen HRISTOV :: 59 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=13549&Layout=&TCode=20&TName=Bulgaria :: 60 :: 
+1-14-1	Peter SCHMEICHEL :: 13 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=24&Layout=&TCode=35&TName=Denmark :: 14 :: 
+1-14-2	Michael SCHJ�NBERG :: 15 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=19502&Layout=&TCode=35&TName=Denmark :: 16 :: 
+1-14-3	Ren� HENRIKSEN :: 17 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=44755&Layout=&TCode=35&TName=Denmark :: 18 :: 
+1-14-4	Jes H�GH :: 19 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=22629&Layout=&TCode=35&TName=Denmark :: 20 :: 
+1-14-5	Jan HEINTZE :: 21 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=17&Layout=&TCode=35&TName=Denmark :: 22 :: 
+1-14-6	Thomas HELVEG :: 23 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=11094&Layout=&TCode=35&TName=Denmark :: 24 :: 
+1-14-7	Allan NIELSEN :: 25 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=22537&Layout=&TCode=35&TName=Denmark :: 26 :: 
+1-14-8	Jesper GR�NKJ�R :: 27 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=23698&Layout=&TCode=35&TName=Denmark :: 28 :: 
+1-14-9	Jon Dahl TOMASSON :: 29 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=19898&Layout=&TCode=35&TName=Denmark :: 30 :: 
+1-14-10	Martin J�RGENSEN :: 31 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=15961&Layout=&TCode=35&TName=Denmark :: 32 :: 
+1-14-11	Ebbe SAND :: 33 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=23482&Layout=&TCode=35&TName=Denmark :: 34 :: 
+1-14-12	S�ren COLDING :: 35 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=19300&Layout=&TCode=35&TName=Denmark :: 36 :: 
+1-14-13	Per FRANDSEN :: 37 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=7857&Layout=&TCode=35&TName=Denmark :: 38 :: 
+1-14-14	Jacob LAURSEN :: 39 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=3798&Layout=&TCode=35&TName=Denmark :: 40 :: 
+1-14-15	Martin LAURSEN :: 41 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=31853&Layout=&TCode=35&TName=Denmark :: 42 :: 
+1-14-16	Brian Steen NIELSEN :: 43 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=7855&Layout=&TCode=35&TName=Denmark :: 44 :: 
+1-14-17	Allan OLESEN :: 45 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=44754&Layout=&TCode=35&TName=Denmark :: 46 :: 
+1-14-18	Stig T�FTING :: 47 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=3016&Layout=&TCode=35&TName=Denmark :: 48 :: 
+1-14-19	Thomas S�RENSEN :: 49 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=21765&Layout=&TCode=35&TName=Denmark :: 50 :: 
+1-14-20	S�ren ANDERSEN :: 51 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=3024&Layout=&TCode=35&TName=Denmark :: 52 :: 
+1-14-21	Bjarne GOLDB�K :: 53 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=4534&Layout=&TCode=35&TName=Denmark :: 54 :: 
+1-14-22	Peter M�LLER :: 55 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=13141&Layout=&TCode=35&TName=Denmark :: 56 :: 
+1-14-23	Miklos MOLNAR :: 57 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=4823&Layout=&TCode=35&TName=Denmark :: 58 :: 
+1-14-24	Morten WIEGHORST :: 59 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=11067&Layout=&TCode=35&TName=Denmark :: 60 :: 
+1-14-25	Morten BISGAARD :: 61 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=7320&Layout=&TCode=35&TName=Denmark :: 62 :: 
+1-14-26	Thomas GRAVESEN :: 63 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=33954&Layout=&TCode=35&TName=Denmark :: 64 :: 
+1-14-27	Mikkel BECK :: 65 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=21796&Layout=&TCode=35&TName=Denmark :: 66 :: 
+1-14-28	Peter KJ�R :: 67 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=11076&Layout=&TCode=35&TName=Denmark :: 68 :: 
+1-15-1	Jens Martin KNUDSEN :: 13 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=12551&Layout=&TCode=51218&TName=Faroe%20Islands :: 14 :: 
+1-15-2	�li JOHANNESEN :: 15 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=19591&Layout=&TCode=51218&TName=Faroe%20Islands :: 16 :: 
+1-15-3	Jens Kristian HANSEN :: 17 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=18793&Layout=&TCode=51218&TName=Faroe%20Islands :: 18 :: 
+1-15-4	P�l THORSTEINSON :: 19 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=44205&Layout=&TCode=51218&TName=Faroe%20Islands :: 20 :: 
+1-15-5	Hans Frodi HANSEN :: 21 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=32301&Layout=&TCode=51218&TName=Faroe%20Islands :: 22 :: 
+1-15-6	Samal JOENSEN :: 23 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=25330&Layout=&TCode=51218&TName=Faroe%20Islands :: 24 :: 
+1-15-7	Henning JARNSKOR :: 25 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=25329&Layout=&TCode=51218&TName=Faroe%20Islands :: 26 :: 
+1-15-8	Julian J�NSSON :: 27 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=22146&Layout=&TCode=51218&TName=Faroe%20Islands :: 28 :: 
+1-15-9	Morkore ALLAN M�RK�RE :: 29 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=12556&Layout=&TCode=51218&TName=Faroe%20Islands :: 30 :: 
+1-15-10	T�di J�NSSON :: 31 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=15384&Layout=&TCode=51218&TName=Faroe%20Islands :: 32 :: 
+1-15-11	John PETERSEN :: 33 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=22234&Layout=&TCode=51218&TName=Faroe%20Islands :: 34 :: 
+1-15-12	Uni ARGE :: 35 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=19592&Layout=&TCode=51218&TName=Faroe%20Islands :: 36 :: 
+1-15-13	�ssur HANSEN :: 37 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=18213&Layout=&TCode=51218&TName=Faroe%20Islands :: 38 :: 
+1-15-14	J�kub A BORG :: 39 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=31072&Layout=&TCode=51218&TName=Faroe%20Islands :: 40 :: 
+1-15-15	Hedin A LAKJUNI :: 41 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=39618&Layout=&TCode=51218&TName=Faroe%20Islands :: 42 :: 
+1-15-16	J�KUP BORG :: 43 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=47129&Layout=&TCode=51218&TName=Faroe%20Islands :: 44 :: 
+1-15-17	J�kup MIKKELSEN :: 45 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=15672&Layout=&TCode=51218&TName=Faroe%20Islands :: 46 :: 
+1-15-18	Fr�di BENJAMINSEN :: 47 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=26614&Layout=&TCode=51218&TName=Faroe%20Islands :: 48 :: 
+1-15-19	Bartal ELIASEN :: 49 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=26609&Layout=&TCode=51218&TName=Faroe%20Islands :: 50 :: 
+1-15-20	John HANSEN :: 51 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=19178&Layout=&TCode=51218&TName=Faroe%20Islands :: 52 :: 
+1-15-21	R�gvi JACOBSEN :: 53 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=34316&Layout=&TCode=51218&TName=Faroe%20Islands :: 54 :: 
+1-16-1	Oliver KAHN :: 13 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=9182&Layout=&TCode=47&TName=Germany :: 14 :: 
+1-16-2	Markus BABBEL :: 15 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=13850&Layout=&TCode=47&TName=Germany :: 16 :: 
+1-16-3	Marko REHMER :: 17 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=44250&Layout=&TCode=47&TName=Germany :: 18 :: 
+1-16-4	Thomas LINKE :: 19 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=14464&Layout=&TCode=47&TName=Germany :: 20 :: 
+1-16-5	Marco BODE :: 21 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=5674&Layout=&TCode=47&TName=Germany :: 22 :: 
+1-16-6	Bernd SCHNEIDER :: 23 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=10596&Layout=&TCode=47&TName=Germany :: 24 :: 
+1-16-7	Jens NOWOTNY :: 25 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=8728&Layout=&TCode=47&TName=Germany :: 26 :: 
+1-16-8	Mehmet SCHOLL :: 27 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=14054&Layout=&TCode=47&TName=Germany :: 28 :: 
+1-16-9	Thomas H�SSLER :: 29 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=1167&Layout=&TCode=47&TName=Germany :: 30 :: 
+1-16-10	Ulf KIRSTEN :: 31 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=1072&Layout=&TCode=47&TName=Germany :: 32 :: 
+1-16-11	Lothar MATTH�US :: 33 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=36&Layout=&TCode=47&TName=Germany :: 34 :: 
+1-16-12	Oliver NEUVILLE :: 35 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=22647&Layout=&TCode=47&TName=Germany :: 36 :: 
+1-16-13	Paulo RINK :: 37 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=40178&Layout=&TCode=47&TName=Germany :: 38 :: 
+1-16-14	Jens LEHMANN :: 39 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=4291&Layout=&TCode=47&TName=Germany :: 40 :: 
+1-16-15	Michael BALLACK :: 41 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=34908&Layout=&TCode=47&TName=Germany :: 42 :: 
+1-16-16	Andreas NEUENDORF :: 43 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=25662&Layout=&TCode=47&TName=Germany :: 44 :: 
+1-16-17	Dietmar HAMANN :: 45 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=14009&Layout=&TCode=47&TName=Germany :: 46 :: 
+1-16-18	Christian W�RNS :: 47 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=7288&Layout=&TCode=47&TName=Germany :: 48 :: 
+1-16-19	Christian NERLINGER :: 49 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=10251&Layout=&TCode=47&TName=Germany :: 50 :: 
+1-16-20	Dariusz WOSZ :: 51 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=4664&Layout=&TCode=47&TName=Germany :: 52 :: 
+1-16-21	Mustafa DOGAN :: 53 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=23616&Layout=&TCode=47&TName=Germany :: 54 :: 
+1-16-22	Jens JEREMIES :: 55 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=30248&Layout=&TCode=47&TName=Germany :: 56 :: 
+1-16-23	Thomas STRUNZ :: 57 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=5605&Layout=&TCode=47&TName=Germany :: 58 :: 
+1-16-24	Christian ZIEGE :: 59 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=7296&Layout=&TCode=47&TName=Germany :: 60 :: 
+1-16-25	Sebastian DEISLER :: 61 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=30749&Layout=&TCode=47&TName=Germany :: 62 :: 
+1-16-26	Lars RICKEN :: 63 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=15994&Layout=&TCode=47&TName=Germany :: 64 :: 
+1-16-27	Carsten JANCKER :: 65 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=13730&Layout=&TCode=47&TName=Germany :: 66 :: 
+1-16-28	Oliver BIERHOFF :: 67 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=5626&Layout=&TCode=47&TName=Germany :: 68 :: 
+1-16-29	Carsten RAMELOW :: 69 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=13917&Layout=&TCode=47&TName=Germany :: 70 :: 
+1-16-30	Hans-J�rg BUTT :: 71 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=38786&Layout=&TCode=47&TName=Germany :: 72 :: 
+1-17-1	Shavit ELIMELECH :: 13 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=20830&Layout=&TCode=65&TName=Israel :: 14 :: 
+1-17-2	Alon HARAZI :: 15 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=13340&Layout=&TCode=65&TName=Israel :: 16 :: 
+1-17-3	David AMSALEM :: 17 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=15898&Layout=&TCode=65&TName=Israel :: 18 :: 
+1-17-4	Arik BENADO :: 19 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=12907&Layout=&TCode=65&TName=Israel :: 20 :: 
+1-17-5	Amir Yoni SHELACH :: 21 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=18609&Layout=&TCode=65&TName=Israel :: 22 :: 
+1-17-6	Ofer TALKAR :: 23 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=3846&Layout=&TCode=65&TName=Israel :: 24 :: 
+1-17-7	Alon HAZAN :: 25 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=20575&Layout=&TCode=65&TName=Israel :: 26 :: 
+1-17-8	Tal BANIN :: 27 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=13335&Layout=&TCode=65&TName=Israel :: 28 :: 
+1-17-9	Michael Haim REVIVO :: 29 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=15980&Layout=&TCode=65&TName=Israel :: 30 :: 
+1-17-10	Idan TAL :: 31 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=34749&Layout=&TCode=65&TName=Israel :: 32 :: 
+1-17-11	Amir TORJMAN :: 33 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=3852&Layout=&TCode=65&TName=Israel :: 34 :: 
+1-17-12	Eyal BERCOVIC :: 35 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=13330&Layout=&TCode=65&TName=Israel :: 36 :: 
+1-17-13	Avraham TIKVA :: 37 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=18026&Layout=&TCode=65&TName=Israel :: 38 :: 
+1-17-14	Yossi BENAYOUN :: 39 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=30048&Layout=&TCode=65&TName=Israel :: 40 :: 
+1-17-15	Alon MIZRAHI :: 41 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=20573&Layout=&TCode=65&TName=Israel :: 42 :: 
+1-17-16	Josef ABUKASIS :: 43 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=13339&Layout=&TCode=65&TName=Israel :: 44 :: 
+1-17-17	Ronen HARAZI :: 45 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=22123&Layout=&TCode=65&TName=Israel :: 46 :: 
+1-17-18	Shimon GERSHON :: 47 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=31919&Layout=&TCode=65&TName=Israel :: 48 :: 
+1-17-19	Najwan GHRAYIB :: 49 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=25773&Layout=&TCode=65&TName=Israel :: 50 :: 
+1-17-20	Mordachy KAKON :: 51 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=18635&Layout=&TCode=65&TName=Israel :: 52 :: 
+1-17-21	Jan TELESNIKOV :: 53 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=32562&Layout=&TCode=65&TName=Israel :: 54 :: 
+1-17-22	Ran BEN SIMON :: 55 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=31956&Layout=&TCode=65&TName=Israel :: 56 :: 
+1-17-23	Nir Avraham SIVILIA :: 57 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=18616&Layout=&TCode=65&TName=Israel :: 58 :: 
+1-17-24	Walid BADIR :: 59 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=28042&Layout=&TCode=65&TName=Israel :: 60 :: 
+1-17-25	Alon HALFON :: 61 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=20971&Layout=&TCode=65&TName=Israel :: 62 :: 
+1-17-26	Dudu AVATE :: 63 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=24022&Layout=&TCode=65&TName=Israel :: 64 :: 
+1-17-27	Nir DAVIDOVITCH :: 65 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=20491&Layout=&TCode=65&TName=Israel :: 66 :: 
+1-17-28	Eran SCHEINSINGER :: 67 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=17566&Layout=&TCode=65&TName=Israel :: 68 :: 
+1-18-1	Pavel LEUS :: 13 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=23503&Layout=&TCode=56557&TName=Lithuania :: 14 :: 
+1-18-2	Gintaras STAUCE :: 15 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=6794&Layout=&TCode=56557&TName=Lithuania :: 16 :: 
+1-18-3	Andrei SKERLA :: 17 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=27143&Layout=&TCode=56557&TName=Lithuania :: 18 :: 
+1-18-4	Marius SKINDERIS :: 19 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=21947&Layout=&TCode=56557&TName=Lithuania :: 20 :: 
+1-18-5	Andrejus TERESKINAS :: 21 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=33395&Layout=&TCode=56557&TName=Lithuania :: 22 :: 
+1-18-6	Darius ZUTAUTAS :: 23 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=26725&Layout=&TCode=56557&TName=Lithuania :: 24 :: 
+1-18-7	Tomas ZVIRGZDAUSKAS :: 25 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=19139&Layout=&TCode=56557&TName=Lithuania :: 26 :: 
+1-18-8	Deividas SEMBERAS :: 27 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=26727&Layout=&TCode=56557&TName=Lithuania :: 28 :: 
+1-18-9	Irmantas STUMBRYS :: 29 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=21958&Layout=&TCode=56557&TName=Lithuania :: 30 :: 
+1-18-10	Valdas IVANAUSKAS :: 31 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=2812&Layout=&TCode=56557&TName=Lithuania :: 32 :: 
+1-18-11	Saulius MIKALAJUNAS :: 33 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=25469&Layout=&TCode=56557&TName=Lithuania :: 34 :: 
+1-18-12	Aidas PREIKSAITIS :: 35 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=19142&Layout=&TCode=56557&TName=Lithuania :: 36 :: 
+1-18-13	Tomas RAZANAUSKAS :: 37 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=23196&Layout=&TCode=56557&TName=Lithuania :: 38 :: 
+1-18-14	Grazvidas MIKULENAS :: 39 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=19157&Layout=&TCode=56557&TName=Lithuania :: 40 :: 
+1-18-15	Vidas DANCENKO :: 41 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=25465&Layout=&TCode=56557&TName=Lithuania :: 42 :: 
+1-18-16	Edgaras JANKAUSKAS :: 43 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=19160&Layout=&TCode=56557&TName=Lithuania :: 44 :: 
+1-18-17	Tomas RAMELIS :: 45 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=18218&Layout=&TCode=56557&TName=Lithuania :: 46 :: 
+1-18-18	Gytis PADIMANSKAS :: 47 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=32150&Layout=&TCode=56557&TName=Lithuania :: 48 :: 
+1-18-19	Tomas DANILEVICIUS :: 49 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=23516&Layout=&TCode=56557&TName=Lithuania :: 50 :: 
+1-18-20	Darius MACIULEVICIUS :: 51 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=19146&Layout=&TCode=56557&TName=Lithuania :: 52 :: 
+1-18-21	Donatas VENCEVICIUS :: 53 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=19150&Layout=&TCode=56557&TName=Lithuania :: 54 :: 
+1-18-22	Arturas FOMENKO :: 55 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=21956&Layout=&TCode=56557&TName=Lithuania :: 56 :: 
+1-18-23	Andrejus SOROKINAS :: 57 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=28128&Layout=&TCode=56557&TName=Lithuania :: 58 :: 
+1-18-24	Audrius KSANAVICIUS :: 59 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=27149&Layout=&TCode=56557&TName=Lithuania :: 60 :: 
+1-18-25	Arturas STESKO :: 61 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=23200&Layout=&TCode=56557&TName=Lithuania :: 62 :: 
+1-18-26	Rolandas DZIAUKSTAS :: 63 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=29981&Layout=&TCode=56557&TName=Lithuania :: 64 :: 
+1-18-27	Zydrunas GRUDZINSKAS :: 65 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=45241&Layout=&TCode=56557&TName=Lithuania :: 66 :: 
+1-19-1	Edwin VAN DER SAR :: 13 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=14622&Layout=&TCode=95&TName=Netherlands :: 14 :: 
+1-19-2	Michael REIZIGER :: 15 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=6191&Layout=&TCode=95&TName=Netherlands :: 16 :: 
+1-19-3	Jaap STAM :: 17 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=21821&Layout=&TCode=95&TName=Netherlands :: 18 :: 
+1-19-4	Frank DE BOER :: 19 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=4761&Layout=&TCode=95&TName=Netherlands :: 20 :: 
+1-19-5	Boudewijn ZENDEN :: 21 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=20556&Layout=&TCode=95&TName=Netherlands :: 22 :: 
+1-19-6	Clarence SEEDORF :: 23 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=13127&Layout=&TCode=95&TName=Netherlands :: 24 :: 
+1-19-7	Philip COCU :: 25 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=11463&Layout=&TCode=95&TName=Netherlands :: 26 :: 
+1-19-8	Edgar DAVIDS :: 27 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=6216&Layout=&TCode=95&TName=Netherlands :: 28 :: 
+1-19-9	Patrick KLUIVERT :: 29 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=17710&Layout=&TCode=95&TName=Netherlands :: 30 :: 
+1-19-10	Dennis BERGKAMP :: 31 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=1297&Layout=&TCode=95&TName=Netherlands :: 32 :: 
+1-19-11	Marc OVERMARS :: 33 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=15614&Layout=&TCode=95&TName=Netherlands :: 34 :: 
+1-19-12	Giovanni VAN BRONCKHORST :: 35 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=13131&Layout=&TCode=95&TName=Netherlands :: 36 :: 
+1-19-13	Bert KONTERMAN :: 37 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=46034&Layout=&TCode=95&TName=Netherlands :: 38 :: 
+1-19-14	Peter VAN VOSSEN :: 39 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=19070&Layout=&TCode=95&TName=Netherlands :: 40 :: 
+1-19-15	Paul BOSVELT :: 41 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=25921&Layout=&TCode=95&TName=Netherlands :: 42 :: 
+1-19-16	Ronald DE BOER :: 43 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=1301&Layout=&TCode=95&TName=Netherlands :: 44 :: 
+1-19-17	Pierre VAN HOOIJDONK :: 45 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=13756&Layout=&TCode=95&TName=Netherlands :: 46 :: 
+1-19-18	Edward DE GOEIJ :: 47 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=4850&Layout=&TCode=95&TName=Netherlands :: 48 :: 
+1-19-19	Arthur NUMAN :: 49 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=4769&Layout=&TCode=95&TName=Netherlands :: 50 :: 
+1-19-20	Aron WINTER :: 51 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=1365&Layout=&TCode=95&TName=Netherlands :: 52 :: 
+1-19-21	Roy MAKAAY :: 53 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=23073&Layout=&TCode=95&TName=Netherlands :: 54 :: 
+1-19-22	Sander WESTERVELD :: 55 :: 	/Teams&Clubs/Teams/SquadList/PlayerDetail.asp?Player=11416&Layout=&TCode=95&TName=Netherlands :: 56 :: 

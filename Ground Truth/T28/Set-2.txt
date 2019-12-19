@@ -1,0 +1,60 @@
+Encoding	3	0
+Type	MD	MT
+2-0-1	WILDING PICTURES PRODUCTIONS :: 77 :: 	<BR/> :: 78 :: 
+2-0-2	SWIFT & CO. © :: 79 :: 	<BR/> :: 80 :: 
+2-1-1	SANDS FILMS :: 106 :: 	<BR/> :: 107 :: 
+2-1-2	HOBO :: 108 :: 	<BR/> :: 109 :: 
+2-2-1	STAN MARGULIES CO. :: 110 :: 	<BR/> :: 111 :: 
+2-2-2	BUTCHERS RUN FILMS :: 112 :: 	<BR/> :: 113 :: 
+2-3-1	SANDCASTLE 5 :: 82 :: 	<BR/> :: 83 :: 
+2-3-2	CINECOM :: 84 :: 	<BR/> :: 85 :: 
+2-4-1	WATERBURY FILMS :: 107 :: 	<BR/> :: 108 :: 
+2-4-2	CINEMA CENTER FILMS :: 109 :: 	<BR/> :: 110 :: 
+2-4-3	TWENTIETH CENTURY-FOX FILM CORP. :: 111 :: 	<BR/> :: 112 :: 
+2-5-1	BUENA VISTA INTL. :: 91 :: 	<BR/> :: 92 :: 
+2-5-2	MIRAMAX :: 93 :: 	<BR/> :: 94 :: 
+2-5-3	SYN-CHRONISTIC PICTURES :: 95 :: 	<BR/> :: 96 :: 
+2-5-4	SCALA PRODS. :: 97 :: 	<BR/> :: 98 :: 
+2-6-1	PARAMOUNT BRITISH :: 97 :: 	<BR/> :: 98 :: 
+2-6-2	PARAMOUNT :: 99 :: 	<BR/> :: 100 :: 
+2-7-1	MACFREE FILMS :: 86 :: 	<BR/> :: 87 :: 
+2-8-1	PARAMOUNT :: 66 :: 	<BR/> :: 67 :: 
+2-8-2	PARAMOUNT FAMOUS LASKY CORP. © :: 68 :: 	<BR/> :: 69 :: 
+2-8-3	CHRISTIE :: 70 :: 	<BR/> :: 71 :: 
+2-9-1	REVOLUTION STUDIOS :: 104 :: 	<BR/> :: 105 :: 
+2-9-2	SONY PICTURES ENTERTAINMENT :: 106 :: 	<BR/> :: 107 :: 
+2-9-3	REVOLUTION STUDIOS DISTRIBUTION CO. © :: 108 :: 	<BR/> :: 109 :: 
+2-9-4	STEVEN REUTHER :: 110 :: 	<BR/> :: 111 :: 
+2-10-1	TAOZI :: 84 :: 	<BR/> :: 85 :: 
+2-10-2	KEVIN FENG keDREAM MACHINE PICTURES :: 86 :: 	<BR/> :: 87 :: 
+2-11-1	DE BEAUJEU/MILLER :: 100 :: 	<BR/> :: 101 :: 
+2-11-2	FLUIDITY FILMS © :: 102 :: 	<BR/> :: 103 :: 
+2-12-1	20TH CENTURY FOX TV :: 107 :: 	<BR/> :: 108 :: 
+2-12-2	MICHAEL FILERMAN PRODS. :: 109 :: 	<BR/> :: 110 :: 
+2-12-3	NBC :: 111 :: 	<BR/> :: 112 :: 
+2-13-1	MACFREE FILMS :: 110 :: 	<BR/> :: 111 :: 
+2-14-1	ANAGRAM PICTURES :: 76 :: 	<BR/> :: 77 :: 
+2-15-1	DIMENSION PICTURES :: 97 :: 	<BR/> :: 98 :: 
+2-15-2	A FULL MOON :: 99 :: 	<BR/> :: 100 :: 
+2-16-1	PARAMOUNT PICTURES, INC. © :: 106 :: 	<BR/> :: 107 :: 
+2-17-1	KAPPA FILM :: 112 :: 	<BR/> :: 113 :: 
+2-17-2	NORWEGIAN BROADCASTING CORP. :: 114 :: 	<BR/> :: 115 :: 
+2-18-1	ROBERTSON-COLE DISTRIBUTING CORP. :: 89 :: 	<BR/> :: 90 :: 
+2-18-2	DUSTIN Farnum PRODUCTIONS :: 91 :: 	<BR/> :: 92 :: 
+2-18-3	ROBERTSON-COLE CO. © :: 93 :: 	<BR/> :: 94 :: 
+2-19-1	METRO PICTURES CORP. © :: 89 :: 	<BR/> :: 90 :: 
+2-20-1	Noon WINE COMPANY :: 86 :: 	<BR/> :: 87 :: 
+2-20-2	MERCHANT IVORY PRODUCTIONS :: 88 :: 	<BR/> :: 89 :: 
+2-21-1	FCM :: 107 :: 	<BR/> :: 108 :: 
+2-22-1	METRO-GOLDWYN-MAYER CORP. :: 109 :: 	<BR/> :: 110 :: 
+2-22-2	LOEW'S, INC. © :: 111 :: 	<BR/> :: 112 :: 
+2-23-1	FCM :: 95 :: 	<BR/> :: 96 :: 
+2-24-1	PHILLIPS :: 82 :: 	<BR/> :: 83 :: 
+2-24-2	BRITISH ACTORS :: 84 :: 	<BR/> :: 85 :: 
+2-25-1	FCM :: 92 :: 	<BR/> :: 93 :: 
+2-26-1	CINEVILLE :: 85 :: 	<BR/> :: 86 :: 
+2-27-1	Screenplay LIMITED PARTNERS :: 79 :: 	<BR/> :: 80 :: 
+2-28-1	ANGLO-AMALGAMATED :: 78 :: 	<BR/> :: 79 :: 
+2-28-2	MERTON PARK :: 80 :: 	<BR/> :: 81 :: 
+2-29-1	BONNARD :: 92 :: 	<BR/> :: 93 :: 
+2-29-2	NBC :: 94 :: 	<BR/> :: 95 :: 

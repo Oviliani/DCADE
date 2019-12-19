@@ -1,0 +1,292 @@
+Encoding	0	2
+Type	MT	MD
+4-0-1	• :: 247 :: 	ADA Access :: 248 :: 
+4-0-2	• :: 249 :: 	Close to Bus :: 250 :: 
+4-0-3	• :: 251 :: 	Pool :: 252 :: 
+4-0-4	• :: 253 :: 	Close To Railroad :: 254 :: 
+4-0-5	• :: 255 :: 	Close to Shops :: 256 :: 
+4-0-6	• :: 257 :: 	Close to School :: 258 :: 
+4-0-7	• :: 259 :: 	Common Laundry :: 260 :: 
+4-0-8	• :: 261 :: 	Doorman :: 262 :: 
+4-0-9	• :: 263 :: 	Elevator :: 264 :: 
+4-0-10	• :: 265 :: 	Storage Room :: 266 :: 
+4-1-1	• :: 204 :: 	Close to Bus :: 205 :: 
+4-1-2	• :: 206 :: 	Close To Railroad :: 207 :: 
+4-1-3	• :: 208 :: 	Close to Shops :: 209 :: 
+4-1-4	• :: 210 :: 	Close to School :: 211 :: 
+4-1-5	• :: 212 :: 	Security :: 213 :: 
+4-1-6	• :: 214 :: 	Common Laundry :: 215 :: 
+4-1-7	• :: 216 :: 	Doorman :: 217 :: 
+4-1-8	• :: 218 :: 	Elevator :: 219 :: 
+4-2-1	• :: 250 :: 	ADA Access :: 251 :: 
+4-2-2	• :: 252 :: 	ADA Inside :: 253 :: 
+4-2-3	• :: 254 :: 	Close to Bus :: 255 :: 
+4-2-4	• :: 256 :: 	Private Laundry :: 257 :: 
+4-2-5	• :: 258 :: 	Close To Railroad :: 259 :: 
+4-2-6	• :: 260 :: 	Close to Shops :: 261 :: 
+4-2-7	• :: 262 :: 	Close to School :: 263 :: 
+4-2-8	• :: 264 :: 	Security :: 265 :: 
+4-2-9	• :: 266 :: 	Common Laundry :: 267 :: 
+4-2-10	• :: 268 :: 	Doorman :: 269 :: 
+4-2-11	• :: 270 :: 	Storage Room :: 271 :: 
+4-2-12	• :: 272 :: 	Elevator :: 273 :: 
+4-2-13	• :: 274 :: 	Exercise Room :: 275 :: 
+4-3-1	• :: 249 :: 	ADA Access :: 250 :: 
+4-3-2	• :: 251 :: 	ADA Inside :: 252 :: 
+4-3-3	• :: 253 :: 	Balcony :: 254 :: 
+4-3-4	• :: 255 :: 	Close to Bus :: 256 :: 
+4-3-5	• :: 257 :: 	Close To Railroad :: 258 :: 
+4-3-6	• :: 259 :: 	Close to Shops :: 260 :: 
+4-3-7	• :: 261 :: 	Close to School :: 262 :: 
+4-3-8	• :: 263 :: 	Security :: 264 :: 
+4-3-9	• :: 265 :: 	Common Laundry :: 266 :: 
+4-3-10	• :: 267 :: 	Deck :: 268 :: 
+4-3-11	• :: 269 :: 	Doorman :: 270 :: 
+4-3-12	• :: 271 :: 	Elevator :: 272 :: 
+4-3-13	• :: 273 :: 	Storage Room :: 274 :: 
+4-3-14	• :: 275 :: 	View :: 276 :: 
+4-4-1	• :: 244 :: 	Balcony :: 245 :: 
+4-4-2	• :: 246 :: 	Park/Playground :: 247 :: 
+4-4-3	• :: 248 :: 	Close to Bus :: 249 :: 
+4-4-4	• :: 250 :: 	Close To Railroad :: 251 :: 
+4-4-5	• :: 252 :: 	Close to Shops :: 253 :: 
+4-4-6	• :: 254 :: 	Close to School :: 255 :: 
+4-4-7	• :: 256 :: 	Common Laundry :: 257 :: 
+4-4-8	• :: 258 :: 	Doorman :: 259 :: 
+4-4-9	• :: 260 :: 	Elevator :: 261 :: 
+4-4-10	• :: 262 :: 	Storage Room :: 263 :: 
+4-4-11	• :: 264 :: 	View :: 265 :: 
+4-4-12	• :: 266 :: 	Walk-In-Closets :: 267 :: 
+4-5-1	• :: 226 :: 	Alarm System :: 227 :: 
+4-5-2	• :: 228 :: 	Close to Bus :: 229 :: 
+4-5-3	• :: 230 :: 	Close To Railroad :: 231 :: 
+4-5-4	• :: 232 :: 	Close to Shops :: 233 :: 
+4-5-5	• :: 234 :: 	Common Laundry :: 235 :: 
+4-5-6	• :: 236 :: 	Elevator :: 237 :: 
+4-5-7	• :: 238 :: 	Exercise Room :: 239 :: 
+4-5-8	• :: 240 :: 	Park/Playground :: 241 :: 
+4-5-9	• :: 242 :: 	Security :: 243 :: 
+4-5-10	• :: 244 :: 	Storage Room :: 245 :: 
+4-5-11	• :: 246 :: 	View :: 247 :: 
+4-6-1	• :: 250 :: 	Laundry Room :: 251 :: 
+4-6-2	• :: 252 :: 	Master Bath :: 253 :: 
+4-6-3	• :: 254 :: 	Park/Playground :: 255 :: 
+4-6-4	• :: 256 :: 	Close to Bus :: 257 :: 
+4-6-5	• :: 258 :: 	Close To Railroad :: 259 :: 
+4-6-6	• :: 260 :: 	Close to Shops :: 261 :: 
+4-6-7	• :: 262 :: 	Security :: 263 :: 
+4-6-8	• :: 264 :: 	Doorman :: 265 :: 
+4-6-9	• :: 266 :: 	Gated Community :: 267 :: 
+4-7-1	• :: 251 :: 	Laundry in Unit :: 252 :: 
+4-7-2	• :: 253 :: 	Close to Bus :: 254 :: 
+4-7-3	• :: 255 :: 	Close To Railroad :: 256 :: 
+4-7-4	• :: 257 :: 	Close to Shops :: 258 :: 
+4-7-5	• :: 259 :: 	Close to School :: 260 :: 
+4-7-6	• :: 261 :: 	Common Laundry :: 262 :: 
+4-7-7	• :: 263 :: 	Elevator :: 264 :: 
+4-7-8	• :: 265 :: 	Walk-In-Closets :: 266 :: 
+4-8-1	• :: 251 :: 	Close to Bus :: 252 :: 
+4-8-2	• :: 253 :: 	Close To Railroad :: 254 :: 
+4-8-3	• :: 255 :: 	Close to Shops :: 256 :: 
+4-8-4	• :: 257 :: 	Close to School :: 258 :: 
+4-8-5	• :: 259 :: 	Doorman :: 260 :: 
+4-8-6	• :: 261 :: 	Elevator :: 262 :: 
+4-8-7	• :: 263 :: 	Laundry Room :: 264 :: 
+4-8-8	• :: 265 :: 	Security :: 266 :: 
+4-9-1	• :: 231 :: 	Close to School :: 232 :: 
+4-9-2	• :: 233 :: 	Doorman :: 234 :: 
+4-9-3	• :: 235 :: 	Elevator :: 236 :: 
+4-9-4	• :: 237 :: 	Security :: 238 :: 
+4-9-5	• :: 239 :: 	Storage Room :: 240 :: 
+4-10-1	• :: 204 :: 	Close to Bus :: 205 :: 
+4-10-2	• :: 206 :: 	Close To Railroad :: 207 :: 
+4-10-3	• :: 208 :: 	Close to Shops :: 209 :: 
+4-10-4	• :: 210 :: 	Close to School :: 211 :: 
+4-11-1	• :: 237 :: 	ADA Access :: 238 :: 
+4-11-2	• :: 239 :: 	Close to Bus :: 240 :: 
+4-11-3	• :: 241 :: 	Pool :: 242 :: 
+4-11-4	• :: 243 :: 	Close To Railroad :: 244 :: 
+4-11-5	• :: 245 :: 	Close to Shops :: 246 :: 
+4-11-6	• :: 247 :: 	Close to School :: 248 :: 
+4-11-7	• :: 249 :: 	Security :: 250 :: 
+4-11-8	• :: 251 :: 	Common Laundry :: 252 :: 
+4-11-9	• :: 253 :: 	Doorman :: 254 :: 
+4-11-10	• :: 255 :: 	Elevator :: 256 :: 
+4-11-11	• :: 257 :: 	Storage Room :: 258 :: 
+4-11-12	• :: 259 :: 	View :: 260 :: 
+4-11-13	• :: 261 :: 	Walk-In-Closets :: 262 :: 
+4-12-1	• :: 249 :: 	Park/Playground :: 250 :: 
+4-12-2	• :: 251 :: 	Close to Bus :: 252 :: 
+4-12-3	• :: 253 :: 	Pool :: 254 :: 
+4-12-4	• :: 255 :: 	Close To Railroad :: 256 :: 
+4-12-5	• :: 257 :: 	Close to Shops :: 258 :: 
+4-12-6	• :: 259 :: 	River :: 260 :: 
+4-12-7	• :: 261 :: 	Close to School :: 262 :: 
+4-12-8	• :: 263 :: 	Security :: 264 :: 
+4-12-9	• :: 265 :: 	Common Laundry :: 266 :: 
+4-12-10	• :: 267 :: 	Deck :: 268 :: 
+4-12-11	• :: 269 :: 	Doorman :: 270 :: 
+4-12-12	• :: 271 :: 	Elevator :: 272 :: 
+4-12-13	• :: 273 :: 	Storage Room :: 274 :: 
+4-12-14	• :: 275 :: 	View :: 276 :: 
+4-12-15	• :: 277 :: 	Walk-In-Closets :: 278 :: 
+4-13-1	• :: 255 :: 	Close to Bus :: 256 :: 
+4-13-2	• :: 257 :: 	Close To Railroad :: 258 :: 
+4-13-3	• :: 259 :: 	Close to Shops :: 260 :: 
+4-13-4	• :: 261 :: 	Close to School :: 262 :: 
+4-13-5	• :: 263 :: 	Clubhouse :: 264 :: 
+4-13-6	• :: 265 :: 	Common Laundry :: 266 :: 
+4-13-7	• :: 267 :: 	Doorman :: 268 :: 
+4-13-8	• :: 269 :: 	Elevator :: 270 :: 
+4-13-9	• :: 271 :: 	Exercise Room :: 272 :: 
+4-13-10	• :: 273 :: 	Laundry Room :: 274 :: 
+4-13-11	• :: 275 :: 	Master Bath :: 276 :: 
+4-13-12	• :: 277 :: 	Patio :: 278 :: 
+4-13-13	• :: 279 :: 	Storage Room :: 280 :: 
+4-13-14	• :: 281 :: 	Walk-In-Closets :: 282 :: 
+4-13-15	• :: 283 :: 	Walkout Basement :: 284 :: 
+4-14-1	• :: 243 :: 	Patio :: 244 :: 
+4-14-2	• :: 245 :: 	Close to Bus :: 246 :: 
+4-14-3	• :: 247 :: 	Close to Park :: 248 :: 
+4-14-4	• :: 249 :: 	Close to Shops :: 250 :: 
+4-14-5	• :: 251 :: 	Close to School :: 252 :: 
+4-14-6	• :: 253 :: 	Eat in Kitchen :: 254 :: 
+4-14-7	• :: 255 :: 	Fenced Yard :: 256 :: 
+4-14-8	• :: 257 :: 	Walkout Basement :: 258 :: 
+4-14-9	• :: 259 :: 	High Ceilings :: 260 :: 
+4-15-1	• :: 243 :: 	Patio :: 244 :: 
+4-15-2	• :: 245 :: 	Close to Bus :: 246 :: 
+4-15-3	• :: 247 :: 	Close to Park :: 248 :: 
+4-15-4	• :: 249 :: 	Close to Shops :: 250 :: 
+4-15-5	• :: 251 :: 	Close to School :: 252 :: 
+4-15-6	• :: 253 :: 	Eat in Kitchen :: 254 :: 
+4-15-7	• :: 255 :: 	Fenced Yard :: 256 :: 
+4-15-8	• :: 257 :: 	Walkout Basement :: 258 :: 
+4-15-9	• :: 259 :: 	High Ceilings :: 260 :: 
+4-16-1	• :: 296 :: 	Patio :: 297 :: 
+4-16-2	• :: 298 :: 	Close to Bus :: 299 :: 
+4-16-3	• :: 300 :: 	Close to Park :: 301 :: 
+4-16-4	• :: 302 :: 	Close to Shops :: 303 :: 
+4-16-5	• :: 304 :: 	Close to School :: 305 :: 
+4-16-6	• :: 306 :: 	Walkout Basement :: 307 :: 
+4-17-1	• :: 240 :: 	Park/Playground :: 241 :: 
+4-17-2	• :: 242 :: 	Close to Bus :: 243 :: 
+4-17-3	• :: 244 :: 	Close to Shops :: 245 :: 
+4-17-4	• :: 246 :: 	Close to School :: 247 :: 
+4-17-5	• :: 248 :: 	Security :: 249 :: 
+4-17-6	• :: 250 :: 	Common Laundry :: 251 :: 
+4-17-7	• :: 252 :: 	Elevator :: 253 :: 
+4-17-8	• :: 254 :: 	Storage Room :: 255 :: 
+4-18-1	• :: 230 :: 	Park/Playground :: 231 :: 
+4-18-2	• :: 232 :: 	Close to Bus :: 233 :: 
+4-18-3	• :: 234 :: 	Close To Railroad :: 235 :: 
+4-18-4	• :: 236 :: 	Close to Shops :: 237 :: 
+4-18-5	• :: 238 :: 	Close to School :: 239 :: 
+4-18-6	• :: 240 :: 	Common Laundry :: 241 :: 
+4-18-7	• :: 242 :: 	Deck :: 243 :: 
+4-18-8	• :: 244 :: 	Doorman :: 245 :: 
+4-18-9	• :: 246 :: 	Elevator :: 247 :: 
+4-18-10	• :: 248 :: 	Storage Room :: 249 :: 
+4-18-11	• :: 250 :: 	Exercise Room :: 251 :: 
+4-18-12	• :: 252 :: 	View :: 253 :: 
+4-18-13	• :: 254 :: 	Walk-In-Closets :: 255 :: 
+4-19-1	• :: 281 :: 	Close to Bus :: 282 :: 
+4-19-2	• :: 283 :: 	Close to Park :: 284 :: 
+4-19-3	• :: 285 :: 	Close To Railroad :: 286 :: 
+4-19-4	• :: 287 :: 	Close to Shops :: 288 :: 
+4-19-5	• :: 289 :: 	Close to School :: 290 :: 
+4-19-6	• :: 291 :: 	Eat in Kitchen :: 292 :: 
+4-19-7	• :: 293 :: 	Exercise Room :: 294 :: 
+4-19-8	• :: 295 :: 	Fenced Yard :: 296 :: 
+4-19-9	• :: 297 :: 	Fireplace :: 298 :: 
+4-19-10	• :: 299 :: 	Walkout Basement :: 300 :: 
+4-20-1	• :: 251 :: 	Close to Bus :: 252 :: 
+4-20-2	• :: 253 :: 	Close To Railroad :: 254 :: 
+4-20-3	• :: 255 :: 	Close to Shops :: 256 :: 
+4-20-4	• :: 257 :: 	Close to School :: 258 :: 
+4-20-5	• :: 259 :: 	Doorman :: 260 :: 
+4-20-6	• :: 261 :: 	Elevator :: 262 :: 
+4-20-7	• :: 263 :: 	Exercise Room :: 264 :: 
+4-20-8	• :: 265 :: 	Laundry Room :: 266 :: 
+4-20-9	• :: 267 :: 	Pool :: 268 :: 
+4-20-10	• :: 269 :: 	River :: 270 :: 
+4-20-11	• :: 271 :: 	Security :: 272 :: 
+4-20-12	• :: 273 :: 	View :: 274 :: 
+4-21-1	• :: 255 :: 	Close to Bus :: 256 :: 
+4-21-2	• :: 257 :: 	Close To Railroad :: 258 :: 
+4-21-3	• :: 259 :: 	Close to Shops :: 260 :: 
+4-21-4	• :: 261 :: 	Close to School :: 262 :: 
+4-21-5	• :: 263 :: 	Private Laundry :: 264 :: 
+4-22-1	• :: 276 :: 	Master Bath :: 277 :: 
+4-22-2	• :: 278 :: 	Close to Bus :: 279 :: 
+4-22-3	• :: 280 :: 	Close to Park :: 281 :: 
+4-22-4	• :: 282 :: 	Close to Shops :: 283 :: 
+4-22-5	• :: 284 :: 	Close to School :: 285 :: 
+4-22-6	• :: 286 :: 	Eat in Kitchen :: 287 :: 
+4-22-7	• :: 288 :: 	Fenced Yard :: 289 :: 
+4-22-8	• :: 290 :: 	Walkout Basement :: 291 :: 
+4-23-1	• :: 237 :: 	ADA Access :: 238 :: 
+4-23-2	• :: 239 :: 	Close to Bus :: 240 :: 
+4-23-3	• :: 241 :: 	Pool :: 242 :: 
+4-23-4	• :: 243 :: 	Close To Railroad :: 244 :: 
+4-23-5	• :: 245 :: 	Close to Shops :: 246 :: 
+4-23-6	• :: 247 :: 	Close to School :: 248 :: 
+4-23-7	• :: 249 :: 	Security :: 250 :: 
+4-23-8	• :: 251 :: 	Common Laundry :: 252 :: 
+4-23-9	• :: 253 :: 	Doorman :: 254 :: 
+4-23-10	• :: 255 :: 	Elevator :: 256 :: 
+4-23-11	• :: 257 :: 	Storage Room :: 258 :: 
+4-23-12	• :: 259 :: 	View :: 260 :: 
+4-23-13	• :: 261 :: 	Walk-In-Closets :: 262 :: 
+4-24-1	• :: 240 :: 	Close to Bus :: 241 :: 
+4-24-2	• :: 242 :: 	Close To Railroad :: 243 :: 
+4-24-3	• :: 244 :: 	Close to Shops :: 245 :: 
+4-24-4	• :: 246 :: 	Close to School :: 247 :: 
+4-24-5	• :: 248 :: 	Common Laundry :: 249 :: 
+4-24-6	• :: 250 :: 	Elevator :: 251 :: 
+4-24-7	• :: 252 :: 	Storage Room :: 253 :: 
+4-25-1	• :: 249 :: 	ADA Access :: 250 :: 
+4-25-2	• :: 251 :: 	Master Bath :: 252 :: 
+4-25-3	• :: 253 :: 	Park/Playground :: 254 :: 
+4-25-4	• :: 255 :: 	Close to Bus :: 256 :: 
+4-25-5	• :: 257 :: 	Pool :: 258 :: 
+4-25-6	• :: 259 :: 	Close To Railroad :: 260 :: 
+4-25-7	• :: 261 :: 	Close to Shops :: 262 :: 
+4-25-8	• :: 263 :: 	Close to School :: 264 :: 
+4-25-9	• :: 265 :: 	Security :: 266 :: 
+4-25-10	• :: 267 :: 	Common Laundry :: 268 :: 
+4-25-11	• :: 269 :: 	Doorman :: 270 :: 
+4-25-12	• :: 271 :: 	Elevator :: 272 :: 
+4-25-13	• :: 273 :: 	View :: 274 :: 
+4-25-14	• :: 275 :: 	Walk-In-Closets :: 276 :: 
+4-26-1	• :: 287 :: 	Close to Bus :: 288 :: 
+4-26-2	• :: 289 :: 	Close to Park :: 290 :: 
+4-26-3	• :: 291 :: 	Close to Shops :: 292 :: 
+4-26-4	• :: 293 :: 	Close to School :: 294 :: 
+4-26-5	• :: 295 :: 	Deck :: 296 :: 
+4-26-6	• :: 297 :: 	Eat in Kitchen :: 298 :: 
+4-26-7	• :: 299 :: 	Walkout Basement :: 300 :: 
+4-26-8	• :: 301 :: 	Formal Dining Room :: 302 :: 
+4-27-1	• :: 263 :: 	Patio :: 264 :: 
+4-27-2	• :: 265 :: 	Close To Railroad :: 266 :: 
+4-27-3	• :: 267 :: 	Close to Shops :: 268 :: 
+4-27-4	• :: 269 :: 	Close to School :: 270 :: 
+4-27-5	• :: 271 :: 	Storage Room :: 272 :: 
+4-27-6	• :: 273 :: 	Eat in Kitchen :: 274 :: 
+4-27-7	• :: 275 :: 	Walkout Basement :: 276 :: 
+4-28-1	• :: 245 :: 	Close to Bus :: 246 :: 
+4-28-2	• :: 247 :: 	Close To Railroad :: 248 :: 
+4-28-3	• :: 249 :: 	Close to Shops :: 250 :: 
+4-28-4	• :: 251 :: 	Close to School :: 252 :: 
+4-28-5	• :: 253 :: 	Common Laundry :: 254 :: 
+4-28-6	• :: 255 :: 	Elevator :: 256 :: 
+4-29-1	• :: 232 :: 	Close to Bus :: 233 :: 
+4-29-2	• :: 234 :: 	Close To Railroad :: 235 :: 
+4-29-3	• :: 236 :: 	Close to Shops :: 237 :: 
+4-29-4	• :: 238 :: 	Close to School :: 239 :: 
+4-29-5	• :: 240 :: 	Doorman :: 241 :: 
+4-29-6	• :: 242 :: 	Elevator :: 243 :: 
+4-29-7	• :: 244 :: 	Exercise Room :: 245 :: 
+4-29-8	• :: 246 :: 	Laundry Room :: 247 :: 
+4-29-9	• :: 248 :: 	Skylight(s) :: 249 :: 
+4-29-10	• :: 250 :: 	View :: 251 :: 

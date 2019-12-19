@@ -1,0 +1,61 @@
+Encoding	3	3	1	0
+Type	OD	OD	OD	OT
+1-1-1	Djokovic DEUCE Feature :: 699 :: 	/News/DEUCE-Tennis/DEUCE-US-Open-2007/Djoker-in-the-Pack.aspx :: 700 :: 	(Aug. 2007) :: 701 :: 	<BR/> :: 702 :: 
+1-1-2	Djokovic DEUCE Feature :: 703 :: 	/News/DEUCE-Tennis/DEUCE-Australian-Open-2009/DEUCE-Djokovic.aspx :: 704 :: 	(Jan. 2009) :: 705 :: 	<BR/> :: 706 :: 
+1-1-3	Djokovic DEUCE Feature :: 707 :: 	/News/DEUCE-Tennis/DEUCE-Finals-2009/Novak-Djokovic.aspx :: 708 :: 	(Nov. 2009) :: 709 :: 	<BR/> :: 710 :: 
+1-1-4	Djokovic DEUCE Feature :: 711 :: 	http://www.atpworldtour.com/News/DEUCE-Tennis/DEUCE-Roland-Garros-Wimbledon-2011/Novak-Djokovic.aspx :: 712 :: 	(May 2011) :: 713 ::  	 
+1-2-1	Gasquet DEUCE Feature :: 696 :: 	/News/DEUCE-Tennis/DEUCE-Australian-Open-2008/Is-Gasquets-Glass-Half-Full.aspx :: 697 :: 	(Jan. 2008) :: 698 ::  	 
+1-3-1	Ferrer DEUCE Feature :: 698 :: 	/News/DEUCE-Tennis/DEUCE-Finals-2007/Ferrer-Steps-From-The-Shadows.aspx :: 699 :: 	(Nov. 2007) :: 700 :: 	<BR/> :: 701 :: 
+1-3-2	Ferrer DEUCE Feature :: 702 :: 	/News/DEUCE-Tennis/DEUCE-Finals-2008/Last-Time-Ferrer.aspx :: 703 :: 	(Nov. 2008) :: 704 ::  	 
+1-4-1	Monfils DEUCE Feature :: 699 :: 	/News/DEUCE-Tennis/DEUCE-Australian-Open-2010/Gael-Monfils.aspx :: 700 :: 	(Jan. 2010) :: 701 ::  	 
+1-5-1	Raonic DEUCE Feature :: 695 :: 	http://www.atpworldtour.com/News/DEUCE-Tennis/DEUCE-Australian-Open-2011/Milos-Raonic.aspx :: 696 :: 	(March 2011) :: 697 ::  	 
+1-6-1	Querrey DEUCE Feature :: 696 :: 	/News/DEUCE-Tennis/DEUCE-Roland-Garros-2008/Sam-Steps-Back-in-Time.aspx :: 697 :: 	(May 2008) :: 698 :: 	<BR/> :: 699 :: 
+1-6-2	Querrey DEUCE Feature :: 700 :: 	/News/DEUCE-Tennis/DEUCE-US-Open-2009/Sam-Querrey.aspx :: 701 :: 	(Aug. 2009) :: 702 :: 	<BR/> :: 703 :: 
+1-6-3	Querrey DEUCE Feature :: 704 :: 	/News/DEUCE-Tennis/DEUCE-August-2010/Sam-Querrey-Last-Time.aspx :: 705 :: 	(Aug. 2010) :: 706 ::  	 
+1-7-1	Del Potro DEUCE Feature :: 694 :: 	/News/DEUCE-Tennis/DEUCE-US-Open-2008/On-The-Rise-del-Potro.aspx :: 695 :: 	(Aug. 2008) :: 696 :: 	<BR/> :: 697 :: 
+1-7-2	Del Potro DEUCE Feature :: 698 :: 	/News/DEUCE-Tennis/DEUCE-Finals-2009/Juan-Martin-del-Potro.aspx :: 699 :: 	(Nov. 2009) :: 700 ::  	 
+1-8-1	Youzhny DEUCE Feature :: 695 :: 	/News/DEUCE-Tennis/DEUCE-Finals-2010/Mikhail-Youzhny.aspx :: 696 :: 	(Nov. 2010) :: 697 ::  	 
+1-9-1	Wawrinka DEUCE Feature :: 698 :: 	/News/DEUCE-Tennis/DEUCE-Roland-Garros-2008/On-the-Rise-Wawrinka.aspx :: 699 :: 	(May 2008) :: 700 :: 	<BR/> :: 701 :: 
+1-9-2	Wawrinka DEUCE Feature :: 702 :: 	/News/DEUCE-Tennis/DEUCE-Australian-Open-2010/Stanislas-Wawrinka-Last-Time.aspx :: 703 :: 	(Jan. 2010) :: 704 ::  	 
+1-10-1	Verdasco DEUCE Feature :: 691 :: 	/News/DEUCE-Tennis/DEUCE-Australian-Open-2009/DEUCE-Verdasco.aspx :: 692 :: 	(Jan. 2009) :: 693 :: 	<BR/> :: 694 :: 
+1-10-2	Verdasco DEUCE Feature :: 695 :: 	/News/DEUCE-Tennis/DEUCE-Australian-Open-2011/Fernando-Verdasco.aspx :: 696 :: 	(Jan. 2011) :: 697 ::  	 
+1-11-1	Murray DEUCE Feature :: 697 :: 	/News/DEUCE-Tennis/DEUCE-Finals-2008/Murray-Muscles.aspx :: 698 :: 	(Nov. 2008) :: 699 :: 	<BR/> :: 700 :: 
+1-11-2	Murray DEUCE Feature :: 701 :: 	/News/DEUCE-Tennis/DEUCE-Roland-Garros-Wimbledon-2009/Andy-Murray.aspx :: 702 :: 	(May 2009) :: 703 :: 	<BR/> :: 704 :: 
+1-11-3	Murray DEUCE Feature :: 705 :: 	/News/DEUCE-Tennis/DEUCE-Finals-2009/Andy-Murray.aspx :: 706 :: 	(Nov. 2009) :: 707 :: 	<BR/> :: 708 :: 
+1-11-4	Murray DEUCE Feature :: 709 :: 	/News/DEUCE-Tennis/DEUCE-May-2010/Andy-Murray-Last-Time.aspx :: 710 :: 	(May 2010) :: 711 ::  	 
+1-12-1	Nalbandian DEUCE Feature :: 700 :: 	/News/DEUCE-Tennis/DEUCE-Australian-Open-2008/What-Next-for-Nalbandian.aspx :: 701 :: 	(Jan. 2008) :: 702 ::  	 
+1-13-1	Simon DEUCE Feature :: 692 :: 	/News/DEUCE-Tennis/DEUCE-Roland-Garros-Wimbledon-2009/Gilles-Simon.aspx :: 693 :: 	(May 2009) :: 694 ::  	 
+1-14-1	Troicki DEUCE Feature :: 694 :: 	/News/DEUCE-Tennis/DEUCE-Roland-Garros-Wimbledon-2011/Viktor-Troicki.aspx :: 695 :: 	(May 2011) :: 696 ::  	 
+1-15-1	Tsonga DEUCE Feature :: 628 :: 	/News/DEUCE-Tennis/DEUCE-Roland-Garros-2008/Tsonga-Provides-French-Hope.aspx :: 629 :: 	(May. 2008) :: 630 :: 	<BR/> :: 631 :: 
+1-15-2	Tsonga DEUCE Feature :: 632 :: 	/News/DEUCE-Tennis/DEUCE-Australian-Open-2009/Last-Time-Tsonga.aspx :: 633 :: 	(Jan. 2009) :: 634 :: 	<BR/> :: 635 :: 
+1-15-3	Tsonga DEUCE Feature :: 636 :: 	http://www.atpworldtour.com/News/DEUCE-Tennis/DEUCE-Roland-Garros-Wimbledon-2011/Jo-Wilfried-Tsonga.aspx :: 637 :: 	(May 2011) :: 638 ::  	 
+1-16-1	Melzer DEUCE Feature :: 695 :: 	/News/DEUCE-Tennis/DEUCE-August-2010/Jurgen-Melzer.aspx :: 696 :: 	(Aug. 2010) :: 697 :: 	<BR/> :: 698 :: 
+1-16-2	Melzer DEUCE Feature :: 699 :: 	/News/DEUCE-Tennis/DEUCE-Finals-2010/Last-Time-Jurgen-Melzer.aspx :: 700 :: 	(Nov. 2010) :: 701 ::  	 
+1-17-1 	 	 	 	<BR/> :: 696 :: 
+1-17-2 	 	 	 	<BR/> :: 697 :: 
+1-17-3	Soderling DEUCE Feature :: 698 :: 	/News/DEUCE-Tennis/DEUCE-May-2010/Robin-Soderling.aspx :: 699 :: 	(May 2010) :: 700 :: 	<BR/> :: 701 :: 
+1-17-4	Soderling DEUCE Feature :: 702 :: 	http://www.atpworldtour.com/News/DEUCE-Tennis/DEUCE-Roland-Garros-Wimbledon-2011/Robin-Soderling.aspx :: 703 :: 	(May 2011) :: 704 ::  	 
+1-18-1	Baghdatis DEUCE Feature :: 696 :: 	/News/DEUCE-Tennis/DEUCE-Australian-Open-2011/Marcos-Baghdatis.aspx :: 697 :: 	(Jan. 2011) :: 698 ::  	 
+1-19-1	Roddick DEUCE Feature :: 699 :: 	/News/DEUCE-Tennis/DEUCE-Finals-2007/Roddick-Road-Ahead.aspx :: 700 :: 	(Nov. 2007) :: 701 :: 	<BR/> :: 702 :: 
+1-19-2	Roddick DEUCE Feature :: 703 :: 	/News/DEUCE-Tennis/DEUCE-US-Open-2009/Andy-Roddick.aspx :: 704 :: 	(Aug. 2009) :: 705 :: 	<BR/> :: 706 :: 
+1-19-3	Roddick DEUCE Feature :: 707 :: 	/News/DEUCE-Tennis/DEUCE-Finals-2009/Andy-Roddick-Last-Time.aspx :: 708 :: 	(Nov. 2009) :: 709 :: 	<BR/> :: 710 :: 
+1-19-4	Roddick DEUCE Feature :: 711 :: 	/News/DEUCE-Tennis/DEUCE-Finals-2010/Andy-Roddick.aspx :: 712 :: 	(Dec. 2010) :: 713 :: 	<BR/> :: 714 :: 
+1-20-1	Almagro DEUCE Feature :: 695 :: 	http://www.atpworldtour.com/News/DEUCE-Tennis/DEUCE-Roland-Garros-Wimbledon-2011/Nicolas-Almagro.aspx :: 696 :: 	(May 2011) :: 697 ::  	 
+1-21-1	Nadal DEUCE Feature :: 699 :: 	/News/DEUCE-Tennis/DEUCE-Roland-Garros-2008/Nadal-Power-and-Passion.aspx :: 700 :: 	(May. 2008) :: 701 :: 	<BR/> :: 702 :: 
+1-21-2	Nadal-Federer Rivalry DEUCE Feature :: 703 :: 	/News/DEUCE-Tennis/DEUCE-US-Open-2008/Roger-vs-Rafa.aspx :: 704 :: 	(Aug. 2008) :: 705 :: 	<BR/> :: 706 :: 
+1-21-3	Nadal DEUCE Feature :: 707 :: 	/News/DEUCE-Tennis/DEUCE-Finals-2008/Nadal-Hurries-to-History.aspx :: 708 :: 	(Nov. 2008) :: 709 :: 	<BR/> :: 710 :: 
+1-21-4	Nadal DEUCE Feature :: 711 :: 	/News/DEUCE-Tennis/DEUCE-Roland-Garros-Wimbledon-2009/Rafael-Nadal.aspx :: 712 :: 	(May 2009) :: 713 :: 	<BR/> :: 714 :: 
+1-21-5	Nadal DEUCE Feature :: 715 :: 	/News/DEUCE-Tennis/DEUCE-May-2010/Rafael-Nadal.aspx :: 716 :: 	(May 2010) :: 717 :: 	<BR/> :: 718 :: 
+1-22-1	Dolgopolov DEUCE Extra Feature :: 696 :: 	http://www.atpworldtour.com/News/DEUCE-Tennis/DEUCE-Australian-Open-2011/Alexandr-Dolgopolov.aspx :: 697 :: 	(Feb. 2011) :: 698 ::  	 
+1-23-1	Federer DEUCE Feature :: 701 :: 	/News/DEUCE-Tennis/DEUCE-US-Open-2007/Last-Time-Federer.aspx :: 702 :: 	(Aug. 2007) :: 703 :: 	<BR/> :: 704 :: 
+1-23-2	Federer-Nadal Rivalry DEUCE Feature :: 705 :: 	/News/DEUCE-Tennis/DEUCE-US-Open-2008/Roger-vs-Rafa.aspx :: 706 :: 	(Aug. 2008) :: 707 :: 	<BR/> :: 708 :: 
+1-23-3	Federer DEUCE Feature :: 709 :: 	/News/DEUCE-Tennis/DEUCE-Australian-Open-2009/DEUCE-Federer.aspx :: 710 :: 	(Jan. 2009) :: 711 :: 	<BR/> :: 712 :: 
+1-23-4	Federer DEUCE Feature :: 713 :: 	/News/DEUCE-Tennis/DEUCE-Roland-Garros-Wimbledon-2009/Roger-Federer.aspx :: 714 :: 	(May 2009) :: 715 :: 	<BR/> :: 716 :: 
+1-23-5	Federer DEUCE Feature :: 717 :: 	/News/DEUCE-Tennis/DEUCE-Australian-Open-2010/Roger-Federer.aspx :: 718 :: 	(Jan. 2010) :: 719 ::  	 
+1-24-1	Davydenko DEUCE Feature :: 693 :: 	/News/DEUCE-Tennis/DEUCE-US-Open-2008/Last-Time-Davydenko.aspx :: 694 :: 	(Aug. 2008) :: 695 :: 	<BR/> :: 696 :: 
+1-24-2	Davydenko DEUCE Feature :: 697 :: 	/News/DEUCE-Tennis/DEUCE-Australian-Open-2010/Nikolay-Davydenko.aspx :: 698 :: 	(Jan. 2010) :: 699 ::  	 
+1-25-1	Berdych DEUCE Feature :: 699 :: 	/News/DEUCE-Tennis/DEUCE-Finals-2009/Tomas-Berdych.aspx :: 700 :: 	(Nov. 2009) :: 701 :: 	<BR/> :: 702 :: 
+1-25-2	Berdych DEUCE Feature :: 703 :: 	/News/DEUCE-Tennis/DEUCE-August-2010/Tomas-Berdych.aspx :: 704 :: 	(Aug. 2010) :: 705 :: 	<BR/> :: 706 :: 
+1-27-1	Cilic DEUCE Feature :: 692 :: 	/News/DEUCE-Tennis/DEUCE-Australian-Open-2009/On-The-Rise-Marin-Cilic.aspx :: 693 :: 	(Jan. 2009) :: 694 ::  	 
+1-28-1	Bellucci DEUCE Feature :: 696 :: 	/News/DEUCE-Tennis/DEUCE-May-2010/Thomaz-Bellucci.aspx :: 697 :: 	(May 2010) :: 698 ::  	 
+1-29-1	Fish DEUCE Feature :: 695 :: 	/News/DEUCE-Tennis/DEUCE-Australian-Open-2011/Mardy-Fish.aspx :: 696 :: 	(Jan. 2011) :: 697 ::  	 

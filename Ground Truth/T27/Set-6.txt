@@ -1,0 +1,47 @@
+Encoding	3	1
+Type	OD	OD
+6-0-1	Alter :: 179 :: 	http://www.allmovie.com/search/tag/899/alter :: 180 :: 
+6-0-2	Gaumont :: 181 :: 	http://www.allmovie.com/search/tag/899/gaumont :: 182 :: 
+6-0-3	Gray Films :: 183 :: 	http://www.allmovie.com/search/tag/899/gray+films :: 184 :: 
+6-0-4	Specta :: 185 :: 	http://www.allmovie.com/search/tag/899/specta :: 186 :: 
+6-1-1	Gramercy Pictures :: 199 :: 	http://www.allmovie.com/search/tag/899/gramercy+pictures :: 200 :: 
+6-1-2	Propaganda Films :: 201 :: 	http://www.allmovie.com/search/tag/899/propaganda+films :: 202 :: 
+6-1-3	Single Cell Pictures :: 203 :: 	http://www.allmovie.com/search/tag/899/single+cell+pictures :: 204 :: 
+6-2-1	MGM :: 210 :: 	http://www.allmovie.com/search/tag/899/mgm :: 211 :: 
+6-3-1	Columbia Pictures :: 184 :: 	http://www.allmovie.com/search/tag/899/columbia+pictures :: 185 :: 
+6-3-2	Mirage :: 186 :: 	http://www.allmovie.com/search/tag/899/mirage :: 187 :: 
+6-3-3	Punch Productions :: 188 :: 	http://www.allmovie.com/search/tag/899/punch+productions :: 189 :: 
+6-4-1	Avco Embassy Pictures :: 188 :: 	http://www.allmovie.com/search/tag/899/avco+embassy+pictures :: 189 :: 
+6-4-2	Sidney Glazier Productions :: 190 :: 	http://www.allmovie.com/search/tag/899/sidney+glazier+productions :: 191 :: 
+6-5-1	DreamWorks :: 205 :: 	http://www.allmovie.com/search/tag/899/dreamworks :: 206 :: 
+6-5-2	PDI :: 207 :: 	http://www.allmovie.com/search/tag/899/pdi :: 208 :: 
+6-6-1	MGM :: 192 :: 	http://www.allmovie.com/search/tag/899/mgm :: 193 :: 
+6-7-1	20th Century Fox :: 198 :: 	http://www.allmovie.com/search/tag/899/20th+century+fox :: 199 :: 
+6-7-2	Circle Films :: 200 :: 	http://www.allmovie.com/search/tag/899/circle+films :: 201 :: 
+6-7-3	Ted & Jim Pedas-Ben Berenholtz [CREDITS] :: 202 :: 	http://www.allmovie.com/search/tag/899/ted+%26+jim+pedas-ben+berenholtz+%5Bcredits%5D :: 203 :: 
+6-9-1	Paramount :: 173 :: 	http://www.allmovie.com/search/tag/899/paramount :: 174 :: 
+6-10-1	Stanley Kubrick Productions :: 205 :: 	http://www.allmovie.com/search/tag/899/stanley+kubrick+productions :: 206 :: 
+6-11-1	Paramount :: 174 :: 	http://www.allmovie.com/search/tag/899/paramount :: 175 :: 
+6-12-1	20th Century Fox :: 209 :: 	http://www.allmovie.com/search/tag/899/20th+century+fox :: 210 :: 
+6-12-2	ABC :: 211 :: 	http://www.allmovie.com/search/tag/899/abc :: 212 :: 
+6-14-1	Paramount :: 168 :: 	http://www.allmovie.com/search/tag/899/paramount :: 169 :: 
+6-15-1	Cinema 5 :: 197 :: 	http://www.allmovie.com/search/tag/899/cinema+5 :: 198 :: 
+6-15-2	Python Pictures :: 199 :: 	http://www.allmovie.com/search/tag/899/python+pictures :: 200 :: 
+6-17-1	Columbia Pictures :: 184 :: 	http://www.allmovie.com/search/tag/899/columbia+pictures :: 185 :: 
+6-18-1	Ashton Productions :: 182 :: 	http://www.allmovie.com/search/tag/899/ashton+productions :: 183 :: 
+6-18-2	Mirisch Company :: 184 :: 	http://www.allmovie.com/search/tag/899/mirisch+company :: 185 :: 
+6-18-3	United Artists :: 186 :: 	http://www.allmovie.com/search/tag/899/united+artists :: 187 :: 
+6-19-1	Castle Rock Entertainment :: 187 :: 	http://www.allmovie.com/search/tag/899/castle+rock+entertainment :: 188 :: 
+6-19-2	Nelson Entertainment :: 189 :: 	http://www.allmovie.com/search/tag/899/nelson+entertainment :: 190 :: 
+6-20-1	United Artists :: 173 :: 	http://www.allmovie.com/search/tag/899/united+artists :: 174 :: 
+6-21-1	Detour Films :: 190 :: 	http://www.allmovie.com/search/tag/899/detour+films :: 191 :: 
+6-21-2	Orion Classics :: 192 :: 	http://www.allmovie.com/search/tag/899/orion+classics :: 193 :: 
+6-22-1	Cady Films :: 181 :: 	http://www.allmovie.com/search/tag/899/cady+films :: 182 :: 
+6-22-2	GBD International :: 183 :: 	http://www.allmovie.com/search/tag/899/gbd+international :: 184 :: 
+6-23-1	Cineplex Odeon Films :: 185 :: 	http://www.allmovie.com/search/tag/899/cineplex+odeon+films :: 186 :: 
+6-23-2	Handmade Films :: 187 :: 	http://www.allmovie.com/search/tag/899/handmade+films :: 188 :: 
+6-25-1	Columbia Pictures :: 169 :: 	http://www.allmovie.com/search/tag/899/columbia+pictures :: 170 :: 
+6-27-1	MGM :: 194 :: 	http://www.allmovie.com/search/tag/899/mgm :: 195 :: 
+6-28-1	MGM :: 191 :: 	http://www.allmovie.com/search/tag/899/mgm :: 192 :: 
+6-29-1	20th Century Fox :: 187 :: 	http://www.allmovie.com/search/tag/899/20th+century+fox :: 188 :: 
+6-29-2	Crossbow Productions :: 189 :: 	http://www.allmovie.com/search/tag/899/crossbow+productions :: 190 :: 

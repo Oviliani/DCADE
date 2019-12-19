@@ -1,0 +1,352 @@
+Encoding	3	1
+Type	MD	MD
+6-0-1	Book fantasy genre? (Trivia question) :: 859 :: 	/title/tt1014759/board/nest/176376436 :: 860 :: 
+6-0-2	the_dead_crow :: 861 :: 	/user/ur3534469/boards/profile :: 862 :: 
+6-0-3	How come the Mad Hatter sporadically turned Scottish :: 863 :: 	/title/tt1014759/board/nest/174398892 :: 864 :: 
+6-0-4	purplehaze989-1 :: 865 :: 	/user/ur15863939/boards/profile :: 866 :: 
+6-0-5	Goth Feel :: 867 :: 	/title/tt1014759/board/nest/176000920 :: 868 :: 
+6-0-6	ChristinaBarrettUS86-12 :: 869 :: 	/user/ur24615257/boards/profile :: 870 :: 
+6-0-7	MY GOD..This was a MAJOR DISAPPOINTMENT. :: 871 :: 	/title/tt1014759/board/nest/169625865 :: 872 :: 
+6-0-8	snow-does-burn :: 873 :: 	/user/ur17845784/boards/profile :: 874 :: 
+6-0-9	#6 WORLDWIDE GROSSING MOVIE OF ALL-TIME!!! :: 875 :: 	/title/tt1014759/board/nest/162599953 :: 876 :: 
+6-0-10	GrieVen :: 877 :: 	/user/ur1128493/boards/profile :: 878 :: 
+6-0-11	Did anyone else think the actress playing Alice looked just like :: 879 :: 	/title/tt1014759/board/nest/164557230 :: 880 :: 
+6-0-12	Lilbearzmom :: 881 :: 	/user/ur17990202/boards/profile :: 882 :: 
+6-1-1	Who keeps their toys for that long? :: 855 :: 	/title/tt0435761/board/nest/175842471 :: 856 :: 
+6-1-2	kaustin1067 :: 857 :: 	/user/ur22814261/boards/profile :: 858 :: 
+6-1-3	Toy Story 3 is dark? :: 859 :: 	/title/tt0435761/board/nest/175897624 :: 860 :: 
+6-1-4	xXSweeneyLovettXx :: 861 :: 	/user/ur24253564/boards/profile :: 862 :: 
+6-1-5	100 things we learned from Toy Story 3 :: 863 :: 	/title/tt0435761/board/nest/165594160 :: 864 :: 
+6-1-6	spiderman112004 :: 865 :: 	/user/ur11577488/boards/profile :: 866 :: 
+6-1-7	Did The Concentration Camp Angle Bug Anyone? **spoilers** :: 867 :: 	/title/tt0435761/board/nest/176342054 :: 868 :: 
+6-1-8	mistereight8888 :: 869 :: 	/user/ur2497932/boards/profile :: 870 :: 
+6-1-9	Better voice for Lotso? :: 871 :: 	/title/tt0435761/board/nest/176109611 :: 872 :: 
+6-1-10	paul_klein94 :: 873 :: 	/user/ur22512971/boards/profile :: 874 :: 
+6-1-11	The Church of Pixar : Epic Fail :: 875 :: 	/title/tt0435761/board/nest/176184464 :: 876 :: 
+6-1-12	michaelpg :: 877 :: 	/user/ur1950896/boards/profile :: 878 :: 
+6-2-1	Why did they let the Harvard servers go down? :: 821 :: 	/title/tt1285016/board/nest/176592474 :: 822 :: 
+6-2-2	Hasselknippe :: 823 :: 	/user/ur12759469/boards/profile :: 824 :: 
+6-2-3	what the hell is 'writing code' anyway? :: 825 :: 	/title/tt1285016/board/nest/176335800 :: 826 :: 
+6-2-4	klak-5 :: 827 :: 	/user/ur22130244/boards/profile :: 828 :: 
+6-2-5	someone please answer me this... :: 829 :: 	/title/tt1285016/board/nest/176435112 :: 830 :: 
+6-2-6	twi_hard09 :: 831 :: 	/user/ur17415369/boards/profile :: 832 :: 
+6-2-7	did anyone else delete their facebook.... :: 833 :: 	/title/tt1285016/board/nest/176218090 :: 834 :: 
+6-2-8	yellowbueno :: 835 :: 	/user/ur18449049/boards/profile :: 836 :: 
+6-2-9	Does Mark Z have Aspergers? :: 837 :: 	/title/tt1285016/board/nest/176020577 :: 838 :: 
+6-2-10	LostSok0523 :: 839 :: 	/user/ur15725843/boards/profile :: 840 :: 
+6-2-11	Is Andrew Garfield good in this? :: 841 :: 	/title/tt1285016/board/nest/175633077 :: 842 :: 
+6-2-12	paracetamol-929-35089 :: 843 :: 	/user/ur24533476/boards/profile :: 844 :: 
+6-3-1	Black-and-White movie seen in 'Man on Wire' :: 732 :: 	/title/tt1155592/board/nest/170362584 :: 733 :: 
+6-3-2	Czechflash :: 734 :: 	/user/ur1262767/boards/profile :: 735 :: 
+6-3-3	What makes this movie so deserving of acclaim? :: 736 :: 	/title/tt1155592/board/nest/133036989 :: 737 :: 
+6-3-4	pbechard :: 738 :: 	/user/ur5363584/boards/profile :: 739 :: 
+6-3-5	Story after the story :: 740 :: 	/title/tt1155592/board/nest/144274533 :: 741 :: 
+6-3-6	bernard-66 :: 742 :: 	/user/ur5662200/boards/profile :: 743 :: 
+6-3-7	why did the other guy start crying :: 744 :: 	/title/tt1155592/board/nest/124603410 :: 745 :: 
+6-3-8	gus495 :: 746 :: 	/user/ur7567592/boards/profile :: 747 :: 
+6-3-9	No Film of Actual Walk? :: 748 :: 	/title/tt1155592/board/nest/143089420 :: 749 :: 
+6-3-10	ChadShaft :: 750 :: 	/user/ur6137647/boards/profile :: 751 :: 
+6-3-11	Did anyone here ever get to visit the World Trade Center? :: 752 :: 	/title/tt1155592/board/nest/114569930 :: 753 :: 
+6-3-12	Rabipelado :: 754 :: 	/user/ur6041358/boards/profile :: 755 :: 
+6-4-1	The Panther? :: 693 :: 	/title/tt1530983/board/nest/174349667 :: 694 :: 
+6-4-2	tobias_kl :: 695 :: 	/user/ur3016366/boards/profile :: 696 :: 
+6-4-3	Why smash a window to unlock an unlocked door!? :: 697 :: 	/title/tt1530983/board/nest/176494603 :: 698 :: 
+6-4-4	Floor88 :: 699 :: 	/user/ur8600203/boards/profile :: 700 :: 
+6-4-5	red hill makes Aussies look bad :: 701 :: 	/title/tt1530983/board/nest/174607936 :: 702 :: 
+6-4-6	bionical1977 :: 703 :: 	/user/ur24391819/boards/profile :: 704 :: 
+6-4-7	Excellent film but passive protagonist :: 705 :: 	/title/tt1530983/board/nest/176346390 :: 706 :: 
+6-4-8	tdevil :: 707 :: 	/user/ur2990353/boards/profile :: 708 :: 
+6-4-9	Shot at five times from 10 yards and all the buillets missed? :: 709 :: 	/title/tt1530983/board/nest/173931324 :: 710 :: 
+6-4-10	dingdongdenny :: 711 :: 	/user/ur23056124/boards/profile :: 712 :: 
+6-4-11	First Australian movie i really liked... :: 713 :: 	/title/tt1530983/board/nest/175416168 :: 714 :: 
+6-4-12	leeheydon :: 715 :: 	/user/ur18468061/boards/profile :: 716 :: 
+6-5-1	Skin Ulcers :: 802 :: 	/title/tt0405159/board/nest/148692522 :: 803 :: 
+6-5-2	lisacamillek :: 804 :: 	/user/ur13251478/boards/profile :: 805 :: 
+6-5-3	Need More Positive Movies About Physically/Mentally Challenged People :: 806 :: 	/title/tt0405159/board/nest/112834305 :: 807 :: 
+6-5-4	lorireece1 :: 808 :: 	/user/ur18656379/boards/profile :: 809 :: 
+6-5-5	Rank the '00s Best Picture Winners :: 810 :: 	/title/tt0405159/board/nest/175765960 :: 811 :: 
+6-5-6	abigarmar :: 812 :: 	/user/ur9117239/boards/profile :: 813 :: 
+6-5-7	Eastwood got away with capital murder :: 814 :: 	/title/tt0405159/board/nest/176331007 :: 815 :: 
+6-5-8	rjrtuxe :: 816 :: 	/user/ur0000266/boards/profile :: 817 :: 
+6-5-9	Things We Learned From Million Dollar Baby (Spoilers!) :: 818 :: 	/title/tt0405159/board/nest/176250392 :: 819 :: 
+6-5-10	MierdaDeToro :: 820 :: 	/user/ur21284371/boards/profile :: 821 :: 
+6-5-11	The Bear's (and Maggie's) illegal blows :: 822 :: 	/title/tt0405159/board/nest/176019919 :: 823 :: 
+6-5-12	jelliotbr :: 824 :: 	/user/ur18176151/boards/profile :: 825 :: 
+6-6-1	Good movie :: 602 :: 	/title/tt1270296/board/nest/169287812 :: 603 :: 
+6-6-2	markd3-2 :: 604 :: 	/user/ur7054870/boards/profile :: 605 :: 
+6-6-3	SPOILER Smith :: 606 :: 	/title/tt1270296/board/nest/169424283 :: 607 :: 
+6-6-4	drale :: 608 :: 	/user/ur7615570/boards/profile :: 609 :: 
+6-6-5	Release? :: 610 :: 	/title/tt1270296/board/nest/159130250 :: 611 :: 
+6-6-6	Cucuy_Sangre :: 612 :: 	/user/ur20576189/boards/profile :: 613 :: 
+6-7-1	Is he spanish? :: 813 :: 	/title/tt1323594/board/nest/175648308 :: 814 :: 
+6-7-2	Large_Eyes :: 815 :: 	/user/ur21665198/boards/profile :: 816 :: 
+6-7-3	I don't get it... :: 817 :: 	/title/tt1323594/board/nest/175425776 :: 818 :: 
+6-7-4	wyvdomino :: 819 :: 	/user/ur3125684/boards/profile :: 820 :: 
+6-7-5	Tangled vs. TS3 vs. HTTYD vs. Despicable Me :: 821 :: 	/title/tt1323594/board/nest/175876777 :: 822 :: 
+6-7-6	sschoi :: 823 :: 	/user/ur15021114/boards/profile :: 824 :: 
+6-7-7	What do you think the sequel will be about? :: 825 :: 	/title/tt1323594/board/nest/172889964 :: 826 :: 
+6-7-8	teriffic :: 827 :: 	/user/ur1176562/boards/profile :: 828 :: 
+6-7-9	Did Mr. Perkins remind you of anybody? :: 829 :: 	/title/tt1323594/board/nest/166762271 :: 830 :: 
+6-7-10	chesterprynne :: 831 :: 	/user/ur6700183/boards/profile :: 832 :: 
+6-7-11	How They Made The Minions :: 833 :: 	/title/tt1323594/board/nest/173499535 :: 834 :: 
+6-7-12	mark-roller :: 835 :: 	/user/ur23502334/boards/profile :: 836 :: 
+6-8-1	Not a flop in the U.K (for obvious reasons) :: 836 :: 	/title/tt0446029/board/nest/176198784 :: 837 :: 
+6-8-2	crabstickz :: 838 :: 	/user/ur9845339/boards/profile :: 839 :: 
+6-8-3	The Shawshank Redemption was a FLOP :: 840 :: 	/title/tt0446029/board/nest/176585585 :: 841 :: 
+6-8-4	Liebevision88 :: 842 :: 	/user/ur23721327/boards/profile :: 843 :: 
+6-8-5	The Expendables is to action what Battlefield Earth is to Sci-fi :: 844 :: 	/title/tt0446029/board/nest/176572604 :: 845 :: 
+6-8-6	Liebevision88 :: 846 :: 	/user/ur23721327/boards/profile :: 847 :: 
+6-8-7	Razzies for The Expendables! :: 848 :: 	/title/tt0446029/board/nest/176174269 :: 849 :: 
+6-8-8	Liebevision88 :: 850 :: 	/user/ur23721327/boards/profile :: 851 :: 
+6-8-9	how was Matthew Patel a pirate? :: 852 :: 	/title/tt0446029/board/nest/176406524 :: 853 :: 
+6-8-10	wooogzy :: 854 :: 	/user/ur24505515/boards/profile :: 855 :: 
+6-8-11	Am I alone in my passionate hatred for this film? :: 856 :: 	/title/tt0446029/board/nest/169483999 :: 857 :: 
+6-8-12	helena-226 :: 858 :: 	/user/ur23770739/boards/profile :: 859 :: 
+6-9-1	Schizophrenia cauzed by Nash's medium intelligence!!!!! :: 808 :: 	/title/tt0268978/board/nest/90155831 :: 809 :: 
+6-9-2	uxg1995 :: 810 :: 	/user/ur8718642/boards/profile :: 811 :: 
+6-9-3	Rank the best pictures :: 812 :: 	/title/tt0268978/board/nest/175766061 :: 813 :: 
+6-9-4	abigarmar :: 814 :: 	/user/ur9117239/boards/profile :: 815 :: 
+6-9-5	WHY did they change this?? (possible spoilers) :: 816 :: 	/title/tt0268978/board/nest/164682654 :: 817 :: 
+6-9-6	ltldog2 :: 818 :: 	/user/ur4678195/boards/profile :: 819 :: 
+6-9-7	Friends who make you wonder..... :: 820 :: 	/title/tt0268978/board/nest/170662822 :: 821 :: 
+6-9-8	Leone_Scorsese_Tarantino :: 822 :: 	/user/ur23861381/boards/profile :: 823 :: 
+6-9-9	I thought this was a spy movie :: 824 :: 	/title/tt0268978/board/nest/175188050 :: 825 :: 
+6-9-10	BlindedInChains :: 826 :: 	/user/ur22625265/boards/profile :: 827 :: 
+6-9-11	THIS should have been crowe's oscar winning performance? :: 828 :: 	/title/tt0268978/board/nest/174450696 :: 829 :: 
+6-9-12	minglis88 :: 830 :: 	/user/ur23014372/boards/profile :: 831 :: 
+6-10-1	Salt kills no...[spoilers] :: 836 :: 	/title/tt0944835/board/nest/175662623 :: 837 :: 
+6-10-2	Sgt_Price :: 838 :: 	/user/ur13847823/boards/profile :: 839 :: 
+6-10-3	Natasha Chenkov is incorrect Russian :: 840 :: 	/title/tt0944835/board/nest/176286614 :: 841 :: 
+6-10-4	jelliotbr :: 842 :: 	/user/ur18176151/boards/profile :: 843 :: 
+6-10-5	Was anyone else offended? :: 844 :: 	/title/tt0944835/board/nest/169353110 :: 845 :: 
+6-10-6	siensunshine :: 846 :: 	/user/ur6201143/boards/profile :: 847 :: 
+6-10-7	Couldn't the President Have Exonerated Her (spoiler) :: 848 :: 	/title/tt0944835/board/nest/176306557 :: 849 :: 
+6-10-8	mark11111 :: 850 :: 	/user/ur22713123/boards/profile :: 851 :: 
+6-10-9	I found the movie unrealistic :: 852 :: 	/title/tt0944835/board/nest/175651641 :: 853 :: 
+6-10-10	tyleraarse :: 854 :: 	/user/ur20327435/boards/profile :: 855 :: 
+6-10-11	Salt/Nikita :: 856 :: 	/title/tt0944835/board/nest/176078966 :: 857 :: 
+6-10-12	KarlCrys4Ophelia :: 858 :: 	/user/ur2241630/boards/profile :: 859 :: 
+6-11-1	A question for those who think HTTYD is overrated: :: 829 :: 	/title/tt0892769/board/nest/176206556 :: 830 :: 
+6-11-2	Kryptic_Acid :: 831 :: 	/user/ur24091542/boards/profile :: 832 :: 
+6-11-3	Dreamworks' CG software :: 833 :: 	/title/tt0892769/board/nest/176579408 :: 834 :: 
+6-11-4	Tronic2 :: 835 :: 	/user/ur1395637/boards/profile :: 836 :: 
+6-11-5	And they all lived happily every after :: 837 :: 	/title/tt0892769/board/nest/176555045 :: 838 :: 
+6-11-6	lovethathat :: 839 :: 	/user/ur6249319/boards/profile :: 840 :: 
+6-11-7	Empire Magazine Top 20 Films of 2010 :: 841 :: 	/title/tt0892769/board/nest/176491886 :: 842 :: 
+6-11-8	NightFuries :: 843 :: 	/user/ur24715160/boards/profile :: 844 :: 
+6-11-9	Dragon Names :: 845 :: 	/title/tt0892769/board/nest/175058591 :: 846 :: 
+6-11-10	Ilovespongebox :: 847 :: 	/user/ur23435877/boards/profile :: 848 :: 
+6-11-11	Empire Magazine Best Movie Scenes in 2010 :: 849 :: 	/title/tt0892769/board/nest/176491993 :: 850 :: 
+6-11-12	NightFuries :: 851 :: 	/user/ur24715160/boards/profile :: 852 :: 
+6-12-1	Blu-Ray? :: 853 :: 	/title/tt0056172/board/nest/168392224 :: 854 :: 
+6-12-2	Brianruns10 :: 855 :: 	/user/ur2525576/boards/profile :: 856 :: 
+6-12-3	Alec Guinness :: 857 :: 	/title/tt0056172/board/nest/133937985 :: 858 :: 
+6-12-4	bking099 :: 859 :: 	/user/ur4979185/boards/profile :: 860 :: 
+6-12-5	Lawrence Of Arabia; Too Real? :: 861 :: 	/title/tt0056172/board/nest/175381799 :: 862 :: 
+6-12-6	sthpatterson2008 :: 863 :: 	/user/ur24499456/boards/profile :: 864 :: 
+6-12-7	Good forum threads re: Lawrence restoration and more :: 865 :: 	/title/tt0056172/board/nest/175309211 :: 866 :: 
+6-12-8	stefan-andersson72 :: 867 :: 	/user/ur18989142/boards/profile :: 868 :: 
+6-12-9	Story structure analysis :: 869 :: 	/title/tt0056172/board/nest/174711586 :: 870 :: 
+6-12-10	stefan-andersson72 :: 871 :: 	/user/ur18989142/boards/profile :: 872 :: 
+6-12-11	I loved this movie because of :: 873 :: 	/title/tt0056172/board/nest/158316269 :: 874 :: 
+6-12-12	jon-larsen :: 875 :: 	/user/ur20194047/boards/profile :: 876 :: 
+6-13-1	Who think this movies is over rated? :: 807 :: 	/title/tt1250777/board/nest/176101183 :: 808 :: 
+6-13-2	sriram7612 :: 809 :: 	/user/ur10637893/boards/profile :: 810 :: 
+6-13-3	*beep* this s***! I'm gettin' the bazooka. :: 811 :: 	/title/tt1250777/board/nest/175964879 :: 812 :: 
+6-13-4	mdemirci :: 813 :: 	/user/ur3976091/boards/profile :: 814 :: 
+6-13-5	Chloe Moretz is awesome! :: 815 :: 	/title/tt1250777/board/nest/174482575 :: 816 :: 
+6-13-6	Cynic_Guru :: 817 :: 	/user/ur9718272/boards/profile :: 818 :: 
+6-13-7	any way i can read the comic online? :: 819 :: 	/title/tt1250777/board/nest/173386618 :: 820 :: 
+6-13-8	tdh1121 :: 821 :: 	/user/ur20620980/boards/profile :: 822 :: 
+6-13-9	how many times have you.. :: 823 :: 	/title/tt1250777/board/nest/174283863 :: 824 :: 
+6-13-10	nitowl85 :: 825 :: 	/user/ur24287088/boards/profile :: 826 :: 
+6-13-11	Mindy's acting :: 827 :: 	/title/tt1250777/board/nest/174196703 :: 828 :: 
+6-13-12	achun :: 829 :: 	/user/ur2981956/boards/profile :: 830 :: 
+6-14-1	Kevin Spacey Oscar??? :: 722 :: 	/title/tt1194417/board/nest/170940840 :: 723 :: 
+6-14-2	Pulp_Usual_Fiction_Suspect :: 724 :: 	/user/ur23681702/boards/profile :: 725 :: 
+6-14-3	Lovitz ROCKED! :: 726 :: 	/title/tt1194417/board/nest/176424586 :: 727 :: 
+6-14-4	migman62-899-734184 :: 728 :: 	/user/ur24282580/boards/profile :: 729 :: 
+6-14-5	Wow bad movie :: 730 :: 	/title/tt1194417/board/nest/174425883 :: 731 :: 
+6-14-6	clownwrangler :: 732 :: 	/user/ur1288052/boards/profile :: 733 :: 
+6-14-7	sex/nudity :: 734 :: 	/title/tt1194417/board/nest/174363458 :: 735 :: 
+6-14-8	wildagain777 :: 736 :: 	/user/ur5652455/boards/profile :: 737 :: 
+6-14-9	Another Early Review :: 738 :: 	/title/tt1194417/board/nest/175144587 :: 739 :: 
+6-14-10	mattjo1991 :: 740 :: 	/user/ur23292770/boards/profile :: 741 :: 
+6-14-11	footnotes :: 742 :: 	/title/tt1194417/board/nest/172903265 :: 743 :: 
+6-14-12	thebucketrider :: 744 :: 	/user/ur3710323/boards/profile :: 745 :: 
+6-15-1	Underrated Comedically :: 801 :: 	/title/tt0081398/board/nest/168744816 :: 802 :: 
+6-15-2	ZTJ_RagingBull :: 803 :: 	/user/ur12967557/boards/profile :: 804 :: 
+6-15-3	De Niro started the whole process of creating this movie. :: 805 :: 	/title/tt0081398/board/nest/176357647 :: 806 :: 
+6-15-4	mustsilm :: 807 :: 	/user/ur10717715/boards/profile :: 808 :: 
+6-15-5	One thing confuses me... :: 809 :: 	/title/tt0081398/board/nest/175969553 :: 810 :: 
+6-15-6	jttoft :: 811 :: 	/user/ur19098983/boards/profile :: 812 :: 
+6-15-7	Moriarty would've made a great Hitchcock blonde. :: 813 :: 	/title/tt0081398/board/nest/175112575 :: 814 :: 
+6-15-8	mitch_rh :: 815 :: 	/user/ur22269518/boards/profile :: 816 :: 
+6-15-9	Anyone else think... :: 817 :: 	/title/tt0081398/board/nest/175396099 :: 818 :: 
+6-15-10	johnjuzwicki :: 819 :: 	/user/ur19358897/boards/profile :: 820 :: 
+6-15-11	ERASERHEAD :: 821 :: 	/title/tt0081398/board/nest/172205356 :: 822 :: 
+6-15-12	delthafunky1 :: 823 :: 	/user/ur20271222/boards/profile :: 824 :: 
+6-16-1	Harry Potter Character Elimination Game LET'S PLAY! :: 816 :: 	/title/tt0926084/board/nest/175672682 :: 817 :: 
+6-16-2	micro22chip :: 818 :: 	/user/ur6914495/boards/profile :: 819 :: 
+6-16-3	5 year old watching Half Blood Prince :: 820 :: 	/title/tt0926084/board/nest/176576244 :: 821 :: 
+6-16-4	almightyone82 :: 822 :: 	/user/ur21559718/boards/profile :: 823 :: 
+6-16-5	OT: It's really too bad... :: 824 :: 	/title/tt0926084/board/nest/176589726 :: 825 :: 
+6-16-6	sesamecharlie :: 826 :: 	/user/ur20404935/boards/profile :: 827 :: 
+6-16-7	Deathly Hallows: Part 2 vs The Hobbit :: 828 :: 	/title/tt0926084/board/nest/176507330 :: 829 :: 
+6-16-8	douglasfalk :: 830 :: 	/user/ur22977865/boards/profile :: 831 :: 
+6-16-9	DH2 Trailer :: 832 :: 	/title/tt0926084/board/nest/176571901 :: 833 :: 
+6-16-10	kfitzbo :: 834 :: 	/user/ur24373122/boards/profile :: 835 :: 
+6-17-1	Favorite line was when Liam Neeson told Ralph Finnes... :: 808 :: 	/title/tt0108052/board/nest/176572894 :: 809 :: 
+6-17-2	jpowell180 :: 810 :: 	/user/ur1875932/boards/profile :: 811 :: 
+6-17-3	this movie needed zombies! :: 812 :: 	/title/tt0108052/board/nest/176571542 :: 813 :: 
+6-17-4	Master_G :: 814 :: 	/user/ur23787874/boards/profile :: 815 :: 
+6-17-5	Did you cry? :: 816 :: 	/title/tt0108052/board/nest/173441521 :: 817 :: 
+6-17-6	vol-tag-3 :: 818 :: 	/user/ur23444025/boards/profile :: 819 :: 
+6-17-7	Historical accuracy :: 820 :: 	/title/tt0108052/board/nest/161457852 :: 821 :: 
+6-17-8	ihatemsn_jb :: 822 :: 	/user/ur20893748/boards/profile :: 823 :: 
+6-17-9	Evil :: 824 :: 	/title/tt0108052/board/nest/173735367 :: 825 :: 
+6-17-10	Speranza9 :: 826 :: 	/user/ur5813446/boards/profile :: 827 :: 
+6-17-11	I am glad Martin Scorsese didn't take this? :: 828 :: 	/title/tt0108052/board/nest/175559280 :: 829 :: 
+6-17-12	raffi335 :: 830 :: 	/user/ur23386931/boards/profile :: 831 :: 
+6-18-1	Overrated, to say the least. :: 809 :: 	/title/tt0840361/board/nest/176131784 :: 810 :: 
+6-18-2	toroto92 :: 811 :: 	/user/ur18338139/boards/profile :: 812 :: 
+6-18-3	Music sounded like Finding Nemo's Theme :: 813 :: 	/title/tt0840361/board/nest/176298131 :: 814 :: 
+6-18-4	qwertyuiop_1618 :: 815 :: 	/user/ur18770551/boards/profile :: 816 :: 
+6-18-5	great film all around :: 817 :: 	/title/tt0840361/board/nest/176391699 :: 818 :: 
+6-18-6	JamminJames :: 819 :: 	/user/ur1990654/boards/profile :: 820 :: 
+6-18-7	Bank managers have relationships with rock breakers? :: 821 :: 	/title/tt0840361/board/nest/176087617 :: 822 :: 
+6-18-8	palatkik-1 :: 823 :: 	/user/ur15359038/boards/profile :: 824 :: 
+6-18-9	great movie about white people in boston :: 825 :: 	/title/tt0840361/board/nest/176533113 :: 826 :: 
+6-18-10	maysday-718-888874 :: 827 :: 	/user/ur23153465/boards/profile :: 828 :: 
+6-18-11	Decent move, pretty unrealistic :: 829 :: 	/title/tt0840361/board/nest/176538371 :: 830 :: 
+6-18-12	kroyall-676-393527 :: 831 :: 	/user/ur22933756/boards/profile :: 832 :: 
+6-19-1	It's Titan not 'Tighten'. Stop vandalizing :: 780 :: 	/title/tt1001526/board/nest/173313188 :: 781 :: 
+6-19-2	jonahfalcon1970 :: 782 :: 	/user/ur6939616/boards/profile :: 783 :: 
+6-19-3	The Dreamworks Face :: 784 :: 	/title/tt1001526/board/nest/176430637 :: 785 :: 
+6-19-4	nikksann :: 786 :: 	/user/ur5904484/boards/profile :: 787 :: 
+6-19-5	I couldn't keep my eyes off Roxanne's Ass? Anyone else hypnotized? :: 788 :: 	/title/tt1001526/board/nest/176329704 :: 789 :: 
+6-19-6	netw1z :: 790 :: 	/user/ur2639231/boards/profile :: 791 :: 
+6-19-7	Megamind texting :: 792 :: 	/title/tt1001526/board/nest/175822046 :: 793 :: 
+6-19-8	braydee13 :: 794 :: 	/user/ur22754716/boards/profile :: 795 :: 
+6-19-9	Megamind vs. Despicable Me :: 796 :: 	/title/tt1001526/board/nest/176355047 :: 797 :: 
+6-19-10	diggydoctor :: 798 :: 	/user/ur8412130/boards/profile :: 799 :: 
+6-19-11	anyone else feel movie showed poor judgement? :: 800 :: 	/title/tt1001526/board/nest/176290696 :: 801 :: 
+6-19-12	jololli :: 802 :: 	/user/ur2308185/boards/profile :: 803 :: 
+6-20-1	Capote VS Infamous :: 783 :: 	/title/tt0379725/board/nest/123749460 :: 784 :: 
+6-20-2	u_mano :: 785 :: 	/user/ur7586310/boards/profile :: 786 :: 
+6-20-3	Top 10 Greatest Performances :: 787 :: 	/title/tt0379725/board/nest/54427720 :: 788 :: 
+6-20-4	bulldozer2012 :: 789 :: 	/user/ur12078019/boards/profile :: 790 :: 
+6-20-5	Sunglasses in Spain :: 791 :: 	/title/tt0379725/board/nest/166264012 :: 792 :: 
+6-20-6	dhuggins11 :: 793 :: 	/user/ur6460793/boards/profile :: 794 :: 
+6-20-7	Car model? :: 795 :: 	/title/tt0379725/board/nest/173367594 :: 796 :: 
+6-20-8	PettyFan34 :: 797 :: 	/user/ur15230731/boards/profile :: 798 :: 
+6-20-9	Clifton Collins jr. :: 799 :: 	/title/tt0379725/board/nest/139731123 :: 800 :: 
+6-20-10	Desrio :: 801 :: 	/user/ur21125049/boards/profile :: 802 :: 
+6-20-11	Capote's life wasn't this boring! :: 803 :: 	/title/tt0379725/board/nest/84139604 :: 804 :: 
+6-20-12	launlori :: 805 :: 	/user/ur11363107/boards/profile :: 806 :: 
+6-21-1	He could've just went on Facebook, places, and check in. :: 757 :: 	/title/tt1462758/board/nest/175881065 :: 758 :: 
+6-21-2	djkenishii :: 759 :: 	/user/ur22370393/boards/profile :: 760 :: 
+6-21-3	Scene after the credits *spoiler* :: 761 :: 	/title/tt1462758/board/nest/176186597 :: 762 :: 
+6-21-4	the-redz :: 763 :: 	/user/ur5761028/boards/profile :: 764 :: 
+6-21-5	Why did he cut off his finger? :: 765 :: 	/title/tt1462758/board/nest/176461287 :: 766 :: 
+6-21-6	lucaellul :: 767 :: 	/user/ur8846221/boards/profile :: 768 :: 
+6-21-7	Freaking ANGRY about the totally misleading trailer! :: 769 :: 	/title/tt1462758/board/nest/176272309 :: 770 :: 
+6-21-8	afn :: 771 :: 	/user/ur0168646/boards/profile :: 772 :: 
+6-21-9	Budget: $3,000,000 (estimated) :: 773 :: 	/title/tt1462758/board/nest/175674148 :: 774 :: 
+6-21-10	Loquez :: 775 :: 	/user/ur19032248/boards/profile :: 776 :: 
+6-21-11	Things I learned from Buried :: 777 :: 	/title/tt1462758/board/nest/172376839 :: 778 :: 
+6-21-12	RussEmerald :: 779 :: 	/user/ur24090784/boards/profile :: 780 :: 
+6-22-1	A Limbo + Mals insanity Explanation (spoilers) :: 838 :: 	/title/tt1375666/board/nest/168288122 :: 839 :: 
+6-22-2	Dan7291 :: 840 :: 	/user/ur5408175/boards/profile :: 841 :: 
+6-22-3	OVERRATED :: 842 :: 	/title/tt1375666/board/nest/176419604 :: 843 :: 
+6-22-4	BluRayfan86 :: 844 :: 	/user/ur24445140/boards/profile :: 845 :: 
+6-22-5	to the people who say inception doesn't make sense :: 846 :: 	/title/tt1375666/board/nest/176345070 :: 847 :: 
+6-22-6	Corycampbell35 :: 848 :: 	/user/ur22281076/boards/profile :: 849 :: 
+6-22-7	Time frame for birth of children :: 850 :: 	/title/tt1375666/board/nest/176589591 :: 851 :: 
+6-22-8	jeffery-kearney :: 852 :: 	/user/ur24735011/boards/profile :: 853 :: 
+6-22-9	Has no one given this any thought?? :: 854 :: 	/title/tt1375666/board/nest/176578724 :: 855 :: 
+6-22-10	nyc_to_cali310 :: 856 :: 	/user/ur24733447/boards/profile :: 857 :: 
+6-23-1	He wasn't going to do it.... **spoilers inside** :: 701 :: 	/title/tt0914863/board/nest/176021322 :: 702 :: 
+6-23-2	shaneomac9122 :: 703 :: 	/user/ur9606597/boards/profile :: 704 :: 
+6-23-3	sodium pentathol???? :: 705 :: 	/title/tt0914863/board/nest/176579337 :: 706 :: 
+6-23-4	objviewer :: 707 :: 	/user/ur7080649/boards/profile :: 708 :: 
+6-23-5	Wow! Unthinkable #3 on IMDB! :: 709 :: 	/title/tt0914863/board/nest/164144125 :: 710 :: 
+6-23-6	Caldecot :: 711 :: 	/user/ur1167784/boards/profile :: 712 :: 
+6-23-7	It's better to let the bombs go off :: 713 :: 	/title/tt0914863/board/nest/175564840 :: 714 :: 
+6-23-8	screamingparsec :: 715 :: 	/user/ur21241279/boards/profile :: 716 :: 
+6-23-9	WHEN DID THEY CHANGE THE ENDING?! :: 717 :: 	/title/tt0914863/board/nest/176340054 :: 718 :: 
+6-23-10	KmR_414 :: 719 :: 	/user/ur4887809/boards/profile :: 720 :: 
+6-23-11	Brody is retarded. :: 721 :: 	/title/tt0914863/board/nest/164985412 :: 722 :: 
+6-23-12	dez3 :: 723 :: 	/user/ur9416922/boards/profile :: 724 :: 
+6-24-1	one day :: 806 :: 	/title/tt0264464/board/nest/176576545 :: 807 :: 
+6-24-2	cheshirecatcreep :: 808 :: 	/user/ur24594994/boards/profile :: 809 :: 
+6-24-3	Getting out of a jet through the toilet? Yah, right. :: 810 :: 	/title/tt0264464/board/nest/176524944 :: 811 :: 
+6-24-4	nuke_houston :: 812 :: 	/user/ur7341168/boards/profile :: 813 :: 
+6-24-5	the necklace :: 814 :: 	/title/tt0264464/board/nest/176284264 :: 815 :: 
+6-24-6	materazziever :: 816 :: 	/user/ur22756689/boards/profile :: 817 :: 
+6-24-7	Was there ever a more true to life book released ? :: 818 :: 	/title/tt0264464/board/nest/173437426 :: 819 :: 
+6-24-8	saavik-girl :: 820 :: 	/user/ur9929993/boards/profile :: 821 :: 
+6-24-9	Reference to French Connection? :: 822 :: 	/title/tt0264464/board/nest/175329173 :: 823 :: 
+6-24-10	nanosaltgeorge :: 824 :: 	/user/ur22924985/boards/profile :: 825 :: 
+6-24-11	John Williams' Score in the Film :: 826 :: 	/title/tt0264464/board/nest/166660721 :: 827 :: 
+6-24-12	eduardovictory :: 828 :: 	/user/ur15650438/boards/profile :: 829 :: 
+6-25-1	Question for Aronofsky Fans :: 808 :: 	/title/tt0947798/board/nest/176594419 :: 809 :: 
+6-25-2	filmfan2005 :: 810 :: 	/user/ur2717635/boards/profile :: 811 :: 
+6-25-3	Does anyone else think Nina also imagined her Mother. :: 812 :: 	/title/tt0947798/board/nest/176539882 :: 813 :: 
+6-25-4	colinwross-1 :: 814 :: 	/user/ur18582439/boards/profile :: 815 :: 
+6-25-5	Why is Mila Kunis nominated? I don't understand. :: 816 :: 	/title/tt0947798/board/nest/176589692 :: 817 :: 
+6-25-6	clumzee_333 :: 818 :: 	/user/ur6783181/boards/profile :: 819 :: 
+6-25-7	Not even the year's best movie about Ballet... :: 820 :: 	/title/tt0947798/board/nest/175610561 :: 821 :: 
+6-25-8	dan6pitcher :: 822 :: 	/user/ur0619661/boards/profile :: 823 :: 
+6-25-9	nbfsxybtvhfgcy :: 824 :: 	/title/tt0947798/board/nest/176538517 :: 825 :: 
+6-25-10	josejuarez :: 826 :: 	/user/ur23146881/boards/profile :: 827 :: 
+6-25-11	Nina's boots :: 828 :: 	/title/tt0947798/board/nest/176094793 :: 829 :: 
+6-25-12	MoviexLover93 :: 830 :: 	/user/ur18277456/boards/profile :: 831 :: 
+6-26-1	He could've just went on Facebook, places, and check in. :: 751 :: 	/title/tt1462758/board/nest/175881065 :: 752 :: 
+6-26-2	djkenishii :: 753 :: 	/user/ur22370393/boards/profile :: 754 :: 
+6-26-3	Scene after the credits *spoiler* :: 755 :: 	/title/tt1462758/board/nest/176186597 :: 756 :: 
+6-26-4	the-redz :: 757 :: 	/user/ur5761028/boards/profile :: 758 :: 
+6-26-5	Why did he cut off his finger? :: 759 :: 	/title/tt1462758/board/nest/176461287 :: 760 :: 
+6-26-6	lucaellul :: 761 :: 	/user/ur8846221/boards/profile :: 762 :: 
+6-26-7	Freaking ANGRY about the totally misleading trailer! :: 763 :: 	/title/tt1462758/board/nest/176272309 :: 764 :: 
+6-26-8	afn :: 765 :: 	/user/ur0168646/boards/profile :: 766 :: 
+6-26-9	Budget: $3,000,000 (estimated) :: 767 :: 	/title/tt1462758/board/nest/175674148 :: 768 :: 
+6-26-10	Loquez :: 769 :: 	/user/ur19032248/boards/profile :: 770 :: 
+6-26-11	Things I learned from Buried :: 771 :: 	/title/tt1462758/board/nest/172376839 :: 772 :: 
+6-26-12	RussEmerald :: 773 :: 	/user/ur24090784/boards/profile :: 774 :: 
+6-27-1	this movie needed zombies! :: 780 :: 	/title/tt0099685/board/nest/176571215 :: 781 :: 
+6-27-2	Master_G :: 782 :: 	/user/ur23787874/boards/profile :: 783 :: 
+6-27-3	How Old Were You When You First Watched Goodfellas? :: 784 :: 	/title/tt0099685/board/nest/175666390 :: 785 :: 
+6-27-4	mojo91-583-780357 :: 786 :: 	/user/ur22384056/boards/profile :: 787 :: 
+6-27-5	karen's meeting with jimmy :: 788 :: 	/title/tt0099685/board/nest/167007584 :: 789 :: 
+6-27-6	harshad701 :: 790 :: 	/user/ur23420989/boards/profile :: 791 :: 
+6-27-7	Tommy and Billy Batts scene... :: 792 :: 	/title/tt0099685/board/nest/167929243 :: 793 :: 
+6-27-8	smyd1727 :: 794 :: 	/user/ur22886338/boards/profile :: 795 :: 
+6-27-9	In The Scene Where Tommy... :: 796 :: 	/title/tt0099685/board/nest/176185268 :: 797 :: 
+6-27-10	mojo91-583-780357 :: 798 :: 	/user/ur22384056/boards/profile :: 799 :: 
+6-27-11	Sopranos cast :: 800 :: 	/title/tt0099685/board/nest/176319273 :: 801 :: 
+6-27-12	balkonas :: 802 :: 	/user/ur20311427/boards/profile :: 803 :: 
+6-28-1	Does this movie misrepresent Bali? :: 782 :: 	/title/tt0879870/board/nest/176438631 :: 783 :: 
+6-28-2	dana813 :: 784 :: 	/user/ur12582149/boards/profile :: 785 :: 
+6-28-3	The movie went in a circle. :: 786 :: 	/title/tt0879870/board/nest/175900288 :: 787 :: 
+6-28-4	jjamison-2 :: 788 :: 	/user/ur9300337/boards/profile :: 789 :: 
+6-28-5	Cop Out Movie -- Run to the Man :: 790 :: 	/title/tt0879870/board/nest/176391774 :: 791 :: 
+6-28-6	markus-129 :: 792 :: 	/user/ur4976022/boards/profile :: 793 :: 
+6-28-7	Quick! Theatrical Version or Director's Cut :: 794 :: 	/title/tt0879870/board/nest/176126374 :: 795 :: 
+6-28-8	scootercandy :: 796 :: 	/user/ur10111968/boards/profile :: 797 :: 
+6-28-9	Seriously? Spoilers. :: 798 :: 	/title/tt0879870/board/nest/176004440 :: 799 :: 
+6-28-10	mrscandyt :: 800 :: 	/user/ur1137516/boards/profile :: 801 :: 
+6-28-11	chanting song :: 802 :: 	/title/tt0879870/board/nest/176194917 :: 803 :: 
+6-28-12	chicklebird :: 804 :: 	/user/ur23411264/boards/profile :: 805 :: 
+6-29-1	At the very end of the movie Chuck calls 'Leonardo' Teddy... :: 804 :: 	/title/tt1130884/board/nest/176540373 :: 805 :: 
+6-29-2	thrillofthechase :: 806 :: 	/user/ur5166407/boards/profile :: 807 :: 
+6-29-3	Some important questions that need to be addressed :: 808 :: 	/title/tt1130884/board/nest/167695265 :: 809 :: 
+6-29-4	gleamy-jog :: 810 :: 	/user/ur17548713/boards/profile :: 811 :: 
+6-29-5	Phantoms of the Mind (iii) - a character study :: 812 :: 	/title/tt1130884/board/nest/174232209 :: 813 :: 
+6-29-6	pleasantvillain :: 814 :: 	/user/ur0954243/boards/profile :: 815 :: 
+6-29-7	The storm was not real and here's why... :: 816 :: 	/title/tt1130884/board/nest/164937140 :: 817 :: 
+6-29-8	gkmonee :: 818 :: 	/user/ur17768089/boards/profile :: 819 :: 
+6-29-9	I find it interesting that some don't want to accept his insanity... :: 820 :: 	/title/tt1130884/board/nest/169846015 :: 821 :: 
+6-29-10	CindyH :: 822 :: 	/user/ur0183304/boards/profile :: 823 :: 
+6-29-11	Shutter Islan1 and The Beach :: 824 :: 	/title/tt1130884/board/nest/176433500 :: 825 :: 
+6-29-12	pleasantvillain :: 826 :: 	/user/ur0954243/boards/profile :: 827 :: 
